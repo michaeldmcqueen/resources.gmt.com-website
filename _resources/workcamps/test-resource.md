@@ -1,6 +1,6 @@
 ---
 title: Test Resource
-category:
+category: Workcamps
 order: 1
 ---
 
