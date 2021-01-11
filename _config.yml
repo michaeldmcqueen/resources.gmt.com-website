@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Edition Template
+title: GMT Resources
 url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -17,7 +17,6 @@ author:
 social:
   name: Edition Template
   links:
-    - https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
 # Build
