@@ -37,8 +37,8 @@ exclude:
   - LICENCE
 
 collections:
-  docs:
-    title: Documentation
+  resources:
+    title: Resources
     permalink: /:path/
     output: true
 
@@ -51,7 +51,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "docs"
+      type: "resources"
     values:
       seo:
         type: Article
