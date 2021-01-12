@@ -1,6 +1,6 @@
 ---
 title: Parent Letter
-category:
+category: Workcamps
 order: 1
 ---
 
