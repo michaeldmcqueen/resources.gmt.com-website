@@ -62,6 +62,11 @@ defaults:
         content:
           width: 800
           height: 2000
+          bold: true
+          numberedlist: true
+          code: true
+          table: true
+          
   -
     scope:
       path: ""
