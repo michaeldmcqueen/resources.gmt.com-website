@@ -20,7 +20,7 @@ Photographs and/or video and sound recordings of yourself or your child may be m
 
 The laws of the State of Colorado will govern any dispute rising out of the trip. We are grateful for you/your child’s willingness to minister together with us.
 
-&nbsp;
+---
 
 ### Liability And Release Agreement&nbsp;<br>&nbsp;
 
