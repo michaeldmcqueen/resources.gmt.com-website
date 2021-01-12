@@ -4,8 +4,6 @@ category: Workcamps
 order: 1
 ---
 
-&nbsp;
-
 ## Group Mission Trips’ Screening Requirements:&nbsp;
 
 * Participants that are 18 years of age or older (even students) need to have a national background check on file at your church. These background checks cannot be any older than 2 years from the start of your Group Mission Trip event.
