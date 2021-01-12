@@ -22,7 +22,7 @@ The laws of the State of Colorado will govern any dispute rising out of the trip
 
 ---
 
-### Liability And Release Agreement&nbsp;<br>&nbsp;
+### Liability And Release Agreement
 
 * Disciplinary Procedure: • GMT staff will process any illegal activity or sexual misconduct situation with input from GMT leadership and the local authorities.
 * GMT staff is the final authority on any trip disciplinary actions, he/she is instructed to immediately remove participants who pose a danger or threat to others, who participate in illegal activity, or who create significant distractions or disruptions to the other participants or staff
