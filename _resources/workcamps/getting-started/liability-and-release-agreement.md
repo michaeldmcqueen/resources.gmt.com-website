@@ -22,9 +22,9 @@ The laws of the State of Colorado will govern any dispute rising out of the trip
 
 ---
 
-### Liability And Release Agreement
+### Disciplinary Procedure:
 
-* Disciplinary Procedure: • GMT staff will process any illegal activity or sexual misconduct situation with input from GMT leadership and the local authorities.
+* GMT staff will process any illegal activity or sexual misconduct situation with input from GMT leadership and the local authorities.
 * GMT staff is the final authority on any trip disciplinary actions, he/she is instructed to immediately remove participants who pose a danger or threat to others, who participate in illegal activity, or who create significant distractions or disruptions to the other participants or staff
 * First-time minor offenses against the Code of Conduct will be brought to the attention of the youth leader (or contact person). It will be up to the youth leader to devise actions, if any, to notify leadership.
 * Second-time minor offenses will be processed by the youth leader and GMT staff. GMT staff will have final authority on actions to be taken. If a participant is removed from the trip, the youth leader will be responsible to carry out the details.
