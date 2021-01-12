@@ -17,7 +17,7 @@ As you may know, our youth group is planning a mission trip this summer. I have 
 
 Students who have attended Group Mission Trips have said they grew closer to God, grew closer to people in their youth group, and that they wanted to serve on another trip\! Parents have seen their kids come home excited, positively impacted by their service experience, and committed to continuing their spiritual journey with Jesus.
 
-Please encourage your child to attend our youth group’s Group Mission Trip. Since the early 1990’s, over 485,000 teenagers and their adult leaders have experienced serving others with Group Mission Trips all across America and internationally. It is a life-changing opportunity that your child will talk about for weeks, months, and even years to come. If you want to find out more about Group Mission Trips, please visit them here: GroupMissionTrips.com
+Please encourage your child to attend our youth group’s Group Mission Trip. Since the early 1990’s, over 485,000 teenagers and their adult leaders have experienced serving others with Group Mission Trips all across America and internationally. It is a life-changing opportunity that your child will talk about for weeks, months, and even years to come. If you want to find out more about Group Mission Trips, please visit them here: [GroupMissionTrips.com](https://groupmissiontrips.com/){: target="_blank" rel="noopener"}
 
 Sincerely,
 
