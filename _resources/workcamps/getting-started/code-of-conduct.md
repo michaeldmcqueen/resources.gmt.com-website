@@ -1,6 +1,6 @@
 ---
 title: Code Of Conduct
-category:
+category: Workcamps
 order: 1
 ---
 
