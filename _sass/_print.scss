@@ -1,6 +1,9 @@
 @media print {
   body {
     font-size: 9pt;
+    #header {
+      display:none;
+    }
     .page-header h2 {
       font-size: 16pt;
     }
