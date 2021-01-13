@@ -5,55 +5,32 @@ subcategory: Program
 order: 1
 ---
 
-* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list.
-* Songs in bold have been newly added this year.
-* Listen to all of these songs now\! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one\!&nbsp;
+IMPORTANT NOTE:Not all of these songs will be played during camp. Camp staff will select an appropriate number of songs from this list.
 
 ### &nbsp;
 
 #### **FAST**
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **Glorious Day** | **Passion** |
-| **Open the Gates** | **Vertical Worship** |
-| Alive Again | Matt Maher |
-| Unstoppable God | Elevation Worship |
-| You Are Holy (Prince of Peace) | Michael W. Smith |
+| Glorious Day | Passion |
 | This is Amazing Grace | Phil Wickham |
-| Your Love Awakens Me | Phil Wickham |
 | My Lighthouse | Rend Collective |
-| Blessed Be Your Name | Matt Redman |
 
-&nbsp;
-
-#### MEDIUM
+<br>MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **Way Maker** | **Leeland** |
-| **See a Victory** | **Elevation Worship** |
-| King of My Heart | Sarah McMillan |
+| Way Maker | Leeland |
 | The Lion and the Lamb | Big Daddy Weave |
 | How Great is our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
-| Forever Reign | Hillsong Worship |
-| Christ is Risen | Matt Maher |
-| Mighty to Save | Hillsong Worship |
-| Living Hope | Phil Wickham |
 
-&nbsp;
+<br>SLOW
 
-#### SLOW
-
-| &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **O Come to the Altar** | **Elevation Worship** |
-| **What a Beautiful Name** | **Hillsong Worship** |
-| **How Deep the Father’s Love for Us** | **Stuart Townend** |
-| Holy Spirit | Francesca Battistelli |
-| Lord, I Need You | Matt Maher |
-| Great Are You Lord | All Sons and Daughters |
+| **TITLE** | **POPULAR ARTIST** |
+| What a Beautiful Name | Hillsong Worship |
 | Amazing Grace (My Chains Are Gone) | Chris Tomlin |
 | Good Good Father | Chris Tomlin |
 | Cornerstone | Hillsong Worship |
-| Build My Life | Housefires |
+| Holy Spirit | Francesca Battistelli |
 | Reckless Love | Cory Asbury |
-| 10,000 Reasons | Matt Redman&nbsp; |
+| Lord, I Need You | Matt Maher |
