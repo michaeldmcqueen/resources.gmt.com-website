@@ -26,9 +26,11 @@ order: 1
 | 3:30-5 p.m | Camp store open |
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
-| 7:30 p.m | Evening program |
-| 8:30 p.m | Youth group devotions |
-| 11 p.m | Lights-out (midnight Friday)&nbsp; |
+| 6:30 p.m | Hospitality tasks |
+| 7:00 p.m | Chapel team practice |
+| 8:00 p.m | Chapel<br>Youth group devotions |
+| 10:30 p.m | Bedtime stories (optional) |
+| 11 p.m | Lights-out |
 
 &nbsp;
 
