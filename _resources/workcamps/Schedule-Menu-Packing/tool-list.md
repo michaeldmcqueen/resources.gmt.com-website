@@ -1,7 +1,7 @@
 ---
 title: Tool List
 category: Workcamps
-subcategory: Program
+subcategory: 'Schedule, Menu, Packing'
 order: 1
 ---
 
