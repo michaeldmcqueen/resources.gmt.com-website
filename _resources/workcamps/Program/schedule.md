@@ -9,11 +9,8 @@ order: 1
 
 | 12–2 p.m | Check-in&nbsp; |
 | 3 p.m | Welcome program<br>Followed by an adult meeting |
-| &nbsp; | &nbsp; |
 | 5–6:30 p.m | Dinner |
 | 7 p.m | Evening program<br>Meet your crew<br>Project assignments |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out |
 
@@ -29,5 +26,3 @@ order: 1
 | 7:30 p.m | Evening program |
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out (midnight Friday)&nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
