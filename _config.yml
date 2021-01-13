@@ -77,6 +77,7 @@ defaults:
           code: true
           table: true
           blockquote: true
+          image: true
   -
     scope:
       path: ""
