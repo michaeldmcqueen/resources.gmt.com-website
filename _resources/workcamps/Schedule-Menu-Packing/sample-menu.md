@@ -1,7 +1,7 @@
 ---
 title: Sample Menu
 category: Workcamps
-subcategory: Program
+subcategory: 'Schedule, Menu, Packing'
 order: 1
 ---
 
