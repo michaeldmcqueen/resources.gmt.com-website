@@ -35,7 +35,6 @@ order: 1
 | 12:30 p.m. | Check-in at lodging facility<br>Youth group free time<br>Dinner on your own |
 | 7:30 p.m&nbsp; | Program with variety show&nbsp; |
 | 8:30 p.m&nbsp; | Youth group devotions&nbsp; |
-| &nbsp; | &nbsp; |
 | 11 p.m | Lights-out |
 
 &nbsp;
@@ -44,19 +43,13 @@ order: 1
 
 | 7–8 a.m&nbsp; | Breakfast&nbsp; |
 | 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
+
+&nbsp;
 
 **SPECIAL MEETING**&nbsp;
 
 | Tuesday 4:15 p.m.&nbsp; | Adult meeting&nbsp; |
 | 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
-| &nbsp; | &nbsp; |
 
 ---
 
