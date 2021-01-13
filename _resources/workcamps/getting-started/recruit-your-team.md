@@ -1,6 +1,7 @@
 ---
 title: Recruit Your Team
 category: Workcamps
+subcategory: Getting Started
 order: 1
 ---
 
