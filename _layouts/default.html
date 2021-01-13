@@ -71,10 +71,10 @@
 
 		<section class="main">
 			<div class="page-header">
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}{% if page.subcategory %} • {{ page.subcategory }}{% endif %}</h2>
-				<form>
-          <input type="button" value="Print" onClick="window.print()">
+			  <form>
+          <input type="button" value="Print Page" onClick="window.print()">
         </form>
+				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}{% if page.subcategory %} • {{ page.subcategory }}{% endif %}</h2>
 				<h3>{{ page.title }}</h3>
 			</div>
 			<article class="content">
