@@ -45,6 +45,38 @@ order: 1
 
 ---
 
+### Crew Roles
+
+**ON THIS SUMMER’S MISSION TRIP**\: Crews are typically made up of six people; four or five teenagers and one or two adults. You will most likely be on a crew with people from different churches‑it’s a great chance to make new friends\! Each crew member fills one of these roles:&nbsp;
+
+BREAK MAKER—Gathers lunch items and water for the crew. The Break Maker also schedules break times and makes sure the crew drinks plenty of water.&nbsp;
+
+PROGRESS REPORTER—Reports back each day to mission trip staff about the crew’s project progress.&nbsp;
+
+PARTNER COORDINATOR—The liaison who oversees the crew’s relationship with the organization they are serving.&nbsp;
+
+CREW COORDINATOR—Coordinates logistics of the crew. Ensures the crew gets where they need to be with all the supplies they need.&nbsp;
+
+DEVOTION LEADER—Keeps the crew focused on connecting to Jesus by leading prepared daily devotions. Encourages the crew to share God Sightings in evening programs.&nbsp;
+
+ADULT CREW CONNECTOR–Makes sure conversation and encouragement is always happening.&nbsp;
+
+**FOR TODAY’S PROJECT**\: Here are the assignments for each crew role:&nbsp;
+
+BREAK MAKER—At some point during your service, report to \[location of snacks\] to get a snack tray for your group. Have your group take a quick break and then get back to work.&nbsp;
+
+PROGRESS REPORTER—Your job will be to let me know upon your return whether or not your crew got your job done, and, if not, what tasks still need to be finished.&nbsp;
+
+PARTNER COORDINATOR—You’ll be in charge of the supplies needed to complete your job. THe supplies are all ready to go at your location, but you’ll be in charge of distributing them and making sure they are put back in an orderly fashion. You’ll also check in with me (or whoever they are serving) to make sure the work is being done correctly.&nbsp;
+
+CREW COORDINATOR—You’ll lead your crew from this room to your project location, and keep an eye out for any safety and any first-aid needs.&nbsp;
+
+DEVOTION LEADER—You’ll lead a brief, three-question discussion after you return from serving. I’ll give you those questions when you get back.&nbsp;
+
+ADULT CREW CONNECTOR—You’ll be responsible for coaching and encouraging your crew to get your job done today.&nbsp;
+
+---
+
 ### **Devotion Leader Questions After the Service Project&nbsp;**
 
 Describe what thought or feeling you had while serving today.&nbsp;
