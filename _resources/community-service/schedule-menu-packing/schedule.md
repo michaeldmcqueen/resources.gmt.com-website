@@ -7,16 +7,16 @@ order: 1
 
 **SUNDAY**&nbsp;
 
-| 12–2 p.m | Check-in&nbsp; |
-| 3 p.m | Welcome program<br>Followed by an adult meeting |
-| 5–6:30 p.m | Dinner |
-| 7 p.m | Evening program<br>Meet your crew<br>Project assignments |
-| 8:30 p.m | Youth group devotions |
+| 3–4 p.m&nbsp; | Check-in&nbsp; |
+| 4:30 p.m | Adult meeting |
+| 5:30 p.m | Dinner gathering |
+| 6:30 p.m | Kick-off program<br>Meet your crew and get project assignments |
+| 8:00 p.m | Chapel<br>Youth group devotions |
 | 11 p.m | Lights-out |
 
 &nbsp;
 
-**MON, TUES, THURS, FRIDAY**
+**MONDAY**
 
 | 6:45 a.m | Wake-up call |
 | 7–7:45 a.m | Breakfast<br>Gather Tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
