@@ -7,6 +7,4 @@ order: 1
 
 Download example Mission Trip Invoice.
 
-&nbsp;
-
-&nbsp;
+[Download](/docs/MissionTripInvoices.pdf){: target="_blank" rel="noopener"}
