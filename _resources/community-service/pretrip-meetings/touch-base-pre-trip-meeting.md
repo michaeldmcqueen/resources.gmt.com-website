@@ -15,7 +15,7 @@ Have this short meeting to remind your group about the trip and keep the excitem
 
 **WELCOME**
 
-Say: Welcome\! This is just a quick touch-base to make sure we are on track for our mission trip to \_\_\_\_\_\_\_\_\_ this summer. Remember, we have this trip planned for \_\_\_\_\_\_\_\_\_\_. It’s important and people are counting on us so make it a priority\! Mark your calendars to be certain you have the dates saved.
+Say: *Welcome\! This is just a quick touch-base to make sure we are on track for our mission trip to \_\_\_\_\_\_\_\_\_ this summer. Remember, we have this trip planned for \_\_\_\_\_\_\_\_\_\_. It’s important and people are counting on us so make it a priority\! Mark your calendars to be certain you have the dates saved.*
 
 **FUNDRAISING**
 
@@ -25,7 +25,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 * Encourage everyone to jump on this site for information about the mission trip.
 * Personal “Worth It” devotions are available now on your site- they’re designed to prepare the hearts of your participants for service and growth\!
-* The Song List can also be found on your customer account-- encourage participants to start listening to the songs\!
+* The Song List can also be found on your customer account– encourage participants to start listening to the songs\!
 
 **UPDATES**
 
