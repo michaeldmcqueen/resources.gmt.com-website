@@ -1,5 +1,5 @@
 ---
-title: Adult
+title: Adult Guide
 category: Community Service
 subcategory: Getting Started
 order: 1
@@ -21,7 +21,7 @@ We believe the Bible is the inspired, authoritative Word of God. We believe ther
 
 With humble beginnings going back to the early 1990s, Group Mission Trips has been working with and helping communities across the United States and the world. As the non-profit mission ministry of Group Cares, we work hard to bring meaningful service to the communities we serve. Since our beginning, thousands upon thousands of mission trip participants have racked up millions of volunteer hours serving people in need.&nbsp;
 
-All these years later, one constant remains true: We strongly believe in providing opportunities for teenagers to encounter Jesus through serving others either in their own backyard or halfway across the globe. The Group Mission Trips legacy of lasting impact continues...&nbsp;
+All these years later, one constant remains true: We strongly believe in providing opportunities for teenagers to encounter Jesus through serving others either in their own backyard or halfway across the globe. The Group Mission Trips legacy of lasting impact continues…&nbsp;
 
 **OUR OFFICE:&nbsp;**
 
