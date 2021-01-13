@@ -1,7 +1,7 @@
 ---
 title: Code Of Conduct
 category: Workcamps
-tag: Getting Started
+subcategory: Getting Started
 order: 1
 ---
 
