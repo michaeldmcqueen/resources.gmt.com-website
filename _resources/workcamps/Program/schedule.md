@@ -26,3 +26,39 @@ order: 1
 | 7:30 p.m | Evening program |
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out (midnight Friday)&nbsp; |
+
+&nbsp;
+
+**WEDNESDAY**&nbsp;
+
+| 6:45 a.m.–12 p.m | Same as Monday |
+| 12:30 p.m. | Check-in at lodging facility<br>Youth group free time<br>Dinner on your own |
+| 7:30 p.m&nbsp; | Program with variety show&nbsp; |
+| 8:30 p.m&nbsp; | Youth group devotions&nbsp; |
+| &nbsp; | &nbsp; |
+| 11 p.m | Lights-out |
+
+&nbsp;
+
+**SATURDAY**&nbsp;
+
+| 7–8 a.m&nbsp; | Breakfast&nbsp; |
+| 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+
+**SPECIAL MEETING**&nbsp;
+
+| Tuesday 4:15 p.m.&nbsp; | Adult meeting&nbsp; |
+| 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+| &nbsp; | &nbsp; |
+
+---
+
+* Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
+* All aspects of camp are designed just for you. Don’t miss out on anything\!&nbsp;
