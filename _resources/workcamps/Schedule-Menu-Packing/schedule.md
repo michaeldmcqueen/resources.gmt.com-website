@@ -1,7 +1,7 @@
 ---
 title: Schedule
 category: Workcamps
-subcategory: Program
+subcategory: 'Schedule, Menu, Packing'
 order: 1
 ---
 
@@ -50,7 +50,6 @@ order: 1
 
 | Tuesday 4:15 p.m.&nbsp; | Adult meeting&nbsp; |
 | 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
-
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
 * All aspects of camp are designed just for you. Don’t miss out on anything\!&nbsp;
