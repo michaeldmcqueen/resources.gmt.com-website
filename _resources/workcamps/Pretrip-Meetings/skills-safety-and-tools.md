@@ -156,6 +156,19 @@ SAFETY TIP: Keep small tools in a central location or on your tool belt. Return 
 
 For real, hands-on practice–coordinate a real construction project. Perhaps someone in your church or community needs a new coat of paint or a wheelchair ramp on their home, consider providing this for them. Or, perhaps use it as a fundraiser for the trip.&nbsp;
 
-&nbsp;
+---
 
 ### “JUST PAINTING”
+
+We sometimes hear from kids (and adults) who express disappointment at being asked to do&nbsp;
+
+a painting project. “Just painting”, as they call it, doesn’t seem to them to be important work.&nbsp;
+
+Honestly, nothing could be further from the truth...&nbsp;
+
+Group Mission Trips takes on painting projects for two very important reasons:&nbsp;
+
+1. Paint is key to preserving the structure of the home. One of our developers recently accompanied a group of state government housing experts to a remote, very low-income community we had served at several years ago. They inspected several homes that our youth groups had painted and the housing pros were very impressed that the homes, while old and in a region of severe weather, were still in very good condition. By contrast, they inspected a home that had not been painted in years. The unprotected siding—once in very good quality—had weathered and begun to absorb, rather than shed, water. This was causing it to rot completely through, actually leaving fist-sized holes in several spots. The insulation in the walls had become wet and useless, and the rot had spread to the wall studs, threatening the structural integrity of the home. The damage was literally beyond repair—and the sad fact was, it all could have been prevented with a simple coat of paint\!&nbsp;
+2. A nice clean coat of paint has an amazing impact on your resident’s self-esteem. Let’s face it, in comparison to many of the residents we serve, we enjoy fairly affluent living conditions. A few gallons of paint just doesn’t seem like much to us. But, to a resident who really can’t afford those few gallons, that paint equals a whole new outlook on life\! This point was driven home to us by one of our mission trip partners in the poorest county in the United States. His motto was, “no matter what else we do on the house, every one of our residents gets a nice, fresh coat of paint”. The housing stock in this area was really bad, and we had questioned the value of spending time and money to paint homes that needed so many other things (yes, we once questioned the value of painting ourselves\!) In response, we were told the story of two children there who wouldn’t go to school. They were so ashamed of how their house looked that they didn’t want the other kids on the school bus to see where they lived. Our partner told us, “In comparison to us, your people are rich and you don’t understand. But to us, just having a house that looks better makes us feel better about ourselves. It makes us feel like we’re worth something again.”&nbsp;
+
+We have never been able to forget those words and we hope that you don’t either. And if you could see the delight in your resident’s eyes months before our mission trip when they carefully choose the color they hope you will make their house—you would never again think you are “just painting”.&nbsp;
