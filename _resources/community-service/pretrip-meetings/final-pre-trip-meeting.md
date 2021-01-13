@@ -25,7 +25,7 @@ We suggest you have this meeting a month and half before your mission trip start
 
 **MEETING**
 
-Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer to God this summer. Our group is so excited for the upcoming mission trip\! I want everyone to leave feeling informed. If you have questions at the end of the meeting--please ask\!&nbsp;*
+Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer to God this summer. Our group is so excited for the upcoming mission trip\! I want everyone to leave feeling informed. If you have questions at the end of the meeting–please ask\!&nbsp;*
 
 **ITINERARY/FINANCES**
 
@@ -47,10 +47,8 @@ Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer
 * Review what NOT to bring.
   * You and your adults will be responsible for your participant’s dress during camp. This is a perfect time to set your guidelines for appropriate dress within your group.
   * Group Mission Trips staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth. GMT recommends all participants wear modest clothes that are appropriate in every situation and will not embarrass anyone.&nbsp;
-  * Say: *Our goal is to put our faith in action by serving this community and showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians and they will take notice. Let’s not let how we are dressed distract from our goal\! Please pack plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites.&nbsp;*
+  * Say: *We’ll be serving at local organizations that do have specific dress requirements. Don’t get turned away from a project site because of in appropriate attire\! Pack plenty of t-shirts, longer shorts or pants, and tennis shoes. Also, ladies need to bring one-piece swimsuits in case you are assigned to a project site teaching a resident how to swim. Please no tanks with skinny straps, shirts that reveal the midriff, short shorts or flip flops. And, no clothing with offensive language or images. Our goal is to serve these organizations and residents while showing them Jesus’ love. The communty will expect our dress and behavior to be different as Christians.&nbsp;*
   * Thank parents for their support in this.&nbsp;
-* Talk about how your group is doing with the Tool List.
-  * Discuss how the collection of these items is going and how/if parents can help.
 
 **CODE OF CONDUCT AND RELEASE AGREEMENT**
 
