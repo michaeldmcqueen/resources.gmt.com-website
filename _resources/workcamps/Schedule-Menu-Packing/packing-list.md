@@ -1,7 +1,7 @@
 ---
 title: Packing List
 category: Workcamps
-subcategory: Program
+subcategory: 'Schedule, Menu, Packing'
 order: 1
 ---
 
@@ -52,7 +52,7 @@ order: 1
 
 COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
-Check your in customer account, under the “Schedule, Menu and Packing List” tab, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving--thank you in advance\!
+Check your in customer account, under the “Schedule, Menu and Packing List” tab, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance\!
 
 * Involve your congregation, friends and even your local businesses in the effort.
 * Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
