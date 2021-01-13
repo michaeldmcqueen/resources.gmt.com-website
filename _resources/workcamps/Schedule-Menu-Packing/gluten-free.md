@@ -50,8 +50,6 @@ Lemonade and iced tea&nbsp;
 * 1 box of Cheerios&nbsp;
 * Frito’s Original Corn Chips and/or Mission Corn Chips
 
-&nbsp;
-
 **OTHER ITEMS WE RECOMMEND YOU BRING:&nbsp;**
 
 * Additional gluten free bread&nbsp;
@@ -59,3 +57,7 @@ Lemonade and iced tea&nbsp;
 * String cheese&nbsp;
 * Pepperoni&nbsp;
 * Favorite granola bars&nbsp;
+
+**To help our gluten-free participants, we can provide the following Items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten free participants.&nbsp;**
+
+***(Brands may differ per location.)&nbsp;***
