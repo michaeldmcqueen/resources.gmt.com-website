@@ -1,5 +1,8 @@
 @media print {
-
+body {
+  font-size: 11pt;
+  
+}
 #header {display:none;}
 #content {display:none;}
 #comments {display:none;}
