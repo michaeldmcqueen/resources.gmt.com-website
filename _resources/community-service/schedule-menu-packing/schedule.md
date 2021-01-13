@@ -18,11 +18,14 @@ order: 1
 
 **MONDAY**
 
+| 6:30 a.m | Breakfast crew begins |
 | 6:45 a.m | Wake-up call |
-| 7–7:45 a.m | Breakfast<br>Gather Tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
-| 8 a.m | Morning program&nbsp;<br>Depart for sites<br>Work on project<br>Lunch and crew devotions |
-| 3:30 p.m | Return to lodging facility<br>Report progress<br>Recreation/free time |
-| 5–6:30 p.m | Dinner |
+| 7–7:45 a.m | Breakfast and pack lunches |
+| 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
+| 3:30 p.m | Return to lodging facility |
+| 3:30-5 p.m | Camp store open |
+| 5 p.m | Dinner crew begins |
+| 5:30 p.m | Dinner gathering |
 | 7:30 p.m | Evening program |
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out (midnight Friday)&nbsp; |
