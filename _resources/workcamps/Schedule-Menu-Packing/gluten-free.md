@@ -1,5 +1,5 @@
 ---
-title: Gluten Free
+title: Gluten Free Menu
 category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
 order: 1
