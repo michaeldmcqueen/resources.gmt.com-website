@@ -29,15 +29,9 @@ Say: *Welcome to our Mission Trip meeting\! We are heading to (your mission trip
 
 Say: *This mission trip is not only fun, it’s a way for you to get your friends involved in our group, and in service as well. Grab one of the fliers about our trip and personally invite them to join you\!*
 
-&nbsp;
-
-Introductions and Itinerary
+**Introductions and Itinerary**
 
 Say: *We want to be sure that everyone knows what’s happening for our mission trip, so let’s go through some of the important details:*
-
-&nbsp;
-
-&nbsp;FIRST PRE-TRIP MEETING
 
 * Dates: Go through departure and arrival dates and times. Ask parents and teens alike to put those details into their calendars. (Project a calendar to give a visual of the timeframe if possible.)
 * Wednesday afternoon free time: Let everyone know there is free time during the middle of the week and, if possible, put together a team of volunteers who are willing to research some fun options to present to the group.
@@ -45,8 +39,6 @@ Say: *We want to be sure that everyone knows what’s happening for our mission 
 * Financial stuff: Talk about the total cost for each person to participate (include transportation, registration, and free time expenses). Discuss fundraising opportunities (if any) and establish a schedule for payment. GMT payment due dates are March 15th and May 15th. (Be sure to set your payments dates earlier so that you can submit payments to GMT on time.)&nbsp;
 * Community Gift: Share with everyone the donation items your camp location has requested (located under Packing in the Schedule, Menu and Packing tab). Present (or develop together) a plan for how to collect these items and get them to camp with your group.&nbsp;
 * Background Checks: You will need to run national criminal background checks for every participant that is 18 or older by the time of your camp (yes, even students\!). (If a camper turns 18 within 2-3 weeks of the beginning of camp, you don’t need to run one on them). Make a list of who will need a background check and work on a plan to have those completed soon.&nbsp;
-
-&nbsp;
 
 Say: *That’s a lot of stuff\! Make sure you have the important dates in your calendars – and get excited\! One more thing – the daily programs are set up for you to participate in a lot of ways:*
 
