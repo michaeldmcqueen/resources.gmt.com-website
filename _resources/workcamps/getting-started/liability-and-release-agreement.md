@@ -1,7 +1,7 @@
 ---
 title: Liability And Release Agreement
 category: Workcamps
-tag: Getting Started
+subcategory: Getting Started
 order: 1
 ---
 
