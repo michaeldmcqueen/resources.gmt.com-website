@@ -37,9 +37,13 @@ exclude:
   - LICENCE
 
 collections:
-  resources:
-    title: Resources
-    permalink: /:path/
+  workcamp_resources:
+    title: Workcamp Resources
+    permalink: /workcamps/:path/
+    output: true
+  woh_resources:
+    title: Week of Hope Resources
+    permalink: /community-service/:path/
     output: true
 
 defaults:
@@ -51,7 +55,37 @@ defaults:
   -
     scope:
       path: ""
-      type: "resources"
+      type: "workcamp_resources"
+    values:
+      seo:
+        type: Article
+      _comments:
+        category: Group navigation links with this field
+        order: Used to sort links in the navigation
+      _options:
+        content:
+          width: 800
+          height: 2000
+          format: p h1 h2 h3 h4 h5 h6 pre address div
+          bold: true
+          italic: true
+          link: true
+          removeformat: true
+          copyformatting: true
+          undo: true
+          redo: true
+          underline: true
+          numberedlist: true
+          bulletedlist: true
+          horizontalrule: true
+          code: true
+          table: true
+          blockquote: true
+          image: true
+  -
+    scope:
+      path: ""
+      type: "woh_resources"
     values:
       seo:
         type: Article
