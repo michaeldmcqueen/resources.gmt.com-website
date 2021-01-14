@@ -49,7 +49,6 @@
     {% if resource.category == "Workcamps" %}
         <ul>
             <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
-                {% assign items = resource.items | sort: 'order' %}
                 <a href="{{ site.baseurl }}{{ items.first.url }}">{{ resource.name }}</a>
                 <ul>
                     {% for item in items %}
