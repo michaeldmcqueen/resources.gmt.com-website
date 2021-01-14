@@ -253,7 +253,11 @@ nav > ul {
 	&.current > a,
 	> a:active,
 	> a:hover {
-		color: #111;
+    color: #2e2e2e;
+    /* font-weight: 700; */
+    background: #fff;
+    border-right: 5px solid #3e55ff;
+	  
 	}
 
 	&.top-level > a {
