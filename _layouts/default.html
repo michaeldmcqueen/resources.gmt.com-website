@@ -45,12 +45,12 @@
 					</li>
 				</ul>
 
-         {% for resource in site.resources %}
-        {% if resource.category == "Workcamps" %}
+        {% for resource in site.resources %}
+    {% if resource.category == "Workcamps" %}
         <ul>
             <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
                 {% assign items = resource.items | sort: 'order' %}
-                <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+                <a href="{{ site.baseurl }}{{ items.first.url }}">{{ resource.name }}</a>
                 <ul>
                     {% for item in items %}
                     <li class="nav-item {% if item.url == page.url %}current{% endif %}"><a
@@ -59,8 +59,8 @@
                 </ul>
             </li>
         </ul>
-        {% endif %}
-    {% endfor %}
+    {% endif %}
+{% endfor %}
         
 
 				<ul>
