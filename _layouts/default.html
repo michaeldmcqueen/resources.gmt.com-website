@@ -44,7 +44,12 @@
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
 				</ul>
-
+        {% if page.url contains "workcamps" %}
+            something
+        {% else %}
+          other thing
+        {% endif %}
+        
 				<ul>
 					{% assign grouped = site.resources | group_by: 'subcategory' %}
 					{% for group in grouped %}
