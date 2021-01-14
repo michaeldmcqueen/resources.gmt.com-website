@@ -38,7 +38,6 @@
 			</form>
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-
         <ul>
             {% assign grouped = site.resources | group_by: 'category' %}
             {% for group in grouped %}
