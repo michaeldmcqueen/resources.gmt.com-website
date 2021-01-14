@@ -59,7 +59,7 @@
 				{% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				{% for group in grouped %}
 				<li class="nav-item top-level {% if group.name == group.category %}current{% endif %}">
-					{% assign items = group.items | sort: 'order' %}
+					{% assign items = group.items | sort: 'title' %}
 					<p>{{ group.name }}</p>
 					<ul>
 						{% for item in items %}
@@ -75,7 +75,7 @@
 				{% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				{% for group in grouped %}
 				<li class="nav-item top-level {% if group.name == group.category %}current{% endif %}">
-					{% assign items = group.items | sort: 'order' %}
+					{% assign items = group.items | sort: 'title' %}
 					<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					<ul>
 						{% for item in items %}
