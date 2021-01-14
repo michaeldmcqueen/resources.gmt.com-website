@@ -494,5 +494,93 @@ img {
     margin-bottom: 15px;
 }
 
+            .resources-grid-wrap > h2 {
+                color: #2F3035;
+                margin: 0;
+                margin: 1rem 0 0;
+                font-size: 1.6rem;
+            }
+            .resources-grid-wrap > h3 {
+                margin: 0.5rem 0 0;
+                font-size: 1.25rem;
+                font-weight: normal;
+                color: #2F3035;
+            }
+            .resources-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-gap: 1.5rem;
+                padding-top: 2rem;
+            }
+            @media screen and (min-width:600px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr;
+                }
+            }
+            @media screen and (min-width:900px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr 1fr;
+                }
+            }
+            @media screen and (min-width:1200px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr 1fr 1fr;
+                }
+            }
+            .resources-grid--item {
+                border-radius: 3px;
+                position: relative;
+                border: 1px solid #DBDBDB;
+            }
+            .resources-grid--item-title {
+                padding: 1.6rem 3.4rem 1.6rem 1.6rem;
+                position: relative;
+                border-radius: 3px;
+                cursor: pointer;
+            }
 
+            .resources-grid--item-title h4 {
+                margin: 0;
+                color: #2F3035;
+                font-size: 1.1rem;
+            }
+  
+            .resources-grid--item-title  p {
+                margin: 0.3rem 0 0;
+                font-size: 0.95rem;
+            }
+            .resources-grid--item.active  .resources-grid--item-links {
+                height: auto;
+                visibility: visible;
+                overflow: visible;
+                transform: translate(0px,0);
+                border-top: 0;
+                margin-top: -1px;
+            }
+            .resources-grid--item-links {
+                background: #fff;
+                z-index: 1;
+            }
+
+            .resources-grid--item-links ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            .resources-grid--item-links ul li {
+                padding: 0;
+                border-top: 1px solid #DBDBDB;
+            }
+            .resources-grid--item-links ul li a {
+                color:#2F3035;
+                font-size: 0.95rem;
+                padding: 1rem 1.6rem;
+                display: block;
+                transition: all .35s ease-in-out;
+                cursor: pointer;
+            }
+            .resources-grid--item-links ul li a:hover {
+                background-color: #f7f7f7;
+                color: #3e55ff;
+            }
 
