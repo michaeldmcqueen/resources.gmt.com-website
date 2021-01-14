@@ -44,12 +44,13 @@
 						<a href="{{ site.baseurl }}/">{{ home.title }}</a>
 					</li>
 				</ul>
-        {% if page.url contains "workcamps" %}
+
+ {% if page.url contains "workcamps" %}
     {% for resource in site.resources %}
-        <ul>
+        {% if resource.category == "Workcamps" %}
+        <ul class="wc">
             {% assign grouped = site.resources | group_by: 'subcategory' %}
             {% for group in grouped %}
-            {% if group.category == "Workcamps" %}
             <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
                 {% assign items = group.items | sort: 'order' %}
                 <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
@@ -60,15 +61,14 @@
                     {% endfor %}
                 </ul>
             </li>
-            {% endif %}
             {% endfor %}
         </ul>
-        
+        {% endif %}
     {% endfor %}
 {% else %}
     {% for resource in site.resources %}
         {% if resource.category == "Community Service" %}
-        <ul>
+        <ul class="woh">
             {% assign grouped = site.resources | group_by: 'subcategory' %}
             {% for group in grouped %}
             <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
