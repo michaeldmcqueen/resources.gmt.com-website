@@ -34,12 +34,12 @@ order: 1
 
 &nbsp;
 
-**WEDNESDAY**&nbsp;
+**TUESDAY**&nbsp;
 
-| 6:45 a.m.–12 p.m | Same as Monday |
-| 12:30 p.m. | Check-in at lodging facility<br>Youth group free time<br>Dinner on your own |
-| 7:30 p.m&nbsp; | Program with variety show&nbsp; |
-| 8:30 p.m&nbsp; | Youth group devotions&nbsp; |
+| 6:30 a.m.–3 p.m&nbsp; | Same as Monday |
+| 3:30 p.m. | Check-in at lodging facility<br>Camp store open<br>Free time: dinner and devotions on your own |
+| 8:00 p.m&nbsp; | Lodging facility back open |
+| 8:30 p.m&nbsp; | Movie night (optional) |
 | 11 p.m | Lights-out |
 
 &nbsp;
