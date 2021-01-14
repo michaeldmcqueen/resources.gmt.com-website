@@ -49,9 +49,9 @@
     {% if resource.category == "Workcamps" %}
         <ul>
             <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
-                <a href="{{ site.baseurl }}{{ items.first.url }}">{{ resource.title }}</a>
+                <a href="{{ site.baseurl }}{{ items.first.url }}">{{ resource.subcategory }}</a>
                 <ul>
-                    {% for item in items %}
+                    {% for item in resource %}
                     <li class="nav-item {% if item.url == page.url %}current{% endif %}"><a
                             href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
                     {% endfor %}
