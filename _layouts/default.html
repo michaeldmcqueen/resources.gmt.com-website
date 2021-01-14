@@ -40,7 +40,7 @@
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 
         <ul>
-            {% assign grouped = site.resources | group_by: 'subcategory' %}
+            {% assign grouped = site.resources | group_by: 'category' %}
             {% for group in grouped %}
             <li class="nav-item top-level {% if group.name == group.category %}current{% endif %}">
                 {% assign items = group.items | sort: 'order' %}
