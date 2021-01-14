@@ -42,7 +42,7 @@
         <ul>
             {% assign grouped = site.resources | group_by: 'subcategory' %}
             {% for group in grouped %}
-            <li class="nav-item top-level {% if group.name == page.category %}current{% endif %}">
+            <li class="nav-item top-level {% if group.name == page.category %}current{% endif %} {% if group.category == "Workcamps" %}wc-item{% endif %} ">
                 {% assign items = group.items | sort: 'order' %}
                 <a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
                 <ul>
