@@ -7,12 +7,6 @@ order: 1
 
 > THANK YOU for accepting the responsibility of providing teenagers a life-changing week to grow closer to God. We appreciate you taking your time to serve others. Now get ready for an unforgettable and transforming experience\!
 
-### About Group Mission Trips
-
-THANK YOU for accepting the responsibility of providing teenagers a life-changing week to grow closer to God. We appreciate you taking your time to serve others.&nbsp;
-
-Now get ready for an unforgettable and transforming experience\!
-
 **OUR STATEMENT OF FAITH:&nbsp;**
 
 We believe the Bible is the inspired, authoritative Word of God. We believe there is one God, eternally existent in three persons: Father, Son, and Holy Spirit. We believe in the deity of Jesus Christ, in his virgin birth, in his sinless life, in his death on the cross, in his bodily resurrection, in his ascension to the right hand of the Father, and in his personal return. We believe people receive forgiveness of sins and eternal life through Jesus.&nbsp;
