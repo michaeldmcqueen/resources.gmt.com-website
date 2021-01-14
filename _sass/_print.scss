@@ -1,3 +1,4 @@
+@media print {
   body {
     font-size: 8pt;
     #header {
@@ -37,8 +38,10 @@
     p {
           margin: 0 0 6pt 0;
     }
-    blockquote {
-       font-size: 11pt;
+    blockquote p {
+       font-size: 8pt;
     }
     
   }
+
+}
