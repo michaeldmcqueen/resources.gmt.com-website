@@ -265,6 +265,14 @@ nav > ul {
 		font-weight: 600;
 		padding-left: $space;
 	}
+	li p {
+	 margin: 10px 0 0;
+    color: #666;
+    text-decoration: none;
+    font-size: 1.4rem;
+    padding: 10px 0 10px 15px;
+    font-weight: 600;
+	}
 }
 
 .settings-panel-example {
