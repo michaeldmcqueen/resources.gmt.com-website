@@ -45,9 +45,6 @@
 					</li>
 				</ul>
 
- {% assign resources = site.resources | group_by: 'category' %}
-    {% for resource in resources %}
-    {% if resource.category == "Workcamps" %}
         <ul>
             {% assign grouped = site.resources | group_by: 'subcategory' %}
             {% for group in grouped %}
@@ -63,8 +60,6 @@
             </li>
             {% endfor %}
         </ul>
-    {% endif %}
-{% endfor %}
         
 
 				<ul>
