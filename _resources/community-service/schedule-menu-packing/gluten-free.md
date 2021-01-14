@@ -5,14 +5,13 @@ subcategory: 'Schedule, Menu, Packing'
 order: 1
 ---
 
-It’s scary and difficult traveling when you have a special diet. We want to help you as much as we are able to within our budget. We have listed below some possible options from our menu that may work for you. (Please note: Group Mission Trips cannot guarantee that cooking surfaces or utensils have not been in contact with gluten, so the very best way to be safe is to bring food with you.)<br>Anything marked (\*) may contain gluten additives, double check with our camp staff about those.
+It’s scary and difficult traveling when you have a special diet. We want to help you as much as we are able to within our budget. We have listed below some possible options from our menu that may work for you. (Please note: Group Mission Trips cannot guarantee that cooking surfaces or utensils have not been in contact with gluten, so the very best way to be safe is to bring food with you.)
 
-Please flip over to see more details about the gluten free items we can provide at camp.
+Anything marked (\*) may contain gluten additives, double check with our camp staff about those.&nbsp;
 
 **BREAKFAST**
 
-* Scrambled eggs\*
-* Tater circles\*
+* Eggs\*
 * Sausage\*
 * Yogurt
 * Fruit
@@ -27,28 +26,39 @@ Please flip over to see more details about the gluten free items we can provide 
 
 **DINNER**
 
-**Salad bar each night****\:** Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, dressing\* (Ranch and Italian)&nbsp;
+**Salad bar each night except Wed**\: Mixed greens, carrots, hard boiled eggs, black beans, shredded cheese, sliced turkey or ham\*, Ranch and Italian dressing\*.&nbsp;
 
-Lemonade and iced tea&nbsp;
+Peanut butter and jelly available each night&nbsp;
 
-* **Sunday**\: Hamburger, hot dog, baked beans, fries, ice cream bars&nbsp;
-* **Monday**\: Chicken breast (without sauce), mashed potatoes\*, side vegetable\*&nbsp;
-* **Tuesday**\: Taco shells, tortilla chips, ground beef, black beans, rice, salsa, tomatoes, cheese, onions&nbsp;
-* **Wednesday**\: Dinner on your own&nbsp;
-* **Thursday**\: Salad bar and side vegetable&nbsp;
-* **Friday**\: Side vegetable and ice cream
+**Sunday**\: Meal provided by local community so unknown&nbsp;
+
+**Monday**\: Vegetables and ice cream cups&nbsp;
+
+**Tuesday**\: Dinner on your own&nbsp;
+
+**Wednesday**\: Taco shells, tortilla chips, ground beef, black beans, salsa, diced tomatoes, cheese, onions&nbsp;
+
+**Thursday**\: Vegetables&nbsp;
+
+**Beverages**\: Lemonade or fruit punch
 
 &nbsp;
 
 **TO HELP OUR GLUTEN FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING:&nbsp;**
 
 * 1 loaf gluten free bread&nbsp;
+
 * 1 gluten free cheese pizza&nbsp;
+
 * 1 box of gluten free pasta&nbsp;
+
 * 1 jar of gluten free pasta sauce&nbsp;
+
 * 1 bag of gluten free chicken nuggets&nbsp;
+
 * 1 box of Cheerios&nbsp;
-* Frito’s Original Corn Chips and/or Mission Corn Chips
+
+* Frito’s Original Corn Chips and/or Mission Corn Chips&nbsp;
 
 **OTHER ITEMS WE RECOMMEND YOU BRING:&nbsp;**
 
