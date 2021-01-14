@@ -46,8 +46,9 @@
 				</ul>
 
  {% if page.url contains "workcamps" %}
+         {% if resource.category == "Workcamps" %}
+
     {% for resource in site.resources %}
-        {% if resource.category == "Workcamps" %}
         <ul class="wc">
             {% assign grouped = site.resources | group_by: 'subcategory' %}
             {% for group in grouped %}
@@ -63,8 +64,8 @@
             </li>
             {% endfor %}
         </ul>
-        {% endif %}
     {% endfor %}
+   {% endif %}
 {% else %}
     {% for resource in site.resources %}
         {% if resource.category == "Community Service" %}
