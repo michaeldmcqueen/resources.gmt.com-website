@@ -7,7 +7,7 @@ order: 1
 
 **Scripture Reading: Matthew 22:37-40&nbsp;**
 
-**LEADER**\: As you embark on this mission trip, these two commandments from Jesus come together as one. As you’re fully physically, spiritually and mentally present with others, you express the love of God with your whole self. As you learn and grow from the experience, your neighbor’s life becomes intertwined with yours. The love of God will be experienced by both you and your neighbor.&nbsp;
+**LEADER**\: As you embark on this mission trip, these two commandments from Jesus come together as one. As you’re fully physically, spiritually, and mentally present with others, you express the love of God with your whole self. As you learn and grow from the experience, your neighbor’s life becomes intertwined with yours. The love of God will be experienced by both you and your neighbor.&nbsp;
 
 **TEAM MEMBERS:** We go to be present with one another and with those we will serve and serve with.&nbsp;
 
