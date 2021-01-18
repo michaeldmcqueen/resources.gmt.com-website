@@ -12,7 +12,8 @@ Adults are one of the most important ingredients in a successful mission trip, a
 * Login to your customer account and have it up online to assist you.
 * It’s up to you if you want to print out copies of other documents. You could print the Schedule, Packing List, Tool List, or The Code of Conduct.
 * You can share the lodging facility details by showing it on the screen or copying it into a document to share.
-* Have a way to show the Adult Expectation Video (located in the Helpful Resources tab) and the Program Video (located under the Program Info tab) if you want to. Make sure everything is working well.
+* Have a way to show the Adult Expectations Video [click here](https://vimeo.com/302123478/1ed84e15cc){: target="_blank" rel="noopener"}.
+* Have a way to show the Program Video [click here](https://vimeo.com/392103477){: target="_blank" rel="noopener"}.&nbsp;
 * A white board and marker would be handy, if you have access to one.
 
 **WELCOME**
@@ -25,7 +26,7 @@ Each day participants will explore the story of the prodigal son from the perspe
 
 We’re going to go over three very important ideas that will help us have a great attitude and give the example of great behavior while on our mission trip.
 
-First, let’s watch this Adult Expectation video. (Play this.)
+First, let’s watch this Adult Expectations video. (After watching the video, see if there are any questions/comments. Next review these few additional reminders to ensure the best experience for your adults.)
 
 1\. BREATHE<br><br>Say: *The first idea we’ll discuss is “Breathe.” The idea of breathe is to know your personal limits and find ways to recharge so we can all be great adults for our teens. It may sound weird to talk about this topic before the trip–before you’re tired, stressed, overwhelmed, stretched, etc.–but let’s take the time now to think about how to take care of ourselves during the trip.&nbsp;*
 
@@ -61,10 +62,13 @@ Pass out any copies you made:
 * Schedule: Remind everyone about the exact dates of travel and have them put them on their calendar\! Discuss who can drive, how many seats each vehicle has, and travel time. Discuss possible stops during travel and/or overnight stays and fun options for any free time.
 * Dress Code: Discuss modest dress and come to an agreement on specifically what that means for your participants. Let your adults know that Group Mission Trips’ staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth–this means that you are responsible for your participant’s dress. Agree to encourage plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites. Talk about how your leadership team will be handling inappropriate dress of your youth during camp.
 * Tool List: Review the list and discuss what items you are still missing and plans to obtain them, store them, and transport them to camp.
-* Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located on Your Group Page under the Schedule, Menu, and Packing tab, under Packing. Give an update on how your group is handling this.
+* Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located under your customer account under Schedule, Menu, and Packing, and under Packing. Give an update on how your group is handling this.
 * Code of Conduct: Participants live by this code during camp, emphasize the importance of reading it and point out the section on there specific to adults. Every participant agrees to it when they sign their Participant Info Form online.
-* Theme and Program Description: Make sure this is reviewed, you don’t want anyone in your group expecting a sermon each night\! Show the program video in your customer account if you want to.
-* Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one
+* Theme and program info: It's wise to set good expectations about our program. Make sure your adults understand these key elements of our program and show the program promo video if you would like:&nbsp;
+  * *Focused on Jesus.*&nbsp;Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
+  * *Interactive.*&nbsp;People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting...not just sitting and watching.
+  * *Relevant.*&nbsp;Through creative multimedia, thought provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
+  * *Fun.*&nbsp;Relationship-building activities, games and having fun are part of every program. Expect to have a great time\! .
 
 **BACKGROUND CHECKS**
 
