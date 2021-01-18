@@ -41,4 +41,4 @@ order: 1
 > You may be asked to leave (without reimbursement of expenses or registration) at the request of your youth leader or GMT staff.&nbsp;
 >
 >
-> Your signature, or your parent’s signature, on the Participant Info Form verifies that you have read, understand, and agree to this Code of Conduct.
+> Your signature, or your parent’s signature, on the participant info form verifies that you have read, understand, and agree to this Code of Conduct.
