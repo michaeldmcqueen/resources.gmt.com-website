@@ -17,7 +17,7 @@ You may use *any* organization for background checks, just make sure they run na
 
 They are super easy to work with and offer a great price. Call them to set up a church/organization account (they do not have a sign-up or annual fee) and tell them you are serving with Group Mission Trips\! Their “Basic Starter” package offers a very affordable background check and meets our requirements.&nbsp;
 
-It’s best to call them to set up your account, Clear Investigative Advantage can be reached at 888-242- 2503 option 2.&nbsp;
+It’s best to call them to set up your account, Clear Investigative Advantage can be reached at 888-242-2503 option 2.&nbsp;
 
 Plan ahead\! Setting up an account with any background check organization takes time\!&nbsp;
 
