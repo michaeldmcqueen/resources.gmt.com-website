@@ -17,17 +17,17 @@ Food will be prepared by cafeteria staff at your lodging facility. It’s going 
 
 **LUNCH&nbsp;**
 
-Lunches are picnic style at the worksites. There will be: A variety of lunchmeat sandwiches, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
+Lunches are picnic style at the work sites. There will be: A variety of lunchmeat sandwiches, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
 
 Beverages on the work site:&nbsp;
 
 * Each day, participants will receive a bottle of water and 1 Propel packet to flavor it&nbsp;
-* Each crew will bring a full 5-gallon water container with them to the worksite
-* Each participant should bring a reusable water bottle to use on the worksites&nbsp;
+* Each crew will bring a full 5-gallon water container with them to the work site
+* Each participant should bring a reusable water bottle to use on the work sites&nbsp;
 
 **DINNER&nbsp;**
 
-* Sunday: Hamburgers, hotdogs, baked beans, fries and ice cream bars OR a Cosponsor provided meal&nbsp;
+* Sunday: Hamburgers, hotdogs, baked beans, fries and ice cream bars OR a cosponsor provided meal&nbsp;
 * Monday: Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls and strawberry shortcake&nbsp;
 * Tuesday: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, rice, lettuce, tomato, cheese, onion, and pudding&nbsp;
 * Wednesday: DINNER ON YOUR OWN&nbsp;
@@ -50,11 +50,11 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 **DIETARY RESTRICTIONS:**
 
-* If a participant has a food allergy or restriction, their Trip Leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
-* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or via your online customer account prior to camp. 
+* If a participant has a food allergy or restriction, their trip leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
+* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or by logging a note under Special Requests.
 * If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or in another designated storage area.
-* If the food allergy is severe, the Youth Leader should notify Group Mission Trips either by calling or via your online customer account prior to camp. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
-* Participants need to bring any medication they need (ie EpiPens).  Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
+* If the food allergy is severe, the trip leader should notify Group Mission Trips either by calling or by logging a note under Special Requests. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
+* Participants need to bring any medication they need (i.e. EpiPen). Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
 * Cafeteria staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
 * If you have any questions, please feel free to call us at 844.258.9616.&nbsp;
 
