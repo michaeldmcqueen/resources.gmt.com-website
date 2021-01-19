@@ -45,6 +45,28 @@ order: 1
 
 ---
 
+**CREW ROLES:**
+
+ON THIS SUMMER’S MISSION TRIP: Crews are typically made up of six people; four or five teenagers and one or two adults. You will most likely be on a crew with people from different churches‑it’s a great chance to make new friends\! Each crew member fills one of these roles:
+
+* BREAK MAKER—Gathers lunch items and water for the crew. The break maker also schedules break times and makes sure the crew drinks plenty of water.
+* PROGRESS REPORTER—Reports back each day to mission trip staff about the crew’s project progress.
+* WORK DIRECTOR—Helps match crew skills with the work that needs to be accomplished, coaches and encourages the crew, and requests materials needed for the project.
+* ORGANIZER—Keeps the crew organized, gets the crew to the right vehicle each morning, and takes charge of the crew’s first-aid kit and crew packet. Also gets crew members talking in the vehicles.
+* DEVOTION LEADER—Keeps the crew focused on connecting to Jesus by leading prepared daily devotions. Encourages the crew to share God Sightings in evening programs.
+* QUARTERMASTER—Is in charge of the tools and supplies your crew will need for your assigned project.
+
+FOR TODAY’S PROJECT: Here are the assignments for each crew role:
+
+* BREAK MAKER—At some point during your service, report to \[location of snacks\] to get a snack tray for your group. Have your group take a quick break and then get back to work.
+* PROGRESS REPORTER—Your job will be to let me know upon your return whether or not your crew got your job done, and, if not, what tasks still need to be finished.
+* WORK DIRECTOR—You’ll be responsible for leading and coaching your crew to get your job done today.
+* ORGANIZER—You’ll lead your crew from this room to your project location, and keep an eye out for any safety and any first-aid needs.
+* DEVOTION LEADER—You’ll lead a brief, three-question discussion after you return from serving. I’ll give you those questions when you get back.
+* QUARTERMASTER—You’ll be in charge of the supplies needed to complete your job. The supplies are all ready to go at your location, but you’ll be in charge of distributing them and making sure they are put back in an orderly fashion.
+
+### &nbsp;
+
 ### **Devotion Leader Questions After the Service Project&nbsp;**
 
 Describe what thought or feeling you had while serving today.&nbsp;
