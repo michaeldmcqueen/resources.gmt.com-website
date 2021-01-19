@@ -5,7 +5,7 @@ subcategory: Pretrip Meetings
 order: 1
 ---
 
-Have this short meeting to remind your group about the trip and keep the excitement up\! This touch base is strategically short to give you the option to combine this meeting with a larger event like a fundraiser or the Ready to Serve Event (this is listed in the Pre-Trip Meeting tab in your customer account). The Ready to Serve Event requires additional preparation, so read through it to see how it works and what you’ll need to do to prepare for it.
+Have this short meeting to remind your group about the trip and keep the excitement up\! This touch base is strategically short to give you the option to combine this meeting with a larger event like a fundraiser or the "Ready to Serve Event" (in Pretrip Meetings). The Ready to Serve Event requires additional preparation, so read through it to see how it works and what you’ll need to do to prepare for it.
 
 **BEFORE THE MEETING**
 
@@ -25,7 +25,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 * Encourage everyone to jump on this site for information about the mission trip.
 * Personal “Worth It” devotions are available now on your site- they’re designed to prepare the hearts of your participants for service and growth\!
-* The Song List can also be found on your customer account-- encourage participants to start listening to the songs\!
+* The Song List can also be found on your customer account– encourage participants to start listening to the songs\!
 
 **UPDATES**
 
