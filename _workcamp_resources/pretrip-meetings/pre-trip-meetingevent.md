@@ -13,7 +13,7 @@ order: 1
 
 * Prepare crews: Divide your group into crews of six people, with at least one adult per crew. If your group size isn’t easily divisible by six, crews of five are fine, too. Assign each crew a number, starting at one and going up as high as needed. Post these crew lists on the door or walls when people arrive.&nbsp;
 
-* Plan ahead for service: For best results, begin to plan weeks before this event. Find enough service projects within your church facility for each crew to have their own project to complete within 30 minutes or so. Any type of service will work–cleaning, painting, office work, sorting supplies, straightening storage closests..OR serve outside your facility doing yard work for elderly members, small home repairs, volunteer at a local non-profit–the possiblities are endless\!&nbsp;
+* Plan ahead for service: For best results, begin to plan weeks before this event. Find enough service projects within your church facility for each crew to have their own project to complete within 30 minutes or so. Any type of service will work: cleaning, painting, office work, sorting supplies, or straightening storage closets. OR serve outside your facility doing yard work for elderly members, small home repairs, volunteer at a local non-profit–the possibilities are endless\!&nbsp;
 
 * Communicate projects: Write up and print a brief description of what each numbered crew will be doing, include the location and supplies needed as well.&nbsp;
 
@@ -41,7 +41,7 @@ order: 1
 
 * Talk to and encourage each crew as they return. Give the creatively titled “Devotion Leader Questions” to the crew’s devotional leader and tell them they have about 15 minutes to lead a conversation with their crew using the questions.&nbsp;
 * Say something like: *I want you to know that the things you did today were very valuable and meaningful. But not to a “building” or “committee”; they were meaningful to people. The people of our church, and any people who might visit our church. Let’s remember that as we get ready to serve this summer. Jesus cared about people – doing right for them and walking humbly with God, and the passage we read during our discussion time pointed to that. We are going out this summer to love people, and treat them with mercy. Sometimes we’ll love what we’re doing, but at other times our assignments might not be our favorite. Sometimes the people we serve will have obvious needs, and there might be times we may never know the true need of each person or the community we serve. Service isn’t about us – it’s about the people we’re serving. But we can always have a good time when we work together and remember that we’re doing everything because of our love for God. In the process of doing that, we will experience Jesus like never before.&nbsp;*
-* Ask Devotion Leaders to close in a brief prayer with their crews.&nbsp;
+* Ask devotion leaders to close in a brief prayer with their crews.&nbsp;
 
 ---
 
@@ -51,7 +51,7 @@ Describe what thought or feeling you had while serving today.&nbsp;
 
 During our mission trip, we’ll be serving for several days in a row. What is one thing you look forward to in the daily service? What is one thing that worries you about that?&nbsp;
 
-How did today help experience help (or not help) to get you ready for our mission trip?&nbsp;
+How did today's experience help (or not help) get you ready for our mission trip?&nbsp;
 
 Ask someone to read aloud this verse: “Don’t just pretend to love others. Really love them. Hate what is wrong. Hold tightly to what is good. Love each other with genuine affection, and take delight in honoring each other. Never be lazy, but work hard and serve the Lord enthusiastically. Rejoice in our confident hope. Be patient in trouble, and keep on praying. When God’s people are in need, be ready to help them. Always be eager to practice hospitality.” -**Romans 12:9-13&nbsp;**
 
