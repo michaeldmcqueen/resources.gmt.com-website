@@ -2,7 +2,7 @@
 title: 'Skills, Safety And Tools'
 category: Workcamps
 subcategory: Pretrip Meetings
-order: 1
+order: 5
 ---
 
 This meeting will get your group ready to do the most common construction tasks at a Group Mission Trip – and do it all safely. Believe it or not, many youth (and lots of adults as well) have never done basic construction tasks like swing a hammer, read a tape measure, or climb more than a step stool. This meeting will give everyone the confidence they need to serve well this summer. It’s also a great opportunity to involve adults in your youth ministry\!&nbsp;
