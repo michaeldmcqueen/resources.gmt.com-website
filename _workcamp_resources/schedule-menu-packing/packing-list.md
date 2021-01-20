@@ -2,7 +2,7 @@
 title: Packing List
 category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
-order: 1
+order: 4
 ---
 
 **PERSONAL ITEMS:&nbsp;**
