@@ -2,7 +2,7 @@
 title: Pre-trip Devotions
 category: Workcamps
 subcategory: Program
-order: 1
+order: 3
 ---
 
 Your trip is coming soon\! You have a lot to do to get ready – including packing lists, permission forms, travel details, snack options, and many others.&nbsp;
