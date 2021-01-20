@@ -1,7 +1,7 @@
 ---
 title: Adult Guide
 category: Workcamps
-subcategory: Getting Started
+subcategory: Pretrip Meetings
 order: 1
 ---
 
