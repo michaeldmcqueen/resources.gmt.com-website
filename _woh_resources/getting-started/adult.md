@@ -1,7 +1,7 @@
 ---
 title: Adult Guide
 category: Community Service
-subcategory: Getting Started
+subcategory: Pretrip Meetings
 order: 1
 ---
 
