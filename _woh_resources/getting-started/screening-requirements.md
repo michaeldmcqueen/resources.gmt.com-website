@@ -2,7 +2,7 @@
 title: Screening Requirements
 category: Community Service
 subcategory: Getting Started
-order: 1
+order: 5
 ---
 
 > Group Mission Trips is driven by our commitment to provide the best possible experience for all participants in a safe and secure environment. We require the following:
