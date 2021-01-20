@@ -17,7 +17,7 @@ Food will be prepared by cafeteria staff at your lodging facility. It’s going 
 
 **LUNCH&nbsp;**
 
-Lunches are picnic style at the work sites. There will be: A variety of lunchmeat sandwiches, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
+Lunches are picnic style at the work sites. There will be: A variety of lunchmeat sandwiches, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
 
 Beverages on the work site:&nbsp;
 
@@ -62,9 +62,7 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 ### **Vegetarian**
 
-We have listed here some possible options from our menu that may work for you.&nbsp;
-
-Anything marked (\*) may contain meat additives so please check with staff when you get to camp.&nbsp;
+We have listed here some possible options from our menu that may work for you. Anything marked (\*) may contain meat additives so please check with staff when you get to camp.&nbsp;
 
 **BREAKFAST&nbsp;**
 
