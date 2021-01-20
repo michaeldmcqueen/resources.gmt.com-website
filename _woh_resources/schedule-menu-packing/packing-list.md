@@ -48,9 +48,9 @@ order: 1
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
 
-**COMMUNITY GIFT: **
+COMMUNITY GIFT: The community you are serving has a specific need and is asking for donations. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
-The community you are serving has a specific need and is asking for donations. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\! Check your customer account, under the “Schedule, Menu and Packing” tab, to see your camp’s requested item. Thank you in advance\!
+Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance\!
 
 * Involve your congregation, friends and even your local businesses in the effort.
 * Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
