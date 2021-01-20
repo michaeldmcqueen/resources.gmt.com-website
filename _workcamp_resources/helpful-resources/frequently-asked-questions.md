@@ -38,7 +38,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What about transportation?
 
-* Groups must provide transportation to and from the mission trip as well as daily to and from the sites.&nbsp;
+* Groups must provide transportation to and from the mission trip, as well as daily to and from the sites.&nbsp;
 * All vehicles must be available for transportation to and from the sites. (Mileage or fuel costs are not reimbursed for any transportation costs.)&nbsp;
 * Vehicles with a minimum capacity of six passengers are requested, with seat belts. While adults will be driving their vehicles, they typically will not be transporting a crew that includes their own youth members. Typically, the youth from your group will be traveling in other vehicles with their crews.&nbsp;
 * Due to rough terrain and narrow roads, there are some locations that are labeled “Not Bus Accessible”. If you are serving at one of these, you’ll need to plan on bringing smaller vehicles.&nbsp;
@@ -143,7 +143,7 @@ After you register by paying $50 (non-refundable) per space, there are 2 payment
 
 ### What if I need to add or cancel a space?
 
-Call us\! If there’s space available in your camp, we’ll ask for necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2021 you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2021.&nbsp;
+Call us\! If there’s space available in your camp, we’ll ask for necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2021, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2021.&nbsp;
 
 ---
 
