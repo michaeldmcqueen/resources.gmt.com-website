@@ -11,7 +11,7 @@ Have this short meeting to remind your group about the trip and keep the excitem
 
 * Have your customer account up online to help field any questions.
 * If you have decided to do the "Ready to Serve Event", be ready to let everyone know when and where.
-* Consider playing the [Youth Expectations video](https://vimeo.com/300598078){: target="_blank" rel="noopener"}&nbsp;to get your group re-oriented to what they’ll experience this summer.
+* Consider playing the [Youth Expectations video](https://vimeo.com/300598078)&nbsp;to get your group re-oriented to what they’ll experience this summer.
 
 **WELCOME**
 
