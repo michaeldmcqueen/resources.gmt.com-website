@@ -25,4 +25,4 @@ Plan ahead\! Setting up an account with any background check organization takes 
 
 **Not a church or organization?&nbsp;**
 
-There is a provider online that appears reliable that individuals can use to run “instant” background checks: [CriminalWatchDog.com](CriminalWatchDog.com){: target="_blank" rel="noopener"}&nbsp;
+There is a provider online that appears reliable that individuals can use to run “instant” background checks: [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
