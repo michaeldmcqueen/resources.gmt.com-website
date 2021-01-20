@@ -2,7 +2,7 @@
 title: Song List
 category: Workcamps
 subcategory: Program
-order: 1
+order: 4
 ---
 
 * Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list.
