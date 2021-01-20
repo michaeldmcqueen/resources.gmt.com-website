@@ -31,7 +31,7 @@ order: 1
 * I will respectfully correct any inappropriate actions of any participant, even if he/she is not part of my group.&nbsp;
 * I will show respect to participants from all churches. I will act as a positive role model.&nbsp;
 * I will not ridicule, humiliate, or engage in any inappropriate behavior with youth. I will be an encourager of youth, particularly in my crew during the mission trip.&nbsp;
-* I will support GMT staff by encouraging my participants to follow the Code of Conduct, schedule and processes.&nbsp;
+* I will support GMT staff by encouraging my participants to follow the Code of Conduct, schedule, and processes.&nbsp;
 
 &nbsp;
 
