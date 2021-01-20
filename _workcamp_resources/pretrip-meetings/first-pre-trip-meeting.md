@@ -44,7 +44,7 @@ Say: *That’s a lot of stuff\! Make sure you have the important dates in your c
 
 * *Worship team–you are welcome to take your instruments along and play with the music team and singers are welcome too\! The Song List for camp is in your customer account for those who want to participate* (under Helpful Resources and Program).&nbsp;
 * *Drama–you can volunteer for a drama and can read Scripture or pray during the evening programs.&nbsp;*
-* *Variety show–On Wednesday night, there is a variety show at camp\!* If you want to try out for the show, talk to me about your act ( you will need to approve their act before they try out for the variety show when at camp).&nbsp;
+* *Variety show–On Wednesday night, there is a variety show at camp\!* If you want to try out for the show, talk to me about your act (you will need to approve their act before they try out for the variety show when at camp).&nbsp;
 
 Say: *That’s all the information I have for you today\! What questions do you have?* (Use the FAQs in your customer account to help you field any questions.)
 
