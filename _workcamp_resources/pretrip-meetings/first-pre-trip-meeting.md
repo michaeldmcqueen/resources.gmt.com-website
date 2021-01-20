@@ -17,7 +17,7 @@ Make sure all your participants meet the age requirements to attend\!
 
 Login to your customer account to help field any questions. Make note of what your camp location has requested for their community gift (under the Schedule, Menu and Packing option in Helpful Resources). Print out any posters, parent letters, or fundraising ideas from the Helpful Resources tab.
 
-Create a simple handout for participants, parents, and adults that provides the dates (including travel), location, and the any other important details. Distribute these at your meeting and consider sending it by email as well\!
+Create a simple handout for participants, parents, and adults that provides the dates (including travel), location, and any other important details. Distribute these at your meeting and consider sending it by email as well\!
 
 Plan to show the [Group Workcamps Promo Video](https://youtu.be/4DXWSAVYqk4){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300598078){: target="_blank" rel="noopener"}&nbsp; and the [Program Video](https://vimeo.com/392103477){: target="_blank" rel="noopener"}&nbsp;from your customer account, under Helpful Resources. Make sure everything is working well.
 
