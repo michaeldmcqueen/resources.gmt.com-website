@@ -77,4 +77,4 @@ order: 1
 &nbsp;
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
-* Breakfast and Dinner Crews/Hospitality Tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.&nbsp;
+* Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.&nbsp;
