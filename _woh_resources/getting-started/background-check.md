@@ -2,7 +2,7 @@
 title: Background Check Providers
 category: Community Service
 subcategory: Getting Started
-order: 1
+order: 6
 ---
 
 ## Group Mission Trips’ Screening Requirements:&nbsp;
