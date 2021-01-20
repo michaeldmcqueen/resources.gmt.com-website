@@ -10,12 +10,12 @@ We suggest you have this meeting a month and half before your mission trip start
 **BEFORE THE MEETING**
 
 * Share the link to the Participant Info Form with all youth and adult participants before the meeting.&nbsp;
-  * *NOTE: If the participant is 17 years old or younger, their parent/guardian needs to fill this out and sign it for them. Participants that are 18 or older do it themselves. Tell them they must have this done by this scheduled meeting.*
+  * They need to click on the Participant Info Form tab to enter in the participant’s information and digitally sign. *NOTE: If the participant is 17 years old or younger, their parent/guardian needs to fill this out and sign for them. Participants that are 18 or older do it themselves. Tell them they must have this done by this scheduled meeting.*
 * Tell your adult drivers that, when they are filling out their Participant Info Form, to enter information about the vehicle they are driving and whatever insurance it will be covered under. (If they don’t know yet, have them type “NA”.)
   * Login to your customer account.
   * Keep track of who has submitted their Participant Info Form online and who hasn’t.
   * Click on the Lodging Info tab to view the lodging information (with address). You can view this information on the screen or print screen and share with your group.
-  * Remember all your participants that are 18 years or older need to have a national (or multi-state) background check run on them. These checks cannot be any older than 2 years from the start of your trip. Once you have those background checks completed, go to the Screening Form tab and select "Add New" to enter the participant names, their background check organization, and date the check was run. Once you are done with that list, enter your pastor's name and email address and click "Send Authorization Message." You will receive an email notification when your pastor authorizes your adults
+  * Remember all your participants that are 18 years or older need to have a national (or multi-state) background check run on them. These checks cannot be any older than 2 years from the start of your trip. Once you have those background checks completed, go to the Screening Form tab and select "Add New" to enter the participant names, their background check organization, and date the check was run. Once you are done with that list, enter your pastor's name and email address and click "Send Authorization Message." You will receive an email notification when your pastor authorizes your adults.
   * Print the Packing List for everyone (located under Helpful Resources and then under Schedule, Menu, and Packing).
 * Invite all participants and parents to this meeting.
 * Have your customer account up online to help you answer questions.
