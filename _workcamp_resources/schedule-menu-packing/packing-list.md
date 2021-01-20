@@ -44,11 +44,11 @@ order: 1
 
 &nbsp;\*Optional Items&nbsp;
 
-&nbsp;
-
 **AS A GROUP:&nbsp;**
 
-&nbsp;
+* 1 first-aid kit for every vehicle&nbsp;
+* 1 5-gallon water jug for every 6 people&nbsp;
+* 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
 
 COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
@@ -65,8 +65,6 @@ Check on your customer account, under “Helpful Resources, and then Schedule, M
 * Fireworks, weapons or toy guns&nbsp;
 * Skimpy or revealing clothes&nbsp;
   * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
-
-&nbsp;
 
 **CELL PHONES/IPODS/LAPTOPS/ETC.&nbsp;**
 
