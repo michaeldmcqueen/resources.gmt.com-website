@@ -2,7 +2,7 @@
 title: Code Of Conduct
 category: Community Service
 subcategory: Getting Started
-order: 1
+order: 3
 ---
 
 ## To Provide The Best Experience, All Trip Participants Agree To The Following:
