@@ -18,7 +18,7 @@ order: 1
 
 **LUNCH&nbsp;**
 
-Lunches are picnic style and at the worksites. There will be: Sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly sandwiches will be available each day too.&nbsp;
+Lunches are picnic style and at the work sites. There will be: Sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly sandwiches will be available each day too.&nbsp;
 
 Beverages on the work site: Each participant should have a reusable water bottle for water&nbsp;
 
@@ -40,7 +40,7 @@ Beverages on the work site: Each participant should have a reusable water bottle
 
 ---
 
-If you have a participant that has to eat gluten-free--please let us know. We can have a few gluten free options at camp, but need to know in advance.&nbsp;
+If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten free options at camp, but need to know in advance.&nbsp;
 
 Please note that we do have peanut butter on our menu.&nbsp;
 
@@ -50,12 +50,12 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 **DIETARY RESTRICTIONS:**
 
-* If a participant has a food allergy or restriction, their Trip Leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
-* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or via your online customer account prior to camp. 
+* If a participant has a food allergy or restriction, their trip leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
+* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or via your online customer account prior to camp.&nbsp;
 * If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or in another designated storage area.
-* If the food allergy is severe, the Youth Leader should notify Group Mission Trips either by calling or via your online customer account prior to camp. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
-* Participants need to bring any medication they need (ie EpiPens).  Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
-* Cafeteria staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
+* If the food allergy is severe, the trip leader should notify Group Mission Trips either by calling or by logging a note under Special Requests. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
+* Participants need to bring any medication they need (i.e. EpiPen). Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
+* Camp staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
 * If you have any questions, please feel free to call us at 844.258.9616.&nbsp;
 
 ---
