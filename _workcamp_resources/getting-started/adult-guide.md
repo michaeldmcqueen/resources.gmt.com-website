@@ -2,7 +2,7 @@
 title: Adult Guide
 category: Workcamps
 subcategory: Pretrip Meetings
-order: 1
+order: 3
 ---
 
 > THANK YOU for accepting the responsibility of providing teenagers a life-changing week to grow closer to God. We appreciate you taking your time to serve others. Now get ready for an unforgettable and transforming experience\!
