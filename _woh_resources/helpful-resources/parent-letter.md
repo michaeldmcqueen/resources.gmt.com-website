@@ -2,7 +2,7 @@
 title: Parent Letter
 category: Community Service
 subcategory: Helpful Resources
-order: 1
+order: 3
 ---
 
 DEAR PARENTS,
