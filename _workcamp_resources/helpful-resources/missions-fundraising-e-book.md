@@ -1,7 +1,7 @@
 ---
 title: Missions Fundraising E-book
-category:
-subcategory: Workcamps
+category: Workcamps
+subcategory: Helpful Resources
 order: 2
 ---
 
