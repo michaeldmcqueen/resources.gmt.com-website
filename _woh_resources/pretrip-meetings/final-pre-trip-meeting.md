@@ -2,7 +2,7 @@
 title: Final Pre-trip Meeting
 category: Community Service
 subcategory: Pretrip Meetings
-order: 1
+order: 6
 ---
 
 We suggest you have this meeting a month and half before your mission trip starts.
