@@ -2,7 +2,7 @@
 title: Why Can’t We Just Do That Here?
 category: Community Service
 subcategory: Helpful Resources
-order: 1
+order: 4
 ---
 
 Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal killer of a question…<br>&nbsp;
