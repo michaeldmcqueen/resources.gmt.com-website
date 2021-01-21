@@ -2,7 +2,7 @@
 title: Sample Menu
 category: Community Service
 subcategory: 'Schedule, Menu, Packing'
-order: 1
+order: 2
 ---
 
 (All meals are subject to change at any time)&nbsp;
