@@ -2,7 +2,7 @@
 title: Commissioning Service
 category: Community Service
 subcategory: Pretrip Meetings
-order: 1
+order: 7
 ---
 
 **Scripture Reading: Matthew 22:37-40&nbsp;**
