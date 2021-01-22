@@ -1,79 +1,174 @@
-<!DOCTYPE html>
+<!doctype html>
 
-<html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
 
-		{% seo %}
-		{% feed_meta %}
+    <title>Helpful Resources</title>
+    <meta name="description" content="Helpful Resources">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&display=swap" rel="stylesheet">		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/favicon-16x16.png">
 
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-			<script>
-				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-				ga('create', '{{ site.google_analytics_key }}', 'auto');
-				ga('send', 'pageview');
-			</script>
-			<script async src='https://www.google-analytics.com/analytics.js'></script>
-		{% endif %}
-	</head>
+        <style>
+              body {
+          font-family: 'Inter', sans-serif;
+        }
+        .page-title {
+          margin-top: 0 !important;
+          margin-bottom: 0;
+          padding: .7% 1%;
+          font-size: 140%;
+          color: #FFF;
+          background-color: #3E55FF;
+        }
+        section {
+              margin-right: auto !important;
+              margin-left: auto!important;
+              padding-top: 2%;
+              padding-right: 3%;
+              padding-left: 2%;
+            }
+            .resources-grid-wrap > h2 {
+                color: #2F3035;
+                margin: 0;
+                margin: 1rem 0 0;
+                font-size: 1.6rem;
+            }
+            .resources-grid-wrap > h3 {
+                margin: 0.5rem 0 0;
+                font-size: 1.25rem;
+                font-weight: normal;
+                color: #2F3035;
+            }
+            .resources-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                grid-gap: 1.5rem;
+                padding-top: 2rem;
+            }
+            @media screen and (min-width:600px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr;
+                }
+            }
+            @media screen and (min-width:900px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr 1fr;
+                }
+            }
+            @media screen and (min-width:1200px) {
+                .resources-grid {
+                    grid-template-columns: 1fr 1fr 1fr 1fr;
+                }
+            }
+            .resources-grid--item {
+                border-radius: 3px;
+                position: relative;
+                border: 1px solid #DBDBDB;
+            }
+            .resources-grid--item-title {
+                padding: 1.6rem 3.4rem 1.6rem 1.6rem;
+                position: relative;
+                border-radius: 3px;
+                cursor: pointer;
+            }
 
-	<body>
-		<header id="header">
-			<h1>
-				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/gmt-pin.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
-				{{ site.title }}
-				<button type="button" class="open-nav" id="open-nav"></button>
-			</h1>
+            .resources-grid--item-title h4 {
+                margin: 0;
+                color: #2F3035;
+                font-size: 1.1rem;
+            }
+  
+            .resources-grid--item-title  p {
+                margin: 0.3rem 0 0;
+                font-size: 0.95rem;
+            }
+            .resources-grid--item.active  .resources-grid--item-links {
+                height: auto;
+                visibility: visible;
+                overflow: visible;
+                transform: translate(0px,0);
+                border-top: 0;
+                margin-top: -1px;
+            }
+            .resources-grid--item-links {
+                background: #fff;
+                z-index: 1;
+            }
 
-			<form action="{{ site.baseurl }}/search/" method="get">
-				<input type="text" name="q" id="search-input" placeholder="Search" autofocus>
-				<input type="submit" value="Search" style="display: none;">
-			</form>
+            .resources-grid--item-links ul {
+                margin: 0;
+                padding: 0;
+                list-style: none;
+            }
+            .resources-grid--item-links ul li {
+                padding: 0;
+                border-top: 1px solid #DBDBDB;
+            }
+            .resources-grid--item-links ul li a {
+                color:#2F3035;
+                font-size: 0.95rem;
+                padding: 1rem 1.6rem;
+                display: block;
+                transition: all .35s ease-in-out;
+                cursor: pointer;
+            }
+            .resources-grid--item-links ul li a:hover {
+                background-color: #f7f7f7;
+                color: #3e55ff;
+            }
+        </style>
+    </head>
 
-			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
-			
-			<ul>
-				{% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
-				{% for group in grouped %}
-				<li class="nav-item top-level {% if group.name == group.subcategory %}current{% endif %}">
-					{% assign items = group.items | sort: 'order' %}
-					<p>{{ group.name }}</p>
-					<ul>
-						{% for item in items %}
-						<li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
-						{% endfor %}
-					</ul>
-				</li>
-				{% endfor %}
-			</ul>
-		
-			</nav>
-		</header>
+    <body>
+        <!-- CONTENT STARTS HERE -->
+        <section>
+            <div class="page-title mb-4">
+                Week of Hope • Helpful Resources
+            </div>
+        </section>
+        <section>
+            <div class="resources-grid-wrap">
+                <h2>Get Ready</h2>
+                <h3>Pre Camp Resources</h3>
+                <div class="resources-grid">
+                    
+                    <div class="resources-grid--item">
+                        <div class="resources-grid--item-title">
+                            <h4>Getting Started</h4>
+                        </div>
+                        <div class="resources-grid--item-links">
+                            <ul>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/adult/" target="_blank">Adult Guide</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/background-check/"  target="_blank">Background Check Providers</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/code-of-conduct/"  target="_blank">Code of Conduct</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/liability-and-release-agreement/"  target="_blank">Liability and Release Agreement</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/recruit-your-team/"  target="_blank">Recruit Your Team</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/registration-checklist/"  target="_blank">Registration Checklist</a></li>
+                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/screening-requirements/"  target="_blank">Screening Requirements</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                {% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
+				        {% for group in grouped %}
+				        <div class="resources-grid--item">
+				    	    {% assign items = group.items | sort: 'order' %}
+					          <div class="resources-grid--item-title">
+                            <h4>{{ group.name }}</h4>
+                    </div>
+                    <div class="resources-grid--item-links">
+					             <ul>
+						                {% for item in items %}
+						                  <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						                {% endfor %}
+					              </ul>
+				            </div>
+				          {% endfor %}
+                </div>
+            </div>
+        </section>
+        <!-- CONTENT ENDS HERE -->
 
-		<section class="main">
-			<div class="page-header">
-			  <form>
-          <input type="button" value="Print Page" onClick="window.print()">
-        </form>
-				<h2>{% if page.category %}{{ page.category }}{% else %}{{ site.title }}{% endif %}{% if page.subcategory %} • {{ page.subcategory }}{% endif %}</h2>
-				<h3>{{ page.title }}</h3>
-			</div>
-			<article class="content">
-				{{ content }}
-			</article>
-		</section>
+    </body>
 
-		<script>
-			document.getElementById("open-nav").addEventListener("click", function () {
-				document.body.classList.toggle("nav-open");
-			});
-		</script>
-	</body>
 </html>
+
