@@ -132,7 +132,7 @@
                 <h3>Pre Camp Resources</h3>
                 <div class="resources-grid">
 
-                {% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
+                {% assign grouped = site.woh_resources | group_by: 'subcategory' %}
 				        {% for group in grouped %}
 				        <div class="resources-grid--item">
 				    	    {% assign items = group.items | sort: 'order' %}
