@@ -4,12 +4,12 @@
     <head>
     <meta charset="utf-8">
 
-    <title>Helpful Resources</title>
+    <title>Workcamps - Helpful Resources</title>
     <meta name="description" content="Helpful Resources">
 
 
         <style>
-              body {
+        body {
           font-family: 'Inter', sans-serif;
         }
         .page-title {
@@ -131,23 +131,7 @@
                 <h2>Get Ready</h2>
                 <h3>Pre Camp Resources</h3>
                 <div class="resources-grid">
-                    
-                    <div class="resources-grid--item">
-                        <div class="resources-grid--item-title">
-                            <h4>Getting Started</h4>
-                        </div>
-                        <div class="resources-grid--item-links">
-                            <ul>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/adult/" target="_blank">Adult Guide</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/background-check/"  target="_blank">Background Check Providers</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/code-of-conduct/"  target="_blank">Code of Conduct</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/liability-and-release-agreement/"  target="_blank">Liability and Release Agreement</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/recruit-your-team/"  target="_blank">Recruit Your Team</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/registration-checklist/"  target="_blank">Registration Checklist</a></li>
-                                <li><a href="https://resources.groupmissiontrips.com/community-service/getting-started/screening-requirements/"  target="_blank">Screening Requirements</a></li>
-                            </ul>
-                        </div>
-                    </div>
+
                 {% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				        {% for group in grouped %}
 				        <div class="resources-grid--item">
