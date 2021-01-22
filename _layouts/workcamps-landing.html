@@ -39,7 +39,6 @@
 
 			<nav {% if site.show_full_navigation %}class="full-navigation"{% endif %}>
 			
-			{% if page.url contains "workcamps" %}
 			<ul>
 				{% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				{% for group in grouped %}
