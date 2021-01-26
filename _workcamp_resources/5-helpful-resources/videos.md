@@ -1,6 +1,6 @@
 ---
 title: Videos
-category:
+category: Workcamps
 subcategory: Helpful Resources
 order: 6
 ---
