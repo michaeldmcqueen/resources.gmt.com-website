@@ -1,6 +1,6 @@
 ---
 title: Daily Themes
-category: Workcamps
+category: Community Service
 subcategory: Program
 order: 2
 ---
