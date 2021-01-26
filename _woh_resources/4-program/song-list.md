@@ -16,7 +16,7 @@ IMPORTANT NOTE: Not all of these songs will be played during camp. Camp staff wi
 | This is Amazing Grace | Phil Wickham |
 | My Lighthouse | Rend Collective |
 
-<br>MEDIUM
+#### <br>MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
 | Way Maker | Leeland |
@@ -24,7 +24,7 @@ IMPORTANT NOTE: Not all of these songs will be played during camp. Camp staff wi
 | How Great is our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
 
-<br>SLOW
+#### <br>SLOW
 
 | **TITLE** | **POPULAR ARTIST** |
 | What a Beautiful Name | Hillsong Worship |
