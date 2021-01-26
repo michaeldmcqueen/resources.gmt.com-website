@@ -1,6 +1,6 @@
 ---
 title: Support Letter
-category:
+category: Workcamps
 subcategory: Helpful Resources
 order: 5
 ---
