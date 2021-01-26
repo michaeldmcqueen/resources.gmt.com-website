@@ -1,6 +1,6 @@
 ---
 title: Worth It Theme Video
-category:
+category: Workcamps
 subcategory: Program
 order: 5
 ---
