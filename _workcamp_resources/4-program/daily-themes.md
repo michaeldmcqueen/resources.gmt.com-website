@@ -1,6 +1,6 @@
 ---
 title: Daily Themes
-category:
+category: Workcamps
 subcategory: Program
 order: 2
 ---
