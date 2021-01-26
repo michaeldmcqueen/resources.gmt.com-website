@@ -1,8 +1,8 @@
 ---
 title: Community Gift List
-category:
-subcategory: Schedule
+category: Workcamps
+subcategory: 'Schedule, Menu, Packing'
 order: 6
 ---
 
-More information coming soon...
+More information coming soon…
