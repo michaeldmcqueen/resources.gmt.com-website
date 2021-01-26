@@ -1,6 +1,6 @@
 ---
 title: Program Experience
-category:
+category: Workcamps
 subcategory: Program
 order: 1
 ---
