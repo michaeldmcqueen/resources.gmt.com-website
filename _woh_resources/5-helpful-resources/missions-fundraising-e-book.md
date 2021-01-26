@@ -1,6 +1,6 @@
 ---
 title: Missions Fundraising E-book
-category: Workcamps
+category: Community Service
 subcategory: Helpful Resources
 order: 2
 ---
