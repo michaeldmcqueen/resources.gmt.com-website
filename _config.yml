@@ -82,6 +82,7 @@ defaults:
           table: true
           blockquote: true
           image: true
+          embed: true
   -
     scope:
       path: ""
@@ -112,6 +113,7 @@ defaults:
           table: true
           blockquote: true
           image: true
+          embed: true
   -
     scope:
       path: ""
