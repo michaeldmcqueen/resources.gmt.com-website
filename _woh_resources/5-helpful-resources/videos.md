@@ -1,6 +1,6 @@
 ---
 title: Videos
-category:
+category: Community Service
 subcategory: Helpful Resources
 order: 6
 ---
