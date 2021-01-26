@@ -1,6 +1,6 @@
 ---
 title: Program Experience
-category: Workcamps
+category: Community Service
 subcategory: Program
 order: 1
 ---
