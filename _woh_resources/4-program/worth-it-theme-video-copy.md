@@ -1,6 +1,6 @@
 ---
 title: Worth It Theme Video
-category: Workcamps
+category: Community Service
 subcategory: Program
 order: 5
 ---
