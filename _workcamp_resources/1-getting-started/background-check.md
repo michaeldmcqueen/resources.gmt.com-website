@@ -1,6 +1,6 @@
 ---
 title: Background Check Providers
-category: Workcamps
+category:
 subcategory: Getting Started
 order: 6
 ---
