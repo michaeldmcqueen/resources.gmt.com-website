@@ -1,6 +1,6 @@
 ---
 title: COVID-19 Plan
-category:
+category: Workcamps
 subcategory: Getting Started
 order: 7
 ---
