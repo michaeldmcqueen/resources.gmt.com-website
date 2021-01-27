@@ -1,6 +1,6 @@
 ---
 title: Liability And Release Agreement
-category: Workcamps
+category:
 subcategory: Getting Started
 order: 4
 ---
