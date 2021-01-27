@@ -2,7 +2,7 @@
 title: Registration Checklist
 category: Community Service
 subcategory: Getting Started
-order: 1
+order: 8
 ---
 
 > (Please ensure the following is complete at least 30 days before your trip.)
