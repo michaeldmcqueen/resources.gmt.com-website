@@ -5,7 +5,7 @@ subcategory: Getting Started
 order: 7
 ---
 
-Camp season is still many months away and so many things surrounding COVID-19 are changing around the country daily. However, we’re still hard at work preparing for a variety of scenarios for next summer. We have prepared a detailed list of many of the possibilities we could use to add precautions to sleeping arrangements, worksites, large-group gatherings, food prep, and more.&nbsp;
+Camp season is still many months away and so many things surrounding COVID-19 are changing around the country daily. However, we’re still hard at work preparing for a variety of scenarios for next summer. We have prepared a detailed list of many of the possibilities we could use to add precautions to sleeping arrangements, worksites, large-group gatherings, food prep, and more.
 
 ### Arrival
 
