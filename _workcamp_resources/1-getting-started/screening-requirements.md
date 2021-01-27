@@ -1,6 +1,6 @@
 ---
 title: Screening Requirements
-category: Workcamps
+category:
 subcategory: Getting Started
 order: 5
 ---
