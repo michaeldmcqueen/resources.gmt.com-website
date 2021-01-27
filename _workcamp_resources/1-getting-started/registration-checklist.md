@@ -1,6 +1,6 @@
 ---
 title: Registration Checklist
-category: Workcamps
+category:
 subcategory: Getting Started
 order: 1
 ---
