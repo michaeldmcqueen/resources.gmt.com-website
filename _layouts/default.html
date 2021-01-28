@@ -59,7 +59,7 @@
 				{% assign grouped = site.woh_resources | group_by: 'subcategory' %}
 				{% for group in grouped %}
 				<li class="nav-item top-level {% if group.name == group.category %}current{% endif %}">
-					{% assign items = group.items | sort: 'title' %}
+					{% assign items = group.items | sort: 'order' %}
 					<p>{{ group.name }}</p>
 					<ul>
 						{% for item in items %}
