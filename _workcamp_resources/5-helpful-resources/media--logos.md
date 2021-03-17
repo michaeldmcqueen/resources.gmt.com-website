@@ -11,6 +11,8 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 [![](/uploads/pdf-icon-sm.png){: width="175" height="175"}](https://groupcares-my.sharepoint.com/:b:/g/personal/admin_groupcares_org/Ec-LhE_VBXhBoD_RP-JaX1MBU7kEZuwrrM8elP1jXnGQcQ?e=RCbm7w){: target="_blank" rel="noopener"}
 
+### &nbsp;
+
 ### Group Mission Trips logos
 
 [![](/uploads/gmt-blue.jpg){: width="800" height="453"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EjmK1ZeEilFHvKrno0dcdMMBCdVlp1i4y0H-5TaTaeOGXA?e=CpOIYb){: target="_blank" rel="noopener"}
@@ -20,6 +22,8 @@ We love that our mission trip participants enjoy promoting their trip to their c
 ### Workcamps logos
 
 ### [![](/uploads/gmt-workcamps-colorbadge.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noopener"}
+
+### &nbsp;
 
 ### Worth It Theme logos
 
