@@ -19,9 +19,9 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### &nbsp;
 
-### Workcamps logos
+### Week of Hope logos
 
-### [![](/uploads/gmt-workcamps-colorbadge.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noopener"}
+### [![](/uploads/gmt-week-of-hope-colorbadge.jpg){: srcset="/uploads/gmt-week-of-hope-colorbadge.jpg 800w, /uploads/gmt-week-of-hope-colorbadge@2x.jpg 1600w" width="800" height="204"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/El7C5LZrzm5AiVUyCwGTNXsBDGJXDr9gx1Q8fscHU_P0Mw?e=hXd3mT){: target="_blank" rel="noopener"}
 
 ### &nbsp;
 
