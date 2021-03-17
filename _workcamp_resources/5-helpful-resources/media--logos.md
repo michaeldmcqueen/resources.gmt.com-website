@@ -9,7 +9,7 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### Brand Guide
 
-&nbsp;
+[![](/uploads/pdf-icon-sm.png){: width="175" height="175"}](https://groupcares-my.sharepoint.com/:b:/g/personal/admin_groupcares_org/Ec-LhE_VBXhBoD_RP-JaX1MBU7kEZuwrrM8elP1jXnGQcQ?e=RCbm7w){: target="_blank" rel="noopener"}
 
 ### Group Mission Trips logos
 
