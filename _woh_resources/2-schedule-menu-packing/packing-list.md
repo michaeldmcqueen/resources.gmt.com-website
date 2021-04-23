@@ -39,6 +39,7 @@ order: 4
 * Spending money\*
 * Games for free time\*
 * Fun items for our theme dinners\*: Mustache Monday, Wacky Wednesday, Tropical Thursday
+* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry)**
 
 &nbsp;\*Optional Items&nbsp;
 
@@ -47,6 +48,8 @@ order: 4
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
+* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room)**
+* **Hand sanitizer for your vehicles and sleeping rooms**
 
 COMMUNITY GIFT: The community you are serving has a specific need and is asking for donations. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
