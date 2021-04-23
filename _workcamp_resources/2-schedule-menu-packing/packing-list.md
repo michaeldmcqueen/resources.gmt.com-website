@@ -41,6 +41,7 @@ order: 4
 * Alarm clock\* (battery-powered)&nbsp;
 * Spending money\*&nbsp;
 * Games for free time\*&nbsp;
+* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry)**
 
 &nbsp;\*Optional Items&nbsp;
 
@@ -49,6 +50,8 @@ order: 4
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
+* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room)**
+* **Hand sanitizer for your vehicles and sleeping rooms**
 
 COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
