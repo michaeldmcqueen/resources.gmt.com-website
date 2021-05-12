@@ -23,7 +23,6 @@ order: 1
 | 7–7:45 a.m | Breakfast and pack lunches |
 | 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
 | 3:30 p.m | Return to lodging facility |
-| 3:30-5 p.m | Camp store open |
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
@@ -37,7 +36,7 @@ order: 1
 **TUESDAY**&nbsp;
 
 | 6:30 a.m.–3 p.m&nbsp; | Same as Monday |
-| 3:30 p.m. | Check-in at lodging facility<br>Camp store open<br>Free time: dinner and devotions on your own |
+| 3:30 p.m. | Check-in at lodging facility<br>Free time: dinner and devotions on your own |
 | 8:00 p.m&nbsp; | Lodging facility back open |
 | 8:30 p.m&nbsp; | Movie night (optional) |
 | 10:30 p.m | Bedtime stories (optional) |
@@ -58,7 +57,6 @@ order: 1
 | 7–7:45 a.m | Breakfast and pack lunches |
 | 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
 | 3:30 p.m | Return to lodging facility |
-| 3:30-5 p.m | Camp store open |
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
