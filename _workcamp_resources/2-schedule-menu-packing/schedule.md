@@ -8,7 +8,7 @@ order: 1
 **SUNDAY**&nbsp;
 
 | 12–2 p.m | Check-in&nbsp; |
-| 3 p.m | Welcome program<br>Followed by an adult meeting |
+| 4 p.m | Adult meeting |
 | 5–6:30 p.m | Dinner |
 | 7 p.m | Evening program<br>Meet your crew<br>Project assignments |
 | 8:30 p.m | Youth group devotions |
