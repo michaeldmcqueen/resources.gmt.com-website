@@ -21,7 +21,7 @@ Lunches are picnic style at the work sites. There will be: A variety of lunchmea
 
 Beverages on the work site:&nbsp;
 
-* Each day, participants will receive a bottle of water and 1 Propel packet to flavor it&nbsp;
+* Each day, participants will receive a bottle of water&nbsp;
 * Each crew will bring a full 5-gallon water container with them to the work site
 * Each participant should bring a reusable water bottle to use on the work sites&nbsp;
 
