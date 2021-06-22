@@ -1,7 +1,7 @@
 ---
 title: Camp Photos
 category: Workcamps
-subcategory:
+subcategory: Post Camp Resources
 order: 1
 ---
 
