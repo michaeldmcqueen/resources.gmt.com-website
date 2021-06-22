@@ -39,6 +39,7 @@ order: 4
 * Spending money\*
 * Games for free time\*
 * Fun items for our theme dinners\*: Mustache Monday, Wacky Wednesday, Tropical Thursday
+* **Pen/Pencil for program and devotions**
 * **1 mask per day (either disposable or enough cloth ones to get through the week without laundry)**
 
 &nbsp;\*Optional Items&nbsp;
