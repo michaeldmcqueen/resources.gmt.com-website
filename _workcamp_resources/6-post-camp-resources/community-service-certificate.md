@@ -1,6 +1,7 @@
 ---
 title: Community Service Certificate
-category:
-subcategory:
+category: Workcamps
+subcategory: Post Camp Resources
 order: '2'
 ---
+
