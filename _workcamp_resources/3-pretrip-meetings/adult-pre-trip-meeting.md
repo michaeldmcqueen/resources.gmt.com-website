@@ -3,6 +3,7 @@ title: Adult Pre-trip Meeting
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 2
+order_number: 2
 ---
 
 Adults are one of the most important ingredients in a successful mission trip, and this meeting is designed to train and equip your adults to be the amazing leaders that every teenager needs. During the meeting, you’ll help everyone feel prepared and communicate important details and principles that every adult needs to understand and commit to. Every adult participant should attend this meeting\!
