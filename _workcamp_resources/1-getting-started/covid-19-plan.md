@@ -3,6 +3,7 @@ title: COVID-19 Plan
 category: Workcamps
 subcategory: Getting Started
 order: 7
+order_number: 7
 ---
 
 Camp season is quickly approaching, and we’re hard at work preparing to make summer 2021 as fun, safe, and as normal as possible. The safety of the students, adults, staff and residents of the communities we serve is of critical importance. We are in contact with our partners in each community and working to ensure we provide the safest environment and follow all local guidelines when it comes time for camp this summer. Here are precautions you can expect regarding safety, arrival, mealtimes, sleeping arrangements, large-group gatherings, worksites, and more that will help us safely conduct our mission trips. Please arrive healthy, and plan to stay that way.
