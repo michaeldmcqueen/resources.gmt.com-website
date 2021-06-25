@@ -2,7 +2,7 @@
 title: Camp Photos
 category: Community Service
 subcategory: Post Camp Resources
-order: '1'
+order: 1
 order_number: 1
 ---
 
