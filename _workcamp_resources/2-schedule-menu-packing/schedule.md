@@ -3,6 +3,7 @@ title: Schedule
 category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
 order: 1
+order_number: 1
 ---
 
 **SUNDAY**&nbsp;
