@@ -3,6 +3,7 @@ title: Community Gift List
 category: Community Service
 subcategory: 'Schedule, Menu, Packing'
 order: 5
+order_number: 5
 ---
 
 # Community Gift List
