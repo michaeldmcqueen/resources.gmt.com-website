@@ -3,6 +3,7 @@ title: Pre-trip Devotions
 category: Community Service
 subcategory: Program
 order: 3
+order_number: 3
 ---
 
 Your trip is coming soon\! You have a lot to do to get ready – including packing lists, permission forms, travel details, snack options, and many others.&nbsp;
