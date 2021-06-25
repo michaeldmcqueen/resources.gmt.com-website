@@ -3,6 +3,7 @@ title: Daily Themes
 category: Workcamps
 subcategory: Program
 order: 2
+order_number: 2
 ---
 
 ### ​​​**Theme: Worth It**
