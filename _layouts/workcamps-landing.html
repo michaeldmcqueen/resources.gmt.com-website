@@ -135,7 +135,7 @@
                 {% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				        {% for group in grouped %}
 				        <div class="resources-grid--item">
-				    	    {% assign items = group.items | sort: 'order' %}
+				    	    {% assign items = group.items | sort: 'order_number' %}
 					          <div class="resources-grid--item-title">
                             <h4>{{ group.name }}</h4>
                     </div>
