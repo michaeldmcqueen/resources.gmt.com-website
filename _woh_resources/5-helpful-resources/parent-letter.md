@@ -3,6 +3,7 @@ title: Parent Letter
 category: Community Service
 subcategory: Helpful Resources
 order: 3
+order_number: 3
 ---
 
 DEAR PARENTS,
