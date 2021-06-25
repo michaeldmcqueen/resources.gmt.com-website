@@ -3,6 +3,7 @@ title: Background Check Providers
 category: Workcamps
 subcategory: Getting Started
 order: 6
+order_number: 6
 ---
 
 ## Group Mission Trips’ Screening Requirements:&nbsp;
