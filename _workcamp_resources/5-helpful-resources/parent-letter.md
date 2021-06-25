@@ -3,6 +3,7 @@ title: Parent Letter
 category: Workcamps
 subcategory: Helpful Resources
 order: 3
+order_number: 3
 ---
 
 DEAR PARENTS,
