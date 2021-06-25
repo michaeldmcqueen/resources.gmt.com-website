@@ -3,6 +3,7 @@ title: Recruit Your Team
 category: Community Service
 subcategory: Getting Started
 order: 2
+order_number: 2
 ---
 
 Surround yourself with a great team\! We have learned over the years that a mission trip is best accomplished through teamwork. Between you, your leadership team, and our support–you can lead your students on an incredible, and incredibly organized, mission experience\!
