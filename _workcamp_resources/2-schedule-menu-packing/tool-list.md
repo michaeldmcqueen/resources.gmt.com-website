@@ -3,6 +3,7 @@ title: Tool List
 category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
 order: 5
+order_number: 5
 ---
 
 **EACH YOUTH SHOULD BRING:**&nbsp;
