@@ -1,6 +1,7 @@
 ---
 title: Post-camp Devotion
-category:
-subcategory:
+category: Workcamps
+subcategory: Post Camp Resources
 order: '3'
 ---
+
