@@ -3,6 +3,7 @@ title: Commissioning Service
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 7
+order_number: 7
 ---
 
 **Scripture Reading: Matthew 22:37-40&nbsp;**
