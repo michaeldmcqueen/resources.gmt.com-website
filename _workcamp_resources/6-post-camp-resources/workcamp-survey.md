@@ -1,6 +1,7 @@
 ---
 title: Workcamp Survey
-category:
-subcategory:
-order: 1
+category: Workcamps
+subcategory: Post Camp Resources
+order: '4'
 ---
+
