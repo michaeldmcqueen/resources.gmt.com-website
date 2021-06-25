@@ -3,6 +3,7 @@ title: Final Pre-trip Meeting
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 6
+order_number: 6
 ---
 
 We suggest you have this meeting a month and half before your mission trip starts.
