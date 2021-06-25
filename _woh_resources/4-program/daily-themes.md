@@ -3,6 +3,7 @@ title: Daily Themes
 category: Community Service
 subcategory: Program
 order: 2
+order_number: 2
 ---
 
 ### ​​​**Theme: Worth It**
