@@ -3,6 +3,7 @@ title: Packing List
 category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
 order: 4
+order_number: 4
 ---
 
 **PERSONAL ITEMS:&nbsp;**
