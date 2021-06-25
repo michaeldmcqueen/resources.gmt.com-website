@@ -3,6 +3,7 @@ title: Gluten Free Menu
 category: Community Service
 subcategory: 'Schedule, Menu, Packing'
 order: 3
+order_number: 3
 ---
 
 It’s scary and difficult traveling when you have a special diet. We want to help you as much as we are able to within our budget. We have listed below some possible options from our menu that may work for you. (Please note: Group Mission Trips cannot guarantee that cooking surfaces or utensils have not been in contact with gluten, so the very best way to be safe is to bring food with you.)
