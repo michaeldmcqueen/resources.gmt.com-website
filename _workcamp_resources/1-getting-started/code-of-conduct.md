@@ -3,6 +3,7 @@ title: Code Of Conduct
 category:
 subcategory: Getting Started
 order: 3
+order_number: 3
 ---
 
 ## To Provide The Best Experience, All Trip Participants Agree To The Following:
