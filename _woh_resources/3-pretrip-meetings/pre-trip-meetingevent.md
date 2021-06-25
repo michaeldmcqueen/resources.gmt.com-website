@@ -3,6 +3,7 @@ title: Pre-trip Meeting/Event
 category: Community Service
 subcategory: Pretrip Meetings
 order: 2
+order_number: 2
 ---
 
 > The purpose of this event is to introduce your group to the work crews they’ll experience while on a Group Mission Trip –and to give them a taste for serving others. You are invited to modify this experience to fit your setting–the sky (and your church budget and time constraints) is the limit\!
