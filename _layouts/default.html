@@ -44,10 +44,12 @@
 				{% assign grouped = site.workcamp_resources | group_by: 'subcategory' %}
 				{% for group in grouped %}
 				<li class="nav-item top-level {% if group.name == group.subcategory %}current{% endif %}">
+					{% assign items = group.items | sort: 'order' %}
 					<p>{{ group.name }}</p>
 					<ul>
 						{% for item in items %}
 						<li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						{% endfor %}
 					</ul>
 				</li>
 				{% endfor %}
