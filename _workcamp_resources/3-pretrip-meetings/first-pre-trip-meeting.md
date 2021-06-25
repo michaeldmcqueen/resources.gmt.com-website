@@ -3,6 +3,7 @@ title: First Pre-trip Meeting
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 1
+order_number: 1
 ---
 
 Have this meeting as soon as possible and invite all interested participants\!
