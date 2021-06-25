@@ -3,6 +3,7 @@ title: Support Letter
 category: Workcamps
 subcategory: Helpful Resources
 order: 5
+order_number: 5
 ---
 
 Dear \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,
