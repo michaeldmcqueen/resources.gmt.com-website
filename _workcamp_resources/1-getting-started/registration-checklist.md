@@ -3,6 +3,7 @@ title: Registration Checklist
 category:
 subcategory: Getting Started
 order: 1
+order_number: 1
 ---
 
 > (Please ensure the following is complete at least 30 days before your trip.)
