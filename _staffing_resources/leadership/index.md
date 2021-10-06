@@ -1,7 +1,7 @@
 ---
-title: Test Volunteer Position
+title: Test Leadership Position
 category: Staffing
-subcategory: Volunteer
+subcategory: Leadership
 order: 1
 order_number: 1
 ---
