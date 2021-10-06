@@ -1,7 +1,7 @@
 ---
-title: Test Summer Staff Position
+title: Test Leadership Position
 category: Staffing
-subcategory: Summer Staff
+subcategory: Leadership
 order: 1
 order_number: 1
 ---
