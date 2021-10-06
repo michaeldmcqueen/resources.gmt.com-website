@@ -1,7 +1,7 @@
 ---
-title: Test Summer Staff Position
+title: Test Volunteer Position
 category: Staffing
-subcategory: Summer Staff
+subcategory: Volunteer
 order: 1
 order_number: 1
 ---
