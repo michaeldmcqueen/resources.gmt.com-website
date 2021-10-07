@@ -2,8 +2,9 @@
 title: Site Writer
 category: Staffing
 subcategory: Leadership
-order_number: 3
+order_number: 4
 ---
+
 The site writer will partner with Group Mission Trips and the cosponsor team to write work descriptions for upcoming home repair Workcamps. The responsibilities of the site writer include, but are not limited to, the following:
 
 * Communicate clearly with all cosponsors and residents
