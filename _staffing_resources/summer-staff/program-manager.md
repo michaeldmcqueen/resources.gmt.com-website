@@ -1,0 +1,9 @@
+---
+title: Program Manager
+category: Staffing
+subcategory: Summer Staff
+order_number: 6
+---
+The program manager oversees media during programs, takes highquality photos of all aspects of Workcamp, and supports the Red Shirt team with leadership, encouragement, and a servant’s heart. The responsibilities of the program manager include but are not limited to the following:
+
+<div><ul><li>Attend summer staff training in Colorado (beginning late May)</li><li>Set up, maintain, and tear down all program equipment and props, cleaning and organizing the program area daily</li><li>Work alongside MC, program team member, and worship leader to deliver high-quality morning and evening programs to participants</li><li>Run lights, sound, and projection equipment for every morning and evening program</li><li>Train, oversee, and support volunteer program team member and worship leader</li><li>Visit work sites to encourage participants. Take quality photos (with assistance from the program team member) of every work crew, resident, youth group, program, staff member, and other miscellaneous photos</li><li>Work closely and effectively with the Red Shirt staff by supporting and encouraging them to ensure an excellent camp experience for each participant</li><li>Build positive relationships with the local staff and cosponsor, thanking them for partnering with us to serve the community</li><li>Resolve camp issues swiftly and effectively with the guidance of the camp director</li></ul><div><h6>Physical Requirements</h6><ul><li>Able to lift objects up to 50 pounds</li><li>Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day</li><li>Prepared to work busy camp days with an average of 5-6 hours of sleep per night</li></ul></div></div>
