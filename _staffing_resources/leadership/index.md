@@ -19,3 +19,9 @@ The director leads the Red Shirt team, oversees camp logistics, and builds great
 * Handle crises and conflicts as needed, involving the appropriate staff members as decisions are made
 * Check in daily with the office manager and materials manager to help with any financial issues that arise
 * Complete end of camp paperwork, offering feedback from the camp week, detailing ways the camp experience could improve
+
+###### Physical Requirements
+
+* Able to lift objects up to 50 pounds
+* Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
+* Prepared to work busy camp days with an average of 5-6 hours of sleep per night&nbsp;
