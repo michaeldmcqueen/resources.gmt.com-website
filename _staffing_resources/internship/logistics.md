@@ -5,6 +5,8 @@ subcategory: Internship
 order_number: 1
 ---
 
+20 hours/week locally<br>Assignment Dates: February 7 – August 12, 2022
+
 As we launch the 2022 season and support all Group Mission Trips experiences, this<br>intern will help fulfill whatever tasks are needed to ensure camps are ready. This intern<br>will work approximately 20 hours per week in the office and/or the warehouse, with the possibility of additional hours in the peak summer season.<br><br>**Intern Qualifications**
 
 * Strong work ethic
