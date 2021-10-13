@@ -1,37 +1,28 @@
 ---
-title: Project Management
+title: Registration Team Member
 category: Staffing
 subcategory: Internship
-order_number: 3
+order_number: 4
 ---
-40 hours/week locally<br>Assignment Dates: February 7 – August 12, 2022
 
-As we launch the 2022 season and support all Group Mission Trips experiences, this<br>intern will work directly with our project manager and developer, helping manage the<br>logistics of both Workcamps and Week of Hope. Specific duties include but are not<br>limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.
+Up to 40 hours/week locally or possibly remote, depending on experience<br>Assignment Dates: February 7 – August 12, 2022
 
-<br>**Project Management Intern Qualifications**
+As we launch the 2022 season and support all Group Mission Trips experiences, this<br>temporary staff member will help the registration team ensure that all registered youth groups will have everything completed prior to camps beginning and assist with post camp communications.
 
-* Able to listen to direction and take initiative
-* Desire and willingness to learn in a fast-paced environment
+<br>**Qualifications**
+
+* Strong work ethic
+* Self-motivated
 * Organizational skills
-* Creative demeanor
 * Outgoing and customer-service oriented
 
-<br>**Education and Experience Requirements**<br>Minimum of 2 years (4 semesters) of college coursework and/or work experience in at<br>least one of the following areas:
+**Education and Experience Requirements**<br>Minimum of 2 years (4 semesters) of college coursework and/or work experience in at<br>least one of the following areas:
 
 * Christian ministry
-* Project management
-* Communication or sales
-* Business administration
-* Non-profit management
-* Experience with Microsoft products, specifically Word and Excel
-
-**Responsibilities**
-
-1. Assess camp supplies inventory and order necessary supplies
-2. Develop working relationships with cosponsors, site writers, setup directors, lodging facility contacts, and coordinators for Workcamps and Week of Hope
-3. Create clear and concise communication with all partners, internal and external.
-4. Attend materials database training and assist the project manager in processing, entering, and communicating all work site information
-5. Evaluate and modify service project descriptions for Week of Hope
-6. Assist with staff training preparation and logistics
-7. Maintain the ongoing camp processes of staff setup boxes, camp food orders and deliveries, work descriptions, and shipments
-8. Provide additional assistance as needed by the Group Mission Trips team
+* Non-profit or business management
+* Communications or sales
+* Responsibilities and duties:
+* Assist registered youth groups with registration adjustments: adding and dropping participants, payments, and cancellations.
+* Ensures every youth group that is attending camp has completed all required information including participant forms, background check verification forms, and vehicle information.
+* Assist registered youth groups with customer account documents, camp specific information, account balances, and post camp communication.
+* Additional duties, as assigned
