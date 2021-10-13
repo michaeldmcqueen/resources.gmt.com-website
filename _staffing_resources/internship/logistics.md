@@ -5,23 +5,28 @@ subcategory: Internship
 order_number: 1
 ---
 
-The director leads the Red Shirt team, oversees camp logistics, and builds great relationships with participants, cosponsors, and lodging facility staff during the camp week. The responsibilities of the director include, but are not limited to, the following:
+As we launch the 2022 season and support all Group Mission Trips experiences, this<br>intern will help fulfill whatever tasks are needed to ensure camps are ready. This intern<br>will work approximately 20 hours per week in the office and/or the warehouse, with the possibility of additional hours in the peak summer season.<br><br>**Intern Qualifications**
 
-* Attend Leadership Summit in Colorado **(required every year)**
-* Review the Director Guide and camp specifics several weeks before camp
-* Contact each staff member by phone at least two weeks before camp
-* Empower your team of Red Shirts to do their jobs with excellence, welcome them as soon as they arrive at camp, visit each area of camp daily, communicate expectations clearly, support and encourage each staff member
-* Build rapport with lodging facility staff, cosponsor, youth leaders, and staff, creating an upbeat and fun community at camp
-* Invest in youth leaders and their youth, demonstrating servant leadership
-* Take care of the lodging facility, leaving it in better condition than we found it
-* Be a leader, not a manager, create and maintain open, honest, and direct communication with all staff
-* Lead daily staff meetings and co-lead adult meetings with MC (outlines provided in guides)
-* Handle crises and conflicts as needed, involving the appropriate staff members as decisions are made
-* Check in daily with the office manager and materials manager to help with any financial issues that arise
-* Complete end of camp paperwork, offering feedback from the camp week, detailing ways the camp experience could improve
+* Strong work ethic
+* Self-motivated
+* Organizational skills
+* Proficient in Microsoft Office, especially Excel
+* Computer hardware and software proficiency
 
-###### Physical Requirements
+**Education and Experience Requirements**<br>Minimum of 2 years (4 semesters) of college coursework and/or work experience in at<br>least one of the following areas:
 
-* Able to lift objects up to 50 pounds
-* Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
-* Prepared to work busy camp days with an average of 5-6 hours of sleep per night&nbsp;
+* Christian ministry
+* Business management
+* Non-profit management
+* Project management
+
+**Responsibilities and duties:**
+
+* Oversee GMT warehouse program supplies inventory and purchasing
+* Check existing and order new sound and technical equipment
+* Inventory GMT staging warehouse for all summer staff crews
+* Fulfill camp store and staff store orders
+* Resource summer staff crews with all needed warehouse supplies
+* Assist with staff warehouse load out and load in
+* Assist with staff training preparation and logistics
+* Provide additional assistance to all teams as needed
