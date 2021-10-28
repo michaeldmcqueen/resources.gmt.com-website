@@ -22,7 +22,7 @@ order_number: 1
 | 6:45 a.m | Wake-up call |
 | 7–7:45 a.m | Breakfast<br>Gather Tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
 | 8 a.m | Morning program&nbsp;<br>Depart for sites<br>Work on project<br>Lunch and crew devotions |
-| 3:30 p.m | Return to lodging facility<br>Report progress<br>Recreation/free time |
+| 3:30 p.m | Return to the lodging facility<br>Report progress<br>Recreation/free time |
 | 5–6:30 p.m | Dinner |
 | 7:30 p.m | Evening program |
 | 8:30 p.m | Youth group devotions |
@@ -33,8 +33,8 @@ order_number: 1
 **WEDNESDAY**&nbsp;
 
 | 6:45 a.m.–12 p.m | Same as Monday |
-| 12:30 p.m. | Check-in at lodging facility<br>Youth group free time<br>Dinner on your own |
-| 7:30 p.m&nbsp; | Program with variety show&nbsp; |
+| 12:30 p.m. | Check-in at the lodging facility<br>Youth group free time<br>Dinner on your own |
+| 7:30 p.m&nbsp; | Program with a variety show&nbsp; |
 | 8:30 p.m&nbsp; | Youth group devotions&nbsp; |
 | 11 p.m | Lights-out |
 
