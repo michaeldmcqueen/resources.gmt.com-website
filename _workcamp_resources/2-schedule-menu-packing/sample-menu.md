@@ -8,7 +8,7 @@ order_number: 2
 
 (All meals are subject to change at any time)&nbsp;
 
-Food will be prepared by cafeteria staff at your lodging facility. It’s going to be great, but keep in mind, it’s cafeteria style food. It’s not a fancy made-to-order restaurant.&nbsp;
+Food will be prepared by cafeteria staff at your lodging facility. It’s going to be great, but keep in mind, it’s cafeteria-style food. It’s not a fancy made-to-order restaurant.&nbsp;
 
 **BREAKFAST&nbsp;**
 
@@ -18,22 +18,21 @@ Food will be prepared by cafeteria staff at your lodging facility. It’s going 
 
 **LUNCH&nbsp;**
 
-Lunches are picnic style at the work sites. There will be: A variety of lunchmeat sandwiches, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
+Lunches are picnic-style at the work sites. There will be a variety of lunchmeat sandwiches, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
 
 Beverages on the work site:&nbsp;
 
-* Each day, participants will receive a bottle of water&nbsp;
-* Each crew will bring a full 5-gallon water container with them to the work site
-* Each participant should bring a reusable water bottle to use on the work sites&nbsp;
+* Participants will need to fill their water bottles that they brought with them before they leave the lodging facility each day
+* Each crew will bring a full 5-gallon water container with them to the work site to refill their own bottles
 
 **DINNER&nbsp;**
 
-* Sunday: Hamburgers, hotdogs, baked beans, fries and ice cream bars OR a cosponsor provided meal&nbsp;
-* Monday: Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls and strawberry shortcake&nbsp;
+* Sunday: Hamburgers, hotdogs, baked beans, fries, and ice cream bars OR a cosponsor provided meal&nbsp;
+* Monday: Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls, and strawberry shortcake&nbsp;
 * Tuesday: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, rice, lettuce, tomato, cheese, onion, and pudding&nbsp;
 * Wednesday: DINNER ON YOUR OWN&nbsp;
 * Thursday: Chicken tenders, mac and cheese, side vegetable, and brownies&nbsp;
-* Friday: Baked ziti (one pan of vegetarian ziti), garlic bread, side vegetable and ice cream&nbsp;
+* Friday: Baked ziti (one pan of vegetarian ziti), garlic bread, side vegetable, and ice cream&nbsp;
 
 Salad bar (every evening): Featuring a variety of mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and choice of Ranch or Italian dressing&nbsp;
 
@@ -41,7 +40,7 @@ Beverages: Lemonade and iced tea will be available&nbsp;
 
 ---
 
-If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten free options at camp, but we need to know in advance.
+If you have a participant that has to eat gluten-free, please let us know. We can have a few gluten-free options at camp, but we need to know in advance.
 
 Please note that we do have peanut butter on our menu.&nbsp;
 
@@ -53,10 +52,10 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 * If a participant has a food allergy or restriction, their trip leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
 * If a participant must eat gluten-free, please let Group Mission Trips know either by calling or by logging a note under Special Requests.
-* If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or in another designated storage area.
+* If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or another designated storage area.
 * If the food allergy is severe, the trip leader should notify Group Mission Trips either by calling or by logging a note under Special Requests. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
 * Participants need to bring any medication they need (i.e. EpiPen). Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
-* Cafeteria staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
+* Cafeteria staff will be able to provide ingredient information before each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
 * If you have any questions, please feel free to call us at 844.258.9616.&nbsp;
 
 ---
@@ -87,7 +86,7 @@ We have listed here some possible options from our menu that may work for you. A
 * Cheese, tomatoes, lettuce, mayo, mustard&nbsp;
 * Chips&nbsp;
 * Fruit or veggie options&nbsp;
-* A variety of treats (like granola bar or cookie)
+* A variety of treats (like a granola bar or cookie)
 
 **DINNER&nbsp;**
 
