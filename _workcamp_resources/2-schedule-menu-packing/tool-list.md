@@ -10,19 +10,43 @@ order_number: 5
 
 * Safety goggles&nbsp;
 * Work gloves&nbsp;
-* N-95 disposable dust mask (used when scraping paint)&nbsp;
-* Tool pouch, bag or bucket&nbsp;
-* Hammer&nbsp;
+* N-95 disposable dust mask (used when scraping paint) (5 per person)
+* A tool pouch, bag, or bucket&nbsp;
+* Hammer (12 oz. or larger)
 * Tape measure (16’ or 25’)&nbsp;
-* Paint brushes: variety of sizes&nbsp;
+* Carpenter's pencil
+* Paintbrushes: a variety of sizes&nbsp;
 * Paint roller handle&nbsp;
-* Paint roller cover(s) 3&nbsp;
+* Paint roller cover(s) (3 per person)&nbsp;
 * Paint tray with liners&nbsp;
 * Paint scraper and/or wire brush&nbsp;
 
-&nbsp;
+&nbsp;**EACH ADULT SHOULD BRING:&nbsp;**
 
-&nbsp;**AS A GROUP PLEASE BRING:&nbsp;**
+* Safety goggles&nbsp;
+* Work gloves&nbsp;
+* A tool pouch, bag, or bucket&nbsp;
+* N-95 disposable dust mask (used when scraping paint) (5 per person)
+* Spray bottle&nbsp;
+* Paint roller extension handle&nbsp;
+* Utility knife and extra blades&nbsp;
+* Chalk line and chalk&nbsp;
+* Chisel&nbsp;
+* Caulking gun&nbsp;
+* Circular saw (extra blade)&nbsp;
+* Level (4’ length minimum)&nbsp;
+* Pry bar&nbsp;
+* Screwdriver(s) (Philips and Flathead)&nbsp;
+* Square (Speed square or 3’ square)&nbsp;
+* Extension cord (with GFCI protection) **or** ground fault interrupter splitter/adapter&nbsp;
+* Cordless drill 18 volt or better&nbsp;
+* Extra drill battery with a charger&nbsp;
+* Star Bits Type T-25 (Qty 4 minimum)
+* Drill bit kits (including small bits for drilling pilot holes and a 3/8” and 1/2’ diameter 6”-8” in length)&nbsp;
+* Lumber clamp/vise&nbsp;
+* Carpenter pencil&nbsp;
+
+**AS A GROUP PLEASE BRING:&nbsp;**
 
 * One 5-gallon water jug (1 per 6 people)&nbsp;
 * Family-size cooler on wheels (1 per 6)&nbsp;
@@ -43,35 +67,6 @@ order_number: 5
 * A box of large strong black trash bags&nbsp;
 
 &nbsp;\*If your group is larger than 50 participants, please double these items.&nbsp;
-
-&nbsp;
-
-**EACH ADULT SHOULD BRING:&nbsp;**
-
-* Safety goggles&nbsp;
-* Work gloves&nbsp;
-* Tool pouch, bag, or bucket&nbsp;
-* N-95 disposable dust mask&nbsp;
-* Spray bottle&nbsp;
-* Paint roller extension handle&nbsp;
-* Utility knife and extra blades&nbsp;
-* Chalk line and chalk&nbsp;
-* Chisel&nbsp;
-* Caulking gun&nbsp;
-* Circular saw (extra blade)&nbsp;
-* Level (3’ length minimum)&nbsp;
-* Pry bar&nbsp;
-* Screwdriver(s) (Philips and Flathead)&nbsp;
-* Square (Carpenters speed or 3’)&nbsp;
-* Extension cord (with GFCI protection) **or&nbsp;**Ground fault interrupter splitter/adapter&nbsp;
-* Cordless drill 18 volt or better&nbsp;
-* Extra drill battery with a charger&nbsp;
-* Star Bits Type T-25&nbsp;
-* Drill bit kits (including small bits for drilling pilot holes and a 3/8” and 1/2’ diameter 6”-8” in length)&nbsp;
-* Lumber clamp/vise&nbsp;
-* Carpenter pencil&nbsp;
-
-&nbsp;
 
 > The only tools at camp are those that YOU bring\! There’s a chance you may not use all the tools you bring, but it’s better to have a tool you don’t need than to need a tool you don’t have\!&nbsp;
 >
