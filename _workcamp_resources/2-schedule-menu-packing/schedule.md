@@ -9,7 +9,8 @@ order_number: 1
 **SUNDAY**&nbsp;
 
 | 12–2 p.m | Check-in&nbsp; |
-| 4 p.m | Adult meeting |
+| 3 p.m | Kick-off program |
+| 4 p.m. | Adult meeting |
 | 5–6:30 p.m | Dinner |
 | 7 p.m | Evening program<br>Meet your crew<br>Project assignments |
 | 8:30 p.m | Youth group devotions |
@@ -22,7 +23,7 @@ order_number: 1
 | 6:45 a.m | Wake-up call |
 | 7–7:45 a.m | Breakfast<br>Gather Tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
 | 8 a.m | Morning program&nbsp;<br>Depart for sites<br>Work on project<br>Lunch and crew devotions |
-| 3:30 p.m | Return to the lodging facility<br>Report progress<br>Recreation/free time |
+| 3:30 p.m | Return to the lodging facility<br>Camp store is open&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Report progress<br>Recreation/free time |
 | 5–6:30 p.m | Dinner |
 | 7:30 p.m | Evening program |
 | 8:30 p.m | Youth group devotions |
@@ -50,7 +51,6 @@ order_number: 1
 **SPECIAL MEETING**&nbsp;
 
 | Tuesday 4:15 p.m.&nbsp; | Adult meeting&nbsp; |
-| 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
 * All aspects of camp are designed just for you. Don’t miss out on anything\!&nbsp;
