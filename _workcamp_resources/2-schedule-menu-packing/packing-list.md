@@ -20,9 +20,9 @@ order_number: 4
 * Long pants or jeans&nbsp;
 * Modest shorts&nbsp;
 * Work t-shirts&nbsp;
-* Pajamas, socks and underwear&nbsp;
+* Pajamas, socks, and underwear&nbsp;
 * Work boots or sturdy shoes&nbsp;
-* Water bottle&nbsp;
+* Water bottle (refillable, to be used at your work site)&nbsp;
 * Personal health insurance card or copy&nbsp;
 * Bible&nbsp;
 * Tools from the Tool List&nbsp;
@@ -42,8 +42,8 @@ order_number: 4
 * Alarm clock\* (battery-powered)&nbsp;
 * Spending money\*&nbsp;
 * Games for free time\*&nbsp;
-* **Pen/Pencil for program and devotions**
-* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry)**
+* Pen/pencil for program and devotions
+* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry- to be determined later in the spring)**
 
 &nbsp;\*Optional Items&nbsp;
 
@@ -52,8 +52,8 @@ order_number: 4
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
-* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room)**
-* **Hand sanitizer for your vehicles and sleeping rooms**
+* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room- to be determined in the spring)**
+* **Hand sanitizer for your vehicles and sleeping rooms (to be determined in the spring)**
 
 COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
@@ -67,7 +67,7 @@ Check on your customer account, under “Helpful Resources, and then Schedule, M
 * Alcohol, tobacco products, or illegal drugs&nbsp;
 * Expensive clothes or jewelry&nbsp;
 * Anything really valuable&nbsp;
-* Fireworks, weapons or toy guns&nbsp;
+* Fireworks, weapons, or toy guns&nbsp;
 * Skimpy or revealing clothes&nbsp;
   * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
 
