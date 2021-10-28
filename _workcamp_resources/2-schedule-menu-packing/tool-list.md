@@ -60,11 +60,13 @@ order_number: 5
   * *Extras are appreciated\!&nbsp;*
 * 8-ft stepladder (1 per 6 people)&nbsp;
   * *Extras are appreciated\!&nbsp;*
-* Post hole digger (2 per group)\*&nbsp;
+* Posthole digger (2 per group)\*&nbsp;
+* Heavy duty digging bar
 * Jigsaw and sharp blades (1 per group)\*&nbsp;
 * First-aid kit (1 for every vehicle)&nbsp;
-* A box of gallon sized Ziploc bags (for paint brush storage)&nbsp;
+* A box of gallon-sized Ziploc bags (for paintbrush storage)&nbsp;
 * A box of large strong black trash bags&nbsp;
+* Nitrile gloves (3 pairs per person)
 
 &nbsp;\*If your group is larger than 50 participants, please double these items.&nbsp;
 
