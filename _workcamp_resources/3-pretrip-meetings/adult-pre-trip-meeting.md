@@ -45,32 +45,32 @@ DON’T BE “THE BOSS”
 * Activity: Divide the group of adults into smaller groups of three or four. Have each group brainstorm ways they could be controlling and acting like “The Boss” while on the mission trip. After several minutes of sharing, record ideas from each group on the whiteboard. Make sure you give every group a chance to share ideas. After gathering all the ideas, highlight the following:
 * Say something like: *Thank you for all those ideas. I want to make sure to mention a couple of ideas again (or “in addition to the great ideas you came up with,” if they didn’t get shared as part of the brainstorm). Let’s remember that the trip is about the teenagers–not us. Our role is to encourage and guide, not be a director or dictator.*
 * *One way we can fall into acting like “The Boss” on our project site. There will be crew roles for each person on your crew. Let the youth participants fill the work director and the devotion leader roles. This will allow the kids to lead and we’ll be there to give guidance and encouragement.*
-* *Do take the lead in checking safety at your project sites and at our lodging facility. This includes not letting the kids leave the project or lodging facility without you or another adult. If you ever see something during the trip that looks unsafe or inappropriate or is just something you are uncomfortable with, let camp staff know right away.*
+* *Do take the lead in checking safety at your project sites and our lodging facility. This includes not letting the kids leave the project or lodging facility without you or another adult. If you ever see something during the trip that looks unsafe or inappropriate or is just something you are uncomfortable with, let the camp staff know right away.*
 
 DON’T BE INAPPROPRIATE
 
-* Say something like: *Being inappropriate is not something that any of us wants to be. We need to make sure that we’re not interpreted that way. It’s inappropriate to be the adult that is telling off-color jokes, making comments about teenagers of the opposite gender which could be construed as sexual in nature, or making inappropriate physical contact. And yes, that could include a misinterpreted hug.*
-* *The key is “misinterpreted.” There are some adults out there who do creepy things to kids, and that is ugly, wrong and sinful. It has no place in church ministry. Ever. Period. But there have been adults who have done things or said things unintentionally that still made a teenager feel uncomfortable.*
+* Say something like: *Being inappropriate is not something that any of us wants to be. We need to make sure that we’re not interpreted that way. It’s inappropriate to be the adult that is telling off-color jokes, making comments about teenagers of the opposite gender which could be construed as sexual, or making inappropriate physical contact. And yes, that could include a misinterpreted hug.*
+* *The key is “misinterpreted.” There are some adults out there who do creepy things to kids, and that is ugly, wrong, and sinful. It has no place in church ministry. Ever. Period. But there have been adults who have done things or said things unintentionally that still made a teenager feel uncomfortable.*
 * *Our advice to you is to always error on the side of being overly cautious. Don’t assume that the way you talk to or show affection for the kids in our own youth group is going to be acceptable to others. Nothing would ruin our trip faster than someone not understanding something any of us does or says and thinking that we are acting in a way that is inappropriate or unacceptable. Questions or thoughts on that?*
 
 3\. RELAX
 
-* Say: *Relax\! That’s our final point for the meeting. You’re going to do a great job serving on our mission trip. You are going to be with some of the best, most idealistic people–teenagers. They feel indestructible and invincible. They are willing to take on anything, and believe they can accomplish these things. We need to be there to support and guide them.*
+* Say: *Relax\! That’s our final point for the meeting. You’re going to do a great job serving on our mission trip. You are going to be with some of the best, most idealistic people–teenagers. They feel indestructible and invincible. They are willing to take on anything and believe they can accomplish these things. We need to be there to support and guide them.*
 
 **DETAILS**
 
 Pass out any copies you made:
 
 * Schedule: Remind everyone about the exact dates of travel and have them put them on their calendar\! Discuss who can drive, how many seats each vehicle has, and travel time. Discuss possible stops during travel and/or overnight stays and fun options for any free time.
-* Dress Code: Discuss modest dress and come to an agreement on specifically what that means for your participants. Let your adults know that Group Mission Trips’ staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth–this means that you are responsible for your participant’s dress. Agree to encourage plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites. Talk about how your leadership team will be handling inappropriate dress of your youth during camp.
+* Dress Code: Discuss modest dress and come to an agreement on specifically what that means for your participants. Let your adults know that Group Mission Trips’ staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth–this means that you are responsible for your participant’s dress. Agree to encourage plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites. Talk about how your leadership team will be handling the inappropriate dress of your youth during camp.
 * Tool List: Review the list and discuss what items you are still missing and plans to obtain them, store them, and transport them to camp.
 * Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located under your customer account under Schedule, Menu, and Packing. Give an update on how your group is handling this.
 * Code of Conduct: Participants live by this code during camp, emphasize the importance of reading it and point out the section on there specific to adults. Every participant agrees to it when they sign their Participant Info Form online.
 * Theme and program info: It's wise to set good expectations about our program. Make sure your adults understand these key elements of our program and show the program promo video if you would like:&nbsp;
   * *Focused on Jesus.*&nbsp;Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
   * *Interactive.*&nbsp;People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting…not just sitting and watching.
-  * *Relevant.*&nbsp;Through creative multimedia, thought provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
-  * *Fun.*&nbsp;Relationship-building activities, games and having fun are part of every program. Expect to have a great time\!&nbsp;
+  * *Relevant.*&nbsp;Through creative multimedia, thought-provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
+  * *Fun.*&nbsp;Relationship-building activities, games, and having fun are part of every program. Expect to have a great time\!&nbsp;
 * Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one
 
 **BACKGROUND CHECKS**
