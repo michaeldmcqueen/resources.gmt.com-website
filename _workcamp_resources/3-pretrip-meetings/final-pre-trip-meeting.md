@@ -55,7 +55,7 @@ Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer
 
 **CODE OF CONDUCT AND RELEASE AGREEMENT**
 
-* Pull up your online customer account. The Code of Conduct and Liability and Release Agreement are both there. (You should have already gone through the Adult section of the Code of Conduct with your adults in your separate Adult Pre-Trip Meeting.)
+* Pull up your online customer account. The Code of Conduct and Liability and Release Agreement are both there under under Helpful Resources and Getting Started. (You should have already gone through the Adult section of the Code of Conduct with your adults in your separate Adult Pre-Trip Meeting.)
 * Read through the Code of Conduct. Remind everyone that, by signing their Participant Info Form, they are agreeing to both the Code of Conduct and the Liability and Release Agreement.
 * Talk about any other discipline/rules that you have.&nbsp;
 
