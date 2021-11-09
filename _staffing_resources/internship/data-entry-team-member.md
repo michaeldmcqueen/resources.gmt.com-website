@@ -4,7 +4,8 @@ category: Staffing
 subcategory: Internship
 order_number: 5
 ---
-Up to 40 hours/week locally or possibly remote, depending on experience<br>Assignment Dates: May 9 – July 29, 2022
+
+Up to 40 hours/week locally or possibly remote, depending on experience<br>Assignment Dates: March 14 – July 22, 2022
 
 As we launch the 2022 season and support all Group Mission Trips experiences, this<br>temporary staff member will be responsible for collecting and entering data from<br>home repair work orders into a custom database.<br>**Qualifications**
 
