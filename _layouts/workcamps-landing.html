@@ -156,9 +156,16 @@
     </body>
     <script>
       let box = document.querySelector('.page');
-let height = box.offsetHeight;
-console.log(height);
-box.style.height = height + 'px';
+      let height = box.offsetHeight;
+      box.style.height = height + 'px';
+      
+      const heightOutput = document.querySelector('.page');
+
+function reportWindowSize() {
+  let height = box.offsetHeight;
+  box.style.height = height + 'px';
+}
+window.onresize = reportWindowSize;
 
     </script>
 </html>
