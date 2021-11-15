@@ -159,11 +159,12 @@
       let height = box.offsetHeight;
       box.style.height = height + 'px';
       console.log(height);
-      const heightOutput = document.querySelector('.page');
+      let heightOutput = document.querySelector('.page');
 
 function reportWindowSize() {
-    box.style.height = heightOutput + 'px';
-          console.log(heightOutput);
+    let height = box.offsetHeight;
+    box.style.height = height + 'px';
+    console.log(height);
 
 }
 window.onresize = reportWindowSize;
