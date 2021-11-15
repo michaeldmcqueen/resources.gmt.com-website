@@ -162,11 +162,10 @@
       let heightOutput = document.querySelector('.page');
 
 function reportWindowSize() {
-        let box1 = document.querySelector('.page');
-
-    let height1 = box1.offsetHeight;
-    box1.style.height = height1 + 'px';
-    console.log(height1);
+    box.style.height = auto;
+    let height = box.offsetHeight;
+    box.style.height = height + 'px';
+    console.log(height);
 
 }
 window.onresize = reportWindowSize;
