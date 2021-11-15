@@ -119,7 +119,7 @@
         </style>
     </head>
 
-    <body>
+    <body class="page">
         <!-- CONTENT STARTS HERE -->
         <section>
             <div class="page-title mb-4">
@@ -154,6 +154,12 @@
         <!-- CONTENT ENDS HERE -->
 
     </body>
+    <script>
+      let box = document.querySelector('.page');
+let height = box.offsetHeight;
+console.log(height);
+box.style.height = height + 'px';
 
+    </script>
 </html>
 
