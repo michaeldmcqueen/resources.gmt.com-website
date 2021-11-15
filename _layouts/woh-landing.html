@@ -152,7 +152,23 @@
             </div>
         </section>
         <!-- CONTENT ENDS HERE -->
+    <script>
+      let box = document.querySelector('.page');
+      let height = box.offsetHeight;
+      box.style.height = height + 'px';
+      console.log(height);
+      let heightOutput = document.querySelector('.page');
 
+function reportWindowSize() {
+    box.style.height = 'auto';
+    let height = box.offsetHeight;
+    box.style.height = height + 'px';
+    console.log(height);
+
+}
+window.onresize = reportWindowSize;
+
+    </script>
     </body>
 
 </html>
