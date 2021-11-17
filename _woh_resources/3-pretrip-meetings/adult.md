@@ -26,6 +26,8 @@ Group Mission Trips is located in beautiful Fort Collins, CO.&nbsp;
 
 To serve others through home repair and community service experiences that transform communities and help participants, residents, and partners grow closer to Jesus.
 
+**OUR PRIORITIES:**
+
 Connecting people with Jesus is the number-one goal of Group Mission Trips, and we also focus on the following priorities:&nbsp;
 
 * Safety&nbsp;
