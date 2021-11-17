@@ -39,4 +39,4 @@ order_number: 7
 OTHER EXAMPLES OF WAYS TO COMMISSION THE MISSION TEAM:
 
 * Produce a handout with the names of each member of the mission team to give to the congregation and invite them to pray for the team.
-* You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission participants will be studying each day as they serve.
+* You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission trip participants will be studying each day as they serve.
