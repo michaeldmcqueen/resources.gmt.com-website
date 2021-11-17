@@ -29,4 +29,8 @@ order_number: 5
 
 **Nashville, TN&nbsp;**&nbsp;-&nbsp; Soles for Souls: bring any old/new footwear. They break down old shoes or redistribute new shoes to communities who needs them, here or overseas. Old shoes are made into other things. Or school supplies for the Dream Center to supply inner-city schools with supplies.<br>&nbsp;
 
-**Kenosha, WI** &nbsp;-&nbsp; Baby wipes and diapers of varying sizes (larger needed) (campers bring the size of the week they are going) for Foster Family Support Network.<br>&nbsp;
+**Kenosha, WI** &nbsp;-&nbsp; Baby wipes and diapers of varying sizes for Foster Family Support Network. Larger sizes are needed. A great suggestion is that campers bring the size of the week they are going. Example, if you are going to our first week in Kenosha, bring size 1.&nbsp;
+
+**San Diego, CA** - Coming soon.
+
+**Austin, TX** - Coming soon.
