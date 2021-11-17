@@ -60,7 +60,7 @@ Participants should learn the safe and proper use of a:&nbsp;
 * Hammer (including nailing and removing nails)&nbsp;
 * Nail bar&nbsp;
 
-SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase all together: My safety is my number one job\!&nbsp;
+SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase altogether: My safety is my number one job\!&nbsp;
 
 &nbsp;
 
@@ -73,30 +73,30 @@ Participants should learn:&nbsp;
 * About caulk and where caulking is needed in weatherization projects (around windows and doors and in cracks in the siding)&nbsp;
 * How to load and operate a caulking gun&nbsp;
 * How to open a tube of caulk&nbsp;
-* How to smooth caulk with their fingers&nbsp;
+* How to smooth the caulk with their fingers&nbsp;
 * How to unload a caulk tube from a caulk gun and store the caulk properly after it has been opened&nbsp;
 * Safe use and handling of a utility knife&nbsp;
 
-SAFETY TIP: Immediately retract the blade of a utility knife after each use—even if you’re just setting it down for a minute. Let’s say our favorite safety phrase all together: My safety is my number one job\!&nbsp;
+SAFETY TIP: Immediately retract the blade of a utility knife after each use—even if you’re just setting it down for a minute. Let’s say our favorite safety phrase altogether: My safety is my number one job\!&nbsp;
 
 &nbsp;
 
 **STATION 4: PAINTING&nbsp;**
 
-Supplies Needed: cans of house paint, wooden stirrers, various paintbrushes, paint trays, paint rollers and paint roller covers, scrapers, scrap lumber to practice painting on, hose for cleaning, dust masks, and safety goggles to demonstrate safe scraping&nbsp;
+Supplies Needed: cans of house paint, wooden stirrers, various paintbrushes, paint trays, paint rollers and paint roller covers, scrapers, scrap lumber to practice painting on, a hose for cleaning, dust masks, and safety goggles to demonstrate safe scraping&nbsp;
 
 Participants should learn how to:&nbsp;
 
 * Open and stir a can of paint&nbsp;
 * Use a paintbrush&nbsp;
-* Pour paint into a paint tray&nbsp;
+* Pour the paint into a paint tray&nbsp;
 * Connect a paint roller cover to a paint roller&nbsp;
 * Use a paint roller&nbsp;
 * Properly prepare a surface for painting (including scraping)&nbsp;
 * Close a paint can for future use&nbsp;
 * Clean rollers, brushes, and trays&nbsp;
 
-SAFETY TIP: In any home repair scenario, assume the old paint on the house is lead-based paint, and wear dust masks when scraping. Inhaling paint dust is a serious health hazard. Let’s say our favorite safety phrase all together: My safety is my number one job\!&nbsp;
+SAFETY TIP: In any home repair scenario, assume the old paint on the house is lead-based, and wear dust masks when scraping. Inhaling paint dust is a serious health hazard. Let’s say our favorite safety phrase altogether: My safety is my number one job\!&nbsp;
 
 YOUTH LEADER TIP: Review the points of the document below, called “Just Painting.”&nbsp;
 
@@ -115,13 +115,13 @@ Participants should learn how to:&nbsp;
 * Change blades and bits, and know when those changes are necessary&nbsp;
 * Properly use extension cords&nbsp;
 
-SAFETY TIP: Be careful not to use power tools in wet conditions. Always unplug power tools immediately after each use. Also, power tools must be used under the supervision of an adult at all times during the mission trip. Let’s say our favorite safety phrase all together: My safety is my number one job\!&nbsp;
+SAFETY TIP: Be careful not to use power tools in wet conditions. Always unplug power tools immediately after each use. Also, power tools must be used under the supervision of an adult at all times during the mission trip. Let’s say our favorite safety phrase altogether: My safety is my number one job\!&nbsp;
 
 &nbsp;
 
 **STATION 6: TAPE MEASURES/CHALK LINES/LEVELS&nbsp;**
 
-Supplies Needed: tape measures, chalk lines, levels, various objects to measure and check level, speed square (optional), T-square (optional)&nbsp;
+Supplies Needed: tape measures, chalk lines, levels, various objects to measure and check the level, speed square (optional), T-square (optional)&nbsp;
 
 Participants should learn how to:&nbsp;
 
@@ -133,21 +133,21 @@ Participants should learn how to:&nbsp;
 * Use a level both vertical and horizontally&nbsp;
 * ADVANCED: Students could also be shown how to use a speed square and T-square&nbsp;
 
-SAFETY TIP: Keep small tools in a central location or on your tool belt. Return them after each use. If you spend less time searching for tools, you’ll have less opportunity to get hurt\! Let’s say our favorite safety phrase all together: My safety is my number one job\!&nbsp;
+SAFETY TIP: Keep small tools in a central location or on your tool belt. Return them after each use. If you spend less time searching for tools, you’ll have less opportunity to get hurt\! Let’s say our favorite safety phrase altogether: My safety is my number one job\!&nbsp;
 
 &nbsp;
 
 **WRAP UP & TOOLS:&nbsp;**
 
 * After everyone has gone through all the stations, gather back together. Have the trainers available after the meeting to answer any additional questions about the skills they learned.&nbsp;
-* Say something like: *When on your work site, do not do anything if it feels unsafe. The work you’ll be doing is very important, and it’s an expression of our love for Jesus, but no task should be done in an unsafe manner.&nbsp;*
+* Say something like: When on your work site, do not do anything if it feels unsafe. The work you’ll be doing is very important, and it’s an expression of our love for Jesus, but no task should be done in an unsafe manner.&nbsp;
 * Say: If you forget safety and get hurt, you won’t be able to keep serving people. So let’s say our favorite safety phrase all together one more time: “My safety is my number one job.” Good job\!&nbsp;
 
 * Pass out the Tool List, if needed. Say something like: The tools we have been asked to bring will help us accomplish just about any task we’re asked to do this summer.&nbsp;
 
-* Review how your group is doing on assembling tools. If they haven’t already, ask participants to look for items in their garage or borrow them before purchasing something brand new. (Some places may be willing to donate tools, so don’t forget to ask\!) Also remind them to put their names on their tools so they get them back. Let them know where they need to bring their tools and when.&nbsp;
+* Review how your group is doing on assembling tools. If they haven’t already, ask participants to look for items in their garage or borrow them before purchasing something brand new. (Some places may be willing to donate tools, so don’t forget to ask\!) Also, remind them to put their names on their tools so they get them back. Let them know where they need to bring their tools and when.&nbsp;
 
-* Pay special attention to the ladders listed. Ladders are often in short supply at the mission trip, so plan to bring plenty of step and extension ladders. Have the owners write their names clearly on their ladders, and put your church’s name on them as well. Ladders are checked into a tool room upon arrival at the lodging facility, and various crews throughout the week will use them. You will need to pick them up on the last night of the mission trip to take home.&nbsp;
+* Pay special attention to the ladders listed. Ladders are often in short supply at the mission trip, so plan to bring plenty of step and extension ladders. Have the owners write their names clearly on their ladders, and put your church’s name on them as well. Ladders are checked into a tool room upon arrival at the lodging facility, and various crews throughout the week will use them. You will need to pick them up on the last night of the mission trip to take them home.&nbsp;
 
 * If you haven’t done so already, review the points of the “Just Painting” document.&nbsp;
 
