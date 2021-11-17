@@ -10,12 +10,11 @@ Adults are one of the most important ingredients in a successful mission trip, a
 
 **BEFORE THE MEETING**
 
-* Login to your customer account and have it up online to assist you.
+* Log-in to your customer account and have it up online to assist you.
 * Print copies of the Adult Guide to hand out
-* It’s up to you if you want to print out copies of other documents. You could print the Schedule, Packing List, Tool List, or The Code of Conduct.
+* It’s up to you if you want to print out copies of other documents. You could print the Schedule, Packing List, Tool List, or the Code of Conduct.
 * You can share the lodging facility details by showing them on the screen or copying it into a document to share.
 * Have a way to show the Adult Expectations Video [click here](https://vimeo.com/302123478/1ed84e15cc){: target="_blank" rel="noopener"}.
-* Have a way to show the Program Video [click here](https://vimeo.com/392103477){: target="_blank" rel="noopener"}.&nbsp;
 * A whiteboard and marker would be handy if you have access to one.
 
 **WELCOME**
