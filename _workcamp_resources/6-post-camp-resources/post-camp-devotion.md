@@ -6,4 +6,4 @@ order: 3
 order_number: 3
 ---
 
-Post camp devotions will be available after camp is over.&nbsp;
+You will be able to access the Post Camp Devotions here after camps are over.
