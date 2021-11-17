@@ -15,8 +15,8 @@ order_number: 4
 #### **FAST**
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **Glorious Day** | **Passion** |
-| **Open the Gates** | **Vertical Worship** |
+| Glorious Day | Passion |
+| Open the Gates | Vertical Worship |
 | Alive Again | Matt Maher |
 | Unstoppable God | Elevation Worship |
 | You Are Holy (Prince of Peace) | Michael W. Smith |
@@ -30,8 +30,8 @@ order_number: 4
 #### MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **Way Maker** | **Leeland** |
-| **See a Victory** | **Elevation Worship** |
+| Way Maker | Leeland |
+| See a Victory | Elevation Worship |
 | King of My Heart | Sarah McMillan |
 | The Lion and the Lamb | Big Daddy Weave |
 | How Great is our God | Chris Tomlin |
@@ -46,9 +46,9 @@ order_number: 4
 #### SLOW
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **O Come to the Altar** | **Elevation Worship** |
-| **What a Beautiful Name** | **Hillsong Worship** |
-| **How Deep the Father’s Love for Us** | **Stuart Townend** |
+| O Come to the Altar | Elevation Worship |
+| What a Beautiful Name | Hillsong Worship |
+| How Deep the Father’s Love for Us | Stuart Townend |
 | Holy Spirit | Francesca Battistelli |
 | Lord, I Need You | Matt Maher |
 | Great Are You Lord | All Sons and Daughters |
