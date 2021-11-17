@@ -6,7 +6,7 @@ order: 4
 order_number: 4
 ---
 
-Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal killer of a question…<br>&nbsp;
+Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal-killer of a question…<br>&nbsp;
 
 “Why can’t we just do that here?”
 
@@ -24,15 +24,15 @@ Maybe you get the work done but you miss the real impact of going on a mission t
 
 **Concentration**
 
-If you’ve ever had a spoonful of frozen juice concentrate, you know what a powerful experience that can be. Once you add water, it’s just juice, but if you want something out of the ordinary, there’s nothing quite like juice concentrate. The same is true with mission experiences. Do one around home and your young people might see it as just helping out around home. Go to a community unlike yours, spend 24/7 with members of your group and get busy doing things you don’t normally do (like swing a hammer or teach a third grader about Jesus) and WHAM\! You’ve tasted concentrate.
+If you’ve ever had a spoonful of frozen juice concentrate, you know what a powerful experience that can be. Once you add water, it’s just juice, but if you want something out of the ordinary, there’s nothing quite like juice concentrate. The same is true with mission experiences. Do one around the home and your young people might see it as just helping out around the home. Go to a community unlike yours, spend 24/7 with members of your group and get busy doing things you don’t normally do (like swing a hammer or teach a third grader about Jesus) and WHAM\! You’ve tasted concentrate.
 
-You’ve been challenged and stretched in a way that just doesn’t happen at home. You’ve seen your friends in their extremes, when pretend doesn’t hold up, and masks fall off. Now you’re getting down to what’s real. Top it off with the fact that you get to interpret this concentrated experience through the eyes of faith and nothing can match the power of going away for a mission trip.
+You’ve been challenged and stretched in a way that just doesn’t happen at home. You’ve seen your friends in their extremes when pretend doesn’t hold up, and masks fall off. Now you’re getting down to what’s real. Top it off with the fact that you get to interpret this concentrated experience through the eyes of faith and nothing can match the power of going away for a mission trip.
 
 **Inspiration**
 
 Inspiration is a spiritual experience. Moving away from what you know, and spending time in a place that you might never otherwise experience, is inspirational. It touches your spirit. A mission trip isn’t a vacation. On a mission trip, you go where tourists are never allowed…into the lives of real people. You drive the side streets and back roads. You spend time in the homes and touch the hearts of people you might not otherwise ever meet. When those connections happen you can feel the Holy Spirit at work in your life and see him at work in the lives of others.
 
-And it’s Biblical. When Elijah was at his wits end and needed renewal, God took him away from home. He showed his power but spoke in a still, small voice. There, in a strange place and away from the stuff of home, Elijah was inspired. He returned home renewed and changed by his encounter with God (1 Kings 19).
+And it’s Biblical. When Elijah was at his wit's end and needed renewal, God took him away from home. He showed his power but spoke in a still, small voice. There, in a strange place and away from the stuff of home, Elijah was inspired. He returned home renewed and changed by his encounter with God (1 Kings 19).
 
 **Combination**
 
