@@ -6,6 +6,6 @@ order: 2
 order_number: 2
 ---
 
-The Community Service Award will be available after camp is over.
+You will be able to access the Community Service Certificate after your camp is over.&nbsp;
 
 &nbsp;
