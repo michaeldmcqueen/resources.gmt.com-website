@@ -29,3 +29,5 @@ We love that our mission trip participants enjoy promoting their trip to their c
 ### Go Serve logos
 
 [![](/uploads/gmt-worth-it-line.png){: width="433" height="436"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Eg7CqGYRfXBHig0uCgBoh8YBI80Ibf3TfPSXk0jv-hVhpA?e=APSmJY){: target="_blank" rel="noopener"}
+
+[![](/uploads/go-serve-black.png){: srcset="/uploads/go-serve-black.png 800w, /uploads/go-serve-black@2x.png 1600w" width="800" height="654"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/ElXeQM1s_apBqy12hz29CA8B4j7glN1ghy_rsiPK6hv7aQ?e=KipEQr){: target="_blank" rel="noopener"}
