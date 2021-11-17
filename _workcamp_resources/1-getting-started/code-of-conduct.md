@@ -15,7 +15,7 @@ order_number: 3
 * I will respect the local community and those we live with for the mission trip by not damaging the lodging facility or other property.&nbsp;
 * I will respect those around me by not using obscene or abusive language or engaging in reckless behavior that could cause harm to others or myself.&nbsp;
 * To help the mission trip time be focused on interacting with God and others, I will not bring electronic video devices, computers, or toy guns. I understand there is no security for valuables.&nbsp;
-* In order to build relationships with participants and residents at the mission trip, I will not use my cell phone or iPod, etc. on worksites or during worship programs.&nbsp;
+* In order to build relationships with participants and residents at the mission trip, I will not use my cell phone or iPod, etc. on work sites or during worship programs.&nbsp;
 * For my safety, I will not leave the lodging facility or project sites without an adult if I am under 21.&nbsp;
 * I will not change room assignments, so my location will be known if I need to be contacted in an emergency.&nbsp;
 * To respect other participants and so all can get the rest needed, I will respect the scheduled lights-out time.&nbsp;
