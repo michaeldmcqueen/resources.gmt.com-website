@@ -21,9 +21,7 @@ Adults are one of the most important ingredients in a successful mission trip, a
 
 Say: *I want to start by saying a big “Thank You\!” for being a part of this summer’s mission trip. Our teenagers couldn’t experience a trip like this without you. I want you to know something-this is bigger than you, or me, or our church, or even the people that we’ll serve. When God brings together all the people, parts, and plans of our Group Mission Trip, our youth grow closer to Jesus, and lives are changed. That’s what it’s all about, and that’s what you’re a part of. So thanks again\!*
 
-*Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is "Worth It". We all struggle at times with a sense of worth or significance. Am I worthy of what I receive? This can be both positive – “Do I deserve the gifts I’ve been given?” Or negative – “Why did this bad thing happen to me?” This summer at Group Mission Trips, participants will experience a fresh look at the idea of worth through the parable of the prodigal son (Luke 15:11-32 NIV).*
-
-*Each day participants will explore the story of the prodigal son from the perspective of the three main characters in the story – the father, the older son, and the younger son. Each person will discover how they are Worth It to Jesus as a result. No matter what they thought in the past. No matter what choices they’ve made. We are all Worth It to Jesus\!*
+*Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is Go Serve. Group Mission Trips will be calling everyone to Go Serve and move people form doing service projects to becoming people who serve as a lifestyle. On each trip, we will focus on God’s call on us to serve in freedom. We will discover that Jesus is the reason we serve. We will learn that serving is a way to give praise to God. We will challenge ourselves to serve even when no one notices. We will remember that the ultimate example of service is Jesus’ humility and willingness to die for us. And we will discover that God blesses us when we serve.*
 
 *We’re going to go over three very important ideas that will help us have a great attitude and give an example of great behavior while on our mission trip.*
 
@@ -43,7 +41,7 @@ DON’T BE “THE BOSS”
 
 * Activity: Divide the group of adults into smaller groups of three or four. Have each group brainstorm ways they could be controlling and acting like “The Boss” while on the mission trip. After several minutes of sharing, record ideas from each group on the whiteboard. Make sure you give every group a chance to share ideas. After gathering all the ideas, highlight the following:
 * Say something like: *Thank you for all those ideas. I want to make sure to mention a couple of ideas again (or “in addition to the great ideas you came up with,” if they didn’t get shared as part of the brainstorm). Let’s remember that the trip is about the teenagers–not us. Our role is to encourage and guide, not be a director or dictator.*
-* *One way we can fall into acting like “The Boss” on our project site. There will be crew roles for each person on your crew. Let the youth participants fill the work director and the devotion leader roles. This will allow the kids to lead and we’ll be there to give guidance and encouragement.*
+* *One way we can fail is acting like “The Boss” on our project site. There will be crew roles for each person on your crew. Let the youth participants fill the work director and the devotion leader roles. This will allow the kids to lead and we’ll be there to give guidance and encouragement.*
 * *Do take the lead in checking safety at your project sites and our lodging facility. This includes not letting the kids leave the project or lodging facility without you or another adult. If you ever see something during the trip that looks unsafe or inappropriate or is just something you are uncomfortable with, let the camp staff know right away.*
 
 DON’T BE INAPPROPRIATE
@@ -65,12 +63,12 @@ Pass out any copies you made:
 * Tool List: Review the list and discuss what items you are still missing and plans to obtain them, store them, and transport them to camp.
 * Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located under your customer account under Schedule, Menu, and Packing. Give an update on how your group is handling this.
 * Code of Conduct: Participants live by this code during camp, emphasize the importance of reading it and point out the section on there specific to adults. Every participant agrees to it when they sign their Participant Info Form online.
-* Theme and program info: It's wise to set good expectations about our program. Make sure your adults understand these key elements of our program and show the program promo video if you would like:&nbsp;
+* Theme and program info: It's wise to set good expectations about our program. Make sure your adults understand these key elements of our program.&nbsp;
   * *Focused on Jesus.*&nbsp;Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
   * *Interactive.*&nbsp;People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting…not just sitting and watching.
   * *Relevant.*&nbsp;Through creative multimedia, thought-provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
   * *Fun.*&nbsp;Relationship-building activities, games, and having fun are part of every program. Expect to have a great time\!&nbsp;
-* Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one
+* Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one.
 
 **BACKGROUND CHECKS**
 
