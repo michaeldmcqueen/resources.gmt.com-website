@@ -7,6 +7,6 @@ order: '4'
 
 ## We value your feedback\!
 
-If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.)
+You will be able to access the camp survey here after camps are over.
 
-**[Take the survey &gt;](https://www.surveymonkey.com/r/2021Workcamps){: target="_blank" rel="noopener"}**
+&nbsp;
