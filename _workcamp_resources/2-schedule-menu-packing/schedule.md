@@ -21,7 +21,7 @@ order_number: 1
 **MON, TUES, THURS, FRIDAY**
 
 | 6:45 a.m | Wake-up call |
-| 7–7:45 a.m | Breakfast<br>Gather Tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
+| 7–7:45 a.m | Breakfast<br>Gather tools<br>Fill water jugs<br>Pack coolers with lunches&nbsp; |
 | 8 a.m | Morning program&nbsp;<br>Depart for sites<br>Work on project<br>Lunch and crew devotions |
 | 3:30 p.m | Return to the lodging facility<br>Camp store is open&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Report progress<br>Recreation/free time |
 | 5–6:30 p.m | Dinner |
