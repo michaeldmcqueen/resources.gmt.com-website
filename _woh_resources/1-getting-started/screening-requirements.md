@@ -10,7 +10,7 @@ order_number: 5
 
 ## Requirements:&nbsp;
 
-All participants that are age 18 or older, who are registered for a Group Mission Trip event, must submit to a national background check and have an authorization from the pastor submitted to Group Mission Trips at least 30 days before the event starts.&nbsp;
+All participants that are age 18 or older, who are registered for a Group Mission Trip event, must submit to a national background check and have authorization from the pastor submitted to Group Mission Trips at least 30 days before the event starts.&nbsp;
 
 Administration of the required background check is the sole responsibility of the participant or their church. The background check must be conducted by a qualified service provider and include the following minimum criteria:&nbsp;
 
