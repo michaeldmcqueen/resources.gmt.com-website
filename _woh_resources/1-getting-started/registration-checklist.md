@@ -20,7 +20,7 @@ If I have both boys and girls in my group, I have at least one male adult and on
 
 Under Participant Info, the parent/guardian of all my participants that are 17 years or younger have filled out the information and digitally signed.
 
-Under Participant Info, every participant that is 18 or older has filled out their information and digitally signed.
+Under Participant Info, every participant that is 18 or older has filled out their information and digitally signed it.
 
 I have verified that every participant is on the list, only once, and that their information is correct. (I double-checked age, gender, spelling, skill levels if attending a Workcamp, and used the delete button to get rid of duplicates.)
 
