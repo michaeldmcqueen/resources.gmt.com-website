@@ -19,9 +19,9 @@ order_number: 4
 * Laundry/plastic bags (for dirty clothing)
 * Long pants or jeans
 * Modest shorts and work t-shirts
-* Pajamas, socks and underwear
+* Pajamas, socks, and underwear
 * Sturdy shoes
-* Water bottle
+* Water bottle (refillable, to be used at your work site)&nbsp;
 * Personal health insurance card or copy
 * Bible
 * Jacket
@@ -39,9 +39,9 @@ order_number: 4
 * Alarm clock\* (battery-powered)
 * Spending money\*
 * Games for free time\*
-* Fun items for our theme dinners\*: Mustache Monday, Wacky Wednesday, Tropical Thursday
-* **Pen/Pencil for program and devotions**
-* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry)**
+* Fun items for our theme dinners\*: Christmas Monday, Wacky Wednesday, Tropical Thursday
+* Pen/Pencil for program and devotions
+* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry- to be determined later in the spring)**
 
 &nbsp;\*Optional Items&nbsp;
 
@@ -50,14 +50,14 @@ order_number: 4
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
-* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room)**
-* **Hand sanitizer for your vehicles and sleeping rooms**
+* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room- to be determined in the spring)**
+* **Hand sanitizer for your vehicles and sleeping rooms ( to be determined in the spring)**
 
 COMMUNITY GIFT: The community you are serving has a specific need and is asking for donations. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
 
 Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance\!
 
-* Involve your congregation, friends and even your local businesses in the effort.
+* Involve your congregation, friends, and even your local businesses in the effort.
 * Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
 
 **WHAT NOT TO BRING:&nbsp;**
@@ -65,7 +65,7 @@ Check on your customer account, under “Helpful Resources, and then Schedule, M
 * Alcohol, tobacco products, or illegal drugs&nbsp;
 * Expensive clothes or jewelry&nbsp;
 * Anything really valuable&nbsp;
-* Fireworks, weapons or toy guns&nbsp;
+* Fireworks, weapons, or toy guns&nbsp;
 * Skimpy or revealing clothes&nbsp;
   * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
 
