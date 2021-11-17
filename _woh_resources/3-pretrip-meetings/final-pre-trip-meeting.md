@@ -30,30 +30,30 @@ Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer
 
 **ITINERARY/FINANCES**
 
-* Remind everyone of the exact dates and times you’ll be leaving and returning. The more details you can give, the more reassured the parents will feel. Share your, and your adult participant’s cell numbers, with parents.
-* Discuss your group’s plans for free time and dinner on Tuesday afternoon/evening and if there is an additional cost or release form needed. Talk about any other fun activities or overnight stays you have planned.
-* Give update on how the group is doing with their fundraising.
+* Remind everyone of the exact dates and times you’ll be leaving and returning. The more details you can give, the more reassured the parents will feel. Share your, and your adult participant’s, cell numbers with the parents.
+* Discuss your group’s plans for free time and dinner on Tuesday afternoon/evening and if there is an additional cost or release form needed. Talk about any other fun activities or overnight stays that you have planned.
+* Give update on how the group is doing with its fundraising.
 
 **LODGING**
 
 * Make sure every parent has the lodging information and address. Let parents know that they can send mail to participants during the week.
 * As camp gets closer, there will be contact information populated on that Lodging Info tab that includes a phone number and email address for the staff **at camp**. If there’s an emergency and parents can’t get a hold of anyone in your group, they can call that number to leave a message for your camp staff.
-* As you review the AC and shower details at your camp’s lodging facility, remind participants that this is a mission trip\! It’s their opportunity to sacrifice certain luxuries in order to concentrate on serving others and growing closer to God.
+* As you review the AC and shower details at your camp’s lodging facility, remind participants that this is a mission trip\! It’s their opportunity to sacrifice certain luxuries to concentrate on serving others and growing closer to God.
 
 **WHAT TO BRING**
 
 * Hand out and review the Packing List in detail.
-  * Remind everyone that they will be sleeping on the floor and need to bring a single-size air mattress (unless otherwise noted on your Lodging Info).&nbsp;
+  * Remind everyone that they will be sleeping on the floor and need to bring a single-sized air mattress (unless otherwise noted on your Lodging Info).&nbsp;
 * Give an update on the community gift donations you are bringing as a group. Do the parents need to help with this?&nbsp;
 * Review what NOT to bring.
   * You and your adults will be responsible for your participant’s dress during camp. This is a perfect time to set your guidelines for appropriate dress within your group.
   * Group Mission Trips staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth. GMT recommends all participants wear modest clothes that are appropriate in every situation and will not embarrass anyone.&nbsp;
-  * Say: *We’ll be serving at local organizations that do have specific dress requirements. Don’t get turned away from a project site because of in appropriate attire\! Pack plenty of t-shirts, longer shorts or pants, and tennis shoes. Also, ladies need to bring one-piece swimsuits in case you are assigned to a project site teaching a resident how to swim. Please no tanks with skinny straps, shirts that reveal the midriff, short shorts or flip flops. And, no clothing with offensive language or images. Our goal is to serve these organizations and residents while showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians.&nbsp;*
+  * Say: *We’ll be serving at local organizations that do have specific dress requirements. Don’t get turned away from a project site because of inappropriate attire\! Pack plenty of t-shirts, longer shorts or pants, and tennis shoes. Also, ladies need to bring one-piece swimsuits in case **they are assigned to a project site teaching a resident how to swim**. Please no tanks with skinny straps, shirts that reveal the midriff, short shorts or flip flops. And, no clothing with offensive language or images. Our goal is to serve these organizations and residents while showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians.&nbsp;*
   * Thank parents for their support in this.&nbsp;
 
 **CODE OF CONDUCT AND RELEASE AGREEMENT**
 
-* Pull up your online customer account. The Code of Conduct and Liability and Release Agreement are both there. (You should have already gone through the Adult section of the Code of Conduct with your adults in your separate Adult Pre-Trip Meeting.)
+* Pull up your online customer account. The Code of Conduct and Liability and Release Agreement are both there under Helpful Resources and Getting Started. (You should have already gone through the Adult section of the Code of Conduct with your adults in your separate Adult Pre-Trip Meeting.)
 * Read through the Code of Conduct. Remind everyone that, by signing their Participant Info Form, they are agreeing to both the Code of Conduct and the Liability and Release Agreement.
 * Talk about any other discipline/rules that you have.&nbsp;
 
