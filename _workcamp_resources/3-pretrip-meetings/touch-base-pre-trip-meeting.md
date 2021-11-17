@@ -24,7 +24,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 **YOUR CUSTOMER ACCOUNT**
 
-* Personal “Worth It” devotions are available now- they’re designed to prepare the hearts of your participants for service and growth\!&nbsp;
+* Personal “Go Serve” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth\!&nbsp;
 * The "Song List." &nbsp;Share and start listening to these songs so you are ready for camp\!&nbsp;
 
 **UPDATES**
