@@ -8,7 +8,9 @@ order_number: 3
 
 It’s scary and difficult traveling when you have a special diet. We want to help you as much as we are able to within our budget. We have listed below some possible options from our menu that may work for you. (Please note: Group Mission Trips cannot guarantee that cooking surfaces or utensils have not been in contact with gluten, so the very best way to be safe is to bring food with you.)
 
-Anything marked (\*) may contain gluten additives, double check with our camp staff about those.&nbsp;
+Anything marked (\*) may contain gluten additives, double-check with our camp staff about those.&nbsp;
+
+Please scroll to the bottom to see more details about the gluten-free items we can provide at camp.
 
 **BREAKFAST**
 
@@ -20,7 +22,7 @@ Anything marked (\*) may contain gluten additives, double check with our camp st
 
 **LUNCH**
 
-* Lunch meat\*&nbsp;
+* Lunchmeat\*&nbsp;
 * Peanut butter and jelly&nbsp;
 * Cheese, tomatoes, lettuce, mayo, mustard&nbsp;
 * Fruit or veggie options&nbsp;
@@ -31,7 +33,7 @@ Anything marked (\*) may contain gluten additives, double check with our camp st
 
 Peanut butter and jelly available each night&nbsp;
 
-**Sunday**\: Meal provided by local community so unknown&nbsp;
+**Sunday**\:&nbsp; Gluten free pizza can be served
 
 **Monday**\: Vegetables and ice cream cups&nbsp;
 
