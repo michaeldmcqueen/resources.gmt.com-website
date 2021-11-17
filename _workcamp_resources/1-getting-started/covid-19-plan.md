@@ -16,7 +16,7 @@ The safety of the students, adults, staff, and residents of the communities we s
 * If any participant exhibits symptoms determined to be potentially identified with COVID-19, they may be dismissed along with their crew, or sleeping room, or cohort group, or youth group.\*
 * Following local guidelines, everyone may be required to wear masks when in all public or shared places. For example, at work sites, at the lodging facility, in enclosed areas, during gatherings, and interactions with other groups.
 * Encourage each other to maintain social distancing, wash hands frequently, and remain respectful of others’ needs to be safe in their individual ways.
-* Our staff is recruiting extra facility volunteers to assist with increased sanitization and cleaning tasks.
+* Our staff may recruit extra facility volunteers to assist with increased sanitization and cleaning tasks.
 
 *\*No refunds will be provided in this case.*
 
