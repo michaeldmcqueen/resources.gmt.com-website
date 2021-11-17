@@ -20,7 +20,7 @@ Login to your customer account to help field any questions. Make note of what yo
 
 Create a simple handout for participants, parents, and adults that provides the dates (including travel), location, and any other important details. Distribute these at your meeting and consider sending them by email as well\!
 
-Plan to show the [Group Workcamps Promo Video](https://youtu.be/4DXWSAVYqk4){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300598078){: target="_blank" rel="noopener"}&nbsp; (both under Helpful Resources) and the [Program Video](https://vimeo.com/392103477){: target="_blank" rel="noopener"}&nbsp;(located under Program) from your customer account. Make sure everything is working well.
+Plan to show the [Group Workcamps Promo Video](https://youtu.be/4DXWSAVYqk4){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300598078){: target="_blank" rel="noopener"}&nbsp; (both under Helpful Resources) from your customer account. Make sure everything is working well.
 
 **MEETING CONTENT:**
 
