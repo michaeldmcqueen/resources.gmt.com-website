@@ -14,7 +14,7 @@ order_number: 1
 
 * Prepare crews: Divide your group into crews of six people, with at least one adult per crew. If your group size isn’t easily divisible by six, crews of five are fine, too. Assign each crew a number, starting at one and going up as high as needed. Post these crew lists on the door or walls when people arrive.&nbsp;
 
-* Plan for service: For best results, begin to plan weeks before this event. Find enough service projects within your church facility for each crew to have their own project to complete within 30 minutes or so. Any type of service will work: cleaning, painting, office work, sorting supplies or straightening storage closets. OR serve outside your facility doing yard work for elderly members, small home repairs, volunteering at a local non-profit–the possibilities are endless\!&nbsp;
+* Plan for service: For best results, begin to plan weeks before this event. Find enough service projects within your church facility for each crew to have their own project to complete within 30 minutes or so. Any type of service will work: cleaning, painting, office work, sorting supplies, or straightening storage closets. OR serve outside your facility doing yard work for elderly members, small home repairs, volunteering at a local non-profit–the possibilities are endless\!&nbsp;
 
 * Communicate projects: Write up and print a brief description of what each numbered crew will be doing, including the location and supplies needed as well.&nbsp;
 
@@ -36,7 +36,7 @@ order_number: 1
 * Pass out the Crew Roles sheet.&nbsp;
 * Say something like: *Today we’re going to participate in serving others and we’ll learn how we’ll serve on our mission trip next summer along the way. You are sitting with your new small group – a work crew – and you’ll serve with your crew in a few moments. To start, introduce yourselves by giving your name, and give 3 personal highlights from the past year. Then take turns reading the Crew Roles sheet you’ve received and decide who will perform which role today. You have 10 minutes to do this and then I’ll give you more instructions. Go\!&nbsp;*
 * Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1 minute left. Pass out the list of the assigned projects to each crew.&nbsp;
-* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend to do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
+* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend on youto do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
 
 **UNPACKING SERVICE:&nbsp;**
 
@@ -46,9 +46,9 @@ order_number: 1
 
 ---
 
-**CREW ROLES:**
+### **Crew Roles**
 
-ON THIS SUMMER’S MISSION TRIP: Crews are typically made up of six people; four or five teenagers and one or two adults. You will most likely be on a crew with people from different churches‑it’s a great chance to make new friends\! Each crew member fills one of these roles:
+**ON THIS SUMMER’S MISSION TRIP**\: Crews are typically made up of six people; four or five teenagers and one or two adults. You will most likely be on a crew with people from different churches‑it’s a great chance to make new friends\! Each crew member fills one of these roles:
 
 * BREAK MAKER—Gathers lunch items and water for the crew. The break maker also schedules break times and makes sure the crew drinks plenty of water.
 * PROGRESS REPORTER—Reports back each day to mission trip staff about the crew’s project progress.
