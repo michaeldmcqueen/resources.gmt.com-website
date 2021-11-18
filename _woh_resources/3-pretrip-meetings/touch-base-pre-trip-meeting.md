@@ -24,10 +24,11 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 **YOUR CUSTOMER ACCOUNT**
 
-* Personal “Worth It” devotions are available now on your site- they’re designed to prepare the hearts of your participants for service and growth\!
-* The "Song List." &nbsp;Share and start listening to these songs so you are ready for camp\!&nbsp;
+* Personal “Go Serve” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth\!
 
-* Give updates on any changes you’ve had to the itinerary, trip participants, etc. Give an update on your community gift donations too.
+**UPDATES**
+
+* Give updates on any changes you’ve had to the itinerary, trip participants, etc. Give an update on your community gift donations as well.
 
 **READY TO SERVE DAY?**
 
