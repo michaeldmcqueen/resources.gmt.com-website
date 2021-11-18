@@ -120,7 +120,7 @@ Registered groups will have access to more information about their lodging facil
 
 Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals will be prepared for participants by kitchen staff. Picnic-style lunches will be assembled in the mornings and brought to work sites. The first provided meal is dinner on Sunday and the last meal is breakfast on Saturday. IMPORTANT NOTE: Dinner is NOT provided on Wednesday, youth groups have free time this day, and dinner is on their own.
 
-For registered groups: If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten-free options at camp but need to have an accurate number to plan for. The sample menu is available to youth leaders under their customer account and under Helpful Resources. Participants with special diets or allergies are welcome to bring their own food items to fill in as needed during the week. Please know that we do have peanut butter on the menu. GMT is unable to guarantee there will not be any cross-contamination during meal preparation by kitchen staff. There will be a staff member available at camp who will be able to answer any questions about food.
+For registered groups: If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten-free options at camp but need to have an accurate number to plan for. The sample menu is available to youth leaders under their customer account and under Helpful Resources. Share this with your participants so they can start planning. Participants with special diets or allergies are welcome to bring their own food items to fill in as needed during the week. Please know that we do have peanut butter on the menu. GMT is unable to guarantee there will not be any cross-contamination during meal preparation by kitchen staff. There will be a staff member available at camp who will be able to answer any questions about food.
 
 ---
 
@@ -159,7 +159,7 @@ We recognize that unexpected events happen that can pull participants away from 
 ### What’s included in the registration fee?
 
 * Lodging during the camp.&nbsp;
-* All meals, except for dinner on Wednesday for a Workcamp.&nbsp;
+* All meals, except for dinner on Wednesday.
 * Site selection and organization.&nbsp;
 * Supplies and project materials for each work site.&nbsp;
 * Bible-based thematic, fun, faith-building programs.&nbsp;
