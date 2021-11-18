@@ -24,9 +24,9 @@ order_number: 2
 
 * Print:
 
-  1. “Crew Roles” sheets (page 3 of this) –one sheet for each participant.
+  1. “Crew Roles” sheets (below) –one sheet for each participant.
 
-  2. “Devotion Leader Questions” (page 4 of this) –one per crew.&nbsp;
+  2. “Devotion Leader Questions” (below) –one per crew.&nbsp;
 
 ---
 
@@ -35,8 +35,8 @@ order_number: 2
 * As participants arrive, instruct them to find their name and crew on the lists that are posted on the door or wall and to sit down with their new “crew.”&nbsp;
 * Pass out the Crew Roles sheet.&nbsp;
 * Say something like: *Today we’re going to participate in serving others and we’ll learn how we’ll serve on our mission trip next summer along the way. You are sitting with your new small group – a work crew – and you’ll serve with your crew in a few moments. To start out, introduce yourselves by giving your name, and give 3 personal highlights from the past year. Then take turns reading the Crew Roles sheet you’ve received and decide who will perform which role today. You have 10 minutes to do this and then I’ll give you more instructions. Go\!&nbsp;*
-* Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1 minutes left. Pass out the list of the assigned projects to each crew.&nbsp;
-* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend to do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
+* Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1 minute left. Pass out the list of the assigned projects to each crew.&nbsp;
+* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend on you to do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
 
 **UNPACKING SERVICE:&nbsp;**
 
