@@ -6,11 +6,11 @@ order: 4
 order_number: 4
 ---
 
-Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal killer of a question…<br>&nbsp;
+Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal-killer of a question…<br>&nbsp;
 
 “Why can’t we just do that here?”
 
-On the face of it this seems an impossible question to answer. After all, almost any of the work you do on a mission trip could be done just as easily where you live…couldn’t it? Yes…if a mission trip is all about repairing homes, or community service or teaching VBS or any of the other things you might do on a mission trip. But mission trips aren’t just about what you’re doing. They’re about the whole complex process of pushing teens out of their comfort zone for the sake of building relationships and creating space for them to experience God. Here’s how it works…
+On the face of it, this seems an impossible question to answer. After all, almost any of the work you do on a mission trip could be done just as easily where you live…couldn’t it? Yes…if a mission trip is all about repairing homes, or community service or teaching VBS or any of the other things you might do on a mission trip. But mission trips aren’t just about what you’re doing. They’re about the whole complex process of pushing teens out of their comfort zone for the sake of building relationships and creating space for them to experience God. Here’s how it works…
 
 **Isolation**
 
@@ -30,7 +30,7 @@ You’ve been challenged and stretched in a way that just doesn’t happen at ho
 
 **Inspiration**
 
-Inspiration is a spiritual experience. Moving away from what you know, and spending time in a place that you might never otherwise experience, is inspirational. It touches your spirit. A mission trip isn’t a vacation. On a mission trip you go where tourists are never allowed…into the lives of real people. You drive the side streets and back roads. You spend time in the homes and touch the hearts of people you might not otherwise ever meet. When those connections happen you can feel the Holy Spirit at work in your life and see him at work in the lives of others.
+Inspiration is a spiritual experience. Moving away from what you know, and spending time in a place that you might never otherwise experience, is inspirational. It touches your spirit. A mission trip isn’t a vacation. On a mission trip, you go where tourists are never allowed…into the lives of real people. You drive the side streets and back roads. You spend time in the homes and touch the hearts of people you might not otherwise ever meet. When those connections happen you can feel the Holy Spirit at work in your life and see him at work in the lives of others.
 
 And it’s Biblical. When Elijah was at his wits end and needed renewal, God took him away from home. He showed his power but spoke in a still, small voice. There, in a strange place and away from the stuff of home, Elijah was inspired. He returned home renewed and changed by his encounter with God (1 Kings 19).
 
