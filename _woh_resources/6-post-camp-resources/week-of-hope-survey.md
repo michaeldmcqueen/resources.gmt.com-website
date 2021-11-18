@@ -10,8 +10,6 @@ order_number: 4
 
 ## We value your feedback\!
 
-If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.)
-
-[**Take the survey &gt;**](https://www.surveymonkey.com/r/2021WeekOfHope){: target="_blank" rel="noopener"}
+You will be able to access the camp survey here after the camps are over.
 
 &nbsp;
