@@ -6,4 +6,4 @@ order: 1
 order_number: 1
 ---
 
-You will be able to access the camp photos here after camps are over.
+You will be able to access the camp photos here after the camps are over.
