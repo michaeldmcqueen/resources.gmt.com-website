@@ -8,6 +8,6 @@ order_number: 3
 
 &nbsp;
 
-### COMING SOON...
+### COMING SOON…
 
 &nbsp;
