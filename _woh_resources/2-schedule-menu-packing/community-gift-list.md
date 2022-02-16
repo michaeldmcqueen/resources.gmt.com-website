@@ -31,6 +31,6 @@ order_number: 5
 
 **Kenosha, WI** &nbsp;-&nbsp; Baby wipes and diapers of varying sizes for Foster Family Support Network. Larger sizes are needed. A great suggestion is that campers bring the size of the week they are going. Example, if you are going to our first week in Kenosha, bring size 1.&nbsp;
 
-**San Diego, CA** - Coming soon.
+**San Diego, CA** - Nonperishable food items.
 
-**Austin, TX** - Coming soon.
+**Austin, TX** - Nonperishable food items.
