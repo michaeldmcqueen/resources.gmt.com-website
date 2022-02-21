@@ -6,7 +6,7 @@ order: 4
 order_number: 4
 ---
 
-* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list.
+* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2022.
 * Listen to all of these songs now\! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one\!&nbsp;
 
 ### &nbsp;
@@ -14,6 +14,7 @@ order_number: 4
 #### **FAST**
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
+| **Graves into Gardens** | **Elevation Worship** |
 | Glorious Day | Passion |
 | Open the Gates | Vertical Worship |
 | Alive Again | Matt Maher |
@@ -29,6 +30,9 @@ order_number: 4
 #### MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
+| **Raise a Hallelujah** | **Bethel Music** |
+| **Good Grace** | **Hillsong** |
+| **Same God** | **Elevation Worship** |
 | Way Maker | Leeland |
 | See a Victory | Elevation Worship |
 | King of My Heart | Sarah McMillan |
@@ -45,6 +49,7 @@ order_number: 4
 #### SLOW
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
+| **Goodness of God** | **Bethel Music** |
 | O Come to the Altar | Elevation Worship |
 | What a Beautiful Name | Hillsong Worship |
 | How Deep the Father’s Love for Us | Stuart Townend |
