@@ -24,7 +24,7 @@ Plan to show the [Group Workcamps Promo Video](https://youtu.be/CvrFylFlSqU){: t
 
 **MEETING CONTENT:**
 
-Say: *Welcome to our Mission Trip meeting\! We are heading to (your mission trip location) this summer during (your dates). This trip will create long-lasting memories –it’s an adventure there we’ll meet people who are in need and we’ll be able to make a real difference in their lives. On top of that, we’ll make friendship connections with people from all over the country, deepen our connection with Jesus, and have an awesome time together\! It’s a big deal, so let’s watch this video to get a visual.* (Play the [Group Workcamps promo video](https://youtu.be/4DXWSAVYqk4){: target="_blank" rel="noopener"} or the [Youth Expectation Video](https://vimeo.com/300598078)).
+Say: *Welcome to our Mission Trip meeting\! We are heading to (your mission trip location) this summer during (your dates). This trip will create long-lasting memories –it’s an adventure there we’ll meet people who are in need and we’ll be able to make a real difference in their lives. On top of that, we’ll make friendship connections with people from all over the country, deepen our connection with Jesus, and have an awesome time together\! It’s a big deal, so let’s watch this video to get a visual.* (Play the [Group Workcamps promo video](https://youtu.be/CvrFylFlSqU){: target="_blank" rel="noopener"} or the [Youth Expectation Video](https://vimeo.com/300598078)).
 
 (Another way to build excitement is to invite a couple of kids, or adults, who have been on a Group Mission Trip before to share about their experience.)
 
