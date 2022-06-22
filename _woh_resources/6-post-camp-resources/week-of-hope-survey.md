@@ -6,10 +6,8 @@ order: '4'
 order_number: 4
 ---
 
-&nbsp;
-
 ## We value your feedback\!
 
-You will be able to access the camp survey here after the camps are over.
+We want to know what you think about your camp experience. If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.) &nbsp;**Plus, five survey respondents will be randomly selected to each receive a $100 VISA Gift Card\!**
 
-&nbsp;
+<div><p><strong><a href="https://www.surveymonkey.com/r/2022WeekOfHope" target="_blank" rel="noopener">https://www.surveymonkey.com/r/2022WeekOfHope</a></strong></p></div>
