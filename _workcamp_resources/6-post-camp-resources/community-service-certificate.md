@@ -6,6 +6,8 @@ order: 2
 order_number: 2
 ---
 
-You will be able to access the Community Service Certificate after your camp is over.&nbsp;
+# **Certificates:**
 
-&nbsp;
+Click the image below for the Community Service Certificate to fill in your name and print it out. \*Note: The PDF is editable and allows you to input your name using a PDF reader before printing.
+
+![](/uploads/community-service-award-2022.pdf)
