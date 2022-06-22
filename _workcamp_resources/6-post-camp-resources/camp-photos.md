@@ -10,4 +10,4 @@ You can access the camp photos by clicking the link below and looking for the we
 
 You will be asked for a password to access the photos, it is: **GoServe22**
 
-**[Participant Photos](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EiNciCjTmNJHk41Tj26l8OcB4CFo0sikFnH1nP99dVdxhg?e=zoI63f){: target="_blank" rel="noopener"}**[**&nbsp;--&gt;**](__notset__)
+**![](/uploads/photosicon.png){: width="40" height="28"}&nbsp;[Participant Photos](__notset__)**[**&nbsp;--&gt;**](__notset__)
