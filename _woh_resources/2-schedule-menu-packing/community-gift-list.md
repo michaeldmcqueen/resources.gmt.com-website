@@ -1,25 +1,21 @@
 ---
 title: Community Gift List
 category: Community Service
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 5
 order_number: 5
 ---
 
 # Community Gift List
 
-**Loveland, CO**&nbsp; -&nbsp; Healthy prepackaged foods. Here's what they can safely accept:&nbsp;
+**Loveland, CO**&nbsp; -&nbsp; Most needed items:
 
-* Canned and packaged goods in original packaging
-* Most needed items:
-  * Peanut butter (non-hydrogenated oil)
-  * Canned meat/fish (chicken, salmon, tuna)
-  * Canned fruit in fruit juice
-  * Whole grain, low sugar cereal
-  * Whole grain pasta
-  * Brown rice
-  * Macaroni and cheese
-  * Prepackaged healthy snacks
+* Paper towels
+* Toilet paper
+* Printer paper
+* Crayons
+* Colored pencils
+* Markers
 
 **Pittsburgh, PA&nbsp;**&nbsp;-&nbsp;<u> </u><u>BACKPACK SUPPLIES:</u> Backpacks, pencils, pens, erasers, pencil sharpeners, pencil boxes (we always have trouble finding enough of these in time), glue (bottles or sticks), scissors, notebooks, folders, rulers, crayons, colored pencils, markers, etc.
 
