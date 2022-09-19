@@ -4,9 +4,9 @@ category: Staffing
 subcategory: Internship
 order_number: 1
 ---
-40 hours/week locally<br>Assignment Dates: February 7 – August 12, 2022
+40 hours/week locally<br>Assignment Dates: February 13 – August 11, 2023
 
-As we launch the 2022 season and support all Group Mission Trips experiences, this<br>intern will work directly with our project manager and developer, helping manage the<br>logistics of both Workcamps and Week of Hope. Specific duties include but are not<br>limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br>&nbsp;
+As we launch the 2023 season and support all Group Mission Trips experiences, this<br>intern will work directly with our project manager and developer, helping manage the<br>logistics of both Workcamps and Week of Hope. Specific duties include but are not<br>limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br>&nbsp;
 
 **Project Management Intern Qualifications**
 
