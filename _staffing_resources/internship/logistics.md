@@ -4,10 +4,9 @@ category: Staffing
 subcategory: Internship
 order_number: 1
 ---
+30-40 hours/week locally<br>Assignment Dates: February 13 – August 11, 2023
 
-20 hours/week locally<br>Assignment Dates: February 7 – August 12, 2022
-
-As we launch the 2022 season and support all Group Mission Trips experiences, this<br>intern will help fulfill whatever tasks are needed to ensure camps are ready. This intern<br>will work approximately 20 hours per week in the office and/or the warehouse, with the possibility of additional hours in the peak summer season.<br><br>**Intern Qualifications**
+As we launch the 2023 season and support all Group Mission Trips experiences, this<br>intern will help fulfill whatever tasks are needed to ensure camps are ready. This intern<br>will work approximately 30 hours per week in the office and/or the warehouse, with the possibility of additional hours in the peak summer season.<br><br>**Intern Qualifications**
 
 * Strong work ethic
 * Self-motivated
@@ -30,5 +29,5 @@ As we launch the 2022 season and support all Group Mission Trips experiences, th
 * Fulfill camp store and staff store orders
 * Resource summer staff crews with all needed warehouse supplies
 * Assist with staff warehouse load out and load in
-* Assist with staff training preparation and logistics
+* Assist with staff training preparation and logistics&nbsp;
 * Provide additional assistance to all teams as needed
