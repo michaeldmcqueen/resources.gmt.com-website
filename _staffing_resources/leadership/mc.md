@@ -4,7 +4,6 @@ category: Staffing
 subcategory: Leadership
 order_number: 2
 ---
-
 The MC leads all camp programs with excellence and enthusiasm and serves as the spiritual leader for the camp. The responsibilities of the MC include but are not limited to the following:
 
 * Learn all program scripts prior to attending Leadership Summit
@@ -12,8 +11,7 @@ The MC leads all camp programs with excellence and enthusiasm and serves as the 
 * Invest time and prayer to prepare prior to camp
 * Present all morning and evening programs at camp, following the provided script, with energy, excellence, and participants
 * Support other Red Shirt staff
-* Meet daily with program manager, program team member, and worship leader to prepare for
-* upcoming program(s), checking all needed props and materials, media equipment, song selection, and lyrics
+* Meet daily with program manager, program team member, and worship leader to prepare for upcoming program(s), checking all needed props and materials, media equipment, song selection, and lyrics
 * Run drama rehearsals and be available to help during music team rehearsals
 * Check in with the crew devotion leaders every afternoon as they return from their work sites
 * Visit work sites where participants are serving
