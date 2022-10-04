@@ -21,4 +21,4 @@ The setup director works closely with the local cosponsor and materials vendors 
 
 * Able to lift objects up to 50 pounds
 * Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
-* Prepared to work busy camp days with an average of 5-6 hours of sleep per night&nbsp;
+* Prepared to work busy days with an average of 5-6 hours of sleep per night&nbsp;
