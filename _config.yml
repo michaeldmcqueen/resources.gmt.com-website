@@ -149,6 +149,10 @@ defaults:
           blockquote: true
           image: true
           embed: true
+        featured: true
+          _inputs:
+            featured:
+            type: switch
   -
     scope:
       path: ""
