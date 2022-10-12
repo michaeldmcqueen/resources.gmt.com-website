@@ -3,6 +3,8 @@ title: Cafeteria Host
 category: Staffing
 subcategory: Volunteer
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 The cafeteria host creates a welcoming and pleasant atmosphere around camp by helping the cook staff organize meals each day. The responsibilities of the cafeteria host include but are not limited to the following:

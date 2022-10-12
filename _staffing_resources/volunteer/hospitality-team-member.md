@@ -3,6 +3,8 @@ title: Hospitality Team Member
 category: Staffing
 subcategory: Volunteer
 order_number: 3
+inputs:
+  unpublish: false
 ---
 The hospitality team member supports the summer staff and the camp by assisting in the kitchen, serving around the lodging facility, visiting project sites and building positive relationships with participants. The responsibilities of the hospitality team member include, but are not limited to, the following:
 

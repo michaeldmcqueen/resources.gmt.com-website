@@ -3,6 +3,8 @@ title: Project Leader
 category: Staffing
 subcategory: Summer Staff
 order_number: 7
+inputs:
+  unpublish: false
 ---
 
 The project leader leads the service project experience for all participants by building strong relationships with community partner organizations. The responsibilities of the project leader include, but are not limited to, the following:

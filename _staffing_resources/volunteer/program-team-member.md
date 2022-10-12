@@ -3,6 +3,8 @@ title: Program Team Member
 category: Staffing
 subcategory: Volunteer
 order_number: 6
+inputs:
+  unpublish: false
 ---
 The program team member takes quality photos and encourages participants while visiting work sites daily. They assist the program manager in preparation for morning and evening programs. The responsibilities of the program team member include but are not limited to the following:
 

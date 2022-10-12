@@ -3,6 +3,8 @@ title: Materials Manager
 category: Staffing
 subcategory: Summer Staff
 order_number: 3
+inputs:
+  unpublish: false
 ---
 The materials manager oversees work sites and materials, leads a team of volunteer site coaches, works closely with our local cosponsor, and supports the Red Shirt team with leadership, encouragement, and a servant's heart. The responsibilities of the materials manager include but are not limited to the following:
 

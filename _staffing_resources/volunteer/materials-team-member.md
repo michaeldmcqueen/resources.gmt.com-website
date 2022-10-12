@@ -3,6 +3,8 @@ title: Materials Team Member
 category: Staffing
 subcategory: Volunteer
 order_number: 10
+inputs:
+  unpublish: false
 ---
 The materials team member serves and supports the materials managerby assisting with the tool room, making daily deliveries, and helping manage tools and materials. The responsibilities of the materials team member include, but are not limited to, the following:
 

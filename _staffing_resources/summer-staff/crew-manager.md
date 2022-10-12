@@ -3,6 +3,8 @@ title: Crew Manager
 category: Staffing
 subcategory: Summer Staff
 order_number: 1
+inputs:
+  unpublish: false
 ---
 The crew manager oversees work crew logistics, supports the kitchen staff, and supports the Red Shirt team with leadership, encouragement, and a servant’s heart. The responsibilities of the crew manager include but are not limited to the following:
 

@@ -3,6 +3,8 @@ title: Program Manager
 category: Staffing
 subcategory: Summer Staff
 order_number: 6
+inputs:
+  unpublish: false
 ---
 The program manager oversees media during programs, takes high quality photos of all aspects of Workcamp, and supports the Red Shirt team with leadership, encouragement, and a servant’s heart. The responsibilities of the program manager include but are not limited to the following:
 

@@ -3,6 +3,8 @@ title: Worship Leader
 category: Staffing
 subcategory: Volunteer
 order_number: 8
+inputs:
+  unpublish: false
 ---
 
 The worship leader leads musical worship both instrumentally and vocally in all camp programs with involvement from campers. The responsibilities of the worship leader include but are not limited to the following:

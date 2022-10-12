@@ -3,6 +3,8 @@ title: 'Site Coach '
 category: Staffing
 subcategory: Volunteer
 order_number: 9
+inputs:
+  unpublish: false
 ---
 The site coach provides encouragement and support to work crews at their sites and assists the materials manager in the management of tools and purchased materials. The responsibilities of the site coach include, but are not limited to, the following:
 

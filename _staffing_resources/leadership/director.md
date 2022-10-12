@@ -3,6 +3,8 @@ title: Director
 category: Staffing
 subcategory: Leadership
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 The director leads the Red Shirt team, oversees camp logistics, and builds great relationships with participants, cosponsors, and lodging facility staff during the camp week. The responsibilities of the director include, but are not limited to, the following:

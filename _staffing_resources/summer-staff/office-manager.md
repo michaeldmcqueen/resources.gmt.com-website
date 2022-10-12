@@ -3,6 +3,8 @@ title: Office Manager
 category: Staffing
 subcategory: Summer Staff
 order_number: 4
+inputs:
+  unpublish: false
 ---
 The office manager provides excellent customer service to all camp participants, oversees lodging facility logistics, and supports the Red Shirt team with leadership, encouragement, and a servant’s heart. The responsibilities of the office manager include but are not limited to the following:
 

@@ -3,6 +3,8 @@ title: Registration Team Member
 category: Staffing
 subcategory: Internship
 order_number: 4
+inputs:
+  unpublish: false
 ---
 
 Up to 40 hours/week locally or possibly remote, depending on experience<br>Assignment Dates: May 9 – July 29, 2022

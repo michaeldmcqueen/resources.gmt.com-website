@@ -3,6 +3,8 @@ title: Facility Team Member
 category: Staffing
 subcategory: Volunteer
 order_number: 2
+inputs:
+  unpublish: false
 ---
 The facility team member ensures the lodging facility is comfortable, clean, and safe for all participants. They work closely with the lodging facility staff. The responsibilities of the facility team member include but are not limited to the following:
 

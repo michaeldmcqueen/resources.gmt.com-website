@@ -3,6 +3,8 @@ title: Registration Intern
 category: Staffing
 subcategory: Internship
 order_number: 2
+inputs:
+  unpublish: false
 ---
 40 hours/week locally<br>Assignment Dates: February 7 – August 12, 2022
 

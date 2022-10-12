@@ -3,6 +3,8 @@ title: Setup Director
 category: Staffing
 subcategory: Leadership
 order_number: 3
+inputs:
+  unpublish: false
 ---
 The setup director works closely with the local cosponsor and materials vendors to prepare the community for the arrival of Workcamp. The responsibilities of the setup director include, but are not limited to, the following:
 

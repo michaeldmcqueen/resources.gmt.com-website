@@ -3,6 +3,8 @@ title: Office Team Member
 category: Staffing
 subcategory: Volunteer
 order_number: 4
+inputs:
+  unpublish: false
 ---
 The office team member serves and supports the office manager by assisting with the camp store and engaging participants in the camp office. The responsibilities of the office team member include but are not limited to the following:
 
