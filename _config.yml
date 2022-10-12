@@ -119,9 +119,6 @@ defaults:
           image: true
           embed: true
         featured: true
-          _inputs:
-            featured:
-            type: switch
   -
     scope:
       path: ""
@@ -161,7 +158,9 @@ defaults:
       _comments:
         type: Marks the impact of this release
 
-  
+_inputs:
+    featured:
+    type: switch
 # -----------
 # CloudCannon
 
