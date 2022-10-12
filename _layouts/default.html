@@ -48,8 +48,9 @@
 					<p>{{ group.name }}</p>
 					<ul>
 						{% for item in items %}
-						{{ item.inputs.unpublish }}
-						<li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						  {% if item.inputs.unpublish == false %}
+						    <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						  {% endif %}
 						{% endfor %}
 					</ul>
 				</li>
@@ -64,7 +65,9 @@
 					<p>{{ group.name }}</p>
 					<ul>
 						{% for item in items %}
-						  <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						  {% if item.inputs.unpublish == false %}
+						    <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						   {% endif %}
 						{% endfor %}
 					</ul>
 				</li>
@@ -79,8 +82,10 @@
 					<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					<ul>
 						{% for item in items %}
+						{% if item.inputs.unpublish == false %}
 						<li class="nav-item {% if item.url == group.url %}current{% endif %}"><a
 								href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+								 {% endif %}
 						{% endfor %}
 					</ul>
 				</li>
@@ -97,8 +102,10 @@
 					<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					<ul>
 						{% for item in items %}
+						{% if item.inputs.unpublish == false %}
 						<li class="nav-item {% if item.url == group.url %}current{% endif %}"><a
 								href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+								{% endif %}
 						{% endfor %}
 					</ul>
 				</li>
@@ -112,8 +119,10 @@
 					<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
 					<ul>
 						{% for item in items %}
+						{% if item.inputs.unpublish == false %}
 						<li class="nav-item {% if item.url == group.url %}current{% endif %}"><a
 								href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+								{% endif %}
 						{% endfor %}
 					</ul>
 				</li>
