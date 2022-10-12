@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Helpful Resources
 order: 6
 order_number: 6
+inputs:
+  unpublish: false
 ---
 
 ### Workcamps Promo Video

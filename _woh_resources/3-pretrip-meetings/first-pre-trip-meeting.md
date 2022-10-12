@@ -4,6 +4,8 @@ category: Community Service
 subcategory: Pretrip Meetings
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 Have this meeting as soon as possible and invite all interested participants\!

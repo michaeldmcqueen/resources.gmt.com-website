@@ -4,6 +4,8 @@ category:
 subcategory: Getting Started
 order: 3
 order_number: 3
+inputs:
+  unpublish: false
 ---
 
 ## To Provide The Best Experience, All Trip Participants Agree To The Following:

@@ -4,6 +4,8 @@ category: Community Service
 subcategory: 'Schedule, Menu, Packing'
 order: 4
 order_number: 4
+inputs:
+  unpublish: false
 ---
 
 **PERSONAL ITEMS:&nbsp;**

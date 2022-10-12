@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Helpful Resources
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 ### Who can participate?

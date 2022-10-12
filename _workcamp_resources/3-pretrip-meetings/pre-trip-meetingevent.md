@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Pretrip Meetings
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 > The purpose of this event is to introduce your group to the work crews they will experience while on a Group Mission Trip –and to give them a taste for serving others. You are invited to modify this experience to fit your setting–the sky (and your church budget and time constraints) is the limit\!

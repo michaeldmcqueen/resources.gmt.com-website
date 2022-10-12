@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Pretrip Meetings
 order: 4
 order_number: 4
+inputs:
+  unpublish: false
 ---
 
 Have this short meeting to remind your group about the trip and keep the excitement up\! This touch base is strategically short to give you the option to combine this meeting with a larger event like a fundraiser or the "Ready to Serve Event" (titled Pre-trip Meeting/Event). The "Ready to Serve Event" requires additional preparation, so read through it to see how it works and what you’ll need to do to prepare for it.

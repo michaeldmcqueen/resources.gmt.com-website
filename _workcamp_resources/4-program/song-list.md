@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Program
 order: 4
 order_number: 4
+inputs:
+  unpublish: false
 ---
 
 * Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2022.

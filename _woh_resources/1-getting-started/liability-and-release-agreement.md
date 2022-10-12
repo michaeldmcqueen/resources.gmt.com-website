@@ -4,6 +4,8 @@ category: Community Service
 subcategory: Getting Started
 order: 4
 order_number: 4
+inputs:
+  unpublish: false
 ---
 
 Thank you for participation in the ministry of Group Mission Trips, a nonprofit 501(c)(3) organization. You have the opportunity to discover the rewards of providing care through service and outreach to a community. Group Mission Trips (GMT) works with many vendors and subcontractors, such as schools, material suppliers, local community agencies, and churches.

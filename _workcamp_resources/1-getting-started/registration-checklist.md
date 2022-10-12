@@ -4,6 +4,8 @@ category:
 subcategory: Getting Started
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 > (Please ensure the following is complete at least 30 days before your trip.)

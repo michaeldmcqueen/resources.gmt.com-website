@@ -4,6 +4,8 @@ category: Community Service
 subcategory: Getting Started
 order: 7
 order_number: 7
+inputs:
+  unpublish: false
 ---
 
 Camp season is quickly approaching, and we’re hard at work preparing to make summer 2022 as fun, safe, and as normal as possible. These are the precautions that we put in place in 2021 and had great success. It's too early to tell what 2022 will hold, but we are prepared to implement the following protocols, if necessary. We will know more in the spring of 2022.

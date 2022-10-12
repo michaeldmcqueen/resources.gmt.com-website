@@ -4,6 +4,8 @@ category: Community Service
 subcategory: Helpful Resources
 order: 6
 order_number: 6
+inputs:
+  unpublish: false
 ---
 
 ### Week of Hope Promo Video

@@ -4,6 +4,8 @@ category: Community Service
 subcategory: 'Schedule, Menu, Packing'
 order: 2
 order_number: 2
+inputs:
+  unpublish: false
 ---
 
 (All meals are subject to change at any time)&nbsp;

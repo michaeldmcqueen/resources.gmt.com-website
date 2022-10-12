@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: 'Schedule, Menu, Packing'
 order: 5
 order_number: 5
+inputs:
+  unpublish: false
 ---
 
 **EACH YOUTH SHOULD BRING:**&nbsp;

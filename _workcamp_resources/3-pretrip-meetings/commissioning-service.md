@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Pretrip Meetings
 order: 7
 order_number: 7
+inputs:
+  unpublish: false
 ---
 
 **Scripture Reading: Matthew 22:37-40&nbsp;**

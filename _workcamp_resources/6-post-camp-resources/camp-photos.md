@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Post Camp Resources
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 You can access the camp photos by clicking the link below and looking for the week and location you served.

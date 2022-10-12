@@ -4,6 +4,8 @@ category: Community Service
 subcategory: 'Schedule, Menu, Packing'
 order: 1
 order_number: 1
+inputs:
+  unpublish: false
 ---
 
 **SUNDAY**&nbsp;

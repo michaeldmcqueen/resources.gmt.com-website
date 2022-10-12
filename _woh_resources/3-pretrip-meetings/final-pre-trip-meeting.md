@@ -4,6 +4,8 @@ category: Community Service
 subcategory: Pretrip Meetings
 order: 6
 order_number: 6
+inputs:
+  unpublish: false
 ---
 
 We suggest you have this meeting a month and half before your mission trip starts.

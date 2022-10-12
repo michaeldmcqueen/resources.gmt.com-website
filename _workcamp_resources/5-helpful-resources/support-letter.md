@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Helpful Resources
 order: 5
 order_number: 5
+inputs:
+  unpublish: false
 ---
 
 Dear \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_,

@@ -4,6 +4,8 @@ category: Workcamps
 subcategory: Pretrip Meetings
 order: 6
 order_number: 6
+inputs:
+  unpublish: false
 ---
 
 We suggest you have this meeting a month and a half before your mission trip starts.
