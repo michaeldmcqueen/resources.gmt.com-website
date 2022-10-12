@@ -2,6 +2,6 @@
 title:
 category:
 subcategory: 
-published: 
+featured: 
 order: 1
 ---
