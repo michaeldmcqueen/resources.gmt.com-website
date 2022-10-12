@@ -2,6 +2,7 @@
 title:
 category:
 subcategory: 
-featured: 
 order: 1
+inputs:
+  show_feature: true
 ---
