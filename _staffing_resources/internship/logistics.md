@@ -31,5 +31,6 @@ As we launch the 2023 season and support all Group Mission Trips experiences, th
 * Fulfill camp store and staff store orders
 * Resource summer staff crews with all needed warehouse supplies
 * Assist with staff warehouse load out and load in
-* Assist with staff training preparation and logistics&nbsp;
+* Assist with staff training preparation and logistics
+* Assist with the registration team with participant form review and processing as needed&nbsp;
 * Provide additional assistance to all teams as needed
