@@ -4,9 +4,8 @@ category: Staffing
 subcategory: Internship
 order_number: 4
 inputs:
-  unpublish: false
+  unpublish: true
 ---
-
 Up to 40 hours/week locally or possibly remote, depending on experience<br>Assignment Dates: May 9 – July 29, 2022
 
 As we launch the 2022 season and support all Group Mission Trips experiences, this<br>temporary staff member will help the registration team ensure that all registered youth groups will have everything completed prior to camps beginning and assist with post camp communications.
