@@ -6,10 +6,9 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-
 The director leads the Red Shirt team, oversees camp logistics, and builds great relationships with participants, cosponsors, and lodging facility staff during the camp week. The responsibilities of the director include, but are not limited to, the following:
 
-* Attend Leadership Summit in Colorado **(required every year)**
+* Attend Leadership Summit&nbsp;
 * Review the Director Guide and camp specifics several weeks before camp
 * Contact each staff member by phone at least two weeks before camp
 * Empower your team of Red Shirts to do their jobs with excellence, welcome them as soon as they arrive at camp, visit each area of camp daily, communicate expectations clearly, support and encourage each staff member
