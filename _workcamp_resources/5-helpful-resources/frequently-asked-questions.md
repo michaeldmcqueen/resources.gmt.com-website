@@ -7,7 +7,6 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-
 ### Who can participate?
 
 Jr/Sr High trips: Must be at least 11 years old OR entering the 6th grade in the fall of the year that you are attending camp.
@@ -139,8 +138,8 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 15th, 2022: Half of what is remaining is due.
-* May 15th, 2022: The final balance is due. (All payments are non-refundable after this date.)
+* March 15th, 2023: Half of what is remaining is due.
+* May 15th, 2023: The final balance is due. (All payments are non-refundable after this date.)
 
 ---
 
