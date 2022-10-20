@@ -5,9 +5,8 @@ subcategory: Getting Started
 order: 7
 order_number: 7
 inputs:
-  unpublish: false
+  unpublish: true
 ---
-
 Camp season is quickly approaching, and we’re hard at work preparing to make summer 2022 as fun, safe, and as normal as possible. These are the precautions that we put in place in 2021 and had great success. It's too early to tell what 2022 will hold, but we are prepared to implement the following protocols, if necessary. We will know more in the spring of 2022.
 
 The safety of the students, adults, staff, and residents of the communities we serve is of critical importance. We are in contact with our partners in each community and working to ensure we provide the safest environment and follow all local guidelines when it comes time for camp this summer. Here are precautions you can expect regarding safety, arrival, mealtimes, sleeping arrangements, large-group gatherings, work sites, and more that will help us safely conduct our mission trips. Please arrive healthy, and plan to stay that way.
