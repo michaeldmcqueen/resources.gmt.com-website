@@ -7,7 +7,6 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-
 > The purpose of this event is to introduce your group to the work crews they will experience while on a Group Mission Trip –and to give them a taste for serving others. You are invited to modify this experience to fit your setting–the sky (and your church budget and time constraints) is the limit\!
 
 **BEFORE THE MEETING**
@@ -38,7 +37,7 @@ inputs:
 * Pass out the Crew Roles sheet.&nbsp;
 * Say something like: *Today we’re going to participate in serving others and we’ll learn how we’ll serve on our mission trip next summer along the way. You are sitting with your new small group – a work crew – and you’ll serve with your crew in a few moments. To start, introduce yourselves by giving your name, and give 3 personal highlights from the past year. Then take turns reading the Crew Roles sheet you’ve received and decide who will perform which role today. You have 10 minutes to do this and then I’ll give you more instructions. Go\!&nbsp;*
 * Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1 minute left. Pass out the list of the assigned projects to each crew.&nbsp;
-* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend on youto do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
+* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend on you to do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away\! Now… have a blast serving\!&nbsp;*
 
 **UNPACKING SERVICE:&nbsp;**
 
