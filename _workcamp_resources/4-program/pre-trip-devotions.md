@@ -7,9 +7,6 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-
-&nbsp;
-
 ### Pre-Trip Devotion \#1
 
 ###### STOP, DROP, AND ROLL\!
@@ -18,7 +15,7 @@ inputs:
 
 For the next three devotions, we’ll look at a passage from Isaiah. As you prepare to present this material, we recommend consulting a commentary. Read about Isaiah 6 and 2 Chronicles 26 for a deeper understanding of the context.
 
-###### **Crowdbreaker: Hit the Road\!**&nbsp;
+###### **Crowdbreaker: Hit the Road\!**
 
 Use the following websites to find 10 pictures of offbeat tourist places in the United States. One at a time, show the photos on a screen and see if students can guess each location.
 
@@ -29,7 +26,7 @@ Use the following websites to find 10 pictures of offbeat tourist places in the 
 Ask:
 
 * **How many of you have ever been on a road trip? Where did you go?**
-* **What was the best place you stopped? **
+* \*\*What was the best place you stopped? \*\*
 * **What was the worst?**
 
 (Allow time for a few students to answer.)
@@ -42,13 +39,13 @@ Say: **Sometimes we see something that makes us STOP and just stare. Maybe we vi
 
 Let’s read Isaiah 6:1-8
 
-*In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.**&nbsp;**2&nbsp;**Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.&nbsp;**3&nbsp;**And they were calling to one another:*
+*In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.2 **Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.** 3 \*\*And they were calling to one another:*
 
-*“Holy, holy, holy is the&nbsp;**Lord**&nbsp;Almighty;&nbsp;the whole earth is full of his glory.”*
+*“Holy, holy, holy is the **Lord** Almighty; the whole earth is full of his glory.”*
 
-***4&nbsp;****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. **5&nbsp;**“Woe to me\!” I cried. “I am ruined\! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the&nbsp;**Lord**&nbsp;Almighty.” **6&nbsp;**Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.**&nbsp;**7&nbsp;**With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.” **8&nbsp;**Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me\!” (NIV)*
+***4 ****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. **5** “Woe to me\!” I cried. “I am ruined\! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the **Lord** Almighty.” **6** Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.7 **With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.” \*\*8** Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me\!” (NIV)*
 
-Say: **I know what you’re thinking. A lot is happening in those verses\! A king is dying. Isaiah is having a vision of God on his throne. Angels are flying around everywhere. The temple is shaking. Hot coals are touching people’s lips (don’t try this at home\!). **
+Say: \*\*I know what you’re thinking. A lot is happening in those verses\! A king is dying. Isaiah is having a vision of God on his throne. Angels are flying around everywhere. The temple is shaking. Hot coals are touching people’s lips (don’t try this at home\!). \*\*
 
 **It may seem confusing, but don’t worry. I’ll explain everything throughout the next three weeks. Today we’ll tackle just the first four verses.**
 
@@ -57,11 +54,11 @@ Say: **I know what you’re thinking. A lot is happening in those verses\! A kin
 **Say: We often remember time based on what happened. Some memories are good; others aren’t so good. For example:**
 
 * ***The winter we were out of school for two weeks because of snow and ice.***
-* ***The summer I got my first car. ***
+* *\*\*The summer I got my first car. \*\**
 * ***The year we moved to Colorado.***
 * ***Last September when my grandparent died.***
 
-**That’s the type of situation Isaiah is talking about in chapter 6. *In the year that King Uzziah died…* It was a memorable time in Isaiah’s life, and not in a good way. Uzziah became king at age 16, and he started off great. He decided to seek God’s ways in everything he did, so God blessed him. For a long time, everything Uzziah did was successful, thanks to God’s blessing. The king defeated and drove away armies that had bullied the nation of Israel. Uzziah built towers to protect his people from invaders. **
+*\*That’s the type of situation Isaiah is talking about in chapter 6. \*In the year that King Uzziah died…* It was a memorable time in Isaiah’s life, and not in a good way. Uzziah became king at age 16, and he started off great. He decided to seek God’s ways in everything he did, so God blessed him. For a long time, everything Uzziah did was successful, thanks to God’s blessing. The king defeated and drove away armies that had bullied the nation of Israel. Uzziah built towers to protect his people from invaders. \*\*
 
 **And then it all went wrong. Uzziah took credit and became prideful of his accomplishments. He began to do things that God commanded him not to do.**
 
@@ -77,11 +74,11 @@ Say: **I know what you’re thinking. A lot is happening in those verses\! A kin
 
 **While Isaiah was in the temple, he STOPPED. He saw a vision of God. Let’s read that description again, from Isaiah 6:1-4.**
 
-*…**I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.**&nbsp;**2&nbsp;**Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.&nbsp;**3&nbsp;**And they were calling to one another:*
+*…**I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.** **2** Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. **3** And they were calling to one another:*
 
-*“Holy, holy, holy is the&nbsp;**Lord**&nbsp;Almighty;**&nbsp;&nbsp;**the whole earth is full of his glory.”*
+*“Holy, holy, holy is the **Lord** Almighty;the whole earth is full of his glory.”*
 
-***4&nbsp;****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.*
+***4 ****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.*
 
 **Say: That must have been awesome to see\!**
 
@@ -89,7 +86,7 @@ Say: **I know what you’re thinking. A lot is happening in those verses\! A kin
 
 (Give the group time to respond.)
 
-**Say: The best word to describe Isaiah’s response to seeing God is AWE. Not “aww, that kitten is so cute,” but AWE as in he just saw something AWESOME. When we go to \_\_\_\_\_\_\_\_\_\_\_\_** (insert your mission trip destination), **God will be at work through you, me, and the other trip participants. God may use you to change someone else’s life. And God may use someone else to change your life. **
+**Say: The best word to describe Isaiah’s response to seeing God is AWE. Not “aww, that kitten is so cute,” but AWE as in he just saw something AWESOME. When we go to \_\_\_\_\_\_\_\_\_\_\_\_** (insert your mission trip destination), \*\*God will be at work through you, me, and the other trip participants. God may use you to change someone else’s life. And God may use someone else to change your life. \*\*
 
 ###### **Wrapping It Up**
 
@@ -113,7 +110,7 @@ Say: **I know what you’re thinking. A lot is happening in those verses\! A kin
 
 ###### **Close in prayer.**
 
-###### &nbsp;
+######
 
 ###### **After praying, share any announcements you may have.**
 

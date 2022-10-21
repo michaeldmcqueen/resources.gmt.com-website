@@ -31,7 +31,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 ### Are background checks required?
 
 * Yes, Group Mission Trips requires that all participants 18 years of age or older be screened and background checked by your church before attending.&nbsp;
-* Background checks must be national and no older than two (2) years from the start of the mission trip. You choose your background check organization vendor or we do have a recommendation.&nbsp;
+* Background checks must be national and no older than two (2) years from the start of the mission trip. You may choose your background check organization vendor or we do have a recommendation.&nbsp;
 * 18-20 year-olds are not considered “adults” during camp, however, because of our commitment to safety, we still ask them to go through your church’s screening process and have background checks run.&nbsp;
 * GMT requires a digital pastor authorization for every participant 18 years old and older in order for them to attend the mission trip.
 * You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 1.888.242.2503.&nbsp;
@@ -145,7 +145,7 @@ After you register by paying $50 (non-refundable) per space, there are 2 payment
 
 ### What if I need to add or cancel a space?
 
-Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2022, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2022.&nbsp;
+Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2023, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2023.&nbsp;
 
 ---
 
@@ -153,7 +153,7 @@ Call us\! If there’s space available in your camp, we’ll ask for the necessa
 
 Cancellations have a huge impact on the people we serve–it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, work materials, and staffing–just for starters. Also, depending on the time of year, sometimes it’s simply impossible for us to re-fill canceled spaces.
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2022 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2023 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
 
 ---
 
