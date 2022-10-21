@@ -7,7 +7,6 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-
 DEAR PARENTS,
 
 As you may know, our youth group is planning a mission trip this summer. I have chosen to go with an organization with decades of experience in leading youth to serve Jesus all across the country. Group Mission Trips provides a great way, in a safe environment, for your child to gain skills they will use as adults.
@@ -17,7 +16,7 @@ As you may know, our youth group is planning a mission trip this summer. I have 
 * Problem Solving – Your child will work with 4 other youth and 1 adult to transform a home or serve a local agency where they may come up against obstacles, such as miscommunication or difficult people. Every year crews find creative and clever solutions to accomplish their tasks.
 * Confidence – Your child will learn they can work with many different people to serve and accomplish huge tasks on their own. Many often arrive thinking they do not have the necessary skills or cannot do this without parental assistance, and leave knowing they can positively influence and change lives.
 * Compassion – Your child will work with people from different walks of life which may be different than those they come into contact with at home. This gives teens a great perspective – the reward is as lasting for them as it is meaningful to those they serve.
-* Spiritual Growth – Your child will attend morning and evening interactive programs that guide their faith in Jesus to become more powerful and real. There will also be devotions during lunch and opportunities to discuss all they are experiencing with our youth group in the evening. This year’s theme is Go Serve and our program is designed to move people from doing service projects to becoming people who serve as a lifestyle.&nbsp;
+* Spiritual Growth – Your child will attend morning and evening interactive programs that guide their faith in Jesus to become more powerful and real. There will also be devotions during lunch and opportunities to discuss all they are experiencing with our youth group in the evening. This year’s theme is Forged and our program is designed to move people from doing service projects to becoming people who serve as a lifestyle.&nbsp;
 
 Students who have attended Group Mission Trips have said they grew closer to God, grew closer to people in their youth group, and that they wanted to serve on another trip\! Parents have seen their kids come home excited, positively impacted by their service experience, and committed to continuing their spiritual journey with Jesus.
 
