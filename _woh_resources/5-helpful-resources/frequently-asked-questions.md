@@ -7,7 +7,6 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-
 ### Who can participate?
 
 Jr/Sr High trips: Must be at least 11 years old OR entering the 6th grade in the fall of the year that you are attending camp.
@@ -52,11 +51,11 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 **Sunday&nbsp;**
 
-3-4 p.m. Check-in&nbsp;<br>4:30 p.m. Adult Meeting&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Kick-off program (Meet your crew and get your project assignments\!)&nbsp;<br>8 p.m. Chapel followed by youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
+3-4 p.m. Check-in&nbsp;<br>4:30 p.m. Adult Meeting&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Kick-off program (Meet your crew and get your project assignments\!)&nbsp;<br>8 p.m. Evening program followed by youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
 
 **Monday, Wednesday, and Thursday&nbsp;**
 
-6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks&nbsp;<br>7:00 p.m. Chapel team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Chapel, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks&nbsp;<br>7:00 p.m. Evening program team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
 **Tuesday:&nbsp;**
 
@@ -140,14 +139,14 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount:&nbsp;
 
-* March 15th, 2022: Half of what is remaining is due.&nbsp;
-* May 15th, 2022: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
+* March 15th, 2023: Half of what is remaining is due.&nbsp;
+* May 15th, 2023: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2022, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2022.&nbsp;&nbsp;
+Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2023, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2023.&nbsp;&nbsp;
 
 ---
 
@@ -155,7 +154,7 @@ Call us\! If there’s space available in your camp, we’ll ask for the necessa
 
 Cancellations have a huge impact on the people we serve- it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2022 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2023 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
 
 ---
 
