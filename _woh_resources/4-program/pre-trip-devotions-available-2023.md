@@ -1,6 +1,6 @@
 ---
 title: Pre-trip Devotions (Available 2023)
-category: Workcamps
+category: Community Service
 subcategory: Program
 order: 3
 order_number: 3
