@@ -1,20 +1,19 @@
 ---
 title: Schedule
 category: Community Service
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 1
 order_number: 1
 inputs:
   unpublish: false
 ---
-
 **SUNDAY**&nbsp;
 
 | 3–4 p.m&nbsp; | Check-in&nbsp; |
 | 4:30 p.m | Adult meeting |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Kick-off program<br>Meet your crew and get project assignments |
-| 8:00 p.m | Chapel<br>Youth group devotions |
+| 8:00 p.m | Evening Program<br>Youth group devotions |
 | 11 p.m | Lights-out |
 
 &nbsp;
@@ -29,8 +28,8 @@ inputs:
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
-| 7:00 p.m | Chapel team practice |
-| 8:00 p.m | Chapel<br>Youth group devotions |
+| 7:00 p.m | Evening program team practice |
+| 8:00 p.m | Evening Program<br>Youth group devotions |
 | 10:30 p.m | Bedtime stories (optional) |
 | 11 p.m | Lights-out |
 
@@ -63,8 +62,8 @@ inputs:
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
-| 7:00 p.m | Chapel team practice |
-| 8:00 p.m | Chapel<br>Youth group devotions |
+| 7:00 p.m | Evening program team practice |
+| 8:00 p.m | Evening Program<br>Youth group devotions |
 | 9:30 p.m | Lip-Sync battle |
 | 11 p.m | Lights-out |
 
