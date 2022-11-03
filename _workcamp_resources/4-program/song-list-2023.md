@@ -7,6 +7,6 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-**Song list for 2023:** The song list will be available early 2023. More information to come...
+**Song list for 2023:** The song list will be available early 2023. More information to come…
 
 <br>&nbsp;
