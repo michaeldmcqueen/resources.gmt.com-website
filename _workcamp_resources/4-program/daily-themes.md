@@ -5,9 +5,8 @@ subcategory: Program
 order: 2
 order_number: 2
 inputs:
-  unpublish: false
+  unpublish: true
 ---
-
 ### ​​​**Theme: Go Serve**
 
 <div><p>The idea of serving is a central part of any mission trip. Everyone knows they are going to serve when they decide to go. But why serve? What is it about serving that is appealing &ndash; so dynamic? We experience pressures in our lives. Pressures that push and pull us toward focusing on ourselves instead of others. Serving changes our focus from the internal to the external. We have a chance to get outside of ourselves and reorient our lives around others and around God. Galatians 5:13 puts it this way, &ldquo;For you have been called to live in freedom, my brothers and sisters. But don&rsquo;t use your freedom to satisfy your sinful nature. Instead, use your freedom to serve one another in love.&rdquo; (NLT).</p><p>In 2022, Group Mission Trips will be calling everyone to Go Serve and move people from doing service projects to becoming people who serve as a lifestyle. On each trip, we will focus on God&rsquo;s call on us to serve in freedom. We will discover that Jesus is the reason we serve. We will learn that serving is a way to give praise to God. We will challenge ourselves to serve even when no one notices. We will remember that the ultimate example of service is Jesus&rsquo; humility and willingness to die for us. And we will discover that God blesses us when we serve.</p><p><strong>Monday: Freedom. (Galatians 5:13-14)&nbsp;</strong>Paul teaches that you are in Jesus and your identity is in him. There is no longer the need to be under the law so use this freedom to joyfully serve one another.</p><p><strong>Tuesday: Purpose. (Ephesians 2:8-10)&nbsp;</strong>When you serve others, you take your focus off yourself and you become more of who God created you to be. Your purpose becomes clearer the more you serve.</p></div>
