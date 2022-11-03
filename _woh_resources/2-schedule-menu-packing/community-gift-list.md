@@ -5,9 +5,8 @@ subcategory: Schedule, Menu, Packing
 order: 5
 order_number: 5
 inputs:
-  unpublish: false
+  unpublish: true
 ---
-
 # Community Gift List
 
 **Loveland, CO**&nbsp; -&nbsp; Most needed items:
