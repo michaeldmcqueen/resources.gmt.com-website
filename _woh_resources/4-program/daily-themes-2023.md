@@ -1,6 +1,6 @@
 ---
-title: Daily Themes (Forged)
-category: Workcamps
+title: Daily Themes 2023
+category: Community Service
 subcategory: Program
 order: 2
 order_number: 2
