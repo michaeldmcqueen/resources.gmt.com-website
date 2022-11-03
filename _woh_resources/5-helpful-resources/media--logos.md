@@ -7,7 +7,6 @@ order_number: 7
 inputs:
   unpublish: false
 ---
-
 We love that our mission trip participants enjoy promoting their trip to their church, group, friends, and family. We're continually amazed at the creativity many groups put into promoting their trip and even some that create their own amazing t-shirt creations. We are happy to share these logos for you to promote your trip and ask that you respectfully use these in accordance with our branding guidelines. Below are the links to our logos and a brand guide. We ask that you please review this guide before using our logos. Thank you\!
 
 ### Brand Guide
@@ -28,8 +27,8 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### &nbsp;
 
-### Go Serve logos
+### Forged logos
 
-[![](/uploads/go-serve-black-1.png){: srcset="/uploads/go-serve-black-1.png 800w, /uploads/go-serve-black-1@2x.png 1600w" width="800" height="654"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/ElXeQM1s_apBqy12hz29CA8B4j7glN1ghy_rsiPK6hv7aQ?e=KipEQr){: target="_blank" rel="noopener"}
+&nbsp;
 
 &nbsp;
