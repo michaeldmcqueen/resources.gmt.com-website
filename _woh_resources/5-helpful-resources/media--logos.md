@@ -29,6 +29,6 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### Forged logos
 
-&nbsp;
+[![](/uploads/gmt-2023-forged-theme-logo-1.png){: srcset="/uploads/gmt-2023-forged-theme-logo-1.png [object Blob]w, /uploads/gmt-2023-forged-theme-logo-2x.png 1600w" width="800" height="723"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EgbW74apvYNJqb2bNYEicV0BXG4nA6E2hM3sv1G04IxDjQ?e=2xh0oo){: target="_blank" rel="noopener"}
 
 &nbsp;
