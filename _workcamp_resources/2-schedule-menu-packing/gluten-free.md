@@ -19,7 +19,7 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 * Sausage\*
 * Yogurt
 * Fruit
-* uice, milk, coffee, tea
+* Juice, milk, coffee, tea
 
 **LUNCH**
 
