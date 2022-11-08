@@ -9,16 +9,16 @@ inputs:
 ---
 # Community Gift List
 
-**Loveland, CO**&nbsp; -&nbsp;
+**Loveland, CO**&nbsp; - Coming soon...
 
-**Pittsburgh, PA&nbsp;**&nbsp;-&nbsp;
+**Pittsburgh, PA&nbsp;**&nbsp;- Coming soon...
 
-**Charleston, SC**&nbsp; - &nbsp;
+**Charleston, SC**&nbsp; - &nbsp;Coming soon...
 
-**Nashville, TN&nbsp;**&nbsp;- &nbsp;
+**Nashville, TN&nbsp;**&nbsp;- &nbsp;Coming soon...
 
-**Kenosha, WI** &nbsp;-&nbsp;&nbsp;
+**Kenosha, WI** &nbsp;- &nbsp;Coming soon...
 
-**Indianapolis, IN** -&nbsp;
+**Indianapolis, IN** - Coming soon...
 
-**Austin, TX** -&nbsp;
+**Austin, TX** - Coming soon...
