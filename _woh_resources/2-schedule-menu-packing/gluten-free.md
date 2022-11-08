@@ -1,13 +1,12 @@
 ---
 title: Gluten Free Menu
 category: Community Service
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 3
 order_number: 3
 inputs:
   unpublish: false
 ---
-
 It’s scary and difficult traveling when you have a special diet. We want to help you as much as we are able to within our budget. We have listed below some possible options from our menu that may work for you. (Please note: Group Mission Trips cannot guarantee that cooking surfaces or utensils have not been in contact with gluten, so the very best way to be safe is to bring food with you.)
 
 Anything marked (\*) may contain gluten additives, double-check with our camp staff about those.&nbsp;
@@ -20,7 +19,7 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 * Sausage\*
 * Yogurt
 * Fruit
-* Orange juice, milk, coffee, tea
+* Juice, milk, coffee, tea
 
 **LUNCH**
 
@@ -31,7 +30,7 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 
 **DINNER**
 
-**Salad bar each night except Wed**\: Mixed greens, carrots, hard boiled eggs, black beans, shredded cheese, sliced turkey or ham\*, Ranch and Italian dressing\*.&nbsp;
+**Salad bar each night except Wed**\: Mixed greens, carrots, hard-boiled eggs, black beans, shredded cheese, sliced turkey or ham\*, Ranch and Italian dressing\*.&nbsp;
 
 Peanut butter and jelly available each night&nbsp;
 
@@ -41,7 +40,7 @@ Peanut butter and jelly available each night&nbsp;
 
 **Tuesday**\: Dinner on your own&nbsp;
 
-**Wednesday**\: Taco shells, tortilla chips, ground beef, black beans, salsa, diced tomatoes, cheese, onions&nbsp;
+**Wednesday**\: Taco shells, tortilla chips, ground beef\*, black beans, salsa, diced tomatoes, cheese, onions&nbsp;
 
 **Thursday**\: Vegetables&nbsp;
 
@@ -53,13 +52,17 @@ Peanut butter and jelly available each night&nbsp;
 
 * 1 loaf gluten free bread&nbsp;
 
-* 1 gluten free cheese pizza&nbsp;
+* 1 package gluten free English Muffins&nbsp;
+
+* 1 Gluten free pizza
 
 * 1 box of gluten free pasta&nbsp;
 
 * 1 jar of gluten free pasta sauce&nbsp;
 
 * 1 bag of gluten free chicken nuggets&nbsp;
+
+* 1&nbsp; bos Gluten free mac n cheese
 
 * 1 box of Cheerios&nbsp;
 
@@ -78,3 +81,5 @@ Peanut butter and jelly available each night&nbsp;
 ***(Brands may differ per location.)&nbsp;***
 
 ***![](/uploads/gluten-free-menu.png){: width="1840" height="2000"}***
+
+&nbsp;

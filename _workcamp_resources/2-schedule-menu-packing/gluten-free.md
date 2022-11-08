@@ -16,11 +16,10 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 **BREAKFAST**
 
 * Scrambled eggs\*
-* Tater circles\*
 * Sausage\*
 * Yogurt
 * Fruit
-* Orange juice, milk, coffee, tea
+* uice, milk, coffee, tea
 
 **LUNCH**
 
@@ -42,7 +41,7 @@ Lemonade and iced tea
 * **Thursday**\: Salad bar and side vegetable
 * **Friday**\: Side vegetable and ice cream
 
-**TO HELP OUR GLUTEN-FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING: **
+\*\*TO HELP OUR GLUTEN-FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING: \*\*
 
 * 1 loaf gluten-free bread
 * 1 gluten-free cheese pizza
@@ -52,7 +51,7 @@ Lemonade and iced tea
 * 1 box of Cheerios
 * Frito’s Original Corn Chips and/or Mission Corn Chips
 
-**OTHER ITEMS WE RECOMMEND YOU BRING: **
+\*\*OTHER ITEMS WE RECOMMEND YOU BRING: \*\*
 
 * Additional gluten-free bread
 * Fruit snacks/fruit leather
@@ -60,8 +59,8 @@ Lemonade and iced tea
 * Pepperoni
 * Favorite granola bars
 
-**To help our gluten-free participants, we can provide the following items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten-free participants. **
+\*\*To help our gluten-free participants, we can provide the following items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten-free participants. \*\*
 
-***(Brands may differ per location.) ***
+*\*\*(Brands may differ per location.) \*\**
 
 ***![](/uploads/gluten-free-menu.png){: width="1840" height="2000"}***
