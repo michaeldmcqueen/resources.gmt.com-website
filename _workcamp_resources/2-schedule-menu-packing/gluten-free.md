@@ -66,4 +66,4 @@ Lemonade and iced tea
 
 *\*\*(Brands may differ per location.) \*\**
 
-***![](/uploads/gluten-free-menu.png){: width="1840" height="2000"}***
+***![](/uploads/gluten-free-1.PNG){: width="655" height="641"}***
