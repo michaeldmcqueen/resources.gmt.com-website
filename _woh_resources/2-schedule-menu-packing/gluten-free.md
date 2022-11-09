@@ -80,6 +80,6 @@ Peanut butter and jelly available each night&nbsp;
 
 ***(Brands may differ per location.)&nbsp;***
 
-***![](/uploads/gluten-free-menu.png){: width="1840" height="2000"}***
+***![](/uploads/gluten-free.PNG){: width="655" height="641"}***
 
 &nbsp;
