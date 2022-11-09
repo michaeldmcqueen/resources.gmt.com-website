@@ -16,10 +16,11 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 **BREAKFAST**
 
 * Scrambled eggs\*
+* Tater circles\*
 * Sausage\*
 * Yogurt
 * Fruit
-* Juice, milk, coffee, tea
+* Orange juice, milk, coffee, tea
 
 **LUNCH**
 
@@ -34,9 +35,9 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 
 Lemonade and iced tea
 
-* **Sunday**\: Hamburger, hot dog, baked beans, fries, ice cream bars
+* **Sunday**\: Hamburger, hot dog, baked beans, fries\*, ice cream bars
 * **Monday**\: Chicken breast (without sauce), mashed potatoes\*, side vegetable\*
-* **Tuesday**\: Taco shells, tortilla chips, ground beef, black beans, rice, salsa, tomatoes, cheese, onions
+* **Tuesday**\: Taco shells, tortilla chips, ground beef\*, black beans, rice\*, salsa, tomatoes, cheese, onions
 * **Wednesday**\: Dinner on your own
 * **Thursday**\: Salad bar and side vegetable
 * **Friday**\: Side vegetable and ice cream
@@ -44,10 +45,12 @@ Lemonade and iced tea
 \*\*TO HELP OUR GLUTEN-FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING: \*\*
 
 * 1 loaf gluten-free bread
+* 1 package gluten-free english muffins
 * 1 gluten-free cheese pizza
 * 1 box of gluten-free pasta
 * 1 jar of gluten-free pasta sauce
 * 1 bag of gluten-free chicken nuggets
+* 1 box gluten-free mac n cheese
 * 1 box of Cheerios
 * Frito’s Original Corn Chips and/or Mission Corn Chips
 
