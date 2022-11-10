@@ -7,7 +7,6 @@ order_number: 2
 inputs:
   unpublish: false
 ---
-
 Adults are one of the most important ingredients in a successful mission trip, and this meeting is designed to train and equip your adults to be the amazing leaders that every teenager needs. During the meeting, you’ll help everyone feel prepared and communicate important details and principles that every adult needs to understand and commit to. Every adult participant should attend this meeting\!
 
 **BEFORE THE MEETING**
@@ -23,7 +22,7 @@ Adults are one of the most important ingredients in a successful mission trip, a
 
 Say: *I want to start by saying a big “Thank You\!” for being a part of this summer’s mission trip. Our teenagers couldn’t experience a trip like this without you. I want you to know something-this is bigger than you, or me, or our church, or even the people that we’ll serve. When God brings together all the people, parts, and plans of our Group Mission Trip, our youth grow closer to Jesus, and lives are changed. That’s what it’s all about, and that’s what you’re a part of. So thanks again\!*
 
-*Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is Go Serve. Group Mission Trips will be calling everyone to Go Serve and move people form doing service projects to becoming people who serve as a lifestyle. On each trip, we will focus on God’s call on us to serve in freedom. We will discover that Jesus is the reason we serve. We will learn that serving is a way to give praise to God. We will challenge ourselves to serve even when no one notices. We will remember that the ultimate example of service is Jesus’ humility and willingness to die for us. And we will discover that God blesses us when we serve.*
+*Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is Forged. Here is an overview of the main spiritual concepts we will be teaching on this week. Our job as leaders is to use this content to spark life-changing conversations with our youth this week. This program will start out by showing that each of us are like precious raw material ready to be molded into a life of significance. The process of forging metal into usable products requires suffering, melting, and softening through fire. We then can be sharpened through hammering and molding which requires perseverance that ultimately builds character. Once we have been refined through this process we will leave this week polished, prepared, and perfectly shaped to play our unique role in the Kingdom of God.*
 
 *We’re going to go over three very important ideas that will help us have a great attitude and give an example of great behavior while on our mission trip.*
 
