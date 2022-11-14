@@ -7,6 +7,4 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-### Pre-Trip Devotions
-
-###### This Pre-Trip devotional will be available early 2023. Please check back soon…
+This Pre-Trip devotional will be available early 2023. Please check back soon…
