@@ -167,6 +167,7 @@
 					             <ul>
 						                {% for item in items %}
 						                  {{ item.inputs.unpublish }}
+						                  true
 						                  <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
 						                {% endfor %}
 					              </ul>
