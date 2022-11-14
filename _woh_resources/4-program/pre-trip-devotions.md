@@ -43,7 +43,7 @@ Let’s read Isaiah 6:1-8
 
 *“Holy, holy, holy is the **Lord** Almighty; the whole earth is full of his glory.”*
 
-***4 ****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. **5** “Woe to me\!” I cried. “I am ruined\! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the **Lord** Almighty.” **6** Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.7 **With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.” \*\*8** Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me\!” (NIV)*
+***4 \*\***At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. **5** “Woe to me\!” I cried. “I am ruined\! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the **Lord** Almighty.” **6** Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.7 **With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.” \*\*8** Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me\!” (NIV)*
 
 Say: \*\*I know what you’re thinking. A lot is happening in those verses\! A king is dying. Isaiah is having a vision of God on his throne. Angels are flying around everywhere. The temple is shaking. Hot coals are touching people’s lips (don’t try this at home\!). \*\*
 
@@ -78,7 +78,7 @@ Say: \*\*I know what you’re thinking. A lot is happening in those verses\! A k
 
 *“Holy, holy, holy is the **Lord** Almighty;the whole earth is full of his glory.”*
 
-***4 ****At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.*
+***4 \*\***At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.*
 
 **Say: That must have been awesome to see\!**
 
@@ -110,7 +110,7 @@ Say: \*\*I know what you’re thinking. A lot is happening in those verses\! A k
 
 ###### **Close in prayer.**
 
-######
+\#\#\#\#\#\#
 
 ###### **After praying, share any announcements you may have.**
 
