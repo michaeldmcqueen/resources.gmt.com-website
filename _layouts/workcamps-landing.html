@@ -166,8 +166,8 @@
                     <div class="resources-grid--item-links">
 					             <ul>
 						                {% for item in items %}
-						                 {{ item.inputs.unpublish }}
-						                  <li class="nav-item {% if page.url == item.url %}current{% endif %}"><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a></li>
+						                  
+						                    <li class="nav-item {% if page.url == item.url %}current{% endif %}">{% if item.inputs.unpublish == 'false'%}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>{% endif %}</li>
 						                  
 						                {% endfor %}
 					              </ul>
