@@ -1,13 +1,12 @@
 ---
 title: Sample Menu
 category: Community Service
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 2
 order_number: 2
 inputs:
   unpublish: false
 ---
-
 (All meals are subject to change at any time)&nbsp;
 
 **BREAKFAST&nbsp;**
@@ -17,7 +16,7 @@ inputs:
 
   * Accompaniments (each day): Cereal, yogurt, toast, peanut butter, fruit, oatmeal, milk, coffee, and juice&nbsp;
 
-  * Please note: We will put out all leftover breakfast items on Friday morning and cereal and toast will be available
+  * Please note: Friday morning will be a continental breakfast.
 
 **LUNCH&nbsp;**
 
@@ -32,17 +31,19 @@ Beverages on the work site:
 
 **Sunday**\: Pizza&nbsp;
 
-**Monday**\: Meat and vegetable lasagna, side vegetable, dinner rolls, and ice cream cups&nbsp;
+**Monday**\: Meat and vegetable lasagna, side vegetable, dinner rolls, and dessert
 
 **Tuesday**\: DINNER ON YOUR OWN&nbsp;
 
-**Wednesday**\: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, lettuce, tomato, cheese, onion, sour cream, chunky salsa, and ice cream bars&nbsp;
+**Wednesday**\: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
 
-**Thursday**\: Chicken tenders, mac and cheese, side vegetable, and strawberry shortcake&nbsp;
+**Thursday**\: Chicken tenders, mac and cheese, side vegetable, and dessert
 
 **Salad bar** (every night except Wed): Featuring mixed greens, carrots, hard boiled eggs, black beans, croutons, shredded cheese, sliced turkey or ham, and Ranch and Italian dressing&nbsp;
 
 **Beverages:** Lemonade or fruit punch will be available&nbsp;
+
+Dessert items may include: Ice cream cups, ice cream sandwiches, or strawberry shortcake
 
 ---
 
@@ -56,13 +57,14 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 **DIETARY RESTRICTIONS:**
 
-* If a participant has a food allergy or restriction, their trip leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
-* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or by logging a note under Special Requests.&nbsp;&nbsp;
-* If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or in another designated storage area.
-* If the food allergy is severe, the trip leader should notify Group Mission Trips either by calling or by logging a note under Special Requests. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
-* Participants need to bring any medication they need (i.e. EpiPen). Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
-* Camp staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
-* If you have any questions, please feel free to call us at 844.258.9616.&nbsp;
+* If a participant has a food allergy or restriction, their Trip Leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can see what will be served each day and decide what supplement meals/snack items they’ll need to bring.
+* If a participant must eat gluten-free, please let Group Mission Trips know either by calling or via the online Dashboard prior to camp.
+* If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff *will* assist by providing space for additional food in the kitchen or in another designated storage area.
+* If the food allergy is severe, the Youth Leader should notify Group Mission Trips either by calling or via the online Dashboard prior to camp. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
+* Participants need to bring any medication they need (ie EpiPens).
+* Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
+* GMT staff will be able to provide ingredient information prior to each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
+* If you have any questions, please feel free to call us at 844.258.9616.
 
 ---
 
@@ -111,12 +113,12 @@ Peanut butter and jelly available each night&nbsp;
 
 **Sunday**\: Cheese or veggie pizza
 
-**Monday**\: Vegetable lasagna, side vegetable, and ice cream cup&nbsp;
+**Monday**\: Vegetable lasagna, side vegetable, and dessert
 
 **Tuesday**\: Dinner on your own&nbsp;
 
-**Wednesday**\: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and ice cream bar&nbsp;
+**Wednesday**\: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
 
-**Thursday**\: Macaroni and cheese, vegetables, and strawberry shortcake&nbsp;
+**Thursday**\: Macaroni and cheese, vegetables, and dessert
 
 **Beverages**\: Lemonade or fruit punch&nbsp;
