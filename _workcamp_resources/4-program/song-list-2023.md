@@ -12,7 +12,7 @@ inputs:
 
 Songs in **bold** are new to 2023.
 
-| FAST | &nbsp; |
+| **FAST** | &nbsp; |
 | TITLE | ARTIST |
 | **I Thank God** | **&nbsp;Maverick City** |
 | **Lamb** | **&nbsp;Elevation Worship** |
@@ -29,7 +29,7 @@ Songs in **bold** are new to 2023.
 
 &nbsp;
 
-| MEDIUM | &nbsp; |
+| **MEDIUM** | &nbsp; |
 | TITLE | ARTIST |
 | **Another in the Fire** | **Hillsong United** |
 | **Firm Foundation** | **Maverick City** |
@@ -45,7 +45,7 @@ Songs in **bold** are new to 2023.
 | Who You Say I Am | Hillsong Worship |
 | Living Hope | Phil Wickham |
 | &nbsp; | &nbsp; |
-| SLOW | &nbsp; |
+| **SLOW** | &nbsp; |
 | TITLE | ARTIST |
 | **All Hail King Jesus** | **Jeremy Riddle** |
 | **Oh Praise the Name (Anastasis)** | **Hillsong Worship** |
