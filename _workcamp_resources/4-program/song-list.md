@@ -14,48 +14,48 @@ inputs:
 
 #### **FAST**
 
-| **TITLE** | **POPULAR ARTIST** |
-| **Graves into Gardens** | **Elevation Worship** |
-| Glorious Day | Passion |
-| Open the Gates | Vertical Worship |
-| Alive Again | Matt Maher |
-| Unstoppable God | Elevation Worship |
-| You Are Holy (Prince of Peace) | Michael W. Smith |
-| This is Amazing Grace | Phil Wickham |
-| Your Love Awakens Me | Phil Wickham |
-| My Lighthouse | Rend Collective |
-| Blessed Be Your Name | Matt Redman |
+| **TITLE**  | **POPULAR ARTIST** |
+| **Graves into Gardens**  | **Elevation Worship** |
+| Glorious Day  | Passion |
+| Open the Gates  | Vertical Worship |
+| Alive Again  | Matt Maher |
+| Unstoppable God  | Elevation Worship |
+| You Are Holy (Prince of Peace)  | Michael W. Smith |
+| This is Amazing Grace  | Phil Wickham |
+| Your Love Awakens Me  | Phil Wickham |
+| My Lighthouse  | Rend Collective |
+| Blessed Be Your Name  | Matt Redman |
 
 #### MEDIUM
 
-| **TITLE** | **POPULAR ARTIST** |
-| **Raise a Hallelujah** | **Bethel Music** |
-| **Good Grace** | **Hillsong** |
-| **Same God** | **Elevation Worship** |
-| Way Maker | Leeland |
-| See a Victory | Elevation Worship |
-| King of My Heart | Sarah McMillan |
-| The Lion and the Lamb | Big Daddy Weave |
-| How Great is our God | Chris Tomlin |
-| Who You Say I Am | Hillsong Worship |
-| Forever Reign | Hillsong Worship |
-| Christ is Risen | Matt Maher |
-| Mighty to Save | Hillsong Worship |
-| Living Hope | Phil Wickham |
+| **TITLE**  | **POPULAR ARTIST** |
+| **Raise a Hallelujah**  | **Bethel Music** |
+| **Good Grace**  | **Hillsong** |
+| **Same God**  | **Elevation Worship** |
+| Way Maker  | Leeland |
+| See a Victory  | Elevation Worship |
+| King of My Heart  | Sarah McMillan |
+| The Lion and the Lamb  | Big Daddy Weave |
+| How Great is our God  | Chris Tomlin |
+| Who You Say I Am  | Hillsong Worship |
+| Forever Reign  | Hillsong Worship |
+| Christ is Risen  | Matt Maher |
+| Mighty to Save  | Hillsong Worship |
+| Living Hope  | Phil Wickham |
 
 #### SLOW
 
-| **TITLE** | **POPULAR ARTIST** |
-| **Goodness of God** | **Bethel Music** |
-| O Come to the Altar | Elevation Worship |
-| What a Beautiful Name | Hillsong Worship |
-| How Deep the Father’s Love for Us | Stuart Townend |
-| Holy Spirit | Francesca Battistelli |
-| Lord, I Need You | Matt Maher |
-| Great Are You Lord | All Sons and Daughters |
-| Amazing Grace (My Chains Are Gone) | Chris Tomlin |
-| Good Good Father | Chris Tomlin |
-| Cornerstone | Hillsong Worship |
-| Build My Life | Housefires |
-| Reckless Love | Cory Asbury |
-| 10,000 Reasons | Matt Redman |
+| **TITLE**  | **POPULAR ARTIST** |
+| **Goodness of God**  | **Bethel Music** |
+| O Come to the Altar  | Elevation Worship |
+| What a Beautiful Name  | Hillsong Worship |
+| How Deep the Father’s Love for Us  | Stuart Townend |
+| Holy Spirit  | Francesca Battistelli |
+| Lord, I Need You  | Matt Maher |
+| Great Are You Lord  | All Sons and Daughters |
+| Amazing Grace (My Chains Are Gone)  | Chris Tomlin |
+| Good Good Father  | Chris Tomlin |
+| Cornerstone  | Hillsong Worship |
+| Build My Life  | Housefires |
+| Reckless Love  | Cory Asbury |
+| 10,000 Reasons  | Matt Redman |
