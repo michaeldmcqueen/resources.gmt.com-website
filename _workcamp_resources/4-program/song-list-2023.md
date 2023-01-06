@@ -10,11 +10,9 @@ inputs:
 * Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2022.
 * Listen to all of these songs now\! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one\!
 
-**2023 FULL SONG LIST**
-
 Songs in **bold** are new to 2023.
 
-| FAST |
+| FAST | &nbsp; |
 | TITLE | ARTIST |
 | **I Thank God** | **&nbsp;Maverick City** |
 | **Lamb** | **&nbsp;Elevation Worship** |
@@ -31,7 +29,7 @@ Songs in **bold** are new to 2023.
 
 &nbsp;
 
-| MEDIUM |
+| MEDIUM | &nbsp; |
 | TITLE | ARTIST |
 | **Another in the Fire** | **Hillsong United** |
 | **Firm Foundation** | **Maverick City** |
@@ -46,8 +44,8 @@ Songs in **bold** are new to 2023.
 | How Great is Our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
 | Living Hope | Phil Wickham |
-| &nbsp; |
-| SLOW |
+| &nbsp; | &nbsp; |
+| SLOW | &nbsp; |
 | TITLE | ARTIST |
 | **All Hail King Jesus** | **Jeremy Riddle** |
 | **Oh Praise the Name (Anastasis)** | **Hillsong Worship** |
