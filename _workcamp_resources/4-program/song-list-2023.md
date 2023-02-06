@@ -7,12 +7,12 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2022.
-* Listen to all of these songs now\! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one\!
+* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2023.
+* Listen to all of these songs now! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one!
 
 Songs in **bold** are new to 2023.
 
-| **FAST** | &nbsp; |
+| **FAST** | |
 | TITLE | ARTIST |
 | **I Thank God** | **&nbsp;Maverick City** |
 | **Lamb** | **&nbsp;Elevation Worship** |
@@ -27,9 +27,7 @@ Songs in **bold** are new to 2023.
 | Your Love Awakens Me | Phil Wickham |
 | My Lighthouse | Rend Collective |
 
-&nbsp;
-
-| **MEDIUM** | &nbsp; |
+| **MEDIUM** | |
 | TITLE | ARTIST |
 | **Another in the Fire** | **Hillsong United** |
 | **Firm Foundation** | **Maverick City** |
@@ -44,8 +42,8 @@ Songs in **bold** are new to 2023.
 | How Great is Our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
 | Living Hope | Phil Wickham |
-| &nbsp; | &nbsp; |
-| **SLOW** | &nbsp; |
+|  | |
+| **SLOW** | |
 | TITLE | ARTIST |
 | **All Hail King Jesus** | **Jeremy Riddle** |
 | **Oh Praise the Name (Anastasis)** | **Hillsong Worship** |
@@ -63,6 +61,4 @@ Songs in **bold** are new to 2023.
 | Lord, I Need You | Matt Maher |
 | 10,000 Reasons | Matt Redman |
 
-&nbsp;
-
-<br>&nbsp;
+<br>
