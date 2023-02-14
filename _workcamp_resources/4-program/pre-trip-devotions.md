@@ -9,8 +9,6 @@ inputs:
 ---
 ### Pre-Trip Devotion \#1
 
-\######
-
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
 ###### **Icebreaker**
@@ -49,7 +47,7 @@ Exodus 3: 1 - 6
 
 *(Let the students discuss for a few minutes)*
 
-Say:**At the time Moses saw the burning bush, he was just going about his normal activities. He was simply tending to the flock. This was an ordinary activity in his life. Then all of a sudden, things changed, and God showed up in an unexpected way.**
+Say:&nbsp;**At the time Moses saw the burning bush, he was just going about his normal activities. He was simply tending to the flock. This was an ordinary activity in his life. Then all of a sudden, things changed, and God showed up in an unexpected way.**
 
 **God met Moses in an ordinary time, but an in extraordinary way and Moses was brave enough to respond. We know that Moses was intrigued by the burning bush, but he was also afraid when he learned that it was God calling to him.**
 
@@ -67,11 +65,9 @@ Say:**At the time Moses saw the burning bush, he was just going about his normal
 
 ### Pre-Trip Devotion \#2
 
-\######
+**Icebreaker**
 
-###### **Icebreaker**
-
-Say:**Let’s get into 1-2 circles (depending on group size) and face the center. On the count of three, no one is allowed to smile. If you do smile, take a seat. The last person standing wins! Feel free to make funny faces to encourage your friends to smile.**
+Say:&nbsp;**Let’s get into 1-2 circles (depending on group size) and face the center. On the count of three, no one is allowed to smile. If you do smile, take a seat. The last person standing wins! Feel free to make funny faces to encourage your friends to smile.**
 
 **Any questions?**
 
@@ -79,7 +75,7 @@ Say:**Let’s get into 1-2 circles (depending on group size) and face the center
 
 ###### Introduction
 
-Say:**Last time we began to learn about Moses and the story of the burning bush. When we left off Moses had just learned that God was speaking to him through the bush and Moses became very afraid. Let’s continue this story.**
+Say:&nbsp;**Last time we began to learn about Moses and the story of the burning bush. When we left off Moses had just learned that God was speaking to him through the bush and Moses became very afraid. Let’s continue this story.**
 
 ###### **Scripture**
 
@@ -91,7 +87,7 @@ Exodus 3: 7 - 11
 
 ###### **Discussion**
 
-Say:**In this piece of the story God tells Moses that he has seen the suffering of his people in Egypt and that he is concerned. God explains to Moses that he has a plan to rescue his people and bring them to “a land flowing with milk and honey.”**
+Say:&nbsp;**In this piece of the story God tells Moses that he has seen the suffering of his people in Egypt and that he is concerned. God explains to Moses that he has a plan to rescue his people and bring them to “a land flowing with milk and honey.”**
 
 **God was present in their sufferings and wanted more for them than their current reality. In the same way, God is present in our sufferings. He sees us when we are hurting, and he feels the same pain we do. But God promises to deliver us to “a land flowing with milk and honey.” That journey is not always smooth, it certainly wasn’t for the Israelites. However, God will never leave our side.**
 
@@ -103,7 +99,7 @@ Say:**In this piece of the story God tells Moses that he has seen the suffering 
 
 (*Allow time for discussion and then call the group back together.* *See if anyone would like to share with the larger group)*
 
-Say:**Thank you for sharing. It can be very scary when we are not confident in our own abilities, but God calls us anyways. And God always calls the right person for the right job. This week, you may be faced with a challenge that you don’t feel up to. Remember that God is walking with you and that he will use each challenge you face to forge you into the best version of yourself.**
+Say:&nbsp;**Thank you for sharing. It can be very scary when we are not confident in our own abilities, but God calls us anyways. And God always calls the right person for the right job. This week, you may be faced with a challenge that you don’t feel up to. Remember that God is walking with you and that he will use each challenge you face to forge you into the best version of yourself.**
 
 **Let’s pray.**
 
@@ -111,11 +107,9 @@ Say:**Thank you for sharing. It can be very scary when we are not confident in o
 
 ### Pre-Trip Devotion \#3
 
-\######
+\*\*Icebreaker \*\*
 
-###### \*\*Icebreaker \*\*
-
-Say:**Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
+Say:&nbsp;**Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
 
 *(Allow time to find a partner)*
 
@@ -123,11 +117,11 @@ Say:**Today I want you to find a partner that you do not know well. Someone you 
 
 (*Allow time)*
 
-Say:**So, remember I said these were not-so-secret handshakes? We are going to go around the room and demonstrate our new handshakes.**
+Say:&nbsp;**So, remember I said these were not-so-secret handshakes? We are going to go around the room and demonstrate our new handshakes.**
 
 (*Allow time)*
 
-Say:**Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage you to continue to get to know your new friend and greet them with your not-so-secret handshake throughout the week!**
+Say:&nbsp;**Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage you to continue to get to know your new friend and greet them with your not-so-secret handshake throughout the week!**
 
 ###### **Introduction**
 
@@ -145,7 +139,7 @@ Exodus 3: 12-14
 
 ###### **Discussion**
 
-Say:**When Moses is doubting himself, God’s immediate response is to remind Moses that he is not going alone. “I will be with you.” God promises Moses that he will go with him and stay with him the entire time.**
+Say:&nbsp;**When Moses is doubting himself, God’s immediate response is to remind Moses that he is not going alone. “I will be with you.” God promises Moses that he will go with him and stay with him the entire time.**
 
 **God has made that same promise to us. God goes with us. He is with us in our greatest suffering, our happiest moments, our challenges, and our successes. He is always with us. Even when it may not feel obvious, God never leaves your side.**
 
