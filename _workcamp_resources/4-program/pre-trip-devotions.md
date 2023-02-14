@@ -5,7 +5,7 @@ subcategory: Program
 order: 3
 order_number: 3
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ### Pre-Trip Devotion \#1
 
@@ -131,7 +131,7 @@ Say:**Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage yo
 
 ###### **Introduction**
 
-Say: **Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return. **
+Say: \*\*Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return. \*\*
 
 ###### **Scripture**
 
