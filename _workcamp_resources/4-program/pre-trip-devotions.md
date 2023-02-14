@@ -9,17 +9,17 @@ inputs:
 ---
 ### Pre-Trip Devotion \#1
 
-######
+\######
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
 ###### **Icebreaker**
 
-Say:&nbsp;**We are going to test our ability to communicate without using any words. I am going to give you 2-5 minutes (depending on your group size) to get in order of your birthdays, but without talking. January will start here and we will wrap around until December. Be sure to get in order of birth month and date. Go!**
+Say: **We are going to test our ability to communicate without using any words. I am going to give you 2-5 minutes (depending on your group size) to get in order of your birthdays, but without talking. January will start here and we will wrap around until December. Be sure to get in order of birth month and date. Go!**
 
 *(Allow time)*
 
-Say: &nbsp;**Let’s see how we did!** (*Go down the line and have each student say their birthday out loud. Once you get through the line comment on their success or challenges and invite the group to take a seat.)*
+Say: **Let’s see how we did!** (*Go down the line and have each student say their birthday out loud. Once you get through the line comment on their success or challenges and invite the group to take a seat.)*
 
 ###### Introduction
 
@@ -67,7 +67,7 @@ Say:**At the time Moses saw the burning bush, he was just going about his normal
 
 ### Pre-Trip Devotion \#2
 
-######
+\######
 
 ###### **Icebreaker**
 
@@ -111,9 +111,9 @@ Say:**Thank you for sharing. It can be very scary when we are not confident in o
 
 ### Pre-Trip Devotion \#3
 
-######
+\######
 
-###### **Icebreaker **
+###### \*\*Icebreaker \*\*
 
 Say:**Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
 
@@ -131,7 +131,7 @@ Say:**Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage yo
 
 ###### **Introduction**
 
-Say: **Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return.&nbsp;**
+Say: **Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return. **
 
 ###### **Scripture**
 
