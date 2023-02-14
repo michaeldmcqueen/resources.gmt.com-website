@@ -65,7 +65,7 @@ Say:&nbsp;**At the time Moses saw the burning bush, he was just going about his 
 
 ### Pre-Trip Devotion \#2
 
-**Icebreaker**
+###### **Icebreaker**
 
 Say:&nbsp;**Let’s get into 1-2 circles (depending on group size) and face the center. On the count of three, no one is allowed to smile. If you do smile, take a seat. The last person standing wins! Feel free to make funny faces to encourage your friends to smile.**
 
@@ -107,7 +107,7 @@ Say:&nbsp;**Thank you for sharing. It can be very scary when we are not confiden
 
 ### Pre-Trip Devotion \#3
 
-\*\*Icebreaker \*\*
+###### Icebreaker&nbsp;
 
 Say:&nbsp;**Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
 
