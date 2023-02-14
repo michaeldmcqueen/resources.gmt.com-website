@@ -9,109 +9,158 @@ inputs:
 ---
 ### Pre-Trip Devotion \#1
 
-###### STOP, DROP, AND ROLL\!
+######
 
-*(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context. We want to SERVE you as you prepare your group to GO SERVE during Summer 2022\!)*
+*(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
-For the next three devotions, we’ll look at a passage from Isaiah. As you prepare to present this material, we recommend consulting a commentary. Read about Isaiah 6 and 2 Chronicles 26 for a deeper understanding of the context.
+###### **Icebreaker**
 
-###### **Crowdbreaker: Hit the Road\!**
+Say:&nbsp;**We are going to test our ability to communicate without using any words. I am going to give you 2-5 minutes (depending on your group size) to get in order of your birthdays, but without talking. January will start here and we will wrap around until December. Be sure to get in order of birth month and date. Go!**
 
-Use the following websites to find 10 pictures of offbeat tourist places in the United States. One at a time, show the photos on a screen and see if students can guess each location.
+*(Allow time)*
 
-[<u>https://www.countryliving.com/life/travel/g33450032/road-trip-stops-every-state/</u>](https://www.countryliving.com/life/travel/g33450032/road-trip-stops-every-state/){: target="_blank" rel="noopener"}
+Say: &nbsp;**Let’s see how we did!** (*Go down the line and have each student say their birthday out loud. Once you get through the line comment on their success or challenges and invite the group to take a seat.)*
 
-[<u>https://www.insider.com/tourist-attractions-us-2018-4</u>](https://www.insider.com/tourist-attractions-us-2018-4){: target="_blank" rel="noopener"}
+###### Introduction
 
-Ask:
+Say: **Soon we'll be headed out for a week of serving in \_\_\_\_\_\_\_\_\_! Our theme this year is Forged! Before we begin our journey, we are going to explore a story where God helped forge one man’s faith, who would then impact the lives of many others**.
 
-* **How many of you have ever been on a road trip? Where did you go?**
-* \*\*What was the best place you stopped? \*\*
-* **What was the worst?**
+**God strengthened this man so that he would be ready to take on the great feat of helping many people escape from Egypt. I am referring to Moses. Let’s take a look at today’s scripture.**
 
-(Allow time for a few students to answer.)
+###### Scripture Reading
 
-###### **From the Bible**
+*3 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”*
 
-Say: **Sometimes we see something that makes us STOP and just stare. Maybe we visit a place like the Grand Canyon and just want to pause and take it all in.**
+*4 When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”*
 
-**During the next few weeks, we’ll talk about a life-changing moment for Isaiah, one of God’s prophets. Isaiah didn’t just see and tell about future events. He also prophesied about many things that Jesus Christ would experience and do.**
+*And Moses said, “Here I am.”*
 
-Let’s read Isaiah 6:1-8
+*5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father,\[a\] the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God*.
 
-*In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.2 **Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.** 3 \*\*And they were calling to one another:*
+Exodus 3: 1 - 6
 
-*“Holy, holy, holy is the **Lord** Almighty; the whole earth is full of his glory.”*
+###### Discussion
 
-***4 \*\***At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. **5** “Woe to me\!” I cried. “I am ruined\! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the **Lord** Almighty.” **6** Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.7 **With it he touched my mouth and said, “See, this has touched your lips; your guilt is taken away and your sin atoned for.” \*\*8** Then I heard the voice of the Lord saying, “Whom shall I send? And who will go for us?” And I said, “Here am I. Send me\!” (NIV)*
+**Let’s take a few minutes to turn to the person next to you and answer the following questions.**
 
-Say: \*\*I know what you’re thinking. A lot is happening in those verses\! A king is dying. Isaiah is having a vision of God on his throne. Angels are flying around everywhere. The temple is shaking. Hot coals are touching people’s lips (don’t try this at home\!). \*\*
+* **Why do you think Moses decided to approach the burning bush?**
+* **Would you have decided to investigate the burning bush if you were in his position?**
+* **Why do you think Moses was afraid to look at God?**
 
-**It may seem confusing, but don’t worry. I’ll explain everything throughout the next three weeks. Today we’ll tackle just the first four verses.**
+*(Let the students discuss for a few minutes)*
 
-**Let’s unpack what the Bible is saying.**
+Say:**At the time Moses saw the burning bush, he was just going about his normal activities. He was simply tending to the flock. This was an ordinary activity in his life. Then all of a sudden, things changed, and God showed up in an unexpected way.**
 
-**Say: We often remember time based on what happened. Some memories are good; others aren’t so good. For example:**
+**God met Moses in an ordinary time, but an in extraordinary way and Moses was brave enough to respond. We know that Moses was intrigued by the burning bush, but he was also afraid when he learned that it was God calling to him.**
 
-* ***The winter we were out of school for two weeks because of snow and ice.***
-* *\*\*The summer I got my first car. \*\**
-* ***The year we moved to Colorado.***
-* ***Last September when my grandparent died.***
+**In the same way, God can reach us in unexpected moments and unexpected ways. It is not uncommon for God to move in our lives when we are not expecting it. Sometimes it may be in an obvious way - like Moses experienced, but other times it may be a little more difficult to decipher - like trying to organize ourselves by birthday.**
 
-*\*That’s the type of situation Isaiah is talking about in chapter 6. \*In the year that King Uzziah died…* It was a memorable time in Isaiah’s life, and not in a good way. Uzziah became king at age 16, and he started off great. He decided to seek God’s ways in everything he did, so God blessed him. For a long time, everything Uzziah did was successful, thanks to God’s blessing. The king defeated and drove away armies that had bullied the nation of Israel. Uzziah built towers to protect his people from invaders. \*\*
+**Either way, we know that when this happens it is okay to be afraid or nervous. However, we are still called to respond and listen to God.**
 
-**And then it all went wrong. Uzziah took credit and became prideful of his accomplishments. He began to do things that God commanded him not to do.**
+*(Leader - share a time God moved in your life when you least expected it)*
 
-**Why do we bring this up? Because it’s on Isaiah’s mind.**
+**As we prepare to go to \_\_\_\_\_\_\_\_\_\_ you may begin to feel God moving in your life. My challenge for you this week is to be on the lookout for ways God may begin to forge your faith. Try to spend some time listening to what God may be trying to share with you.**
 
-**Consider: This year, has something happened, good or bad, that you’ll never forget? Take a moment now to partner up and share with each other.**
+**Let’s Pray.**
 
-(Allow up to 5 minutes to share.)
+*Wrap up in prayer*
 
-**Say: Would anyone like to share with the group?** (Allow for 3 or 4 responses.)
+### Pre-Trip Devotion \#2
 
-**Say: Thank you for sharing. Life changes constantly. We can’t control what happens, but most of the time we can control how we respond.**
+######
 
-**While Isaiah was in the temple, he STOPPED. He saw a vision of God. Let’s read that description again, from Isaiah 6:1-4.**
+###### **Icebreaker**
 
-*…**I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.** **2** Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. **3** And they were calling to one another:*
+Say:**Let’s get into 1-2 circles (depending on group size) and face the center. On the count of three, no one is allowed to smile. If you do smile, take a seat. The last person standing wins! Feel free to make funny faces to encourage your friends to smile.**
 
-*“Holy, holy, holy is the **Lord** Almighty;the whole earth is full of his glory.”*
+**Any questions?**
 
-***4 \*\***At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke.*
+**1, 2, 3 No Smiling!**
 
-**Say: That must have been awesome to see\!**
+###### Introduction
 
-**Ask: If you were Isaiah, what would you have done in that moment?**
+Say:**Last time we began to learn about Moses and the story of the burning bush. When we left off Moses had just learned that God was speaking to him through the bush and Moses became very afraid. Let’s continue this story.**
 
-(Give the group time to respond.)
+###### **Scripture**
 
-**Say: The best word to describe Isaiah’s response to seeing God is AWE. Not “aww, that kitten is so cute,” but AWE as in he just saw something AWESOME. When we go to \_\_\_\_\_\_\_\_\_\_\_\_** (insert your mission trip destination), \*\*God will be at work through you, me, and the other trip participants. God may use you to change someone else’s life. And God may use someone else to change your life. \*\*
+*7 The Lord said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. 9 And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. 10 So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.”*
 
-###### **Wrapping It Up**
+*11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”*
 
-**Ask: What do you hope happens on our trip? Take a moment to think, and then we’ll share with one another.**
-
-(Pause for a moment and then let some students share.)
-
-**Say: We don’t know exactly what can happen, but we can hope about what will happen. The one thing we know is that God will be with us every step of the way. This is exactly what Isaiah must have been feeling in that moment: ANTICIPATION.We know that God will do something; we just don’t know what.**
+Exodus 3: 7 - 11
 
 ###### **Discussion**
 
-* **What’s exciting about not knowing what will happen on our trip?**
+Say:**In this piece of the story God tells Moses that he has seen the suffering of his people in Egypt and that he is concerned. God explains to Moses that he has a plan to rescue his people and bring them to “a land flowing with milk and honey.”**
 
-* **Why is not knowing what will happen tough for some of us?**
+**God was present in their sufferings and wanted more for them than their current reality. In the same way, God is present in our sufferings. He sees us when we are hurting, and he feels the same pain we do. But God promises to deliver us to “a land flowing with milk and honey.” That journey is not always smooth, it certainly wasn’t for the Israelites. However, God will never leave our side.**
 
-* **What can we do to be ready for the unknown?**
+**In this section of the story, we also learn that God has planned to use Moses to rescue his people. This was a scary job to be given and Moses knew that. Moses knew that Pharaoh was not going to simply let the Israelites leave and Moses was afraid. But God has been forging Moses his whole life to be ready for this job. God knows that Moses is ready.**
 
-###### **Ending**
+**However, when God tells Moses to go and bring his people out of Egypt, Moses’ first response is to tell God that he is not capable of the task. Moses doesn’t believe that he is the right man for this job.**
 
-**As we pray, let’s thank God that he already knows what challenges we’ll face. Let’s thank God for the awesome things to come. Let’s thank God, in advance, for how he will change our lives through this mission trip.**
+**Take a moment to turn to your neighbor and share a time you were faced with a task you didn’t feel confident you could achieve. How did it turn out?**
 
-###### **Close in prayer.**
+(*Allow time for discussion and then call the group back together.* *See if anyone would like to share with the larger group)*
 
-\#\#\#\#\#\#
+Say:**Thank you for sharing. It can be very scary when we are not confident in our own abilities, but God calls us anyways. And God always calls the right person for the right job. This week, you may be faced with a challenge that you don’t feel up to. Remember that God is walking with you and that he will use each challenge you face to forge you into the best version of yourself.**
 
-###### **After praying, share any announcements you may have.**
+**Let’s pray.**
 
-<div><hr /><h3>Pre-Trip Devotion #2</h3><h6>STOP, DROP, AND ROLL!</h6><h6>&nbsp;</h6><h6><strong>Crowdbreaker: How long did THAT take?</strong></h6><p>Use this website to create a game or visuals about how long it took to build different monuments around the world.</p><p><u><a target="_blank" rel="noopener" href="https://visual.ly/community/Infographics/travel/how-long-did-famous-structures-take-build">https://visual.ly/community/Infographics/travel/how-long-did-famous-structures-take-build</a></u></p><p><strong>Say: It&rsquo;s amazing to think that God has given us humans the ability to think of something, a monument or building, and then take years to construct our vision. In a way, it&rsquo;s one of the ways God made us in his image. We create. We work. We build.</strong></p><p><strong>Sometimes when something new is built, something older, broken down or decaying, has to be torn down or removed. Before God was ready to use Isaiah as a prophet, something in Isaiah's life needed to be torn down.</strong></p><p><strong>If you remember last time, Isaiah had a vision of God on his throne. This happened one day while Isaiah was visiting the Temple in Jerusalem. Let&rsquo;s read again what happened in Isaiah 6:1-8:</strong></p><p><em>In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.</em><em>&nbsp;<strong>2&nbsp;</strong>Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.&nbsp;<strong>3&nbsp;</strong>And they were calling to one another:</em></p><p><em>&ldquo;Holy, holy, holy is the&nbsp;</em><em>Lord</em><em>&nbsp;Almighty;</em><em>&nbsp;</em><em>the whole earth is full of his glory.&rdquo;</em></p><p><strong><em>4&nbsp;</em></strong><em>At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. <strong>5&nbsp;</strong>&ldquo;Woe to me!&rdquo; I cried. &ldquo;I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the&nbsp;</em><em>Lord</em><em>&nbsp;Almighty.&rdquo; <strong>6&nbsp;</strong>Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.</em><em>&nbsp;<strong>7&nbsp;</strong>With it he touched my mouth and said, &ldquo;See, this has touched your lips; your guilt is taken away and your sin atoned for.&rdquo; <strong>8&nbsp;</strong>Then I heard the voice of the Lord saying, &ldquo;Whom shall I send? And who will go for us?&rdquo; And I said, &ldquo;Here am I. Send me!&rdquo; (NIV)</em></p><p><strong>Say: I&rsquo;ll admit that a lot of strange things are happening in this Bible passage. It&rsquo;s stuff we aren&rsquo;t used to seeing unless it&rsquo;s in a movie or TV show. But this really happened! And the part we&rsquo;ll talk about today is the burning coal. We aren&rsquo;t recommending this! In fact, I need to say this is something 100% not to try at home.</strong></p><p><strong>Think of this as a giant one-time illustration. It&rsquo;s an example to show that God wants two things for us:</strong></p><ol><li><strong>God wants to forgive us.</strong></li><li><strong>God wants us to leave sin behind.</strong></li></ol><p><strong>Say: When Isaiah saw God, he essentially DROPPED to his knees and realized something. Isaiah realized that God is holy, different, completely without sin. Immediately, Isaiah is ashamed of the words he sometimes uses. In verse 5, he says:</strong></p><p><strong><em>5 </em></strong><em>&ldquo;Woe to me!&rdquo; &hellip; &ldquo;I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the&nbsp;</em><em>Lord</em><em>&nbsp;Almighty.&rdquo; </em></p><p><strong>Say: For whatever reason, Isaiah realized he said things that didn&rsquo;t honor God. For whatever reason, that&rsquo;s the sin that came to mind when Isaiah saw God. Maybe it&rsquo;s because Isaiah was in the temple, a place of worship. What do people use to worship God? Their mouths, a lot of the time. So maybe the huge difference between God and Isaiah makes Isaiah feel unworthy to be near God, much less to even worship God.</strong></p><p>Say: <strong>Let&rsquo;s read what happens next in Isaiah 6:6-7.</strong></p><p><strong><em>6&nbsp;</em></strong><em>Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.</em><em>&nbsp;<strong>7&nbsp;</strong>With it he touched my mouth and said, &ldquo;See, this has touched your lips; your guilt is taken away and your sin atoned for.&rdquo; </em></p><p><strong>Say: This must have felt like a dream or q nightmare. But an angel grabs a hot coal from the altar and puts it on Isaiah&rsquo;s lips. (OUCH!) This seems strange, but God has a reason, and it&rsquo;s symbolic. The action not only shows that God wants to forgive the sin in Isaiah&rsquo;s life, but God also wants to REMOVE the sin from Isaiah&rsquo;s life. </strong></p><p><strong>Say: Last time we talked about how, on our mission trip, God may use you to change someone else&rsquo;s life for the better. Some of us probably thought, &ldquo;There&rsquo;s no way God will use me! I&rsquo;ve said this, done that, looked at something I shouldn&rsquo;t have. I&rsquo;ve been disobedient, rude, and hateful. There&rsquo;s no way God wants to use me.&rdquo; </strong></p><p><strong>Say: No matter how big your list of sins is, in Christ that isn&rsquo;t what God sees in us. What God sees in us is our potential. It&rsquo;s almost as if God sees our sins and simply says: &ldquo;Let me get rid of that for you.&rdquo; It sounds simple. Almost sounds too good to be true. And it is. It is TOO GOOD. And it is TRUE.</strong></p><p><strong>Ask: Is a sin in your life holding you back? Do you still feel guilty about an event in your past? Do you carry a weight of shame because of something you&rsquo;ve done?</strong></p><p><strong>Say: I want us to do something together. We&rsquo;re going to &ldquo;DROP to our knees&rdquo; and take some time to ask for and receive God&rsquo;s forgiveness. Let&rsquo;s spread out in our room. Make sure you can still hear my voice. </strong>(Give everyone a chance to move.) <strong>Everyone, close your eyes and lower your head. Don&rsquo;t look around. Respect everyone else in this moment. </strong></p><p><strong>Say: God doesn&rsquo;t want you to feel the weight of your sin. The fact is, Jesus died for your sin so you don&rsquo;t have to live in it. You don&rsquo;t have to carry the guilt and shame anymore. Let&rsquo;s take a quiet moment to ask God to forgive us for the things we&rsquo;ve done that we feel guilty about. </strong></p><p>(After a few moments, continue.)</p><p><strong>Say: God&rsquo;s forgiveness is real. God&rsquo;s forgiveness is complete. Just as the coal cleansed Isaiah, God is cleaning up your life for you. You don&rsquo;t have to try to earn this. God is doing it for you, if you&rsquo;ll just trust in him.</strong></p><p><strong>Say: Next, let&rsquo;s use this quiet moment as an opportunity to thank God for his forgiveness. Let&rsquo;s do that now. Quietly thank God for cleaning your life and forgiving your sin.</strong></p><p>(Give everyone a moment to pray again. Then call them all back together.)</p><p><strong>Say: One last thing. This moment changed everything for Isaiah. Today may have been just a reminder for you. But for the person next to you, it may have been a life-changing moment. So let&rsquo;s remind each other: &ldquo;You&rsquo;re forgiven.&rdquo; Stand up now and say that to at least six people in this room. </strong></p><p>End with a closing prayer and announcements.</p><hr /><h3>Pre-Trip Devotion #3</h3><h6>STOP, DROP, AND ROLL!</h6><p><strong>Crowdbreaker: If You Could Go Anywhere</strong></p><p><strong>Say: Imagine this: You&rsquo;ve been offered a trip for you and three other people. You can go anywhere you want, stay anywhere you wish, do anything you&rsquo;d like. </strong></p><p><strong>Ask: </strong></p><ul><li><strong>Where will you go? </strong></li><li><strong>What will you do when you get there?</strong></li><li><strong>Who will you take along?</strong></li><li><strong>And the biggest question: WHY?</strong></li></ul><p><strong>Say: Partner up and share!</strong></p><p>(Give everyone 5 or 10 minutes to share.)</p><p><strong>Ask: Who would like to share their dream trip?</strong></p><p>&nbsp;</p><p>(After someone shares, ask, &ldquo;Who else would take that trip?&rdquo;)</p><p><strong>Say: If you remember from our previous devotions, Isaiah had a life-changing encounter with God. Isaiah saw a vision of God on his throne, and it STOPPED him. Isaiah realized the depth of his sin and DROPPED to his knees.</strong></p><p><strong>Today we&rsquo;ll discover that it was all part of God&rsquo;s plan.</strong></p><p><strong>So one final time, let&rsquo;s read through Isaiah 6:1-8.</strong></p><p><em>In the year that King Uzziah died, I saw the Lord, high and exalted, seated on a throne; and the train of his robe filled the temple.</em><em>&nbsp;<strong>2&nbsp;</strong>Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.&nbsp;<strong>3&nbsp;</strong>And they were calling to one another:</em></p><p><em>&ldquo;Holy, holy, holy is the&nbsp;</em><em>Lord</em><em>&nbsp;Almighty;</em><em>&nbsp;</em><em>the whole earth is full of his glory.&rdquo;</em></p><p><strong><em>4&nbsp;</em></strong><em>At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke. <strong>5&nbsp;</strong>&ldquo;Woe to me!&rdquo; I cried. &ldquo;I am ruined! For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, the&nbsp;</em><em>Lord</em><em>&nbsp;Almighty.&rdquo; <strong>6&nbsp;</strong>Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.</em><em>&nbsp;<strong>7&nbsp;</strong>With it he touched my mouth and said, &ldquo;See, this has touched your lips; your guilt is taken away and your sin atoned for.&rdquo; <strong>8&nbsp;</strong>Then I heard the voice of the Lord saying, &ldquo;Whom shall I send? And who will go for us?&rdquo; And I said, &ldquo;Here am I. Send me!&rdquo; (NIV)</em></p><p><strong>Say: I want to see if you noticed something. God never speaks until he asks: <em>Whom shall I send? And who will go for us?</em> Everything Isaiah experienced and felt was just from seeing God. So when God finally speaks, it really means something. God could have sent his angels. They&rsquo;re obviously awesome and powerful and would get anyone&rsquo;s attention. But God chooses a person&mdash;someone like you and me. </strong></p><p><strong>Say: Sometimes we feel intimidated. No matter how ready and tough you think you are, eventually something comes along that you can&rsquo;t handle by yourself. During those moments, you need God.</strong></p><p>(As the leader, share a story about how you felt God leading you to do something you&rsquo;d never done before. Share how God used you and what he taught you.)</p><p><strong>Say: You see, we all have moments where we&rsquo;re intimidated by jumping out into the unknown. Even if you&rsquo;ve been on a mission trip before, you&rsquo;ll admit they&rsquo;re all different. But one of the most comforting things is that God has called you and has been preparing you for this moment&mdash;and the ones to come. God is getting your heart and mind ready for what he has in store for you to do and for you to receive. </strong></p><p><strong>Say: And just like Isaiah, we need to respond, &ldquo;Here am I, send me!&rdquo;</strong></p><p><strong>Ask: How does it feel to know that God has called you into this moment and is preparing you for what you&rsquo;ll experience?</strong></p><p>(Allow time for responses.)</p><p><strong>Say: A small church in Southwest Oklahoma takes a mission trip to Central Mexico almost every year. They&rsquo;ve developed a relationship with a church in the city of Puebla. They regularly go help the church, never knowing what they&rsquo;ll be doing until they arrive. Sometimes the task involves going door to door sharing the Gospel. Sometimes they help put on events for children in impoverished communities. And sometimes the tasks change from day to day. </strong></p><p><strong>The Oklahoma pastor who led the trips until his retirement developed a phrase to keep everyone&rsquo;s perspective, anticipation, and expectations in check: &ldquo;Everything is beautiful.&rdquo; &nbsp;</strong></p><ul><li><strong>If 20 people believe in Jesus for the first time in a single afternoon, </strong><strong>&ldquo;Everything is beautiful.&rdquo; </strong></li><li><strong>If hundreds of children and their families enjoy a daily festival the church hosts in the local town square, </strong><strong>&ldquo;Everything is beautiful.&rdquo; </strong></li><li><strong>If 14 people have to cram into a single pickup camper to get from one location to another, </strong><strong>&ldquo;Everything is beautiful.&rdquo; </strong></li><li><strong>If dinner that night consists of only snacks from hotel vending machines because all the restaurants are closed, </strong><strong>&ldquo;Everything is beautiful.&rdquo; </strong></li><li><strong>If everything gets rained out, </strong><strong>&ldquo;Everything is beautiful.&rdquo;</strong></li><li><strong>If last year&rsquo;s experience was the best week of your life and this year&rsquo;s was the worst, </strong><strong>&ldquo;Everything is beautiful.&rdquo;</strong></li></ul><p><strong>That phrase enabled a more than 20-year relationship between the churches. Why? Because it was their way of saying every morning and evening: &ldquo;Here am I, send me.&rdquo;</strong></p><p><strong>Every day you&rsquo;ll need to get up and say in your heart and mind, </strong><strong>&ldquo;Here am I, send me.&rdquo; Maybe as a group we need to say it every evening at camp during our devotions: &ldquo;Here am I, send me.&rdquo; And remember, you&rsquo;re not saying that to your leaders; you&rsquo;re saying it to God.</strong></p><p><strong>Let&rsquo;s take a moment to say that phrase together. I&rsquo;ll have you repeat it after me.</strong></p><p><strong>Let&rsquo;s try it: </strong><strong>&ldquo;Here am I, send me.&rdquo; </strong>(Let them repeat it.)</p><p><strong>Close your eyes and say it as a prayer: </strong><strong>&ldquo;Here am I, send me.&rdquo; </strong>(Let them repeat it.)<strong> </strong></p><p><strong>One more time: </strong><strong>&ldquo;Here am I, send me.&rdquo; </strong>(Let them repeat it.)<strong> </strong></p><p><strong>Let&rsquo;s close our time with a prayer.</strong></p><p>After praying, give any last-minute announcements.</p></div>
+*Close in prayer*
+
+### Pre-Trip Devotion \#3
+
+######
+
+###### **Icebreaker **
+
+Say:**Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
+
+*(Allow time to find a partner)*
+
+**I am going to give you 2 minutes to come up with a not-so-secret handshake! Go!**
+
+(*Allow time)*
+
+Say:**So, remember I said these were not-so-secret handshakes? We are going to go around the room and demonstrate our new handshakes.**
+
+(*Allow time)*
+
+Say:**Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage you to continue to get to know your new friend and greet them with your not-so-secret handshake throughout the week!**
+
+###### **Introduction**
+
+Say: **Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return.&nbsp;**
+
+###### **Scripture**
+
+*12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you\[b\] will worship God on this mountain.”*
+
+*13 Moses said to God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ Then what shall I tell them?”*
+
+*14 God said to Moses, “I am who I am.\[c\] This is what you are to say to the Israelites: ‘I AM has sent me to you.’”*
+
+Exodus 3: 12-14
+
+###### **Discussion**
+
+Say:**When Moses is doubting himself, God’s immediate response is to remind Moses that he is not going alone. “I will be with you.” God promises Moses that he will go with him and stay with him the entire time.**
+
+**God has made that same promise to us. God goes with us. He is with us in our greatest suffering, our happiest moments, our challenges, and our successes. He is always with us. Even when it may not feel obvious, God never leaves your side.**
+
+**Moses was afraid that even with God by his side, the Israelites would not believe that he was sent by God. God tells Moses to say to the Israelites that “I AM has sent me to you.” Now hearing that sentence can feel a little confusing to us, but Moses is supposed to tell the Israelites that God is all that he promises to be. “I am who I am.”**
+
+**God is showing Moses that he is a God who keeps his promises. Who cares for his people. Who loves his children. That he is who he has said that he is.**
+
+**And God continues to be all that he has promised to be. So not only is God always by your side, but he is always caring for you. He always loves you.**
+
+**As we will be heading out to \_\_\_\_\_\_\_ soon for a week of service, there may be several challenges along the way that could have you doubting yourself. Maybe you are nervous about your crew, or you get a project that you have never done before. Maybe you are afraid to be far from home, to meet new people, or to sleep on the ground. Maybe you just don’t know what to expect and that in itself is scary.**
+
+**Remember, as we go, God is going with us. He will walk alongside you the entire time. You can count on him. He has called you to be here and he already knows each of your crew members and your project. My challenge for you as we begin to serve is to be brave in these moments. Be brave enough to respond when God calls on you.**
+
+**By doing so, you may experience God in new ways as he continues to forge your faith.**
+
+**Let’s Pray.**
+
+*Close in prayer*
