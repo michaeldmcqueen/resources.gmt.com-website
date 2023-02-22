@@ -5,7 +5,7 @@ subcategory: Post Camp Resources
 order: 3
 order_number: 3
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ### Post-Trip Devotions
 
