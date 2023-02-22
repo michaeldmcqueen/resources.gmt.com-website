@@ -43,4 +43,4 @@ If I have any special requests or situations that I want GMT to know about, I ha
 
 #### NEW GROUP ORIENTATION&nbsp;
 
-If you are new to Group Mission Trips or need a refresher, here is a [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/EYm0ZLP0CHZNqye9FLaAyoYBBRh6iGfBvdIxapDqvxOSaA?e=0vRCjp){: target="_blank" rel="noopener nofollow"}from our President, Tim, and our Mission Trip Advisor, Bri. Enjoy!&nbsp;
+If you are new to Group Mission Trips or need a refresher, here is a [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/EYm0ZLP0CHZNqye9FLaAyoYBBRh6iGfBvdIxapDqvxOSaA?e=0vRCjp){: target="_blank" rel="noopener nofollow"} from our President, Tim, and our Mission Trip Advisor, Bri. Enjoy!&nbsp;
