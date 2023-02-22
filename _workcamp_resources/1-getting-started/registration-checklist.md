@@ -40,3 +40,7 @@ I verified that all our vehicles, drivers, and insurance information is accurate
 #### SPECIAL REQUESTS
 
 If I have any special requests or situations that I want GMT to know about, I have entered those into the “Special Requests” section on my account. GMT will be notified and will either approve or ask for clarification before making special accommodations. I understand that entering notes here is not a guarantee that GMT can accommodate them.
+
+#### NEW GROUP ORIENTATION&nbsp;
+
+If you are new to Group Mission Trips or need a refresher, here is a [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/ESKBC9ihO4JMtJIkbowKP8oBdDY9OrIlNyhyLRCI_KhA5Q?e=DuzfnI){: target="_blank" rel="noopener nofollow"} from our President, Tim, and our Mission Trip Advisor, Bri. Enjoy!&nbsp;
