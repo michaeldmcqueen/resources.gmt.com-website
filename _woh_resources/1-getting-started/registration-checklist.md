@@ -7,7 +7,6 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-
 > (Please ensure the following is complete at least 30 days before your trip.)
 
 ## General
@@ -41,3 +40,7 @@ I verified that all our vehicles, drivers, and insurance information is accurate
 #### SPECIAL REQUESTS
 
 If I have any special requests or situations that I want GMT to know about, I have entered those into the “Special Requests” section on my account. GMT will be notified and will either approve or ask for clarification before making special accommodations. I understand that entering notes here is not a guarantee that GMT can accommodate them.
+
+#### NEW GROUP ORIENTATION&nbsp;
+
+If you are new to Group Mission Trips or need a refresher, here is a [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/EYm0ZLP0CHZNqye9FLaAyoYBBRh6iGfBvdIxapDqvxOSaA?e=0vRCjp){: target="_blank" rel="noopener nofollow"}from our President, Tim, and our Mission Trip Advisor, Bri. Enjoy!&nbsp;
