@@ -12,15 +12,15 @@ inputs:
 **BREAKFAST&nbsp;**
 
 * Participants will have one or more of the following options:&nbsp;
-  * Waffles, sausage, English muffins, eggs, cheese, biscuits and gravy, ham
+  * Waffles, sausage, English muffins, eggs, cheese, biscuits and gravy, bacon
 
-  * Accompaniments (each day): Cereal, yogurt, toast, peanut butter, fruit, oatmeal, milk, coffee, and juice&nbsp;
+  * Accompaniments (each day): Cereal, yogurt, toast, peanut butter, fruit, oatmeal, milk, coffee and juice
 
   * Please note: Friday morning will be a continental breakfast.
 
 **LUNCH&nbsp;**
 
-Lunches are picnic style and at the work sites. There will be: Sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
+Lunches are picnic style and at the worksites. There will be: Sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly sandwiches will be available each day too.
 
 Beverages on the work site:
 
@@ -31,15 +31,15 @@ Beverages on the work site:
 
 **Sunday**\: Pizza&nbsp;
 
-**Monday**\: Meat and vegetable lasagna, side vegetable, dinner rolls, and dessert
+**Monday**\: Pasta, marinara and alfredo sauce, vegetable, dinner rolls, and dessert
 
 **Tuesday**\: DINNER ON YOUR OWN&nbsp;
 
-**Wednesday**\: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
+**Wednesday**\: Pulled pork, mac and cheese, vegetable, and dessert
 
-**Thursday**\: Chicken tenders, mac and cheese, side vegetable, and dessert
+**Thursday**\: Taco bar with flour tortillas, taco shells, tortilla chips, ground beef, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
 
-**Salad bar** (every night except Wed): Featuring mixed greens, carrots, hard boiled eggs, black beans, croutons, shredded cheese, sliced turkey or ham, and Ranch and Italian dressing&nbsp;
+**Salad bar** (every night except Thursday): Featuring mixed green, carrots, hard boiled eggs, black beans, croutons, sliced turkey or ham, and Ranch and Italian dressing; available every night
 
 **Beverages:** Lemonade or fruit punch will be available&nbsp;
 
@@ -107,18 +107,18 @@ We have listed here some possible options from our menu that may work for you.&n
 
 **DINNER&nbsp;**
 
-**Salad bar each night except Wed:** Mixed greens, carrots, hard boiled eggs, black beans, croutons, shredded cheese, and dressing (Ranch and Italian)&nbsp;
+**Salad bar each night except Wed:** Mixed greens, carrots, hard boiled eggs, black beans, croutons, dressing (Ranch and Italian)
 
 Peanut butter and jelly available each night&nbsp;
 
 **Sunday**\: Cheese or veggie pizza
 
-**Monday**\: Vegetable lasagna, side vegetable, and dessert
+**Monday**\: Pasta, marinara sauce, alfredo sauce, side vegetable, and dessert
 
 **Tuesday**\: Dinner on your own&nbsp;
 
-**Wednesday**\: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
+**Wednesday**\: Macaroni and cheese, vegetables, and dessert
 
-**Thursday**\: Macaroni and cheese, vegetables, and dessert
+**Thursday**\: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
 
 **Beverages**\: Lemonade or fruit punch&nbsp;
