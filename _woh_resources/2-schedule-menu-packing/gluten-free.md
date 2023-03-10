@@ -17,6 +17,7 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 
 * Eggs\*
 * Sausage\*
+* Bacon\*
 * Yogurt
 * Fruit
 * Juice, milk, coffee, tea
@@ -30,7 +31,7 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 
 **DINNER**
 
-**Salad bar each night except Wed**\: Mixed greens, carrots, hard-boiled eggs, black beans, shredded cheese, sliced turkey or ham\*, Ranch and Italian dressing\*.&nbsp;
+**Salad bar each night except Wed**\: Mixed greens, carrots, hard boiled eggs,<br>black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
 
 Peanut butter and jelly available each night&nbsp;
 
@@ -40,13 +41,11 @@ Peanut butter and jelly available each night&nbsp;
 
 **Tuesday**\: Dinner on your own&nbsp;
 
-**Wednesday**\: Taco shells, tortilla chips, ground beef\*, black beans, salsa, diced tomatoes, cheese, onions&nbsp;
+**Wednesday**\: Pulled Pork\*, Vegetables
 
-**Thursday**\: Vegetables&nbsp;
+**Thursday**\: Taco shells, tortilla chips, ground beef\*, black beans,<br>salsa, diced tomatoes, cheese, onions
 
 **Beverages**\: Lemonade or fruit punch
-
-&nbsp;
 
 **TO HELP OUR GLUTEN FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING:&nbsp;**
 
@@ -59,8 +58,6 @@ Peanut butter and jelly available each night&nbsp;
 * 1 box of gluten free pasta&nbsp;
 
 * 1 jar of gluten free pasta sauce&nbsp;
-
-* 1 bag of gluten free chicken nuggets&nbsp;
 
 * 1&nbsp; bos Gluten free mac n cheese
 
@@ -80,6 +77,4 @@ Peanut butter and jelly available each night&nbsp;
 
 ***(Brands may differ per location.)&nbsp;***
 
-***![](/uploads/gluten-free.PNG){: width="655" height="641"}***
-
-&nbsp;
+***![](/uploads/newgfwoh.PNG){: width="376" height="432"}***
