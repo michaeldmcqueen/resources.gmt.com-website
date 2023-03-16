@@ -77,4 +77,4 @@ Peanut butter and jelly available each night&nbsp;
 
 ***(Brands may differ per location.)&nbsp;***
 
-***![](/uploads/newgfwoh.PNG){: width="376" height="432"}***
+***![](/uploads/glutenfree.PNG){: width="666" height="885"}***
