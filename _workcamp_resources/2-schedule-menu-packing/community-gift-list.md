@@ -11,4 +11,6 @@ inputs:
 
 **Wausau, WI:** Community Partner<br>• &nbsp; &nbsp;Kleenex<br>• &nbsp; &nbsp;Paper Towel<br>• &nbsp; &nbsp;Clorox Wipes<br>• &nbsp; &nbsp;Hand sanitizer<br>• &nbsp; &nbsp;Dish washer soap<br>• &nbsp; &nbsp;Dawn dish soap<br>• &nbsp; &nbsp;Kitchen Towels<br>• &nbsp; &nbsp;Scrubbies for washing dishes<br>• &nbsp; &nbsp;Non-perishable food items<br>• &nbsp; &nbsp;Cleaning Supplies
 
-**Westfield, IN:** Non-perishables<br>**Winchester, KY:** Non-perishables<br>**Wrightsville, PA:** School supplies for students of all ages<br>**Woonsocket, RI:** Non-perishables<br>&nbsp;
+**Westfield, IN:** Non-perishables<br>**Winchester, KY:** Non-perishables<br>**Wrightsville, PA:** School supplies for students of all ages as well as the following toiletries:<br>•&nbsp; &nbsp;Toothpaste<br>•&nbsp; &nbsp;Shampoo<br>•&nbsp; &nbsp;Soap<br>•&nbsp; &nbsp;Deodorant<br>•&nbsp; &nbsp;Paper Towels<br>•&nbsp; &nbsp;Toilet Paper
+
+**Woonsocket, RI:** Non-perishables
