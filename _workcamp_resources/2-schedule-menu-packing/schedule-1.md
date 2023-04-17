@@ -1,5 +1,5 @@
 ---
-title: Schedule 1
+title: Schedule
 category: Workcamps
 subcategory: Schedule, Menu, Packing
 order: 1
