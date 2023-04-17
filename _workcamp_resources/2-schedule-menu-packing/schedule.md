@@ -1,12 +1,11 @@
 ---
 title: Schedule
 category: Workcamps
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 1
 order_number: 1
 ---
-
-**SUNDAY**&nbsp;
+**SUNDAY**
 
 | 12–2 p.m | Check-in&nbsp; |
 | 3 p.m | Kick-off program |
@@ -15,8 +14,6 @@ order_number: 1
 | 7 p.m | Evening program<br>Meet your crew<br>Project assignments |
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out |
-
-&nbsp;
 
 **MON, TUES, THURS, FRIDAY**
 
@@ -29,8 +26,6 @@ order_number: 1
 | 8:30 p.m | Youth group devotions |
 | 11 p.m | Lights-out (midnight Friday)&nbsp; |
 
-&nbsp;
-
 **WEDNESDAY**&nbsp;
 
 | 6:45 a.m.–12 p.m | Same as Monday |
@@ -39,18 +34,14 @@ order_number: 1
 | 8:30 p.m&nbsp; | Youth group devotions&nbsp; |
 | 11 p.m | Lights-out |
 
-&nbsp;
-
 **SATURDAY**&nbsp;
 
 | 7–8 a.m&nbsp; | Breakfast&nbsp; |
 | 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
-
-&nbsp;
 
 **SPECIAL MEETING**&nbsp;
 
 | Tuesday 4:15 p.m.&nbsp; | Adult meeting&nbsp; |
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
-* All aspects of camp are designed just for you. Don’t miss out on anything\!&nbsp;
+* All aspects of camp are designed just for you. Don’t miss out on anything!&nbsp;
