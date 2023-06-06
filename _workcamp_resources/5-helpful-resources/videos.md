@@ -19,7 +19,7 @@ inputs:
 
 ### Workcamps Expectations Video
 
-<div class="cms-embed" data-cms-embed="PGRpdiBjbGFzcz0idmlkZW8tZW1iZWQiPjxpZnJhbWUgc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vODMyMDg2ODIwL2M3MDJlYzBlYjUiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT48L2Rpdj4="><div class="video-embed"><iframe src="https://player.vimeo.com/video/832086820/c702ec0eb5" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div></div>
+<div class="cms-embed" data-cms-embed="PGRpdiBjbGFzcz0idmlkZW8tZW1iZWQiPjxpZnJhbWUgc3JjPSJodHRwczovL3BsYXllci52aW1lby5jb20vdmlkZW8vODMyMDg2ODIwP2g9YjhjM2MyN2RiMyZhbXA7YmFkZ2U9MCZhbXA7YXV0b3BhdXNlPTAmYW1wO3BsYXllcl9pZD0wJmFtcDthcHBfaWQ9NTg0NzkiIHdpZHRoPSI2NDAiIGhlaWdodD0iMzYwIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImF1dG9wbGF5OyBmdWxsc2NyZWVuOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT48L2Rpdj4="><div class="video-embed"><iframe src="https://player.vimeo.com/video/832086820?h=b8c3c27db3&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe></div></div>
 
 ### Get Down Training Video
 
