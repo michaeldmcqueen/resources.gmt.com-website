@@ -1,13 +1,12 @@
 ---
 title: Packing List
 category: Workcamps
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 4
 order_number: 4
 inputs:
   unpublish: false
 ---
-
 **PERSONAL ITEMS:&nbsp;**
 
 * Air mattress, cot, or foam pad (twin-size)&nbsp;
@@ -45,7 +44,6 @@ inputs:
 * Spending money\*&nbsp;
 * Games for free time\*&nbsp;
 * Pen/pencil for program and devotions
-* **1 mask per day (either disposable or enough cloth ones to get through the week without laundry- to be determined later in the spring)**
 
 &nbsp;\*Optional Items&nbsp;
 
@@ -54,12 +52,10 @@ inputs:
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
-* **1 thermometer per gender (larger groups should bring more so there's enough for 1 per sleeping room- to be determined in the spring)**
-* **Hand sanitizer for your vehicles and sleeping rooms (to be determined in the spring)**
 
-COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you\!
+COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you!
 
-Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance\!
+Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance!
 
 * Involve your congregation, friends and even your local businesses in the effort.
 * Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
