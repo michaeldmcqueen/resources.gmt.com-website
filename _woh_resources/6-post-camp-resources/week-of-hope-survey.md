@@ -7,8 +7,8 @@ order_number: 4
 inputs:
   unpublish: true
 ---
-## We value your feedback\!
+## We value your feedback!
 
-We want to know what you think about your camp experience. If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.) &nbsp;**Plus, five survey respondents will be randomly selected to each receive a $100 VISA Gift Card\!**
+We want to know what you think about your camp experience. If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.) &nbsp;**Plus, five survey respondents will be randomly selected to each receive a $100 VISA Gift Card!**
 
-<div><p><strong><a target="_blank" rel="noopener" href="https://www.surveymonkey.com/r/2022WeekOfHope">https://www.surveymonkey.com/r/2022WeekOfHope</a></strong></p></div>
+<div><p><strong><a target="_blank" href="https://www.surveymonkey.com/r/2022WeekOfHope">https://form.jotform.com/groupmissiontrips/feedback-survey</a></strong></p></div>
