@@ -10,4 +10,4 @@ inputs:
 
 We want to know what you think about your camp experience. If you didn't get a chance to tell us what you think, please take a moment to fill out a survey about your camp week (only once, please.) &nbsp;**Plus, five survey respondents will be randomly selected to each receive a $100 VISA Gift Card!**
 
-<div><div><div><p><a target="_blank" href="https://www.surveymonkey.com/r/2022Workcamps"><strong>https://form.jotform.com/groupmissiontrips/feedback-survey</strong></a></p></div></div></div>
+<div><div><div><p><a target="_blank" href="https://form.jotform.com/groupmissiontrips/feedback-survey"><strong>https://form.jotform.com/groupmissiontrips/feedback-survey</strong></a></p></div></div></div>
