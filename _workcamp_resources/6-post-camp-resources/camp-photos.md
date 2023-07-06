@@ -11,4 +11,4 @@ You can access the camp photos by clicking the link below and looking for the we
 
 You will be asked for a password to access the photos, it is: **Forged23**
 
-[![](/uploads/photosicon-1.png){: width="40" height="28"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EppAPY_a7aNBo0XoT47SyKUBupw1QGZ3pKwjnlPmcsgY6Q?e=ZofydT){: target="_blank"}&nbsp;**[Participant Photos –&gt;](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EppAPY_a7aNBo0XoT47SyKUBgmrOwfmhJeIYv4HMrkSJyg?e=6Lj0St){: target="_blank"}**
+[![](/uploads/photosicon-1.png){: width="40" height="28"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EppAPY_a7aNBo0XoT47SyKUBupw1QGZ3pKwjnlPmcsgY6Q?e=ZofydT){: target="_blank"}&nbsp;**[Participant Photos –&gt;](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EppAPY_a7aNBo0XoT47SyKUBupw1QGZ3pKwjnlPmcsgY6Q){: target="_blank"}**
