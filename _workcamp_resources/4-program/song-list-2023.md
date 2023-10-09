@@ -12,10 +12,10 @@ inputs:
 
 Songs in **bold** are new to 2023.
 
-| **FAST** | |
+| **FAST** |  |
 | TITLE | ARTIST |
-| **I Thank God** | **&nbsp;Maverick City** |
-| **Lamb** | **&nbsp;Elevation Worship** |
+| **I Thank God** | &nbsp;**Maverick City** |
+| **Lamb** | &nbsp;**Elevation Worship** |
 | Graves into Gardens | &nbsp;Elevation Worship |
 | Glorious Day | Passion |
 | Open The Gates | Vertical Worship |
@@ -27,7 +27,7 @@ Songs in **bold** are new to 2023.
 | Your Love Awakens Me | Phil Wickham |
 | My Lighthouse | Rend Collective |
 
-| **MEDIUM** | |
+| **MEDIUM** |  |
 | TITLE | ARTIST |
 | **Another in the Fire** | **Hillsong United** |
 | **Firm Foundation** | **Maverick City** |
@@ -42,8 +42,8 @@ Songs in **bold** are new to 2023.
 | How Great is Our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
 | Living Hope | Phil Wickham |
-|  | |
-| **SLOW** | |
+|  |  |
+| **SLOW** |  |
 | TITLE | ARTIST |
 | **All Hail King Jesus** | **Jeremy Riddle** |
 | **Oh Praise the Name (Anastasis)** | **Hillsong Worship** |
@@ -60,5 +60,3 @@ Songs in **bold** are new to 2023.
 | Build My Life | Housefires |
 | Lord, I Need You | Matt Maher |
 | 10,000 Reasons | Matt Redman |
-
-<br>
