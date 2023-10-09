@@ -8,3 +8,5 @@ inputs:
   unpublish: false
 ---
 ### ​​​**Theme: Influencer**
+
+Our theme this year is Influencer! The daily themes will be available mid-November. Thank you!
