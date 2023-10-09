@@ -16,7 +16,7 @@ Sr High trips: Must be at least 14 years old OR entering the 9th grade in the fa
 * Due to liability, under-aged participants will be sent home at their own expense (NO babies or any children under the required age).
 * Only registered participants are permitted at the lodging facility and on the project sites.&nbsp;
 * No special skills are required.&nbsp;
-* 19 or 20 year-olds are welcome to attend as participants\! Remember that only those that are 21 or older will be considered “adults” at camp and count in your 1 adult to 5 youth required ratio.&nbsp;
+* 19 or 20 year-olds are welcome to attend as participants! Remember that only those that are 21 or older will be considered “adults” at camp and count in your 1 adult to 5 youth required ratio.&nbsp;
 
 ---
 
@@ -49,19 +49,19 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday&nbsp;**
+**Sunday**&nbsp;
 
-3-4 p.m. Check-in&nbsp;<br>4:30 p.m. Adult Meeting&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Kick-off program (Meet your crew and get your project assignments\!)&nbsp;<br>8 p.m. Evening program followed by youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
+3-4 p.m. Check-in&nbsp;<br>4:30 p.m. Adult Meeting&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Kick-off program (Meet your crew and get your project assignments!)&nbsp;<br>8 p.m. Evening program followed by youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
 
-**Monday, Wednesday, and Thursday&nbsp;**
+**Monday, Wednesday, and Thursday**&nbsp;
 
 6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks&nbsp;<br>7:00 p.m. Evening program team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
-**Tuesday:&nbsp;**
+**Tuesday:**&nbsp;
 
 6:30 a.m. - 3:30 p.m. Same schedule as Monday&nbsp;<br>3:30 p.m. to 10:30 p.m. Youth group free time (dinner and devotions on your own)&nbsp;<br>8 p.m. Lodging facility is back open&nbsp;<br>8:30 p.m. Movie night (optional)&nbsp;<br>10:30 p.m. Bedtime stories (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
-**Friday:&nbsp;**
+**Friday:**&nbsp;
 
 7-8 a.m. Breakfast&nbsp;<br>7-9 a.m. Check-out, hospitality tasks, and depart for home
 
@@ -87,13 +87,13 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 **Personal Items:** The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
 
-**Fun theme days:** Bring fun stuff for our theme days during camp\!&nbsp;
+**Fun theme days:** Bring fun stuff for our theme days during camp!&nbsp;
 
 ---
 
 ### What about safety?
 
-Safety is our top priority\!
+Safety is our top priority!
 
 * We require groups to bring 1 adult (21 or older) for every 5 participants that are under 21 years of age.&nbsp;
 * We require participants that are 18 and older be screened and nationally background-checked by their church every 2 years. Their pastor signs off that they meet Group Mission Trips’ requirements and are approved to attend.
@@ -131,7 +131,7 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 * Focused on Jesus. Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.&nbsp;
 * Interactive. People learn better by doing. Participants will be involved in sharing, speaking, acting, reflecting…not just sitting and watching.&nbsp;
 * Relevant. Through creative multimedia, thought-provoking sound and video, &nbsp;programs are designed to reach everyone.&nbsp;
-* Fun. Relationship-building activities, games, and having fun are part of every program. Expect to have a great time\!&nbsp;
+* Fun. Relationship-building activities, games, and having fun are part of every program. Expect to have a great time!&nbsp;
 
 ---
 
@@ -139,14 +139,14 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount:&nbsp;
 
-* March 15th, 2023: Half of what is remaining is due.&nbsp;
-* May 15th, 2023: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
+* March 15th, 2024: Half of what is remaining is due.&nbsp;
+* May 15th, 2024: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2023, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2023.&nbsp;&nbsp;
+Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2024, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2024.&nbsp;&nbsp;
 
 ---
 
@@ -154,16 +154,16 @@ Call us\! If there’s space available in your camp, we’ll ask for the necessa
 
 Cancellations have a huge impact on the people we serve- it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2023 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2024 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
 
 ---
 
 ### Is there a dress code?
 
-We request modest clothing choices in our Code of Conduct. While Group Mission Trips doesn’t have a formal dress code, we serve local organizations that do have specific requirements for volunteers. Don’t be turned away from your assigned project due to inappropriate dress\!&nbsp;
+We request modest clothing choices in our Code of Conduct. While Group Mission Trips doesn’t have a formal dress code, we serve local organizations that do have specific requirements for volunteers. Don’t be turned away from your assigned project due to inappropriate dress!&nbsp;
 
 * Pack plenty of t-shirts, longer shorts, capris or pants, and close-toe shoes.&nbsp;
-* Please have your females bring a one-piece swimsuit in case they are **assigned to a project site teaching a resident how to swim.&nbsp;**
+* Please have your females bring a one-piece swimsuit in case they are **assigned to a project site teaching a resident how to swim.**&nbsp;
 * Many of our **partner organizations** don’t allow volunteers to wear spaghetti straps, shirts that reveal the midriff, short shorts, or flip flops. And, of course, no clothing with offensive language or images.&nbsp;
 
 ---
@@ -172,7 +172,7 @@ We request modest clothing choices in our Code of Conduct. While Group Mission T
 
 * Hospitality tasks are opportunities for participants to serve each other during the mission trip week.&nbsp;
 * Hospitality tasks include: cleaning the cafeteria, restrooms, shower areas, and other common areas. Trash will also need to be taken out. The lodging facility will NOT have the services of a custodian.&nbsp;
-* Participants will prepare and serve breakfast and dinner. A staff member will oversee the meal preparation, cooking, serving, and cleanup of all meals. Everyone participates\!&nbsp;
+* Participants will prepare and serve breakfast and dinner. A staff member will oversee the meal preparation, cooking, serving, and cleanup of all meals. Everyone participates!&nbsp;
 * Meal shifts are divided into teams that will help prepare, cook, serve, and clean.&nbsp;
 
 ---
@@ -200,17 +200,17 @@ We ask that all participants arrive on time and stay for entire time. Every part
 
 ### What if the camp I want is full?
 
-All trips are filled on a first-come, first-served basis, so register early. However, if you register for a full trip, we’ll give you a choice: Join the waiting list for your first choice, or register for your second-choice camp. Call us. We’re eager to help\!&nbsp;
+All trips are filled on a first-come, first-served basis, so register early. However, if you register for a full trip, we’ll give you a choice: Join the waiting list for your first choice, or register for your second-choice camp. Call us. We’re eager to help!&nbsp;
 
 ---
 
 ### Can participants be more involved?
 
-Yes\! There are many ways participants can be more involved in the camp:&nbsp;
+Yes! There are many ways participants can be more involved in the camp:&nbsp;
 
 * There may be a couple skits during the programs for any participants that enjoy acting.&nbsp;
-* There will be a lip-sync battle during the week\! If any participants, or your entire group, want to prepare a little something for this, the camp staff will just need to approve your song (at camp) beforehand.&nbsp;
-* Bring fun stuff for theme dinners\! There will be 3 evenings where participants can have fun dressing up: Christmas Monday, Wacky Wednesday, and Tropical Thursday.&nbsp;
+* There will be a lip-sync battle during the week! If any participants, or your entire group, want to prepare a little something for this, the camp staff will just need to approve your song (at camp) beforehand.&nbsp;
+* Bring fun stuff for theme dinners! There will be 3 evenings where participants can have fun dressing up: Christmas Monday, Wacky Wednesday, and Tropical Thursday.&nbsp;
 
 ---
 
@@ -225,6 +225,4 @@ Yes\! There are many ways participants can be more involved in the camp:&nbsp;
 
 ### Do you have references I can talk to?
 
-Absolutely\! Don’t just take our word for it. Give us a call (844.258.9616) and we’d be happy to connect you with other youth leaders who have served with us.
-
-&nbsp;
+Absolutely! Don’t just take our word for it. Give us a call (844.258.9616) and we’d be happy to connect you with other youth leaders who have served with us.
