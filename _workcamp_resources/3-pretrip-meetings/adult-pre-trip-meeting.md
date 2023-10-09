@@ -7,7 +7,7 @@ order_number: 2
 inputs:
   unpublish: false
 ---
-Adults are one of the most important ingredients in a successful mission trip, and this meeting is designed to train and equip your adults to be the amazing leaders that every teenager needs. During the meeting, you’ll help everyone feel prepared and communicate important details and principles that every adult needs to understand and commit to. Every adult participant should attend this meeting\!
+Adults are one of the most important ingredients in a successful mission trip, and this meeting is designed to train and equip your adults to be the amazing leaders that every teenager needs. During the meeting, you’ll help everyone feel prepared and communicate important details and principles that every adult needs to understand and commit to. Every adult participant should attend this meeting!
 
 **BEFORE THE MEETING**
 
@@ -20,7 +20,7 @@ Adults are one of the most important ingredients in a successful mission trip, a
 
 **WELCOME**
 
-Say: *I want to start by saying a big “Thank You\!” for being a part of this summer’s mission trip. Our teenagers couldn’t experience a trip like this without you. I want you to know something-this is bigger than you, or me, or our church, or even the people that we’ll serve. When God brings together all the people, parts, and plans of our Group Mission Trip, our youth grow closer to Jesus, and lives are changed. That’s what it’s all about, and that’s what you’re a part of. So thanks again\!*
+Say: *I want to start by saying a big “Thank You!” for being a part of this summer’s mission trip. Our teenagers couldn’t experience a trip like this without you. I want you to know something-this is bigger than you, or me, or our church, or even the people that we’ll serve. When God brings together all the people, parts, and plans of our Group Mission Trip, our youth grow closer to Jesus, and lives are changed. That’s what it’s all about, and that’s what you’re a part of. So thanks again!*
 
 *Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is Forged. Here is an overview of the main spiritual concepts we will be teaching on this week. Our job as leaders is to use this content to spark life-changing conversations with our youth this week. This program will start out by showing that each of us is like precious raw material ready to be molded into a life of significance. The process of forging metal into usable products requires suffering, melting, and softening through fire. We then can be sharpened through hammering and molding which requires perseverance that ultimately builds character. Once we have been refined through this process we will leave this week polished, prepared, and perfectly shaped to play our unique role in the Kingdom of God.*
 
@@ -28,15 +28,15 @@ Say: *I want to start by saying a big “Thank You\!” for being a part of this
 
 *First, let’s watch this Adult Expectations video. (After watching the video, see if there are any questions/comments. Next review these few additional reminders to ensure the best experience for your adults.)*
 
-1\. BREATHE<br><br>Say: *The first idea we’ll discuss is “Breathe.” The idea of breathing is to know your personal limits and find ways to recharge so we can all be great adults for our teens. It may sound weird to talk about this topic before the trip–before you’re tired, stressed, overwhelmed, stretched, etc.–but let’s take the time now to think about how to take care of ourselves during the trip.&nbsp;*
+1\. BREATHE<br><br>Say: *The first idea we’ll discuss is “Breathe.” The idea of breathing is to know your personal limits and find ways to recharge so we can all be great adults for our teens. It may sound weird to talk about this topic before the trip–before you’re tired, stressed, overwhelmed, stretched, etc.–but let’s take the time now to think about how to take care of ourselves during the trip.*&nbsp;
 
-*Let’s be honest, mission trips are tiring. We will be serving long days, working hard on our projects, dealing with youth and issues, other adults, and we’ll be getting less sleep than we are used to. It’s exhausting\! We will need to think ahead and take advantage of every opportunity to take care of ourselves. Each of us will need to look for opportunities to grab downtime when we can. Let’s brainstorm ideas of how and when we can find downtime.* (Use the board to gather ideas from everyone.)&nbsp;
+*Let’s be honest, mission trips are tiring. We will be serving long days, working hard on our projects, dealing with youth and issues, other adults, and we’ll be getting less sleep than we are used to. It’s exhausting! We will need to think ahead and take advantage of every opportunity to take care of ourselves. Each of us will need to look for opportunities to grab downtime when we can. Let’s brainstorm ideas of how and when we can find downtime.* (Use the board to gather ideas from everyone.)&nbsp;
 
-Say: *We need to communicate\! Be honest if you need a break or a nap or just a quick run to get coffee. Our teenagers– and the other youth on the mission trip–will know if we are worn out, tired, and grumpy. When you have a chance to take a break, take it.&nbsp;*
+Say: *We need to communicate! Be honest if you need a break or a nap or just a quick run to get coffee. Our teenagers– and the other youth on the mission trip–will know if we are worn out, tired, and grumpy. When you have a chance to take a break, take it.*&nbsp;
 
 2\. UNDERSTAND
 
-* Say: *You are going to be surrounded by teenagers for this trip, so let’s talk about how to relate to them. Keep in mind that you’ll be interacting with both kids from our group and kids from all over the country\! These kids will be from different churches and may have very different backgrounds than us. Here are a couple of ideas we need to keep in mind:*
+* Say: *You are going to be surrounded by teenagers for this trip, so let’s talk about how to relate to them. Keep in mind that you’ll be interacting with both kids from our group and kids from all over the country! These kids will be from different churches and may have very different backgrounds than us. Here are a couple of ideas we need to keep in mind:*
 
 DON’T BE “THE BOSS”
 
@@ -53,13 +53,13 @@ DON’T BE INAPPROPRIATE
 
 3\. RELAX
 
-* Say: *Relax\! That’s our final point for the meeting. You’re going to do a great job serving on our mission trip. You are going to be with some of the best, most idealistic people–teenagers. They feel indestructible and invincible. They are willing to take on anything and believe they can accomplish these things. We need to be there to support and guide them.*
+* Say: *Relax! That’s our final point for the meeting. You’re going to do a great job serving on our mission trip. You are going to be with some of the best, most idealistic people–teenagers. They feel indestructible and invincible. They are willing to take on anything and believe they can accomplish these things. We need to be there to support and guide them.*
 
 **DETAILS**
 
 Pass out any copies you made:
 
-* Schedule: Remind everyone about the exact dates of travel and have them put them on their calendar\! Discuss who can drive, how many seats each vehicle has, and travel time. Discuss possible stops during travel and/or overnight stays and fun options for any free time.
+* Schedule: Remind everyone about the exact dates of travel and have them put them on their calendar! Discuss who can drive, how many seats each vehicle has, and travel time. Discuss possible stops during travel and/or overnight stays and fun options for any free time.
 * Dress Code: Discuss modest dress and come to an agreement on specifically what that means for your participants. Let your adults know that Group Mission Trips’ staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth–this means that you are responsible for your participant’s dress. Agree to encourage plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites. Talk about how your leadership team will be handling the inappropriate dress of your youth during camp.
 * Tool List: Review the list and discuss what items you are still missing and plans to obtain them, store them, and transport them to camp.
 * Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located under your customer account under Schedule, Menu, and Packing. Give an update on how your group is handling this.
@@ -68,7 +68,7 @@ Pass out any copies you made:
   * *Focused on Jesus.*&nbsp;Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
   * *Interactive.*&nbsp;People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting…not just sitting and watching.
   * *Relevant.*&nbsp;Through creative multimedia, thought-provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
-  * *Fun.*&nbsp;Relationship-building activities, games, and having fun are part of every program. Expect to have a great time\!&nbsp;
+  * *Fun.*&nbsp;Relationship-building activities, games, and having fun are part of every program. Expect to have a great time!&nbsp;
 * Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one.
 
 **BACKGROUND CHECKS**
