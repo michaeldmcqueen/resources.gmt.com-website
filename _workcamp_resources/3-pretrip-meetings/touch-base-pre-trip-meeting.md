@@ -25,7 +25,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 **YOUR CUSTOMER ACCOUNT**
 
-* Personal “Forged” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth!&nbsp;
+* Personal “Influencer” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth!&nbsp;
 * The "Song List." &nbsp;Share and start listening to these songs so you are ready for camp!&nbsp;
 
 **UPDATES**
