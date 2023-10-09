@@ -5,7 +5,7 @@ subcategory: Getting Started
 order: 7
 order_number: 7
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 Camp season is quickly approaching, and we’re hard at work preparing to make summer 2024 as fun, safe, and as normal as possible. It's too early to tell what 2024 will hold, but we are prepared to implement our Covid-19 plan if necessary. We will know more in the spring of 2024.
 
