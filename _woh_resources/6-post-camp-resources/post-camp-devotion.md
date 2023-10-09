@@ -5,7 +5,7 @@ subcategory: Post Camp Resources
 order: '3'
 order_number: 3
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 ### Post-Trip Devotions
 
@@ -29,7 +29,7 @@ Say: **Hopefully, while at camp, you made some great friendships. Maybe you met 
 
 Say: **When faced with tough times, on our own it would be easy to quit. When the pain gets to be too much, or the struggle too hard, we often will stop. However, a friend might see your frustration and offer to help. That one relationship alone could make all the difference. They might be able to help me encourage you through the hard times. To cheer you on when you’re struggling and hold you accountable in various other areas that could prevent you from forging ahead.**
 
-**Our faith is like that. There will be hard times that will cause us to question it and there will be temptations that will test it. That’s where our community comes in. We need people around us that will encourage us, hold us accountable, give us comfort in times of trouble, and help us process when questions or doubts come our way.&nbsp;**
+**Our faith is like that. There will be hard times that will cause us to question it and there will be temptations that will test it. That’s where our community comes in. We need people around us that will encourage us, hold us accountable, give us comfort in times of trouble, and help us process when questions or doubts come our way.**&nbsp;
 
 **Throughout scripture, we see the need for community. Ecclesiastes 4:9-12 is a blueprint for those kinds of relationships.**&nbsp;
 
