@@ -17,16 +17,16 @@ inputs:
 
 ### If your church is NEW to background checks, we recommend…&nbsp;
 
-You may use *any* organization for background checks, just make sure they run national/multi state checks. If you need a recommendation, we like Clear Investigative Advantage\!&nbsp;
+You may use *any* organization for background checks, just make sure they run national/multi state checks. If you need a recommendation, we like Clear Investigative Advantage!&nbsp;
 
-They are super easy to work with and offer a great price. Call them to set up a church/organization account (they do not have a sign-up or annual fee) and tell them you are serving with Group Mission Trips\! Their “Basic Starter” package offers a very affordable background check and meets our requirements.
+They are super easy to work with and offer a great price. Call them to set up a church/organization account (they do not have a sign-up or annual fee) and tell them you are serving with Group Mission Trips! Their “Basic Starter” package offers a very affordable background check and meets our requirements.
 
 It’s best to call them to set up your account, Clear Investigative Advantage can be reached at 888-242-2503, option 2.&nbsp;
 
-Plan ahead\! Setting up an account with any background check organization takes time\!&nbsp;
+Plan ahead! Setting up an account with any background check organization takes time!&nbsp;
 
 #### Another Background Check Option:
 
-**Not a church or organization?&nbsp;**
+**Not a church or organization?**&nbsp;
 
 There is a provider online that appears reliable that individuals can use to run “instant” background checks: [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
