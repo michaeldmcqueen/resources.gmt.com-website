@@ -5,7 +5,7 @@ subcategory: Schedule, Menu, Packing
 order: 6
 order_number: 6
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 **Dinwiddie, VA:** Non-perishables<br>**East Bank, WV:** Non-perishables<br>**Erie, PA:** Non-perishables&nbsp;<br>**Grand Rapids, MI:** Non-perishables<br>**Hamilton, OH:** Diapers (all sizes), formula<br>**Hazlet, NJ:** Non-perishables<br>**Huntington, WV:** Non-perishables&nbsp;<br>**Imperial, PA:** Non-perishables<br>**Mescalero, NM:**&nbsp;&nbsp;<br>• &nbsp; &nbsp;Toiletries<br>•&nbsp; &nbsp; Dental Care Items<br>•&nbsp; &nbsp; Feminine Hygiene Products<br>•&nbsp; &nbsp; Baby Formula<br>•&nbsp; &nbsp; NEW socks and underwear of varying sizes<br>​​​​​**Mission, SD:** Non-perishables&nbsp;<br>**Parsons, KS:** Non-perishables, toilet paper, diapers<br>**Scranton, PA:** Socks (new), toiletries of all types<br>**Springfield, OH:** Local Soup Kitchen:&nbsp;<br>• &nbsp; &nbsp;Hygiene kits<br>• &nbsp; &nbsp;Coffee and Creamer<br>• &nbsp; &nbsp;Instant Mashed Potatoes<br>• &nbsp; &nbsp;Sugar<br>• &nbsp; &nbsp;6 or 8 oz Styrofoam cups<br>• &nbsp; &nbsp;paper plates and bowls<br>• &nbsp; &nbsp;Plastic Forks and Spoons<br>• &nbsp; &nbsp;2 Ply Napkins<br>• &nbsp; &nbsp;Plastic Gloves<br>• &nbsp; &nbsp;Large Kitchen Trash Bags<br>• &nbsp; &nbsp;55 Gallon Trash Bags<br>• &nbsp; &nbsp;Aluminum Foil<br>• &nbsp; &nbsp;Plastic Zip lock Bags<br>• &nbsp; &nbsp;Salt and Pepper and other spices<br>• &nbsp; &nbsp;Large Commercial cans of Food
 
