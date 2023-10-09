@@ -7,7 +7,6 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-
 We suggest you have this meeting a month and half before your mission trip starts.
 
 **BEFORE THE MEETING**
@@ -28,7 +27,7 @@ We suggest you have this meeting a month and half before your mission trip start
 
 **MEETING**
 
-Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer to God this summer. Our group is so excited for the upcoming mission trip\! I want everyone to leave feeling informed. If you have questions at the end of the meeting–please ask\!&nbsp;*
+Say: *Welcome everyone! Thank you for supporting us as we serve and grow closer to God this summer. Our group is so excited for the upcoming mission trip! I want everyone to leave feeling informed. If you have questions at the end of the meeting–please ask!*&nbsp;
 
 **ITINERARY/FINANCES**
 
@@ -40,7 +39,7 @@ Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer
 
 * Make sure every parent has the lodging information and address. Let parents know that they can send mail to participants during the week.
 * As camp gets closer, there will be contact information populated on that Lodging Info tab that includes a phone number and email address for the staff **at camp**. If there’s an emergency and parents can’t get a hold of anyone in your group, they can call that number to leave a message for your camp staff.
-* As you review the AC and shower details at your camp’s lodging facility, remind participants that this is a mission trip\! It’s their opportunity to sacrifice certain luxuries to concentrate on serving others and growing closer to God.
+* As you review the AC and shower details at your camp’s lodging facility, remind participants that this is a mission trip! It’s their opportunity to sacrifice certain luxuries to concentrate on serving others and growing closer to God.
 
 **WHAT TO BRING**
 
@@ -50,7 +49,7 @@ Say: *Welcome everyone\! Thank you for supporting us as we serve and grow closer
 * Review what NOT to bring.
   * You and your adults will be responsible for your participant’s dress during camp. This is a perfect time to set your guidelines for appropriate dress within your group.
   * Group Mission Trips staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth. GMT recommends all participants wear modest clothes that are appropriate in every situation and will not embarrass anyone.&nbsp;
-  * Say: *We’ll be serving at local organizations that do have specific dress requirements. Don’t get turned away from a project site because of inappropriate attire\! Pack plenty of t-shirts, longer shorts or pants, and tennis shoes. Also, ladies need to bring one-piece swimsuits in case **they are assigned to a project site teaching a resident how to swim**. Please no tanks with skinny straps, shirts that reveal the midriff, short shorts or flip flops. And, no clothing with offensive language or images. Our goal is to serve these organizations and residents while showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians.&nbsp;*
+  * Say: *We’ll be serving at local organizations that do have specific dress requirements. Don’t get turned away from a project site because of inappropriate attire! Pack plenty of t-shirts, longer shorts or pants, and tennis shoes. Also, ladies need to bring one-piece swimsuits in case **they are assigned to a project site teaching a resident how to swim**. Please no tanks with skinny straps, shirts that reveal the midriff, short shorts or flip flops. And, no clothing with offensive language or images. Our goal is to serve these organizations and residents while showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians.*&nbsp;
   * Thank parents for their support in this.&nbsp;
 
 **CODE OF CONDUCT AND RELEASE AGREEMENT**
