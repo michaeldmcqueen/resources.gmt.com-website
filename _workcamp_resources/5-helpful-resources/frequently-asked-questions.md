@@ -16,7 +16,7 @@ Sr High trips: Must be at least 14 years old OR entering the 9th grade in the fa
 * Due to liability, under-aged participants will be sent home at their own expense (NO babies or any children under the required age).
 * Only registered participants are permitted at the lodging facility and on the project sites.
 * No special skills are required.
-* 19 or 20 year-olds are welcome to attend as participants\! Remember that only those that are 21 or older will be considered “adults” at camp and count in your 1 adult to 5 youth required ratio.
+* 19 or 20 year-olds are welcome to attend as participants! Remember that only those that are 21 or older will be considered “adults” at camp and count in your 1 adult to 5 youth required ratio.
 
 ---
 
@@ -49,19 +49,19 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday:&nbsp;**
+**Sunday:**&nbsp;
 
-12-2 p.m.: Check-in.&nbsp;<br>3 p.m. First program, followed by the Adult Meeting&nbsp;<br>5 p.m. Dinner&nbsp;<br>7 p.m. Evening program, everyone will get to meet their work crews\!&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
+12-2 p.m.: Check-in.&nbsp;<br>3 p.m. First program, followed by the Adult Meeting&nbsp;<br>5 p.m. Dinner&nbsp;<br>7 p.m. Evening program, everyone will get to meet their work crews!&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
 
-**Monday, Tuesday, Thursday, and Friday:&nbsp;**
+**Monday, Tuesday, Thursday, and Friday:**&nbsp;
 
-6:45 a.m. Rise and shine\!&nbsp;<br>7 a.m. Breakfast, gather supplies and sack lunches&nbsp;<br>8 a.m. Morning program and then depart for work sites\!&nbsp;<br>12 p.m. On-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner&nbsp;<br>7:30 p.m. Evening program&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
+6:45 a.m. Rise and shine!&nbsp;<br>7 a.m. Breakfast, gather supplies and sack lunches&nbsp;<br>8 a.m. Morning program and then depart for work sites!&nbsp;<br>12 p.m. On-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner&nbsp;<br>7:30 p.m. Evening program&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
 
-**Wednesday:&nbsp;**
+**Wednesday:**&nbsp;
 
 The same schedule as the other days until 12:30 p.m.&nbsp;<br>12:30 p.m. to 7 p.m. Youth groups have free time (dinner is on their own)&nbsp;<br>7:30 p.m. The variety show and evening program start&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
 
-**Saturday:&nbsp;**
+**Saturday:**&nbsp;
 
 7-9 a.m.: Check-out.&nbsp;
 
@@ -71,7 +71,7 @@ The same schedule as the other days until 12:30 p.m.&nbsp;<br>12:30 p.m. to 7 p.
 
 Your participants will provide home repairs at no cost for elderly, disabled, and disadvantaged people who need your help. Work crews typically serve the same resident for the entire trip, creating an environment where meaningful relationships develop.
 
-Most projects are designed to be completed during the trip, allowing your group to experience the satisfaction of a job well done. You’ll serve the needs of others through projects like interior and exterior painting, building or repairing porches and wheelchair ramps, building or repairing steps, weatherization, and other home repairs. No skills are needed\!&nbsp;
+Most projects are designed to be completed during the trip, allowing your group to experience the satisfaction of a job well done. You’ll serve the needs of others through projects like interior and exterior painting, building or repairing porches and wheelchair ramps, building or repairing steps, weatherization, and other home repairs. No skills are needed!&nbsp;
 
 ---
 
@@ -83,7 +83,7 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 ### What tools and other items do we need to bring?
 
-**Tools:&nbsp;**<br>Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug is also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
+**Tools:**&nbsp;<br>Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug is also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
 
 **Personal Items:**<br>The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
 
@@ -91,7 +91,7 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 ### What about safety?
 
-Safety is our top priority\!
+Safety is our top priority!
 
 * We require groups to bring 1 adult (21 or older) for every 5 participants that are under 21 years of age.
 * We require participants that are 18 and older to be screened and nationally background-checked by their church every 2 years. Their pastor signs off that they meet Group Mission Trips’ requirements and are approved to attend.
@@ -130,7 +130,7 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 * Focused on Jesus. Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
 * Interactive. People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting…not just sitting and watching.
 * Relevant. Through creative multimedia, thought-provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
-* Fun. Relationship-building activities, games, and having fun are part of every program. Expect to have a great time\!
+* Fun. Relationship-building activities, games, and having fun are part of every program. Expect to have a great time!
 
 ---
 
@@ -138,14 +138,14 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 15th, 2023: Half of what is remaining is due.
-* May 15th, 2023: The final balance is due. (All payments are non-refundable after this date.)
+* March 15th, 2024: Half of what is remaining is due.
+* May 15th, 2024: The final balance is due. (All payments are non-refundable after this date.)
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us\! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2023, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2023.&nbsp;
+Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2024, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2024.&nbsp;
 
 ---
 
@@ -153,7 +153,7 @@ Call us\! If there’s space available in your camp, we’ll ask for the necessa
 
 Cancellations have a huge impact on the people we serve–it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, work materials, and staffing–just for starters. Also, depending on the time of year, sometimes it’s simply impossible for us to re-fill canceled spaces.
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2023 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2024 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
 
 ---
 
@@ -181,7 +181,7 @@ We ask that all participants arrive on time and stay for the entire time. Every 
 
 ### What if the camp I want is full?
 
-All trips are filled on a first-come, first-served basis, so register early. However, if you register for a full trip, we’ll give you a choice: Join the waiting list for your first choice, or register for your second-choice camp. Call us. We’re eager to help\!
+All trips are filled on a first-come, first-served basis, so register early. However, if you register for a full trip, we’ll give you a choice: Join the waiting list for your first choice, or register for your second-choice camp. Call us. We’re eager to help!
 
 ---
 
@@ -196,6 +196,4 @@ All trips are filled on a first-come, first-served basis, so register early. How
 
 ### Do you have references I can talk to?
 
-Absolutely\! Don’t just take our word for it. Give us a call (844.258.9616) and we’d be happy to connect you with other youth leaders who have served with us.
-
-&nbsp;
+Absolutely! Don’t just take our word for it. Give us a call (844.258.9616) and we’d be happy to connect you with other youth leaders who have served with us.
