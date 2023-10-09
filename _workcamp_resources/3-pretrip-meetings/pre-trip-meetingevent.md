@@ -67,7 +67,7 @@ FOR TODAY’S PROJECT: Here are the assignments for each crew role:
 * DEVOTION LEADER—You’ll lead a brief, three-question discussion after you return from serving. I’ll give you those questions when you get back.
 * QUARTERMASTER—You’ll be in charge of the supplies needed to complete your job. The supplies are all ready to go at your location, but you’ll be in charge of distributing them and making sure they are put back in an orderly fashion.
 
-###
+\###
 
 ### **Devotion Leader Questions After the Service Project**&nbsp;
 
