@@ -9,7 +9,7 @@ inputs:
 ---
 (All meals are subject to change at any time)&nbsp;
 
-**BREAKFAST&nbsp;**
+**BREAKFAST**&nbsp;
 
 * Participants will have one or more of the following options:&nbsp;
   * Waffles, sausage, English muffins, eggs, cheese, biscuits and gravy, bacon
@@ -18,7 +18,7 @@ inputs:
 
   * Please note: Friday morning will be a continental breakfast.
 
-**LUNCH&nbsp;**
+**LUNCH**&nbsp;
 
 Lunches are picnic style and at the worksites. There will be: Sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable and a treat like a granola bar or cookie. Peanut butter and jelly sandwiches will be available each day too.
 
@@ -27,17 +27,17 @@ Beverages on the work site:
 * Participants will need to fill their water bottles that they brought with them before they leave the lodging facility each day
 * Each crew will bring a full 5-gallon water container with them to the project site to refill their own bottles
 
-**DINNER&nbsp;**
+**DINNER**&nbsp;
 
-**Sunday**\: Pizza&nbsp;
+**Sunday**: Pizza&nbsp;
 
-**Monday**\: Pasta, marinara and alfredo sauce, vegetable, dinner rolls, and dessert
+**Monday**: Pasta, marinara and alfredo sauce, vegetable, dinner rolls, and dessert
 
-**Tuesday**\: DINNER ON YOUR OWN&nbsp;
+**Tuesday**: DINNER ON YOUR OWN&nbsp;
 
-**Wednesday**\: Pulled pork, mac and cheese, vegetable, and dessert
+**Wednesday**: Pulled pork, mac and cheese, vegetable, and dessert
 
-**Thursday**\: Taco bar with flour tortillas, taco shells, tortilla chips, ground beef, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
+**Thursday**: Taco bar with flour tortillas, taco shells, tortilla chips, ground beef, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
 
 **Salad bar** (every night except Thursday): Featuring mixed green, carrots, hard boiled eggs, black beans, croutons, sliced turkey or ham, and Ranch and Italian dressing; available every night
 
@@ -72,7 +72,7 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 We have listed here some possible options from our menu that may work for you.&nbsp; Anything marked (\*) may contain meat additives so please check with staff when you get to camp.&nbsp;
 
-**BREAKFAST&nbsp;**
+**BREAKFAST**&nbsp;
 
 * Waffles&nbsp;
 
@@ -96,7 +96,7 @@ We have listed here some possible options from our menu that may work for you.&n
 
 * Juice, coffee, tea&nbsp;
 
-**LUNCH&nbsp;**
+**LUNCH**&nbsp;
 
 * Bread&nbsp;
 * Peanut butter and jelly&nbsp;
@@ -105,20 +105,20 @@ We have listed here some possible options from our menu that may work for you.&n
 * Fruit or veggie options&nbsp;
 * A variety of treats (like granola bar or cookie)
 
-**DINNER&nbsp;**
+**DINNER**&nbsp;
 
 **Salad bar each night except Wed:** Mixed greens, carrots, hard boiled eggs, black beans, croutons, dressing (Ranch and Italian)
 
 Peanut butter and jelly available each night&nbsp;
 
-**Sunday**\: Cheese or veggie pizza
+**Sunday**: Cheese or veggie pizza
 
-**Monday**\: Pasta, marinara sauce, alfredo sauce, side vegetable, and dessert
+**Monday**: Pasta, marinara sauce, alfredo sauce, side vegetable, and dessert
 
-**Tuesday**\: Dinner on your own&nbsp;
+**Tuesday**: Dinner on your own&nbsp;
 
-**Wednesday**\: Macaroni and cheese, vegetables, and dessert
+**Wednesday**: Macaroni and cheese, vegetables, and dessert
 
-**Thursday**\: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
+**Thursday**: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
 
-**Beverages**\: Lemonade or fruit punch&nbsp;
+**Beverages**: Lemonade or fruit punch&nbsp;

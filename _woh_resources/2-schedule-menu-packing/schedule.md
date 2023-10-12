@@ -16,8 +16,6 @@ inputs:
 | 8:00 p.m | Evening Program<br>Youth group devotions |
 | 11 p.m | Lights-out |
 
-
-
 **MONDAY**
 
 | 6:30 a.m | Breakfast crew begins |
@@ -33,8 +31,6 @@ inputs:
 | 10:30 p.m | Bedtime stories (optional) |
 | 11 p.m | Lights-out |
 
-
-
 **TUESDAY**&nbsp;
 
 | 6:30 a.m.–3 p.m&nbsp; | Same as Monday |
@@ -44,13 +40,9 @@ inputs:
 | 10:30 p.m | Bedtime stories (optional) |
 | 11 p.m | Lights-out |
 
-
-
 **WEDNESDAY**&nbsp;
 
 | 6:30 a.m.–11 p.m | Same as Monday |
-
-
 
 **THURSDAY**
 
@@ -67,14 +59,10 @@ inputs:
 | 9:30 p.m | Lip-Sync battle |
 | 11 p.m | Lights-out |
 
-
-
 **FRIDAY**&nbsp;
 
 | 7–8 a.m&nbsp; | Breakfast&nbsp; |
 | 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
-
-
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
 * Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.&nbsp;
