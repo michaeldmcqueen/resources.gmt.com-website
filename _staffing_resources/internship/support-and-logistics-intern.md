@@ -6,7 +6,7 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-0-40 hours/week locally<br>Assignment Dates: April 15 – August 16, 2024
+30-40 hours/week locally<br>Assignment Dates: April 15 – August 16, 2024
 
 As we launch the 2024 season and support all Group Mission Trips experiences, this intern will help fulfill whatever tasks are needed to ensure camps are ready. This intern will work approximately 30 hours per week in the office and/or the warehouse, with the possibility of additional hours in the peak summer season. This person will work with our project management, staffing, registration, logistics, and other teams across the organization.&nbsp;<br><br>**Intern Qualifications**
 
