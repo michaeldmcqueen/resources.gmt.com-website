@@ -7,7 +7,7 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-**PERSONAL ITEMS:&nbsp;**
+**PERSONAL ITEMS:**&nbsp;
 
 * Air mattress, cot, or foam pad (twin-size)
 * Sleeping bag or sheets
@@ -45,7 +45,7 @@ inputs:
 
 &nbsp;\*Optional Items&nbsp;
 
-**AS A GROUP:&nbsp;**
+**AS A GROUP:**&nbsp;
 
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
@@ -58,7 +58,7 @@ Check on your customer account, under “Helpful Resources, and then Schedule, M
 * Involve your congregation, friends, and even your local businesses in the effort.
 * Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
 
-**WHAT NOT TO BRING:&nbsp;**
+**WHAT NOT TO BRING:**&nbsp;
 
 * Alcohol, tobacco products, or illegal drugs&nbsp;
 * Expensive clothes or jewelry&nbsp;
@@ -67,6 +67,6 @@ Check on your customer account, under “Helpful Resources, and then Schedule, M
 * Skimpy or revealing clothes&nbsp;
   * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
 
-**CELL PHONES/IPODS/LAPTOPS/ETC.&nbsp;**
+**CELL PHONES/IPODS/LAPTOPS/ETC.**&nbsp;
 
 For security reasons, it’s best to leave these items at home. However, we do understand that they are great for capturing moments, sharing life, and communicating back home. If you decide to bring any of these items, don’t let them distract from your experience. How can you be tethered to your devices and expect God to work in unexpected ways? If you decide to bring them, be sure to put them away during the programs and on your project sites.
