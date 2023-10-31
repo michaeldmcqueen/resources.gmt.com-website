@@ -41,7 +41,7 @@ Beverages on the work site:
 
 **Salad bar available every night**: Featuring mixed greens, carrots, hard-boiled eggs, black beans, croutons, sliced turkey or ham, and Ranch and Italian dressing
 
-**Beverages:** Lemonade or fruit punch will be available&nbsp;
+**Beverages:** Lemonade will be available&nbsp;
 
 Dessert items may include: Ice cream cups, ice cream sandwiches, popsicles, or strawberry shortcake
 
@@ -112,4 +112,4 @@ Peanut butter and jelly are available each night&nbsp;
 
 **Thursday**: Pasta, marinara sauce, alfredo sauce, side vegetable, and dessert
 
-**Beverages**: Lemonade or fruit punch&nbsp;
+**Beverages**: Lemonade
