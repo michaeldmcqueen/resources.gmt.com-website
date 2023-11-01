@@ -11,14 +11,14 @@ inputs:
 
 Food will be prepared by cafeteria staff at your lodging facility. It’s going to be great, but keep in mind, it’s cafeteria-style food. It’s not a fancy made-to-order restaurant.&nbsp;
 
-**BREAKFAST&nbsp;**
+**BREAKFAST**&nbsp;
 
 Participants will have one or more of the following options:&nbsp;
 
 * Scrambled eggs, French toast, tater circles, sausage, pancakes, breakfast burritos, English muffins&nbsp;
 * Accompaniments (each day): Cereal, yogurt, wheat bread, juice, coffee, tea, variety of fruit&nbsp;
 
-**LUNCH&nbsp;**
+**LUNCH**&nbsp;
 
 Lunches are picnic-style at the work sites. There will be a variety of lunchmeat sandwiches, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
 
@@ -27,7 +27,7 @@ Beverages on the work site:&nbsp;
 * Participants will need to fill their water bottles that they brought with them before they leave the lodging facility each day
 * Each crew will bring a full 5-gallon water container with them to the work site to refill their own bottles
 
-**DINNER&nbsp;**
+**DINNER**&nbsp;
 
 * Sunday: Hamburgers, hotdogs, baked beans, fries, and dessert OR a cosponsor provided meal&nbsp;
 * Monday: Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls, and dessert
@@ -69,7 +69,7 @@ Group Mission Trips understands there are many people with dietary restrictions 
 
 We have listed here some possible options from our menu that may work for you. Anything marked (\*) may contain meat additives so please check with staff when you get to camp.&nbsp;
 
-**BREAKFAST&nbsp;**
+**BREAKFAST**&nbsp;
 
 * French toast&nbsp;
 * Tater circles&nbsp;
@@ -84,7 +84,7 @@ We have listed here some possible options from our menu that may work for you. A
 * Butter, jelly, peanut butter&nbsp;
 * Orange juice, coffee, tea&nbsp;
 
-**LUNCH&nbsp;**
+**LUNCH**&nbsp;
 
 * Bread&nbsp;
 * Peanut butter and jelly&nbsp;
@@ -93,7 +93,7 @@ We have listed here some possible options from our menu that may work for you. A
 * Fruit or veggie options&nbsp;
 * A variety of treats (like a granola bar or cookie)
 
-**DINNER&nbsp;**
+**DINNER**&nbsp;
 
 Salad bar each night: Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, dressing\* (Ranch or Italian)&nbsp;
 
