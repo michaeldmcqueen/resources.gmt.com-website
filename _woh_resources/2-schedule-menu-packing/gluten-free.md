@@ -31,23 +31,23 @@ Please scroll to the bottom to see more details about the gluten-free items we c
 
 **DINNER**
 
-**Salad bar each night except Wed**\: Mixed greens, carrots, hard boiled eggs,<br>black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
+**Salad bar each night except Wed**: Mixed greens, carrots, hard boiled eggs,<br>black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
 
 Peanut butter and jelly available each night&nbsp;
 
-**Sunday**\:&nbsp; Gluten free pizza can be served
+**Sunday**:&nbsp; Gluten free pizza can be served
 
-**Monday**\: Vegetables and ice cream cups&nbsp;
+**Monday**: Vegetables and ice cream cups&nbsp;
 
-**Tuesday**\: Dinner on your own&nbsp;
+**Tuesday**: Dinner on your own&nbsp;
 
-**Wednesday**\: Pulled Pork\*, Vegetables
+**Wednesday**: Pulled Pork\*, Vegetables
 
-**Thursday**\: Taco shells, tortilla chips, ground beef\*, black beans,<br>salsa, diced tomatoes, cheese, onions
+**Thursday**: Taco shells, tortilla chips, ground beef\*, black beans,<br>salsa, diced tomatoes, cheese, onions
 
-**Beverages**\: Lemonade or fruit punch
+**Beverages**: Lemonade or fruit punch
 
-**TO HELP OUR GLUTEN FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING:&nbsp;**
+**TO HELP OUR GLUTEN FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING:**&nbsp;
 
 * 1 loaf gluten free bread&nbsp;
 
@@ -65,7 +65,7 @@ Peanut butter and jelly available each night&nbsp;
 
 * Frito’s Original Corn Chips and/or Mission Corn Chips&nbsp;
 
-**OTHER ITEMS WE RECOMMEND YOU BRING:&nbsp;**
+**OTHER ITEMS WE RECOMMEND YOU BRING:**&nbsp;
 
 * Additional gluten free bread&nbsp;
 * Fruit snacks/fruit leather&nbsp;
@@ -73,8 +73,8 @@ Peanut butter and jelly available each night&nbsp;
 * Pepperoni&nbsp;
 * Favorite granola bars&nbsp;
 
-**To help our gluten-free participants, we can provide the following Items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten free participants.&nbsp;**
+**To help our gluten-free participants, we can provide the following Items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten free participants.**&nbsp;
 
-***(Brands may differ per location.)&nbsp;***
+***(Brands may differ per location.)***&nbsp;
 
 ***![](/uploads/glutenfree.PNG){: width="666" height="885"}***
