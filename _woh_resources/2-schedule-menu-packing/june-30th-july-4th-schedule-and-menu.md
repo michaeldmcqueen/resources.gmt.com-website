@@ -205,3 +205,5 @@ Peanut butter and jelly available each night&nbsp;
 **To help our gluten-free participants, we can provide the following Items at camp. If you let us know you’ll be needing them, we can have the items below available at your camp. Quantities are limited and will need to be shared by all gluten free participants.**&nbsp;
 
 ***(Brands may differ per location.)***&nbsp;
+
+***![](/uploads/glutenfree.PNG){: width="666" height="885"}***
