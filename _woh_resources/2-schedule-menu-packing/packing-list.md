@@ -21,7 +21,7 @@ inputs:
 * Long pants or jeans
 * Modest shorts and work t-shirts
 * Pajamas, socks, and underwear
-* Sturdy shoes
+* Closed toe sturdy shoes
 * Water bottle (refillable, to be used at your work site)&nbsp;
 * Personal health insurance card or copy
 * Bible
