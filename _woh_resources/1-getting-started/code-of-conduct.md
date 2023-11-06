@@ -35,8 +35,6 @@ inputs:
 * I will not ridicule, humiliate, or engage in any inappropriate behavior with youth. I will be an encourager of youth, particularly in my crew during the mission trip.&nbsp;
 * I will support GMT staff by encouraging my participants to follow the Code of Conduct, schedule, and processes.&nbsp;
 
-
-
 > It is out of respect for God, ourselves, and others that we abide by these rules. If you violate these rules, you may be denied the privilege of participating in the mission trip.&nbsp;
 >
 > You may be asked to leave (without reimbursement of expenses or registration) at the request of your youth leader or GMT staff.&nbsp;
