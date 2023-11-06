@@ -18,14 +18,14 @@ As you may know, our youth group is planning a mission trip this summer. I have 
 * Compassion – Your child will work with people from different walks of life which may be different than those they come into contact with at home. This gives teens a great perspective – the reward is as lasting for them as it is meaningful to those they serve.
 * Spiritual Growth – Your child will attend morning and evening interactive programs that guide their faith in Jesus to become more powerful and real. There will also be devotions during lunch and opportunities to discuss all they are experiencing with our youth group in the evening. This year’s theme is Forged. &nbsp;Each day your teenager will explore how God forges our faith. Through each powerful, transformational mission trip experience, the group will see how God wants us to know we're justified through faith and given access to his perfect peace and grace (Romans 5:1-4).
 
-Students who have attended Group Mission Trips have said they grew closer to God, grew closer to people in their youth group, and that they wanted to serve on another trip\! Parents have seen their kids come home excited, positively impacted by their service experience, and committed to continuing their spiritual journey with Jesus.
+Students who have attended Group Mission Trips have said they grew closer to God, grew closer to people in their youth group, and that they wanted to serve on another trip! Parents have seen their kids come home excited, positively impacted by their service experience, and committed to continuing their spiritual journey with Jesus.
 
 Please encourage your child to attend our youth group’s Group Mission Trip. Since the early 1990’s, over 517,000 teenagers and their adult leaders have experienced serving others with Group Mission Trips all across America and internationally. It is a life-changing opportunity that your child will talk about for weeks, months, and even years to come. If you want to find out more about Group Mission Trips, please visit them here: [GroupMissionTrips.com](https://groupmissiontrips.com/){: target="_blank" rel="noopener"}
 
 Sincerely,
 
-&nbsp;
 
-&nbsp;
 
-P.S. Your support is crucial in getting your kids on this life-changing trip\! Thank you for encouraging them to put their faith in action. You are sure to find it to be an excellent investment.
+
+
+P.S. Your support is crucial in getting your kids on this life-changing trip! Thank you for encouraging them to put their faith in action. You are sure to find it to be an excellent investment.
