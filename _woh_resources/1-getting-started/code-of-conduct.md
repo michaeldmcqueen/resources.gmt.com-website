@@ -7,7 +7,7 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-### **To Provide the Best Experience, All Trip Participants Agree To The Following:**
+## **To Provide the Best Experience, All Trip Participants Agree To The Following:**
 
 Group Mission Trips looks forward to providing a safe, fun, and memorable mission trip experience. Each participant is responsible for acting in a way that is respectful to God, ourselves, and others and assures everyone has a positive experience. All participants are required to follow these behavioral guidelines.
 
