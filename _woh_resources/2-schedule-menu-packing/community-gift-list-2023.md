@@ -7,4 +7,4 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-Location specific Community Gift's will be available mid-November...
+Location specific Community Gift's will be available mid-December…
