@@ -36,8 +36,7 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 
 **Camp leadership will****\:** ** **
 
-* Gather information from any party involved regarding the specific violation in question.
-
+* Gather information from any party involved regarding the specific violation in question.&nbsp;
 * Inform the group leader(s) of any participant(s) involved in the allegation of a violation.
 * Act as a mediator and advise group leaders of involved parties on any consulted solutions and potential communication process with participant(s) in question and any further communications necessary to other leaders and/or parents.
 
