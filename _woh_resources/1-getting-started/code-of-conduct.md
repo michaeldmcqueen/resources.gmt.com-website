@@ -34,12 +34,12 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 
 **How behavioral guideline violations will be handled:**
 
-**Camp leadership will****\:** \*\* \*\*
+**Camp leadership will****\:**&nbsp;
 
 * Gather information from any party involved regarding the specific violation in question.
 
 * Inform the group leader(s) of any participant(s) involved in the allegation of a violation.
-* Act as a mediator and advise group leaders of involved parties on any consulted solutions and potential communication process with participant(s) in question and any further communications necessary to other leaders and/or parents.
+* Act as a mediator and advise group leaders of involved parties on any consulted solutions and potential communication process with participant(s) in question and any further communications necessary to other leaders and/or parents.&nbsp;
 
 > *Disciplinary decisions are at the camp director's or camp leadership's final discretion after consulting with the group leader.*
 >
