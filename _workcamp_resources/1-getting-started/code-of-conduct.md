@@ -34,7 +34,7 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 
 **How behavioral guideline violations will be handled:**
 
-**Camp leadership will****\:** ** **
+**Camp leadership will:**
 
 * Gather information from any party involved regarding the specific violation in question.&nbsp;
 * Inform the group leader(s) of any participant(s) involved in the allegation of a violation.
