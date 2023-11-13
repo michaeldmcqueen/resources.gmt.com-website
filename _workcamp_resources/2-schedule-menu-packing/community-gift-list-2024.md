@@ -78,7 +78,7 @@ inputs:
 * Nonperishable food items
 * Shelf stable foods (pastas, macaroni and cheese, peanut butter, cereal, boxed potato meals, breakfast bars, etc.
 
-**Grosse Pointe Woods:**
+**Grosse Pointe Woods, MI:**
 
 * Backpacks/duffle bags
 * Adult underwear (all sizes, genders)
