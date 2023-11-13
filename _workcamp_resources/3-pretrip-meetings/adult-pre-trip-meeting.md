@@ -24,8 +24,6 @@ Say: *I want to start by saying a big “Thank You!” for being a part of this 
 
 *Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. The trip’s program theme this year is Influencer. Believe it or not we are all influencers and this week you will have the opportunity to influence the lives of your youth. We hope that this week will provide you opportunities to help your youth get to know Jesus. This week we will be exploring what it means to be an influencer through the lens of Romans 12:2 while learning about several remarkable influencers in the Bible. This week we will all be challenged to examine the current patterns in our lives and how we may be conforming to society rather than walking with Jesus. From there we will learn about the ways Jesus transforms and renews us so that we can live according to his will. In the end, we will be more aware of our impact on others and be positioned to return home ready to spread Jesus' love.*
 
-
-
 *We’re going to go over three very important ideas that will help us have a great attitude and give an example of great behavior while on our mission trip.*
 
 *First, let’s watch this Adult Expectations video. (After watching the video, see if there are any questions/comments. Next review these few additional reminders to ensure the best experience for your adults.)*
