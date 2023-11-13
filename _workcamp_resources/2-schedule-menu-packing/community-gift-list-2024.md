@@ -41,9 +41,9 @@ inputs:
 * Body wash, bar soaps&nbsp;
 * Wipes, full body wipes&nbsp;
 * Toilet paper&nbsp;
-* Underwear (all sizes and genders)
-* Socks (all sizes and genders)
-* Deodorant (all ages and genders)
+* Underwear (all sizes, adult & youth)
+* Socks (all sizes, adult & youth)
+* Deodorant&nbsp;
 * Toothpaste, toothbrush, mouthwash&nbsp;
 * Washcloths&nbsp;
 * Board games, cards, and toys (for all ages)&nbsp;
@@ -62,7 +62,7 @@ inputs:
 * Diapers of all sizes
 * Baby formula
 
-**Piketon, OH:**&nbsp;**&nbsp;**&nbsp;
+**Piketon, OH:**&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;
 
 * Nonperishable food items
 * Healthy shelf-stable foods (pasta, sauces, packaged snacks, granola bars, etc.)
@@ -73,15 +73,13 @@ inputs:
 
 **Erie, PA:**
 
-
-
 * Nonperishable food items
 * Shelf stable foods (pastas, macaroni and cheese, peanut butter, cereal, boxed potato meals, breakfast bars, etc.
 
 **Grosse Pointe Woods, MI:**
 
 * Backpacks/duffle bags
-* Adult underwear (all sizes, genders)
+* Adult underwear (all sizes)
 * Men's white T-shirts (all sizes)
 * Blankets
 * Hygiene items (separate items, not premade kits)
@@ -100,7 +98,7 @@ inputs:
 * Toiletries (soaps, deodorants, combs, etc.)
 * Diapers, wipes, baby formula, etc.
 * Feminine hygiene products
-* NEW socks or underwear of all ages/genders/sizes
+* NEW socks or underwear of all ages/sizes
 
 **Woonsocket, RI:**
 
@@ -113,9 +111,9 @@ inputs:
 **Elizabeth City, NC:**&nbsp;
 
 * Nonperishable food items
-* Blankets (all sizes/ages/genders)
+* Blankets (all sizes, ages)
 * Soap, shampoo, conditioner
-* Socks (all sizes/ages/genders)
+* Socks (all sizes/ages)
 * Twin sheets, Towels (bath, hand, or washcloth sized)
 * Toothpaste, toothbrushes, floss
 * Feminine hygiene products
