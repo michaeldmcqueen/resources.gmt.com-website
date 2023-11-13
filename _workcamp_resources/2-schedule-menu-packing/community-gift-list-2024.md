@@ -71,9 +71,26 @@ inputs:
 
 **Winchester, KY:** Nonperishable food items
 
-**Erie, PA: Available Early December**
+**Erie, PA:**
 
-**Grosse Pointe Woods: Available Early December**
+
+
+* Nonperishable food items
+* Shelf stable foods (pastas, macaroni and cheese, peanut butter, cereal, boxed potato meals, breakfast bars, etc.
+
+**Grosse Pointe Woods:**
+
+* Backpacks/duffle bags
+* Adult underwear (all sizes, genders)
+* Men's white T-shirts (all sizes)
+* Blankets
+* Hygiene items (separate items, not premade kits)
+* Soaps
+* Deodorant
+* Washcloths
+* Toothbrushes
+* Toothpaste
+* Razors
 
 **Mescalero, NM:**&nbsp;
 
@@ -85,7 +102,13 @@ inputs:
 * Feminine hygiene products
 * NEW socks or underwear of all ages/genders/sizes
 
-**Woonsocket, RI: Available Early December**
+**Woonsocket, RI:**
+
+* Shelf stable food (granola bars, cereal, crackers, peanut butter, jelly, various packaged snacks, canned tuna, etc.)
+* Nonperishable canned goods
+* Hygiene products (deodorant, dental hygiene items, soaps, deodorant, feminine hygiene items
+* Mini shampoo & conditioner
+* Art supplies (artist quality paint brushes, paint rollers, paint brushes)
 
 **Elizabeth City, NC:**&nbsp;
 
