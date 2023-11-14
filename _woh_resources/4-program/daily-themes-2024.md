@@ -13,6 +13,8 @@ Make-up tips, viral videos, and giving away large amounts of money to complete s
 
 Our goal with the program this year is to help students navigate the many influences in their lives and encourage them to look toward Jesus, the greatest influencer of all time, so they use their influence to positively change their culture. Romans 12:2
 
+***Week of Hope will combine some of these days below as there is not a program Friday. This will be updated once the program has been completed.***&nbsp;
+
 **Sunday: Pattern. (Romans 12:2) Do not conform to the pattern of this world, but be transformed by the renewing of your mind.** Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.
 
 **Monday: Conformed. (Mathew 26: 31-35 & 69-75)** Peter falls to society’s pressures the way we all do so often. Sometimes standing up for what we believe in can be hard and it feels easier to go with the flow, but Jesus calls us to live in Him.
