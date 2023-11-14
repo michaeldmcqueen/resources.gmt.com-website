@@ -42,6 +42,7 @@ inputs:
 * Games for free time\*
 * Fun items for our theme dinners\*: Christmas Monday, Wacky Wednesday, Tropical Thursday
 * Pen/Pencil for program and devotions
+* Instruments for&nbsp; evening worship\*
 
 &nbsp;\*Optional Items&nbsp;
 
