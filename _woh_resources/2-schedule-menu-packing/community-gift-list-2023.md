@@ -22,7 +22,7 @@ If you are attending Week of Hope the weeks of <u><em>July 7 - 12, July 14 - 19,
 
 **Loveland, CO**: Items from Amazon list (Copy link and Paste into URL): [https://www.amazon.com/hz/wishlist/ls/2M0SLN0KE7BFZ/ref=hz\_ls\_biz\_ex](https://www.amazon.com/hz/wishlist/ls/2M0SLN0KE7BFZ/ref=hz_ls_biz_ex)
 
-**Pittsburgh, PA****\:** Backpack supplies (Backpacks, pencils, pens, erasers, pencil sharpeners, pencil boxes, glue, scissors, notebooks, folders, rulers, crayons, colored pencils, markers), Teacher supplies (Kleenex, Ziplock bags, solid-colored folders, sheet protectors, baby wipes, dry erase markers, sharpies, poster tack, brown paper lunch bags, paper plates)
+**Pittsburgh, PA:**&nbsp;*More information to come...*
 
 **Charleston, SC**: Non-perishable food items&nbsp;
 
