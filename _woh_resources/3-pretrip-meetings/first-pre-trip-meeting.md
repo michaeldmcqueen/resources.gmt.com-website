@@ -49,6 +49,7 @@ Say: *That’s a lot of stuff! Make sure you have the important dates in your ca
 * Drama–you can volunteer for a drama and can read Scripture or pray during the evening programs.&nbsp;
 * Lip-Sync Battle–On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. ( You will need to approve their act before they show it to staff at camp).&nbsp;
 * Theme **Dinners**! Bring fun stuff for the 3 theme **dinners** during the week! There will be Christmas Monday, Wacky Wednesday, and Tropical Thursday! Think Christmas sweaters, Santa hats, knee-high unicorn socks, crazy overalls, Hawaiian shirts, and flowered leis!&nbsp;
+* *Worship team–you are welcome to take your instruments along and play with the music team and singers are welcome too! The Song List for camp is in your customer account for those who want to participate*&nbsp;(under Helpful Resources and Program).&nbsp;
 
 Say: *That’s all the information I have for you today! What questions do you have?* (Use the FAQs in your customer account to help you field any questions.)
 
