@@ -62,7 +62,7 @@ inputs:
 * Diapers of all sizes
 * Baby formula
 
-**Piketon, OH:**&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;
+**Piketon, OH:**&nbsp;&nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;&nbsp;
 
 * Nonperishable food items
 * Healthy shelf-stable foods (pasta, sauces, packaged snacks, granola bars, etc.)
@@ -123,4 +123,6 @@ inputs:
 * Cleaning supplies (for the home)
 * Laundry supplies (detergent, softener, etc)
 
-**Midland, MI: Available Early December**
+**Midland, MI:**
+
+* Nonperishable food items
