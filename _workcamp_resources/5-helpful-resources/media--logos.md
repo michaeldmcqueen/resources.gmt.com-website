@@ -29,4 +29,4 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### Influencer logos
 
-[![](/uploads/influencer-logo-2.png){: srcset="/uploads/influencer-logo-2.png 800w, /uploads/influencer-logo-2x-2.png 1600w" width="800" height="235"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EnszzcGrGoFKlKm3tUMzxrMB1r4RkvydLHmG9zl5iDY8mg?e=L076cU){: target="_blank" rel="noopener"}
+[![](/uploads/influencer-logo-2.png){: srcset="/uploads/influencer-logo-2.png 800w, /uploads/influencer-logo-2x-2.png 1600w" width="800" height="235"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EvLfnQlE8AtOm5m9lolNCKkB9MzYN1U0sDr_gNa9AGeE5w?e=E7Keuu){: target="_blank" rel="noopener"}
