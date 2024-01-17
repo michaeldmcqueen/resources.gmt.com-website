@@ -27,6 +27,6 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 
 
-### Forged logos
+### Influencer logos
 
 [![](/uploads/influencer-logo-2.png){: srcset="/uploads/influencer-logo-2.png 800w, /uploads/influencer-logo-2x-2.png 1600w" width="800" height="235"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EnszzcGrGoFKlKm3tUMzxrMB1r4RkvydLHmG9zl5iDY8mg?e=L076cU){: target="_blank" rel="noopener"}
