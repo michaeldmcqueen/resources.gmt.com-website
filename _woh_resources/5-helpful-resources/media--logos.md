@@ -13,20 +13,14 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 [![](/uploads/pdf-icon-sm.png){: width="175" height="175"}](https://groupcares-my.sharepoint.com/:b:/g/personal/admin_groupcares_org/EfofrMdEQjBAtwj8prKZBSIB-jiOyZjVWtFpSHJCBRWz2g?e=lXSry9){: target="_blank" rel="noopener"}
 
-
-
 ### Group Mission Trips logos
 
 [![](/uploads/gmt-blue.jpg){: width="800" height="453"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EjmK1ZeEilFHvKrno0dcdMMBCdVlp1i4y0H-5TaTaeOGXA?e=CpOIYb){: target="_blank" rel="noopener"}
-
-
 
 ### Week of Hope logos
 
 ### [![](/uploads/gmt-week-of-hope-colorbadge.jpg){: srcset="/uploads/gmt-week-of-hope-colorbadge.jpg 800w, /uploads/gmt-week-of-hope-colorbadge@2x.jpg 1600w" width="800" height="204"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/El7C5LZrzm5AiVUyCwGTNXsBDGJXDr9gx1Q8fscHU_P0Mw?e=hXd3mT){: target="_blank" rel="noopener"}
 
-
-
 ### Influencer logos
 
-[![](/uploads/influencer-logo-2.png){: srcset="/uploads/influencer-logo-2.png 800w, /uploads/influencer-logo-2x-2.png 1600w" width="800" height="235"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EnszzcGrGoFKlKm3tUMzxrMB1r4RkvydLHmG9zl5iDY8mg?e=L076cU){: target="_blank" rel="noopener"}
+[![](/uploads/influencer-logo-2.png){: srcset="/uploads/influencer-logo-2.png 800w, /uploads/influencer-logo-2x-2.png 1600w" width="800" height="235"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EvLfnQlE8AtOm5m9lolNCKkB9MzYN1U0sDr_gNa9AGeE5w?e=E7Keuu){: target="_blank" rel="noopener"}
