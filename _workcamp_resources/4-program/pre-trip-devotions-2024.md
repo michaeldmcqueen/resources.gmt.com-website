@@ -59,8 +59,6 @@ SAY:&nbsp; **Let’s look at a passage in the Bible. Who would like to read Phil
 
 ***8**&nbsp;Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable—if anything is excellent or praiseworthy—think about such things.&nbsp;**9**&nbsp;Whatever you have learned or received or heard from me, or seen in me—put it into practice. And the God of peace will be with you.*
 
-
-
 SAY:&nbsp; **In this passage, Paul encourages us to take ownership over the things that influence our thoughts. He wants us to filter the “input” – wherever it originates – so that we hold onto things that are good and healthy and Christlike.**
 
 **That is not an easy task today. We are bombarded with words and images that aren’t always positive and beneficial for our spiritual health.**
@@ -92,19 +90,13 @@ SAY:&nbsp; &nbsp;**We’re going to share a snack now. Since we are just *beginn
 * **How do you feel after spending time playing video games, listening to music, scrolling through social media?**
 * **Which outside influences are positive in your life? Which are negative?**
 
-
-
 ###### **Pray**
 
 SAY:&nbsp; &nbsp;**Let’s close in prayer.**
 
 **Loving God, thank you for the world that you created. Sometimes, we get lost in it and forget to guard our hearts. Help us to use our filters and make choices about what kinds of words and images influence our thoughts and actions. We know that you want what is best for us. Thank you for loving us. Amen.**
 
-
-
 ### Pre-Trip Devotion \#2
-
-######
 
 ###### **Supplies Needed**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
@@ -188,11 +180,7 @@ SAY:&nbsp; &nbsp;**Let’s close in prayer**
 
 **God, we are feeling so many things about our trip to \_\_\_\_\_\_\_\_\_\_\_\_. You know what’s in our hearts. Sometimes we worry so much it just makes us more anxious. Help us to find comfort knowing that you’re with us. Give us courage to face the unknown. Hold us tight as we grow closer to you through every challenge. It’s going to be OK. Thanks for that, God. Amen**
 
-
-
 ### Pre-Trip Devotion \#3
-
-######
 
 ###### Supplies Needed
 
@@ -280,8 +268,6 @@ SAY:&nbsp; &nbsp;**Let’s close in prayer.**
 
 **God of light, thank you for putting goodness in our hearts. When we find ourselves in darkness – when we’re confused, or lost, or angry, or hurt – show us the way back to your light and your love. Remind us that our light has power through you.&nbsp; Energize us to shine so that we can be part of something great and know that we are part of your amazing plan in the world.&nbsp; Amen**
 
-
-
 ### Pre-Trip Devotion \#4
 
 ###### Supplies Needed
@@ -304,7 +290,7 @@ SAY:&nbsp; **We need to break into two teams for our opening game.** *(Break the
 
 *Play the game for 2 minutes.*
 
-SAY:&nbsp;&nbsp;**&nbsp;&nbsp;**&nbsp;&nbsp;&nbsp;**OK, teams collect the cups that your team “won”** *(TEAM 1 collect the upright cups, TEAM 2 collect the upside down cups).* **Count your cups. Which team won?**
+SAY: &nbsp;&nbsp;&nbsp;**&nbsp;&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp;**OK, teams collect the cups that your team “won”** *(TEAM 1 collect the upright cups, TEAM 2 collect the upside down cups).* **Count your cups. Which team won?**
 
 ###### **Talk about the Game**
 
@@ -354,6 +340,6 @@ SAY:&nbsp; &nbsp;**While you’re getting your sundaes and savoring the cold, cr
 
 ###### **Pray**
 
-SAY:&nbsp;&nbsp; **Let’s close our time with prayer.**
+SAY: &nbsp; **Let’s close our time with prayer.**
 
 **Loving God, thank you for turning our world upside down. We know we are called to love our neighbors. Open our hearts to what you have planned. Open our minds to new ideas. Open our arms so that we can embrace all people the way Jesus taught us. Thank you for giving us the opportunity to serve. May all we say and all we do, honor you.&nbsp; Amen** &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;
