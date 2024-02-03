@@ -290,7 +290,7 @@ SAY:&nbsp; **We need to break into two teams for our opening game.** *(Break the
 
 *Play the game for 2 minutes.*
 
-SAY: &nbsp;&nbsp;&nbsp;**&nbsp;&nbsp;**&nbsp;&nbsp;&nbsp; &nbsp;**OK, teams collect the cups that your team “won”** *(TEAM 1 collect the upright cups, TEAM 2 collect the upside down cups).* **Count your cups. Which team won?**
+SAY: &nbsp;&nbsp;**&nbsp;**&nbsp;**OK, teams collect the cups that your team “won”** *(TEAM 1 collect the upright cups, TEAM 2 collect the upside down cups).* **Count your cups. Which team won?**
 
 ###### **Talk about the Game**
 
