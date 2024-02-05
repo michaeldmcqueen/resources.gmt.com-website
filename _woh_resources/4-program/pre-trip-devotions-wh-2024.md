@@ -1,7 +1,7 @@
 ---
 title: Pre-Trip Devotions WH 2024
 category:
-subcategory:
+subcategory: Program
 order: 1
 inputs:
   unpublish: true
