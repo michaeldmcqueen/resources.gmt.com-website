@@ -4,7 +4,7 @@ category:
 subcategory:
 order: 1
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 ### Pre-Trip Devotion \#1
 
