@@ -12,8 +12,6 @@ inputs:
 
 Songs in **bold** are new to 2024.
 
-###
-
 #### **FAST**
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
