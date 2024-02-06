@@ -9,7 +9,7 @@ inputs:
 ---
 IMPORTANT NOTE: Not all of these songs will be played during camp. Camp staff will select an appropriate number of songs from this list.
 
-### &nbsp;
+###
 
 #### **FAST**
 
