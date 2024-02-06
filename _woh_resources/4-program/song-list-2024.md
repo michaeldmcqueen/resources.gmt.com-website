@@ -17,7 +17,7 @@ Songs in **bold** are new to 2024.
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
 | **My Testimony** | **Elevation Worship** |
 | **Praise** | **Elevation Worship** |
-| **There was Another in the Fire** | **Hillson UNITED** |
+| **There was Another in the Fire** | **Hillsong UNITED** |
 | I Thank God | Maverick City |
 | Lamb | Elevation Worship |
 | Graves into Gardens | Elevation Worship |
