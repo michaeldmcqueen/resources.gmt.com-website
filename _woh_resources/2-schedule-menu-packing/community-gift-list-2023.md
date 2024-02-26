@@ -30,6 +30,6 @@ If you are attending Week of Hope the weeks of <u><em>July 7 - 12, July 14 - 19,
 
 **Indianapolis, IN**: Nonperishable food items&nbsp;
 
-**Austin, TX**: *More information to come…*
+**Austin, TX**: Toys, games and activities for children 1 - 12 y/o. Some suggested items: Chalk, puzzles, floor puzzles, Basketballs/Soccer balls/Footballs or outdoor activities, bubbles, science kits, tactile/developmental toys, etc.&nbsp;
 
 **Newark, NY****\:** Nonperishable food items; Soap, toothbrush, tooth paste, deodorant, comb or small brush, nonperishable snacks, socks&nbsp;&nbsp;
