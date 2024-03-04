@@ -1,5 +1,5 @@
 ---
-title: June 30th-July 4th Schedule and Menu
+title: June 30th-July 4th Schedule and Menu (Just for those registered this week)
 category:
 subcategory:
 order: 1
