@@ -17,9 +17,7 @@ Songs in **bold** are new to 2024.
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
 | **My Testimony** | **Elevation Worship** |
 | **Praise** | **Elevation Worship** |
-| **There was Another in the Fire** | **Hillsong UNITED** |
 | I Thank God | Maverick City |
-| Lamb | Elevation Worship |
 | Graves into Gardens | Elevation Worship |
 | Glorious Day | Passion |
 | Open The Gates | Vertical Worship |
@@ -32,6 +30,7 @@ Songs in **bold** are new to 2024.
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
 | **I Speak Jesus** | **Charity Gayle** |
+| There was Another in the Fire | Hillsong UNITED |
 | Firm Foundation | Maverick City |
 | Battle Belongs | Phil Wickham |
 | Stand in Your Love | Bethel Music |
@@ -48,6 +47,7 @@ Songs in **bold** are new to 2024.
 
 | **TITLE** | **POPULAR ARTIST** |
 | **Give Me Jesus** | **UPPERROOM** |
+| Lamb | Elevation Worship |
 | All Hail King Jesus | Jeremy Riddle |
 | Oh Praise the Name (Anastasis) | Hillsong Worship |
 | Make Room | Kim Walker-Smith |
