@@ -12,13 +12,11 @@ inputs:
 
 Songs in **bold** are new to 2024.
 
-| **FAST** |  |
+| **FAST** | &nbsp; |
 | TITLE | ARTIST |
 | **My Testimony** | **Elevation Worship** |
 | **Praise** | **Elevation Worship** |
-| **There was Another in the Fire** | **Hillsong UNITED** |
 | I Thank God | &nbsp;Maverick City |
-| Lamb | &nbsp;Elevation Worship |
 | Graves into Gardens | &nbsp;Elevation Worship |
 | Glorious Day | Passion |
 | Open The Gates | Vertical Worship |
@@ -27,9 +25,10 @@ Songs in **bold** are new to 2024.
 | Your Love Awakens Me | Phil Wickham |
 | My Lighthouse | Rend Collective |
 
-| **MEDIUM** |  |
+| **MEDIUM** | &nbsp; |
 | TITLE | ARTIST |
 | **I Speak Jesus** | **Charity Gayle** |
+| There was Another in the Fire | Hillsong UNITED |
 | Firm Foundation | Maverick City |
 | Battle Belongs | Phil Wickham |
 | Stand In Your Love | Bethel Music |
@@ -41,10 +40,11 @@ Songs in **bold** are new to 2024.
 | The Lion and the Lamb | Big Daddy Weave |
 | How Great is Our God | Chris Tomlin |
 | Who You Say I Am | Hillsong Worship |
-|  |  |
-| **SLOW** |  |
+| &nbsp; | &nbsp; |
+| **SLOW** | &nbsp; |
 | TITLE | ARTIST |
 | **Give Me Jesus** | **UPPERROOM** |
+| Lamb | Elevation Worship |
 | All Hail King Jesus | Jeremy Riddle |
 | Oh Praise the Name (Anastasis) | Hillsong Worship |
 | Make Room | &nbsp;Kim Walker-Smith |
