@@ -9,80 +9,388 @@ inputs:
 ---
 ### Post-Trip Devotions
 
-###### Introduction
+###### **DEVO 1**
 
-For most of us, we had never even thought about the meaning of the word FORGED, much less how God has and can use it to form our lives. But that all changed at camp. We learned a lot about how God is always working in and through us to shape us into the people he created us to be. And just like when a metalworker FORGES a piece of metal, God uses heat – the suffering we experience in life – to soften us, strengthen us, and transforms us. We learned that our suffering makes us stronger. That God uses our suffering to soften and shape us into stronger, more compassionate people. There is a forging process where our suffering works like the process of FORGING metal. When metal is heated it can be shaped and it becomes stronger. We also learned that we are on a circular journey – one that starts with hope and ends with hope. And finally we learned that our suffering is valid. There are many ways to experience suffering; and whatever you’re going through, it matters to God.
+**SUPPLIES NEEDED:**
 
-During our morning programs you were encouraged to journal about a time when you suffered. As we examined different parts of the circular journey from hope to hope, we focused on six daily themes: Hope, Suffering, Perseverance, Character, A Return to Hope, and Forging Ahead. And that last one is exactly where these post-camp devotions come in. We want to help you and your youth group FORGE AHEAD. By now you’re back home. Back to the people who have been praying for you. Back to your family and friends. Back to the comforts of home. Back to life. This is where everything you experienced and learned about Forging becomes real. We want to encourage you to continue this amazing journey as we FORGE ahead together!
+o Chairs set up in a circle
 
-### Post-Trip Devotion \#1
+o SONG: “All You Need is Love” by the Beatles – ready to play on your phone, plus lyrics printed or to project
 
-###### Forged for Community
+o New flavor of Pop Tarts, or Oreos, or M & M’s for snack
 
-*"Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope."*&nbsp;
+&nbsp;
 
-Romans 5: 1 - 4
+**GAME/ICE BREAKER** CHANGE YOUR SEAT IF…
 
-Say: **Hopefully, while at camp, you made some great friendships. Maybe you met some new people in your youth group and/or deepened the friendships you already had. However, as you returned home there might be the question, “Do I really need other people to be with me in my journey?” The answer is simply - YES! Listen, while your salvation isn’t based on a relationship with anyone but Christ, it’s those other relationships that can help you grow closer to Christ, maintain that relationship with Him, and help forge ahead to what God has next**.
+&nbsp;
 
-*(Youth Leader, share a time in your life when you felt like giving up but someone close to you encouraged you to keep going)*&nbsp;
+**SAY**:
 
-Say: **When faced with tough times, on our own it would be easy to quit. When the pain gets to be too much, or the struggle too hard, we often will stop. However, a friend might see your frustration and offer to help. That one relationship alone could make all the difference. They might be able to help me encourage you through the hard times. To cheer you on when you’re struggling and hold you accountable in various other areas that could prevent you from forging ahead.**
+Everybody needs to take a seat in the circle. Remove one chair and set it to the side (if you have 12 people in your group, the circle should have 11 chairs).
 
-**Our faith is like that. There will be hard times that will cause us to question it and there will be temptations that will test it. That’s where our community comes in. We need people around us that will encourage us, hold us accountable, give us comfort in times of trouble, and help us process when questions or doubts come our way.**&nbsp;
+One volunteer will begin standing in the middle of the circle.
 
-**Throughout scripture, we see the need for community. Ecclesiastes 4:9-12 is a blueprint for those kinds of relationships.**&nbsp;
+Who wants to be the first to stand in the middle? (wait for volunteer)
 
-*(Read Ecc. 4:9-12)*&nbsp;
+&nbsp;
 
-**We need to be part of a group that not only helps us, works with us, and holds us accountable, but one that also allows us to do the same for others. As believers, we are now part of the body of Christ. Numerous scriptures refer to this showing how the body works together. You have a part and the body needs you just as much as you need it.**&nbsp;
+This game is simple, and fun…and active. So be gentle with each other.
 
-###### **Discussion**
+&nbsp;
 
-1. What was the best part of your week at camp?
-2. What was the saddest part about leaving?
-3. What was the one thing you were looking forward to the most about coming back home?
-4. What surprised you the most about your experience at camp?
-5. When you think of our youth group, would you say you feel closer, the same, or unsure of the group now compared to before camp? Why is that?
-6. How much different would your camp experience have been if you didn’t know anyone and you had to go serve on your worksites by yourself?
-7. How did having a group (community) to share the experience with help you during the week?
-8. What is one way you can continue to forge ahead in community now that you’re back home?
+The person in the middle will say a statement that begins, “Change your seat if…” and then complete the statement with something that may or may not be true for people in the circle. For example, “Change your seat if…you have at least one sibling” or “Change your seat if … you are wearing socks.”
 
-*Close in prayer*
+&nbsp;
 
-### Post-Trip Devotion \#2
+After the statement, you MUST get up and find a new seat if the statement is true for you. You cannot get up and return to your same seat. You MUST change to a new chair.
 
-###### Forged for a Purpose
+&nbsp;
 
-*"Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ, through whom we have gained access by faith into this grace in which we now stand. And we boast in the hope of the glory of God. Not only so, but we also glory in our sufferings, because we know that suffering produces perseverance; perseverance, character; and character, hope."*
+The person in the middle will also try to get a seat as the big shuffle happens. After each round, one person will be without a seat, and they become the middle person who makes the next statement.
 
-Romans 5: 1 - 4
+&nbsp;
 
-Say: **I’ve had a number of jobs in my life.&nbsp; Some jobs have been more fulfilling than others.&nbsp; One of my first jobs after high school was working in a factory preparing a product for a buy one get one free promotion.&nbsp; One of my coworkers would bring a case of the product to me. &nbsp;My job was to take two of the items, insert a coupon, and tape them together.&nbsp; I did this over and over for 8 hours every day.&nbsp; Not only was the job long and tedious, but it was mind-numbingly boring.** &nbsp;&nbsp;
+Play however long you want…there’s no real winner in the game. It’s just super fun.
 
-**This job, like many jobs, left me unfulfilled and incomplete.&nbsp; I have also struggled from time to time with general household chores.&nbsp; No matter how much I love my family, it is difficult to find self-worth and fulfillment in washing dishes and doing laundry.&nbsp; While I knew that these tasks were important, my days often felt tiring and tedious.&nbsp; Although I knew, as a Christian, that there was a purpose for my life, my soul continued to cry out for a purpose in each individual day.**
+&nbsp;
 
-**But what if our purpose was more than just that “thing” we do? It’s easy to look at our time at camp and assume our purpose was solely the job we did on our worksite, but what if there was more? What if God’s purpose for us during our week a camp was much more than we could have imagined?**
+Ready to play? (after the game is over, bring the extra chair back in so that everyone can have the discussion in the circle together)
 
-**One of my friends introduced me to “The Practice of the Presence of God”, which includes the teachings of Brother Lawrence.&nbsp; Brother Lawrence was a monk, and he sought purpose in the mundane, everyday life.&nbsp; I read in awe how Brother Lawrence concentrated on finding the presence of God in a task as simple as washing dishes.&nbsp; Brother Lawrence recognized that God could be in every task, no matter how small, when he stated, "we ought not to be weary of doing little things for the love of God, who regards not the greatness of the work, but the love with which it is performed."&nbsp; I began to imagine how my day could be transformed if I did not focus on the large or small work, and began to view each task in my day as a way to do my best to honor God.**
+&nbsp;
 
-**What would happen if we woke up daily and thought, “What is my purpose today at school?” or “What is my purpose today at work or on my team?” or better yet, “What is my purpose in the day-to-day events of my life that can reveal God’s purpose for my life?”**
+**TALK ABOUT THE GAME**:
 
-**Our lives are being forged daily for a purpose. Some are obvious, and some aren’t. But our hope is that everything we do, everything that happens to us, will ultimately be used in incredible ways for his purpose and ours.**
+&nbsp;
 
-###### **Discussion**
+**ASK**: What was your strategy during the game? Was it fun to be the person in the middle? Explain.
 
-1. Do you spend a lot of time questioning what your purpose is?
-2. Do you believe that God has a purpose for you?
-3. Have you ever thought to ask God those hard questions—like why you are here and what are you supposed to do with your time here?
-4. How can God use your sufferings and perseverance for your purpose?
-5. How does who you are (your character) effect your daily purpose?
-6. What role does hope play in discovering your purpose?
-7. What are some daily tasks you can do that will honor God?
-8. How can honoring God in the daily “purposes” of life reveal a greater purpose, one that you’ve been forged for?
+&nbsp;
 
-*Close in prayer*
+**SAY**: That game was all about making changes. In fact, the game is only fun when it is time to change.
 
-​​​​​​
+&nbsp;
 
-​​​​​​
+That’s what we’re going to talk about in this devotion time today: change. You probably changed in more than one way at workcamp. Maybe you got stronger physically. Or maybe you experienced something new and your world feels bigger than it did before. Maybe you learned new skills. There are so many ways we can change on a mission trip.
+
+&nbsp;
+
+**REFLECT**:
+
+**ASK:** Let’s go around the circle and each share one way we changed during our workcamp trip.
+
+&nbsp;
+
+**SCRIPTURE**:
+
+**SAY**: Let’s look at some Scripture. First, let’s look back at the theme verse from Workcamp 2024 –
+
+**<sup>2</sup>** Do not conform to the pattern of this world but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—God’s good, pleasing and perfect will. Romans 2:12
+
+**SAY**: We all get stuck in the ways we think and behave. We have our routines and without realizing it, those routines can limit us. That’s one of the great things about going to Workcamp. You spend a week in a new place with new people. Your days are filled with non-routine. That change of scenery can be enough to shake you out of your old ways. As the Scripture says, you can be “transformed by the renewing of your mind.”
+
+**ASK**: How was your mind renewed during our mission trip experience? It could have been at camp…or on the road trip. It could have been during an evening program, or at a gas station stop along the road. It could have been during a conversation, or during a prayer. It could have been a brand-new idea, or a new look at an old one. (Take time to share)
+
+**SAY**: Let’s take a new look at something you’ve probably heard before.
+
+1 John 4:8 says this:
+
+Whoever does not love does not know God, because God is love.
+
+God *is* love. Knowing God means knowing love … and knowing love is knowing God.
+
+Let’s think about that for a minute. We’re going to listen to the song “All You Need is Love” by the Beatles (hand out lyrics or project them if possible)
+
+ALL YOU NEED IS LOVE
+
+Love, love, love<br>Love, love, love<br>Love, love, love
+
+There's nothing you can do that can't be done (love)<br>Nothing you can sing that can't be sung (love)<br>Nothing you can say, but you can learn how to play the game (love)<br>It's easy
+
+Nothing you can make that can't be made (love)<br>No one you can save that can't be saved (love)<br>Nothing you can do, but you can learn how to be you in time (love)<br>It's easy
+
+All you need is love<br>All you need is love<br>All you need is love, love<br>Love is all you need
+
+Now change it up – this time we will listen (and maybe sing along?) and substitute the word “God” for the word “love.” Maybe you will see the song in a whole new way. You may even see God in a new way.
+
+&nbsp;
+
+**FOOD FOR THOUGHT:**
+
+**SAY**: Change can be good…or not, right? Some snack foods keep coming up with new variations. Oreos keep reinventing themselves – mint, lemon, red velvet, peanut butter pie, golden, strawberry frosted donut, Lady Gaga flavor(?). It’s crazy! Have you shopped for Pop Tarts lately? Apple Jacks flavor, strawberry milkshake, s’mores, snickerdoodle, pumpkin pie.
+
+&nbsp;
+
+We’re going to embrace change today – even with our snack.
+
+So, I brought \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. As you explore this new taste sensation, I want to encourage you to think about a few things this week:
+
+· How much are you stuck in your ways of thinking and behaving?
+
+· Do you think that change is generally a good thing? Explain.
+
+· What is one new experience you could try this week?
+
+**PRAY:**
+
+**SAY**: Let’s close in prayer.
+
+&nbsp;
+
+Loving of renewal and change, thank you for giving us opportunities to learn and grow. Help us to break free of routines that prevent us from seeing all of the greatness of your creation. Give us hearts that love bigger as we know more about your people. Amen
+
+&nbsp;
+
+**<br>**
+
+&nbsp;
+
+**DEVO 2**
+
+**SUPPLIES NEEDED:**
+
+o Whiteboard and markers for Pictionary and prepared clues
+
+o Snack – Goldfish, the snack that smiles back
+
+o Video – “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\_a](https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz_a)
+
+o Scripture - Ephesians 4:32
+
+&nbsp;
+
+**GAME/ICE BREAKER**: PICTIONARY
+
+&nbsp;
+
+**SAY**: We are going to play a round of Positive Pictionary. Who would like to draw first? (*play as many rounds as you wish – here are some clues to get you started – if you add more words, make sure they’re all positive)*
+
+&nbsp;
+
+Friend, Happy, Workcamp, Love, Gift, Crew, Peace, Hug, Laugh, Care Cards, Family, Prayer, Breakmaker, Bible, Home, Build
+
+&nbsp;
+
+&nbsp;
+
+**TALK ABOUT THE GAME**:
+
+**ASK**: Thanks for playing.
+
+Our theme at camp was “Influencer.” We looked at how we can have a real impact on our world when we worry less about trying to fit some worldly image of what it means to be a success. When we put God first – when we put love and kindness first, *that is when we can transform our minds and in turn, transform our world.* Take a look at this video.
+
+&nbsp;
+
+**VIDEO**: Video “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\_a](https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz_a)
+
+8:45
+
+&nbsp;
+
+**REFLECT ON VIDEO**:
+
+SAY: What did you think about the video?
+
+How do the two main characters experience a renewing of their minds?
+
+What do you think is the message of the video?
+
+&nbsp;
+
+**SCRIPTURE**:
+
+SAY: Let’s look at our Bible passage. Who would like to read Ephesians 4:32
+
+&nbsp;
+
+**VOLUNTEER READS**:
+
+**<sup>32</sup>** Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
+
+&nbsp;
+
+**DISCUSS**:
+
+· How far are you willing to go in order to be kind – what’s your limit?
+
+· How are kindness and forgiveness the same, and how are they different?
+
+· Is there anything that is unforgiveable? Explain.
+
+&nbsp;
+
+**SAY:** Imagine that everybody in your school stopped being unkind. Imagine everybody in your life stopped being unkind. Always kind. To everybody. In all circumstances. How would that change our world?
+
+&nbsp;
+
+Do you believe that kindness can be contagious? Explain.
+
+&nbsp;
+
+**FOOD FOR THOUGHT**:
+
+SAY: Snack time! Inspired by our theme of kindness tonight – we’re having Goldfish crackers – the snack that smiles back!
+
+As you enjoy the adorable treats, I want to encourage you to think about a few things this week:
+
+· Kindness doesn’t always come easy, right? But it is a choice. Just like being *unkind* is a choice.
+
+· When somebody is unkind to you, it feels horrible. It hurts and can leave emotional scars. Choose <u>not</u> to be the person who leaves other people feeling hurt and horrible. That’s not God’s plan for your life.
+
+· Being kind is more important than being popular. Being kind is more important than being wealthy. Being kind is more important than being right. Discuss.
+
+&nbsp;
+
+**PRAY**:
+
+SAY: Let’s close in prayer
+
+&nbsp;
+
+God, fill us with kindness. Help us to see other people as your children, worthy of compassion. Even people who aren’t nice…who say mean things…who are not good people. Lord, you want us to choose kindness toward them? Help us, God. We need your peace. Help us to be faithful to the plan you have for our lives. Amen.
+
+&nbsp;
+
+**<br>**
+
+**DEVO 3**
+
+· **SUPPLIES NEEDED:**
+
+o Whiteboard and markers
+
+o Game – Would you rather
+
+o Craft supplies – paper, colored pencils/markers, magazines, pencils/pens, odds and ends … maybe hot glue guns? Get as crazy as you want to. The youth will be inspired by the materials you provide
+
+o Snack – something Sweet and Salty (granola bars, trail mix, kettle corn)
+
+o Video – Beyonce “I Was Here” United Nations Humanitarian Day video
+
+o Scripture - Micah 6:8
+
+“He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
+
+&nbsp;
+
+**GAME/ICE BREAKER:** WOULD YOU RATHER?
+
+&nbsp;
+
+We’re going to play a fun game of “Would You Rather?” I’ll read two options…you just pick which one you would “rather.”
+
+&nbsp;
+
+1\. Would you rather mow the grass or shovel snow?
+
+2\. Would you rather drink rotten meat or drink spoiled milk?
+
+3\. Would you rather win $5000 or donate $5000?
+
+4\. Would you rather lose all of your teeth or lose all of your hair?
+
+5\. Would you rather lie to escape a prison sentence or be convicted for telling the truth?
+
+6\. Would you rather have a job that pays a lot of money or have a job that solves worldwide poverty?
+
+7\. Would you rather be so famous you have no privacy or spend every day of your life completely alone?
+
+8\. Would you rather be hugely successful or incredibly humble?
+
+9\. Would you rather understand the entire Bible or win Fortnite?
+
+&nbsp;
+
+**TALK ABOUT THE GAME:**
+
+**ASK**:
+
+Which question was the hardest one for you to answer? The easiest?
+
+Just for fun, go back and talk about what Jesus would do for each question.
+
+&nbsp;
+
+**SAY:** Why is it difficult to do the “right thing” sometimes? We are good at finding loopholes – making excuses – explaining why the right thing isn’t necessary at times. Why do you think that we rationalize our selfish choices?
+
+&nbsp;
+
+**SCRIPTURE**:
+
+**SAY**: Let’s look for some guidance in Scripture. Who would like to read Micah 6:8?
+
+&nbsp;
+
+**VOLUNTEER READS**:
+
+“He has told you, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
+
+&nbsp;
+
+**SAY:**
+
+According to that verse, God requires three things:
+
+§ Do justice
+
+§ Love kindness
+
+§ Walk humbly with God
+
+&nbsp;
+
+What do each of those things look like? Let’s break into three groups and each will take 15 minutes to create a “snapshot” of their assigned idea. Group 1 – create a snapshot of “Doing justice”
+
+Group 2 – create a snapshot of “Loving kindness”
+
+Group 3 – create a snapshot of “Walking humbly with God”
+
+&nbsp;
+
+You can create your snapshot by drawing, by building a sculpture, by creating a collage, or any other creative way you can think of that will paint a meaningful look into your topic.
+
+&nbsp;
+
+Give groups 15 minutes to work, then reassemble the whole group and share what they made.
+
+&nbsp;
+
+**SAY:**
+
+Justice. Kindness. Humility. Those a big, important concepts. And they are really good goals for life. Imagine at the end of your life, people describing you as a person who spent their life doing justice, loving kindness and walking humbly with God. That sounds like a good life to me.
+
+&nbsp;
+
+**VIDEO:** Take a look at this video from Beyonce
+
+&nbsp;
+
+Beyonce “I Was Here” United Nations Humanitarian Day video
+
+[https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E](https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E)
+
+&nbsp;
+
+**FOOD FOR THOUGHT**:
+
+**SAY:** In order to be a positive influence in our world, you don’t have to perfect. You don’t have to always do the right thing. Sometimes you need to be sweet. Sometimes you need to be salty. That’s why we’re having this sweet and salty snack today. As you enjoy your (trail mix/granola bars…kettle corn… whatever), think about these things-
+
+· Do justice – fight when you see something is unjust. Go to bat for a friend who is being mistreated.
+
+· Love kindness – remember that being kind is more important than being a winner
+
+· Walk humbly – give your time but don’t brag about it; give your help in small and humble ways
+
+· It’s never too early to think about what kind of life you really want to live, and what kind of legacy you want to leave on the world
+
+· Serving (like at workcamp) is good…*and* it feels good. What a great way to feel the power of knowing “You were there!”
+
+&nbsp;
+
+**PRAY:**
+
+SAY: Let’s close in prayer.
+
+&nbsp;
+
+God help us to live our days in ways that reflect justice, goodness, and humility. Give us the wisdom and strength so that we can choose according to your will, without making excuses or looking for loopholes. We want to be your people and create a better world. Amen
