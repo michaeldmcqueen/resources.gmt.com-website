@@ -19,11 +19,7 @@ o SONG: “All You Need is Love” by the Beatles – ready to play on your phon
 
 o New flavor of Pop Tarts, or Oreos, or M & M’s for snack
 
-&nbsp;
-
 **GAME/ICE BREAKER** CHANGE YOUR SEAT IF…
-
-&nbsp;
 
 **SAY**:
 
@@ -33,53 +29,29 @@ One volunteer will begin standing in the middle of the circle.
 
 Who wants to be the first to stand in the middle? (wait for volunteer)
 
-&nbsp;
-
 This game is simple, and fun…and active. So be gentle with each other.
-
-&nbsp;
 
 The person in the middle will say a statement that begins, “Change your seat if…” and then complete the statement with something that may or may not be true for people in the circle. For example, “Change your seat if…you have at least one sibling” or “Change your seat if … you are wearing socks.”
 
-&nbsp;
-
 After the statement, you MUST get up and find a new seat if the statement is true for you. You cannot get up and return to your same seat. You MUST change to a new chair.
-
-&nbsp;
 
 The person in the middle will also try to get a seat as the big shuffle happens. After each round, one person will be without a seat, and they become the middle person who makes the next statement.
 
-&nbsp;
-
 Play however long you want…there’s no real winner in the game. It’s just super fun.
-
-&nbsp;
 
 Ready to play? (after the game is over, bring the extra chair back in so that everyone can have the discussion in the circle together)
 
-&nbsp;
-
 **TALK ABOUT THE GAME**:
-
-&nbsp;
 
 **ASK**: What was your strategy during the game? Was it fun to be the person in the middle? Explain.
 
-&nbsp;
-
 **SAY**: That game was all about making changes. In fact, the game is only fun when it is time to change.
 
-&nbsp;
-
 That’s what we’re going to talk about in this devotion time today: change. You probably changed in more than one way at workcamp. Maybe you got stronger physically. Or maybe you experienced something new and your world feels bigger than it did before. Maybe you learned new skills. There are so many ways we can change on a mission trip.
-
-&nbsp;
 
 **REFLECT**:
 
 **ASK:** Let’s go around the circle and each share one way we changed during our workcamp trip.
-
-&nbsp;
 
 **SCRIPTURE**:
 
@@ -113,13 +85,9 @@ All you need is love<br>All you need is love<br>All you need is love, love<br>Lo
 
 Now change it up – this time we will listen (and maybe sing along?) and substitute the word “God” for the word “love.” Maybe you will see the song in a whole new way. You may even see God in a new way.
 
-&nbsp;
-
 **FOOD FOR THOUGHT:**
 
 **SAY**: Change can be good…or not, right? Some snack foods keep coming up with new variations. Oreos keep reinventing themselves – mint, lemon, red velvet, peanut butter pie, golden, strawberry frosted donut, Lady Gaga flavor(?). It’s crazy! Have you shopped for Pop Tarts lately? Apple Jacks flavor, strawberry milkshake, s’mores, snickerdoodle, pumpkin pie.
-
-&nbsp;
 
 We’re going to embrace change today – even with our snack.
 
@@ -135,13 +103,7 @@ So, I brought \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. As you exp
 
 **SAY**: Let’s close in prayer.
 
-&nbsp;
-
 Loving of renewal and change, thank you for giving us opportunities to learn and grow. Help us to break free of routines that prevent us from seeing all of the greatness of your creation. Give us hearts that love bigger as we know more about your people. Amen
-
-&nbsp;
-
-**<br>**
 
 &nbsp;
 
@@ -157,21 +119,11 @@ o Video – “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\
 
 o Scripture - Ephesians 4:32
 
-&nbsp;
-
 **GAME/ICE BREAKER**: PICTIONARY
-
-&nbsp;
 
 **SAY**: We are going to play a round of Positive Pictionary. Who would like to draw first? (*play as many rounds as you wish – here are some clues to get you started – if you add more words, make sure they’re all positive)*
 
-&nbsp;
-
 Friend, Happy, Workcamp, Love, Gift, Crew, Peace, Hug, Laugh, Care Cards, Family, Prayer, Breakmaker, Bible, Home, Build
-
-&nbsp;
-
-&nbsp;
 
 **TALK ABOUT THE GAME**:
 
@@ -179,13 +131,9 @@ Friend, Happy, Workcamp, Love, Gift, Crew, Peace, Hug, Laugh, Care Cards, Family
 
 Our theme at camp was “Influencer.” We looked at how we can have a real impact on our world when we worry less about trying to fit some worldly image of what it means to be a success. When we put God first – when we put love and kindness first, *that is when we can transform our minds and in turn, transform our world.* Take a look at this video.
 
-&nbsp;
-
 **VIDEO**: Video “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\_a](https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz_a)
 
 8:45
-
-&nbsp;
 
 **REFLECT ON VIDEO**:
 
@@ -195,19 +143,13 @@ How do the two main characters experience a renewing of their minds?
 
 What do you think is the message of the video?
 
-&nbsp;
-
 **SCRIPTURE**:
 
 SAY: Let’s look at our Bible passage. Who would like to read Ephesians 4:32
 
-&nbsp;
-
 **VOLUNTEER READS**:
 
 **<sup>32</sup>** Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
-
-&nbsp;
 
 **DISCUSS**:
 
@@ -217,15 +159,9 @@ SAY: Let’s look at our Bible passage. Who would like to read Ephesians 4:32
 
 · Is there anything that is unforgiveable? Explain.
 
-&nbsp;
-
 **SAY:** Imagine that everybody in your school stopped being unkind. Imagine everybody in your life stopped being unkind. Always kind. To everybody. In all circumstances. How would that change our world?
 
-&nbsp;
-
 Do you believe that kindness can be contagious? Explain.
-
-&nbsp;
 
 **FOOD FOR THOUGHT**:
 
@@ -239,19 +175,11 @@ As you enjoy the adorable treats, I want to encourage you to think about a few t
 
 · Being kind is more important than being popular. Being kind is more important than being wealthy. Being kind is more important than being right. Discuss.
 
-&nbsp;
-
 **PRAY**:
 
 SAY: Let’s close in prayer
 
-&nbsp;
-
-God, fill us with kindness. Help us to see other people as your children, worthy of compassion. Even people who aren’t nice…who say mean things…who are not good people. Lord, you want us to choose kindness toward them? Help us, God. We need your peace. Help us to be faithful to the plan you have for our lives. Amen.
-
-&nbsp;
-
-**<br>**
+God, fill us with kindness. Help us to see other people as your children, worthy of compassion. Even people who aren’t nice…who say mean things…who are not good people. Lord, you want us to choose kindness toward them? Help us, God. We need your peace. Help us to be faithful to the plan you have for our lives. Amen.**<br>**
 
 **DEVO 3**
 
@@ -271,15 +199,9 @@ o Scripture - Micah 6:8
 
 “He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
 
-&nbsp;
-
 **GAME/ICE BREAKER:** WOULD YOU RATHER?
 
-&nbsp;
-
 We’re going to play a fun game of “Would You Rather?” I’ll read two options…you just pick which one you would “rather.”
-
-&nbsp;
 
 1\. Would you rather mow the grass or shovel snow?
 
@@ -299,8 +221,6 @@ We’re going to play a fun game of “Would You Rather?” I’ll read two opti
 
 9\. Would you rather understand the entire Bible or win Fortnite?
 
-&nbsp;
-
 **TALK ABOUT THE GAME:**
 
 **ASK**:
@@ -309,23 +229,15 @@ Which question was the hardest one for you to answer? The easiest?
 
 Just for fun, go back and talk about what Jesus would do for each question.
 
-&nbsp;
-
 **SAY:** Why is it difficult to do the “right thing” sometimes? We are good at finding loopholes – making excuses – explaining why the right thing isn’t necessary at times. Why do you think that we rationalize our selfish choices?
-
-&nbsp;
 
 **SCRIPTURE**:
 
 **SAY**: Let’s look for some guidance in Scripture. Who would like to read Micah 6:8?
 
-&nbsp;
-
 **VOLUNTEER READS**:
 
 “He has told you, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
-
-&nbsp;
 
 **SAY:**
 
@@ -337,39 +249,25 @@ According to that verse, God requires three things:
 
 § Walk humbly with God
 
-&nbsp;
-
 What do each of those things look like? Let’s break into three groups and each will take 15 minutes to create a “snapshot” of their assigned idea. Group 1 – create a snapshot of “Doing justice”
 
 Group 2 – create a snapshot of “Loving kindness”
 
 Group 3 – create a snapshot of “Walking humbly with God”
 
-&nbsp;
-
 You can create your snapshot by drawing, by building a sculpture, by creating a collage, or any other creative way you can think of that will paint a meaningful look into your topic.
 
-&nbsp;
-
 Give groups 15 minutes to work, then reassemble the whole group and share what they made.
-
-&nbsp;
 
 **SAY:**
 
 Justice. Kindness. Humility. Those a big, important concepts. And they are really good goals for life. Imagine at the end of your life, people describing you as a person who spent their life doing justice, loving kindness and walking humbly with God. That sounds like a good life to me.
 
-&nbsp;
+**VIDEO:** Take a look at this video from Beyoncé
 
-**VIDEO:** Take a look at this video from Beyonce
-
-&nbsp;
-
-Beyonce “I Was Here” United Nations Humanitarian Day video
+Beyoncé “I Was Here” United Nations Humanitarian Day video
 
 [https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E](https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E)
-
-&nbsp;
 
 **FOOD FOR THOUGHT**:
 
@@ -385,12 +283,8 @@ Beyonce “I Was Here” United Nations Humanitarian Day video
 
 · Serving (like at workcamp) is good…*and* it feels good. What a great way to feel the power of knowing “You were there!”
 
-&nbsp;
-
 **PRAY:**
 
 SAY: Let’s close in prayer.
-
-&nbsp;
 
 God help us to live our days in ways that reflect justice, goodness, and humility. Give us the wisdom and strength so that we can choose according to your will, without making excuses or looking for loopholes. We want to be your people and create a better world. Amen
