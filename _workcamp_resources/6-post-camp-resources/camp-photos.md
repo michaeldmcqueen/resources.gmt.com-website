@@ -11,4 +11,4 @@ You can access the camp photos by clicking the link below and looking for the we
 
 You will be asked for a password to access the photos, it is: **Forged23**
 
-![Image icon](/uploads/artboard-3-100.jpg "Participant Photos"){: width="800" height="781"}&nbsp;[**Participant Photos –&gt;**](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/EppAPY_a7aNBo0XoT47SyKUBupw1QGZ3pKwjnlPmcsgY6Q){: target="_blank" rel="noopener"}
+[![Image icon](/uploads/artboard-3-100.jpg "Participant Photos"){: width="800" height="781"}](https://show.pics.io/2024-gmt-participant-photos){: target="_blank" rel="noreferrer nofollow noopener"}&nbsp;[**Participant Photos –&gt;**](https://show.pics.io/2024-gmt-participant-photos "2024 Participant Photos"){: target="_blank" rel="noreferrer nofollow noopener"}
