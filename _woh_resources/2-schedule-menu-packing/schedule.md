@@ -21,6 +21,7 @@ inputs:
 | 6:30 a.m | Breakfast crew begins |
 | 6:45 a.m | Wake-up call |
 | 7–7:45 a.m | Breakfast and pack lunches |
+| 8:00 a.m | Morning Program |
 | 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
 | 3:30 p.m | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Camp store is open&nbsp; |
 | 5 p.m | Dinner crew begins |
@@ -50,6 +51,7 @@ inputs:
 | 6:30 a.m | Breakfast crew begins |
 | 6:45 a.m | Wake-up call |
 | 7–7:45 a.m | Breakfast and pack lunches |
+| 8:00 a.m | Morning Program |
 | 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
 | 3:30 p.m | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Camp store is open |
 | 5 p.m | Dinner crew begins |
