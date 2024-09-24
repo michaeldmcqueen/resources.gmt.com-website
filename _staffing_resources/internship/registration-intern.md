@@ -6,7 +6,7 @@ order_number: 2
 inputs:
   unpublish: true
 ---
-30-40 hours/week locally<br>Assignment Dates: February 10-August 15, 2025
+30-40 hours/week locally<br>Assignment Dates: February 10-August 15, 2025<br>Pay Rate: $16.50/hour
 
 As we launch the 2025 season and support all Group Mission Trips experiences, this<br>intern will work directly with our mission trip advisors and the VP of operations. This<br>intern will interact with youth leaders to help them prepare for their upcoming mission<br>trips. This intern provides excellent customer service to all registered groups and groups that potentially might register, ensuring they have a great camp experience.
 
