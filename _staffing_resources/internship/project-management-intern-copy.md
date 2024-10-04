@@ -6,11 +6,7 @@ order_number: 1
 inputs:
   unpublish: true
 ---
-**Assignment Dates**
-
-30-40 hours/week locally: February 10-August 15, 2025
-
-Pay rate: $16.50/hour
+30-40 hours/week locally<br>Assignment Dates: February 10-August 15, 2025<br>Pay Rate: $16.50/hour
 
 As we launch the 2025 season and support all Group Mission Trips experiences, this<br>intern will work directly with our project manager and developer, helping manage the<br>logistics of Workcamps and Week of Hope. Specific duties include but are not<br>limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br>&nbsp;
 
