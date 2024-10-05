@@ -29,4 +29,4 @@ The director leads the Red Shirt team, oversees camp logistics, and builds great
 
 ###### Compensation
 
-This is a paid position, offering compensation of $1,000 for each camp directed. Travel expenses are also covered in accordance with our company travel guidelines.
+This is a paid position, offering compensation of $1,000 for each camp you are confirmed to direct. Travel expenses are also covered in accordance with our company travel guidelines.
