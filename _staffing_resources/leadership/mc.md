@@ -29,4 +29,4 @@ The MC leads all camp programs with excellence and enthusiasm and serves as the 
 
 ###### Compensation
 
-This is a paid position, offering compensation of $1,200 for each camp directed. Travel expenses are also covered in accordance with our company travel guidelines.
+This is a paid position, offering compensation of $1,200 for each camp you are confirmed to MC. Travel expenses are also covered in accordance with our company travel guidelines.
