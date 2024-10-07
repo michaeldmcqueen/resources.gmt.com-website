@@ -4,7 +4,7 @@ category: Staffing
 subcategory: Internship
 order_number: 1
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 30-40 hours/week locally<br>Assignment Dates: April 15 – August 16, 2024
 
