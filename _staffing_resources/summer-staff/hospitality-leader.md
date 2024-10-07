@@ -4,7 +4,7 @@ category: Staffing
 subcategory: Summer Staff
 order_number: 2
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 The hospitality leader leads the food and facility experience at Week of Hope. They ensure delicious and high-quality meals are served, and the facility is a welcoming environment for participants. The responsibilities of the hospitality leader include, but are not limited to, the following:
 
