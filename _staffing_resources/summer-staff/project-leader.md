@@ -26,7 +26,9 @@ The project leader leads the service project experience for all participants by 
 * Schedule service projects for up to 100 participants per week in the local community and divide participants into service crews
 * Identify and screen new service projects in the local community, if needed
 * Visit project sites daily to check in with partner organization contacts and encourage crews. This requires confidence in driving a vehicle each day to various work sites
+* Take pictures of participants at project sites daily
 * Run media for morning and evening programs
+* Oversee lunch line distribution
 * Build and maintain positive relationships with local partner organizations throughout the summer, visiting each organization weekly and communicating with frequently
 * Train, lead, and support volunteer(s) as they assist in site visits
 * Support fellow summer staff and assist in other areas of camp to deliver an unforgettable mission trip experience for all participants
