@@ -4,7 +4,7 @@ category: Staffing
 subcategory: Internship
 order_number: 2
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 30-40 hours/week locally in Fort Collins, CO<br>Assignment Dates: February 10-August 15, 2025<br>Pay Rate: $16.50/hour
 
