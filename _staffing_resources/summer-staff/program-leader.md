@@ -4,7 +4,7 @@ category: Staffing
 subcategory: Summer Staff
 order_number: 5
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 The program leader leads high-quality, interactive, and faith-building experiences through morning and evening programs. They also serve as the spiritual leader at camp and manage the camp office. The responsibilities of the program leader include, but are not limited to, the following:
 
