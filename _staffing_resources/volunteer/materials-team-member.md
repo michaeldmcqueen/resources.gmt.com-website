@@ -8,6 +8,8 @@ inputs:
 ---
 The materials team member serves and supports the materials manager by assisting with the tool room, making daily deliveries, and helping manage tools and materials. The responsibilities of the materials team member include, but are not limited to, the following:
 
+###### Job Requirements
+
 * Review all volunteer training resources provided prior to camp
 * Accompany the materials manager in the truck to assist with day-to-day tasks
 * Keep notes on delivery and pickup needs
