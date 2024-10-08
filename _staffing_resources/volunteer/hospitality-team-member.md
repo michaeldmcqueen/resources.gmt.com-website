@@ -8,6 +8,8 @@ inputs:
 ---
 The hospitality team member supports the summer staff and the camp by assisting in the kitchen, serving around the lodging facility, visiting project sites and building positive relationships with participants. The responsibilities of the hospitality team member include, but are not limited to, the following:
 
+###### Job Requirements
+
 * Review all volunteer training resources provided prior to camp
 * Assist in maintaining a clean, organized, and friendly kitchen environment
 * Assist in preparing hot breakfast and dinner
