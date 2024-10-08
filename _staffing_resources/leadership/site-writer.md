@@ -8,6 +8,8 @@ inputs:
 ---
 The site writer will partner with Group Mission Trips and the cosponsor team to write work descriptions for upcoming home repair Workcamps. The responsibilities of the site writer include, but are not limited to, the following:
 
+###### Job Requirements
+
 * Communicate clearly with all cosponsors and residents
 * Complete site visits quickly and effectively, while being respectful, responsible, and precise
 * Write accurate work descriptions, which include detailed notes of work to be completed, sketches and diagrams, accurate material lists, and other pertinent information

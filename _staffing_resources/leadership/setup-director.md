@@ -8,6 +8,8 @@ inputs:
 ---
 The setup director works closely with the local cosponsor and materials vendors to prepare the community for the arrival of Workcamp. The responsibilities of the setup director include, but are not limited to, the following:
 
+###### Job Requirements
+
 * Review the setup director training guide prior to camp and review all documents sent in the setup box
 * Connect with the Group Mission Trips project manager two weeks prior to setup to obtain updates on sites, vendors, materials orders, budgets, and any potential problems
 * Ensure smooth and complete setup of camp, arriving Sunday and leaving no earlier than the following Sunday

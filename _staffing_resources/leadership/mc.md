@@ -8,6 +8,8 @@ inputs:
 ---
 The MC leads all camp programs with excellence and enthusiasm and serves as the spiritual leader for the camp. The responsibilities of the MC include but are not limited to the following:
 
+###### Job Requirements:
+
 * Learn all program scripts prior to attending Leadership Summit
 * Attend Leadership Summit in Colorado **(required to attend annually)**
 * Invest time and prayer to prepare prior to camp
