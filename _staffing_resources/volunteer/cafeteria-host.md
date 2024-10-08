@@ -8,6 +8,8 @@ inputs:
 ---
 The cafeteria host creates a welcoming and pleasant atmosphere around camp by helping the cook staff organize meals each day. The responsibilities of the cafeteria host include but are not limited to the following:
 
+###### Job Requirements
+
 * Review all volunteer training resources provided prior to camp
 * Complete a Safe Food Handlers Certification course online prior to camp: If selected for this role, GMT will provide access to an online course, and further details will be shared.
 * Build relationships with the kitchen staff—learn their names, smile, and get to know them!
