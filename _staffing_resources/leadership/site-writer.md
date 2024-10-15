@@ -27,3 +27,5 @@ The site writer will partner with Group Mission Trips and the cosponsor team to 
 ###### Compensation
 
 This is a paid position, offering compensation for both travel to the site writing location which is determined to be at least Colorado minimum wage. Compensation during the event is paid on a per day basis at $200 per day of field work. Travel expenses are also covered in accordance with our company travel guidelines.
+
+### [Apply Now](https://argentasoftware.com/interfaces/gmt/frmLoginStaffPortal.aspx){: target="_blank" rel="nofollow noopener"}
