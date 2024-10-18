@@ -1,5 +1,5 @@
 ---
-title: Song List 2024
+title: Song List 2025
 category: Workcamps
 subcategory: Program
 order: 4
@@ -7,4 +7,4 @@ order_number: 4
 inputs:
   unpublish: true
 ---
-The updated 2024 Song List will be available early January 2024…
+The updated 2025 Song List will be available early January 2025…
