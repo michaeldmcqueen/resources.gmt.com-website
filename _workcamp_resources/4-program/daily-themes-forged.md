@@ -1,5 +1,5 @@
 ---
-title: Daily Themes (Forged)
+title: Daily Themes (Equipped)
 category: Workcamps
 subcategory: Program
 order: 2
@@ -9,4 +9,4 @@ inputs:
 ---
 ### **Theme: Forged**
 
-Daily themes for 2025 will be available January 2025. Thanks!
+Daily themes for 2025 will be available early 2025. Thanks!
