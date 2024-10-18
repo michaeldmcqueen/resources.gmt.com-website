@@ -5,7 +5,7 @@ subcategory: Post Camp Resources
 order: 3
 order_number: 3
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 ### Post-Trip Devotions
 
@@ -77,9 +77,9 @@ ALL YOU NEED IS LOVE
 
 Love, love, love<br>Love, love, love<br>Love, love, love
 
-There's nothing you can do that can't be done (love)<br>Nothing you can sing that can't be sung (love)<br>Nothing you can say, but you can learn how to play the game (love)<br>It's easy
+There’s nothing you can do that can’t be done (love)<br>Nothing you can sing that can’t be sung (love)<br>Nothing you can say, but you can learn how to play the game (love)<br>It’s easy
 
-Nothing you can make that can't be made (love)<br>No one you can save that can't be saved (love)<br>Nothing you can do, but you can learn how to be you in time (love)<br>It's easy
+Nothing you can make that can’t be made (love)<br>No one you can save that can’t be saved (love)<br>Nothing you can do, but you can learn how to be you in time (love)<br>It’s easy
 
 All you need is love<br>All you need is love<br>All you need is love, love<br>Love is all you need
 
