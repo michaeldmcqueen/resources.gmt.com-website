@@ -136,7 +136,7 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 ### When are the payment dates?
 
-After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount due:
+After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
 * March 15th, 2025: Half of what is remaining is due.
 * May 15th, 2025: The final balance is due. (All payments are non-refundable after this date.)
