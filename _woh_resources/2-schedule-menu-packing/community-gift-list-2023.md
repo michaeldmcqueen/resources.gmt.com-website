@@ -5,7 +5,7 @@ subcategory: Schedule, Menu, Packing
 order: 5
 order_number: 5
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 If you are attending Week of Hope during the weeks of *<u>June 16 - 21, June 23 - 28, or June 30 - July 3</u>* bring the following community gift items:
 
