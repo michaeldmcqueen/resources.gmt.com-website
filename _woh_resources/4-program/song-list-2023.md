@@ -1,10 +1,10 @@
 ---
-title: Song List 2024
+title: Song List 2025
 category: Community Service
 subcategory: Program
 order: 4
 order_number: 4
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 The updated 2024 Song List will be available early January 2024…
