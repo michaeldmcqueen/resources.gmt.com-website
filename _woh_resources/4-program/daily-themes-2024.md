@@ -5,7 +5,7 @@ subcategory: Program
 order: 2
 order_number: 2
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 ### ​​​**Theme: Influencer**
 
@@ -25,4 +25,4 @@ Our goal with the program this year is to help students navigate the many influe
 
 **Thursday: Tested. (Luke 23: 32 - 43)** The Bible is full of amazing stories and people. Today, we will look at several stories of people with radical faith that influenced many. But what do these people all have in common? The Bible never calls them out by name. Yet, their faith has gone on to influence others for centuries.
 
-**Friday: Approved. (Acts 16: 13-15)** Our faith was never meant to be hidden. Paul and Lydia are wonderful examples of using our faith to positively influence others in big and small ways. Sometimes our small acts of Jesus' love go further than we know.&nbsp;
+**Friday: Approved. (Acts 16: 13-15)** Our faith was never meant to be hidden. Paul and Lydia are wonderful examples of using our faith to positively influence others in big and small ways. Sometimes our small acts of Jesus’ love go further than we know.&nbsp;
