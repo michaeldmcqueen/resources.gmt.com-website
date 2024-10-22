@@ -7,12 +7,12 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-Have this short meeting to remind your group about the trip and keep the excitement up! This touch base is strategically short to give you the option to combine this meeting with a larger event like a fundraiser or the "Ready to Serve Event" (titled Pre-trip Meeting/Event). The "Ready to Serve Event" requires additional preparation, so read through it to see how it works and what you’ll need to do to prepare for it.
+Have this short meeting to remind your group about the trip and keep the excitement up! This touch base is strategically short to give you the option to combine this meeting with a larger event like a fundraiser or the “Ready to Serve Event” (titled Pre-trip Meeting/Event). The “Ready to Serve Event” requires additional preparation, so read through it to see how it works and what you’ll need to do to prepare for it.
 
 **BEFORE THE MEETING**
 
 * Have your customer account up online to help field any questions.
-* If you have decided to do the "Ready to Serve Event", be ready to let everyone know when and where.
+* If you have decided to do the “Ready to Serve Event”, be ready to let everyone know when and where.
 * Consider playing the [Youth Expectations video](https://vimeo.com/300595208){: target="_blank" rel="noopener"} to get your group re-oriented to what they’ll experience this summer.&nbsp;
 
 **WELCOME**
@@ -25,7 +25,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 **YOUR CUSTOMER ACCOUNT**
 
-* Personal “Influencer” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth!
+* Personal “Equipped” devotions will be available in the spring- they’re designed to prepare the hearts of your participants for service and growth!
 
 **UPDATES**
 
@@ -33,7 +33,7 @@ Give an update on how your group is doing financially and what upcoming fundrais
 
 **READY TO SERVE DAY?**
 
-* If you decided to do it, tell your group about the "Ready to Serve Event"- it’s a real day of service for your group to practice serving in crews and meeting a real need. Discuss ideas of who you might serve and when.
+* If you decided to do it, tell your group about the “Ready to Serve Event”- it’s a real day of service for your group to practice serving in crews and meeting a real need. Discuss ideas of who you might serve and when.
 
 **CLOSING**
 
