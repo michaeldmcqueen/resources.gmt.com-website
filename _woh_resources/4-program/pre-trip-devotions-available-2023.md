@@ -1,10 +1,10 @@
 ---
-title: Pre-trip Devotions (Available 2024)
+title: Pre-trip Devotions (Available 2025)
 category: Community Service
 subcategory: Program
 order: 3
 order_number: 3
 inputs:
-  unpublish: true
+  unpublish: false
 ---
-This Pre-Trip devotional will be available early 2024. Please check back soon…
+This Pre-Trip devotional will be available early 2025. Please check back soon…
