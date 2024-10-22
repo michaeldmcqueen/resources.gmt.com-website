@@ -87,8 +87,6 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 **Personal Items:** The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
 
-**Fun theme days:** Bring fun stuff for our theme days during camp!&nbsp;
-
 ---
 
 ### What about safety?
@@ -137,16 +135,16 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 ### When are the payment dates?
 
-After you register by paying $50 (non-refundable) per space, there are 2 payment dates for the remaining amount:&nbsp;
+After you register by paying $100 (non-refundable) per space, there are 2 payment dates for the remaining amount:&nbsp;
 
-* March 15th, 2024: Half of what is remaining is due.&nbsp;
-* May 15th, 2024: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
+* March 15th, 2025: Half of what is remaining is due.&nbsp;
+* May 15th, 2025: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2024, you’ll just lose the $50 deposit. The entire fee is forfeited for cancellations made after May 15th, 2024.&nbsp;&nbsp;
+Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2025, you’ll just lose the $100 deposit. The entire fee is forfeited for cancellations made after May 15th, 2025.&nbsp;&nbsp;
 
 ---
 
@@ -154,7 +152,7 @@ Call us! If there’s space available in your camp, we’ll ask for the necessar
 
 Cancellations have a huge impact on the people we serve- it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2024 to let us know. As long as you cancel by May 15th, you’ll only lose $50 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2025 to let us know. As long as you cancel by May 15th, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
 
 ---
 
@@ -210,7 +208,6 @@ Yes! There are many ways participants can be more involved in the camp:&nbsp;
 
 * There may be a couple skits during the programs for any participants that enjoy acting.&nbsp;
 * There will be a lip-sync battle during the week! If any participants, or your entire group, want to prepare a little something for this, the camp staff will just need to approve your song (at camp) beforehand.&nbsp;
-* Bring fun stuff for theme dinners! There will be 3 evenings where participants can have fun dressing up: Christmas Monday, Wacky Wednesday, and Tropical Thursday.&nbsp;
 
 ---
 
