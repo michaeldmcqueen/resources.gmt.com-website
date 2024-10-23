@@ -7,4 +7,6 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-![](/uploads/dietary-restrictions.png){: width="508" height="648"}
+Group Mission Trips does their best to accommodate all participants’ needs and we take dietary restrictions and allergies very seriously.
+
+![](/uploads/image.png)
