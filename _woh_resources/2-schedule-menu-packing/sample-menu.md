@@ -13,14 +13,12 @@ inputs:
 
 * Participants will have one or more of the following options:&nbsp;
   * French toast, sausage, English muffins, eggs, cheese, biscuits and gravy, or bacon
-
   * Accompaniments (each day): Cereal, yogurt, toast, peanut butter, fruit, oatmeal, milk, coffee, and juice
-
   * Please note: Friday morning will be a continental breakfast.
 
 **LUNCH**&nbsp;
 
-Lunches are picnic style and at the work sites. There will be sliced ham or turkey for sandwiches, wheat bread (Monday and Wednesday), tortillas (Tuesday and Thursday), lettuce, tomatoes, cheese, chips, a fruit or vegetable, and a treat like a granola bar, cookie, or brownie. Peanut butter and jelly sandwiches will be available each day as well.
+Lunches are picnic style and at the work sites. There will be sliced ham or turkey for sandwiches, wheat bread, lettuce, tomatoes, cheese, chips, a fruit or vegetable, and a treat like a cookie or brownie. Peanut butter and jelly sandwiches will be available each day as well.
 
 Beverages on the work site:
 
