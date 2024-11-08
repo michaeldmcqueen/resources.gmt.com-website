@@ -7,15 +7,15 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-**Imperial, PA:** *** ***
+**Imperial, PA:**
 
 **· Nonperishable food items**
 
-**Mission, SD:** *** ***
+**Mission, SD:**
 
 · Nonperishable food items
 
-**Westfield, IN:** *** ***
+**Westfield, IN:**
 
 · Nonperishable food items
 
@@ -31,7 +31,7 @@ inputs:
 
 **Ashby, MN:** ***Coming soon...***
 
-**Hagerstown, MD:** *** ***
+**Hagerstown, MD:**
 
 · Nonperishable food items
 
@@ -45,7 +45,7 @@ inputs:
 
 · Infant, baby, and toddler items
 
-**Mescalero, NM:** *** ***
+**Mescalero, NM:**
 
 · Nonperishable food items
 
@@ -63,7 +63,7 @@ inputs:
 
 · Boys and Girls Club community donations, little league items. Waiting for Emmett to provide a list
 
-**Winchester, KY:** *** ***
+**Winchester, KY:**
 
 · Nonperishable food items
 
