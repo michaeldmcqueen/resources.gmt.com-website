@@ -55,7 +55,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 **Monday, Wednesday, and Thursday**&nbsp;
 
-6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks&nbsp;<br>7:00 p.m. Evening program team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks AND Drama team Practice<br>7:00 p.m.  Worship team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
 **Tuesday:**&nbsp;
 
