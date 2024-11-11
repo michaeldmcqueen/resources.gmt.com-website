@@ -27,8 +27,8 @@ inputs:
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
-| 6:30 p.m | Worship team practice |
-| 7:00 p.m. | Program team practice |
+| 6:30 p.m | Drama team practice |
+| 7:00 p.m. | Worship team practice |
 | 8:00 p.m | Evening Program<br>Youth group devotions |
 | 10:30 p.m | Bedtime stories (optional) |
 | 11 p.m | Lights-out |
@@ -57,8 +57,8 @@ inputs:
 | 5 p.m | Dinner crew begins |
 | 5:30 p.m | Dinner gathering |
 | 6:30 p.m | Hospitality tasks |
-| 6:30 p.m | Worship team practice |
-| 7:00 p.m. | Program team practice |
+| 6:30 p.m | Drama team practice |
+| 7:00 p.m. | Worship team practice |
 | 8:00 p.m | Evening Program<br>Youth group devotions |
 | 9:30 p.m | Lip-Sync battle |
 | 11 p.m | Lights-out |
