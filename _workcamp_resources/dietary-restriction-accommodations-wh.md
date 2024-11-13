@@ -5,7 +5,7 @@ subcategory: Schedule, Menu, Packing
 order: 3
 order_number: 3
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 Group Mission Trips does their best to accommodate all participants’ needs and we take dietary restrictions and allergies very seriously.
 
