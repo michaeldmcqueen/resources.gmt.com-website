@@ -9,7 +9,7 @@ inputs:
 ---
 **Imperial, PA:**
 
-**· Nonperishable food items**
+· Nonperishable food items
 
 **Mission, SD:**
 
