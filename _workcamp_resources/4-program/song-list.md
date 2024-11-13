@@ -5,6 +5,6 @@ subcategory: Program
 order: 4
 order_number: 4
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 The updated 2025 Song List will be available early January 2025…
