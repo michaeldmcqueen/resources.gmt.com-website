@@ -9,4 +9,4 @@ inputs:
 ---
 ### ​​​**Theme: Equipped**
 
-Daily themes will be available early January 2025!
+Daily themes will be available early 2025!
