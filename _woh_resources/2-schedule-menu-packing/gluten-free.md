@@ -50,19 +50,12 @@ Peanut butter and jelly available each night&nbsp;
 **TO HELP OUR GLUTEN FREE PARTICIPANTS, WE CAN PROVIDE THE FOLLOWING:**&nbsp;
 
 * 1 loaf gluten free bread&nbsp;
-
 * 1 package gluten free English Muffins&nbsp;
-
 * 1 Gluten free pizza
-
 * 1 box of gluten free pasta&nbsp;
-
 * 1 jar of gluten free pasta sauce&nbsp;
-
-* 1&nbsp; bos Gluten free mac n cheese
-
+* 1&nbsp; box Gluten free mac n cheese
 * 1 box of Cheerios&nbsp;
-
 * Frito’s Original Corn Chips and/or Mission Corn Chips&nbsp;
 
 **OTHER ITEMS WE RECOMMEND YOU BRING:**&nbsp;
