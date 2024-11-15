@@ -103,6 +103,8 @@ inputs:
 
 · Household cleaning supplies
 
-**Pewaukee, WI:** ***Coming soon...***
+**Pewaukee, WI:**
+
+· Nonperishable food items
 
 **Scranton, PA:** ***Coming soon...***
