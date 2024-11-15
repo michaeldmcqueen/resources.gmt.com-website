@@ -1,13 +1,12 @@
 ---
-title: Tool List
+title: Tool List (Workcamp ONLY)
 category: Workcamps
-subcategory: 'Schedule, Menu, Packing'
+subcategory: Schedule, Menu, Packing
 order: 5
 order_number: 5
 inputs:
   unpublish: false
 ---
-
 **EACH YOUTH SHOULD BRING:**&nbsp;
 
 * Safety goggles&nbsp;
@@ -16,14 +15,14 @@ inputs:
 * A tool pouch, bag, or bucket&nbsp;
 * Hammer (12 oz. or larger)
 * Tape measure (16’ or 25’)&nbsp;
-* Carpenter's pencil
+* Carpenter’s pencil
 * Paintbrushes: a variety of sizes&nbsp;
 * Paint roller handle&nbsp;
 * Paint roller cover(s) (3 per person)&nbsp;
 * Paint tray with liners&nbsp;
 * Paint scraper and/or wire brush&nbsp;
 
-&nbsp;**EACH ADULT SHOULD BRING:&nbsp;**
+&nbsp;**EACH ADULT SHOULD BRING:**&nbsp;
 
 * Safety goggles&nbsp;
 * Work gloves&nbsp;
@@ -48,7 +47,7 @@ inputs:
 * Lumber clamp/vise&nbsp;
 * Carpenter pencil&nbsp;
 
-**AS A GROUP PLEASE BRING:&nbsp;**
+**AS A GROUP PLEASE BRING:**&nbsp;
 
 * One 5-gallon water jug (1 per 6 people)&nbsp;
 * Family-size cooler on wheels (1 per 6)&nbsp;
@@ -59,9 +58,9 @@ inputs:
 * Small old containers for paint&nbsp;
 * Paint bucket hook (1 per 6 people)&nbsp;
 * 16-ft or longer extension ladder (1 per 6)&nbsp;
-  * *Extras are appreciated\!&nbsp;*
+  * *Extras are appreciated!*&nbsp;
 * 8-ft stepladder (1 per 6 people)&nbsp;
-  * *Extras are appreciated\!&nbsp;*
+  * *Extras are appreciated!*&nbsp;
 * Posthole digger (2 per group)\*&nbsp;
 * Heavy duty digging bar
 * Jigsaw and sharp blades (1 per group)\*&nbsp;
@@ -72,13 +71,10 @@ inputs:
 
 &nbsp;\*If your group is larger than 50 participants, please double these items.&nbsp;
 
-> The only tools at camp are those that YOU bring\! There’s a chance you may not use all the tools you bring, but it’s better to have a tool you don’t need than to need a tool you don’t have\!&nbsp;
->
+> The only tools at camp are those that YOU bring! There’s a chance you may not use all the tools you bring, but it’s better to have a tool you don’t need than to need a tool you don’t have!&nbsp;
 >
 > Tools are often shared so be sure to label all tools with your name and church.&nbsp;
 >
->
-> Flying to camp? You’re still going to need tools\! Plan to either ship ahead or purchase upon arrival. You can donate your tools to your resident or ship them back.&nbsp;
->
+> Flying to camp? You’re still going to need tools! Plan to either ship ahead or purchase upon arrival. You can donate your tools to your resident or ship them back.&nbsp;
 >
 > We don’t expect you to buy tools brand new–try to borrow or buy them used. If you do purchase tools, keep receipts in case something doesn’t get used.&nbsp;
