@@ -9,25 +9,25 @@ inputs:
 ---
 > THANK YOU for accepting the responsibility of providing teenagers a life-changing week to grow closer to God. We appreciate you taking your time to serve others. Now get ready for an unforgettable and transforming experience!
 
-\*\*OUR STATEMENT OF FAITH: \*\*
+**\*\*OUR STATEMENT OF FAITH: \*\***
 
 We believe the Bible is the inspired, authoritative Word of God. We believe there is one God, eternally existent in three persons: Father, Son, and Holy Spirit. We believe in the deity of Jesus Christ, in his virgin birth, in his sinless life, in his death on the cross, in his bodily resurrection, in his ascension to the right hand of the Father, and in his personal return. We believe people receive forgiveness of sins and eternal life through Jesus.
 
-\*\*OUR HISTORY: \*\*
+**\*\*OUR HISTORY: \*\***
 
 With humble beginnings going back to the early 1990s, Group Mission Trips has been working with and helping communities across the United States and the world. As the non-profit mission ministry of Group Cares, we work hard to bring meaningful service to the communities we serve. Since our beginning, thousands upon thousands of mission trip participants have racked up millions of volunteer hours serving people in need.
 
 All these years later, one constant remains true: We strongly believe in providing opportunities for teenagers to encounter Jesus through serving others either in their own backyard or halfway across the globe. The Group Mission Trips legacy of lasting impact continues…
 
-\*\*OUR OFFICE: \*\*
+**\*\*OUR OFFICE: \*\***
 
 Group Mission Trips is located in beautiful Fort Collins, CO.
 
-\*\*OUR MISSION: \*\*
+**\*\*OUR MISSION: \*\***
 
 To serve others through home repair and community service experiences that transform communities and help participants, residents, and partners grow closer to Jesus.
 
-\*\*OUR PRIORITIES: \*\*
+**\*\*OUR PRIORITIES: \*\***
 
 Connecting people with Jesus is the number-one goal of Group Mission Trips, and we also focus on the following priorities:
 
@@ -35,7 +35,7 @@ Connecting people with Jesus is the number-one goal of Group Mission Trips, and 
 * Faith-building activities
 * Meaningful projects
 
-\*\*FAQs: \*\*
+**\*\*FAQs: \*\***
 
 Why Group Mission Trips?
 
@@ -61,8 +61,8 @@ Where will I live?
 
 * Generally at a local school. Participants sleep on the floor using either a twin-sized air mattress, cot, or whatever YOU bring
 * With up to 400 like-minded mission focused youth leaders and youth from all around the country
-* Don't expect:
-  * Air conditioning- many facilities simply don't have it
+* Don’t expect:
+  * Air conditioning- many facilities simply don’t have it
   * Endless hot water. Local facilities do their best but we have a lot of participants! When showers are not available inside the facility, participants may be showering at nearby facilities and/or refreshingly cool showers
 
     tents could be constructed outside
@@ -125,7 +125,7 @@ Your youth leader will have access to the daily schedule, but here are a few hig
 
     &nbsp;
 
-\*\*OTHER IMPORTANT INFORMATION:\*\*
+**\*\*OTHER IMPORTANT INFORMATION:\*\***
 
 Requirements for adults:
 
@@ -140,7 +140,7 @@ Requirements for adults:
 
 Phones and internet:
 
-* If you bring your cell, we ask that it not be used during programs (unless it's part of the program experience) or while working at your work site
+* If you bring your cell, we ask that it not be used during programs (unless it’s part of the program experience) or while working at your work site
 * Don’t count on wireless internet service being available
 * There may or may not be cell phone service at your location
 * The mission trip office will have a phone for office use and emergencies only
