@@ -63,10 +63,7 @@ Where will I live?
 * With up to 400 like-minded mission focused youth leaders and youth from all around the country
 * Don’t expect:
   * Air conditioning- many facilities simply don’t have it
-  * Endless hot water. Local facilities do their best but we have a lot of participants! When showers are not available inside the facility, participants may be showering at nearby facilities and/or refreshingly cool showers
-
-    tents could be constructed outside
-
+  * Endless hot water. Local facilities do their best but we have a lot of participants! When showers are not available inside the facility, participants may be showering at nearby facilities and/or refreshingly cool shower tents could be constructed outside
   * Lots of privacy. Remember, this is communal living
 
 What should I bring?
