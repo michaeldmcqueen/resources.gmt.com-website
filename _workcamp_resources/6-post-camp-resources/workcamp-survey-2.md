@@ -1,5 +1,5 @@
 ---
-title: Workcamp Survey PreSeason
+title: Workcamp Survey (PreSeason)
 category: Workcamps
 subcategory: Post Camp Resources
 order: '4'
