@@ -2,8 +2,8 @@
 title: Tips from a Pro!
 category: Workcamps
 subcategory: Helpful Resources
-order: 6
-order_number: 6
+order: 5
+order_number: 5
 inputs:
   unpublish: false
 ---
@@ -73,8 +73,7 @@ A few that worked well for some groups in the past:
 4. Make a T-Shirt for your group and make it a good one! – Don’t make it Red (red is the staff color)
    1. Everyone in your group could be wearing this shirt when they arrive at camp on Sunday if you choose to do this!
 5. Make a Student/Parent Information Packet (it should include)
-
-1. 1. Travel Plans
+6. 1. Travel Plans
    2. Hotel / Church Locations (where you are sleeping)
    3. Contact information for you and all your leaders
    4. Expectations of conduct for students and send home policies if applicable
