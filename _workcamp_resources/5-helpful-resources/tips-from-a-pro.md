@@ -2,8 +2,8 @@
 title: Tips from a Pro!
 category: Workcamps
 subcategory: Helpful Resources
-order: 5
-order_number: 5
+order: 3
+order_number: 3
 inputs:
   unpublish: false
 ---
