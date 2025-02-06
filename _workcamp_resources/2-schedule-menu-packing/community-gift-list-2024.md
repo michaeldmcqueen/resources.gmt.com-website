@@ -63,19 +63,35 @@ inputs:
 
 · Boys and Girls Club community donations, little league items. Waiting for Emmett to provide a list
 
-**Winchester, KY:**
+**Elizabeth City, NC:**
 
 · Nonperishable food items
 
-**Elizabeth City, NC:** ***Coming soon...***
+· Blankets (all sizes/genders/ages)
+
+· Soap, shampoo and conditioner
+
+· NEW socks (all sizes/genders/ages)
+
+· Twin-sized bed sheets
+
+· Towels (bath, hand, or washcloth sized)
+
+· Dental care items (floss, toothbrushes, toothpaste, etc.)
+
+· Feminine hygiene products
+
+· Winter wear (hats, mittens, gloves, wool socks, etc.)
 
 **East Bank, WV:**
 
 · Nonperishable food items
 
-**Woonsocket, RI:** ***Coming soon...***
+**Red Lake, MN:**
 
-**Red Lake, MN:** ***Coming soon...***
+· Nonperishable food items
+
+· Infant and baby items
 
 **Bloomington, IL:**
 
@@ -107,4 +123,8 @@ inputs:
 
 · Nonperishable food items
 
-**Scranton, PA:** ***Coming soon...***
+**Scranton, PA:**
+
+· Nonperishable food items
+
+Toiletry items (soaps, deodorants, shampoo & conditioner, etc.)
