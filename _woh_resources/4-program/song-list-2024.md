@@ -7,30 +7,30 @@ order_number: 4
 inputs:
   unpublish: true
 ---
-* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in bold are new to 2024.
-* Listen to all of these songs now! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one!
-
-Songs in **bold** are new to 2024.
+* Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in **bold** are new to 2025.
+* Listen to all of these songs now! Click here [Group Mission Trips Song List](https://open.spotify.com/playlist/4gqWixdOxrcVri8n3Rk11F?si=-HBkjvh9Sbqb45pWD4s4FA){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one!
 
 #### **FAST**
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **My Testimony** | **Elevation Worship** |
-| **Praise** | **Elevation Worship** |
+| **The Joy** | **The Belonging Co.** |
+| **The Plans** | **We The Kingdom** |
+| **House of The Lord** | **Phil Wickham** |
+| My Testimony | Elevation Worship |
+| Praise | Elevation Worship |
 | I Thank God | Maverick City |
 | Graves into Gardens | Elevation Worship |
 | Glorious Day | Passion |
-| Open The Gates | Vertical Worship |
-| You Are Holy (Prince of Peace)&nbsp; | Michael W. Smith |
 | This is Amazing Grace | Phil Wickham |
-| Your Love Awakens Me | Phil Wickham |
 | My Lighthouse | Rend Collective |
 
 #### <br>MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **I Speak Jesus** | **Charity Gayle** |
-| There was Another in the Fire | Hillsong UNITED |
+| **You've Already Won** | **Shane & Shane** |
+| **Bless God** | **Brokke Ligertwood** |
+| I Speak Jesus | Charity Gayle |
+| Another in the Fire | Hillsong UNITED |
 | Firm Foundation | Maverick City |
 | Battle Belongs | Phil Wickham |
 | Stand in Your Love | Bethel Music |
@@ -46,17 +46,16 @@ Songs in **bold** are new to 2024.
 #### <br>SLOW
 
 | **TITLE** | **POPULAR ARTIST** |
-| **Give Me Jesus** | **UPPERROOM** |
-| Lamb | Elevation Worship |
-| All Hail King Jesus | Jeremy Riddle |
-| Oh Praise the Name (Anastasis) | Hillsong Worship |
+| **Gratitude** | **Brandon Lake** |
+| **The Secret Place** | **Phil Wickham** |
+| Give Me Jesus | Upperroom |
 | Make Room | Kim Walker-Smith |
 | Goodness of God | Bethel Music |
 | O Come to the Altar | Elevation Worship |
 | What a Beautiful Name | Hillsong Worship |
 | Great Are You Lord | All Sons and Daughters |
 | Amazing Grace (My Chains Are Gone) | Chris Tomlin |
-| Good Good Father | Chris Tomlin |
+| Good, Good Father | Chris Tomlin |
 | Reckless Love | Cory Asbury |
 | Cornerstone | Hillsong Worship |
 | Build My Live | Housefires |
