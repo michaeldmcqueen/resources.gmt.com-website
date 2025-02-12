@@ -27,7 +27,7 @@ inputs:
 #### <br>MEDIUM
 
 | &nbsp;**TITLE** | **POPULAR ARTIST** |
-| **You've Already Won** | **Shane & Shane** |
+| **You’ve Already Won** | **Shane & Shane** |
 | **Bless God** | **Brokke Ligertwood** |
 | I Speak Jesus | Charity Gayle |
 | Another in the Fire | Hillsong UNITED |
