@@ -7,7 +7,7 @@ order_number: 3
 inputs:
   unpublish: true
 ---
-**<u>Devotion #1</u>**
+### Pre-Trip Devotion \#1
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
@@ -47,7 +47,7 @@ This summer, we will explore the tools that equip us to walk closer with Jesus. 
 
 **Pray:** God of Peace, thank you for your faithful guidance and for equipping us with everything we need. Work in us what is pleasing to you, shaping our hearts and lives according to your purpose. May we walk in obedience and trust, knowing that it is your power within us that enables us to serve you. Amen.
 
-**<u>Devotion #2</u>**
+### Pre-Trip Devotion \#2
 
 **Game: Cup Relay**
 
