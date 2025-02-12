@@ -5,6 +5,6 @@ subcategory: Program
 order: 3
 order_number: 3
 inputs:
-  unpublish: false
+  unpublish: true
 ---
-This Pre-Trip devotional will be available early 2025. Please check back soon…
+*(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
