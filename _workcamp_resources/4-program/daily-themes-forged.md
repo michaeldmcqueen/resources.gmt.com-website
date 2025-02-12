@@ -9,7 +9,7 @@ inputs:
 ---
 ### **Theme: Equipped**
 
-We will use the acronym EQUIP. This will be an acronym your students can take home with them to quickly remember what's in their toolbox whenever they are faced with a challenge.
+We will use the acronym EQUIP. This will be an acronym your students can take home with them to quickly remember what’s in their toolbox whenever they are faced with a challenge.
 
 **E – Evaluate**
 
@@ -20,8 +20,6 @@ We will use the acronym EQUIP. This will be an acronym your students can take ho
 **I – Improve**
 
 **P – Proclaim**
-
-&nbsp;
 
 We will explore EQUIP through the eyes of Saul who becomes Paul. We will look at his transformation. The decisions he had to make. And how Jesus pursued Saul.
 
@@ -61,25 +59,15 @@ We do not always understand God’s plan for us. Sometimes what we are asked to 
 
 *<sup>10</sup> In Damascus there was a disciple named Ananias. The Lord called to him in a vision, “Ananias!”*
 
-&nbsp;
+&nbsp;*“Yes, Lord,” he answered.*
 
-*“Yes, Lord,” he answered.*
+&nbsp;*<sup>11</sup> The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. <sup>12</sup> In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”*
 
-&nbsp;
+&nbsp;*<sup>13</sup> “Lord,”* [*Ananias*]() *answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. <sup>14</sup> And he has come here with authority from the chief priests to arrest all who call on your name.”*
 
-*<sup>11</sup> The Lord told him, “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying. <sup>12</sup> In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”*
+&nbsp;*<sup>15</sup> But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. <sup>16</sup> I will show him how much he must suffer for my name.”*
 
-&nbsp;
-
-*<sup>13</sup> “Lord,”* [*Ananias*]() *answered, “I have heard many reports about this man and all the harm he has done to your holy people in Jerusalem. <sup>14</sup> And he has come here with authority from the chief priests to arrest all who call on your name.”*
-
-&nbsp;
-
-*<sup>15</sup> But the Lord said to Ananias, “Go! This man is my chosen instrument to proclaim my name to the Gentiles and their kings and to the people of Israel. <sup>16</sup> I will show him how much he must suffer for my name.”*
-
-&nbsp;
-
-*<sup>17</sup> Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.*
+&nbsp;*<sup>17</sup> Then Ananias went to the house and entered it. Placing his hands on Saul, he said, “Brother Saul, the Lord—Jesus, who appeared to you on the road as you were coming here—has sent me so that you may see again and be filled with the Holy Spirit.*
 
 **I – Improve**
 
