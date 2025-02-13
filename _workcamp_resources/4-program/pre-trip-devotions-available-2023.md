@@ -11,9 +11,7 @@ inputs:
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
-**Ice Breaker** **Question**: If you were going on a big trip and could only take 3 items, would what they be and why?
-
-&nbsp;**Ask and Discuss:**
+**Ask and Discuss:**
 
 \- Were there any items that everyone agreed would be important?
 
@@ -25,7 +23,7 @@ inputs:
 
 When thinking through what you would bring on a trip, there were probably some different approaches to how you answered this question. Some items you *need* and others you simply *want.* Either way, the things you pack help prepare you for the experience ahead.
 
-The word **“tool”** is often associated with hammers, screwdrivers, or other construction equipment, but tools are everywhere and help us in things far beyond just building. A fork is a tool for eating, a pencil is a tool for writing, and even a kind word can be a tool for encouragement. Some tools are physical objects, but others can help us develop us qualities like patience, wisdom, or faith.
+The word **"tool"** is often associated with hammers, screwdrivers, or other construction equipment, but tools are everywhere and help us in things far beyond just building. A fork is a tool for eating, a pencil is a tool for writing, and even a kind word can be a tool for encouragement. Some tools are physical objects, but others can help us develop qualities like patience, wisdom, or faith.
 
 This summer, we will explore the tools that equip us to walk closer with Jesus. These tools will help us reflect his love, navigate life’s challenges, and grow in our faith. Just like a carpenter needs the right tools to build, we need spiritual tools to strengthen our relationship with Christ and serve others well.
 
@@ -43,7 +41,7 @@ This summer, we will explore the tools that equip us to walk closer with Jesus. 
 
 \- What tools do you want to develop to grow closer to Jesus?
 
-&nbsp;**Closing thought:** God desires to equip us, not just for a mission trips this summer, but for life’s big and small moments. Not only does he call us to his will but gives us the strength and the means to fulfill it. He provides us with his Word, his Spirit, and a community of believers to help us along the way. Our ability to live for God comes not from our own efforts, but his power working within us through Christ.
+**Closing thought:** God desires to equip us, not just for a mission trip this summer, but for life’s big and small moments. Not only does he call us to his will but gives us the strength and the means to fulfill it. He provides us with his Word, his Spirit, and a community of believers to help us along the way. Our ability to live for God comes not from our own efforts, but his power working within us through Christ.
 
 **Pray:** God of Peace, thank you for your faithful guidance and for equipping us with everything we need. Work in us what is pleasing to you, shaping our hearts and lives according to your purpose. May we walk in obedience and trust, knowing that it is your power within us that enables us to serve you. Amen.
 
