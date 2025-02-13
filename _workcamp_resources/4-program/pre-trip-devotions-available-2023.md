@@ -11,6 +11,8 @@ inputs:
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
+**Ice Breaker** **Question**: If you were going on a big trip and could only take 3 items, would what they be and why?
+
 **Ask and Discuss:**
 
 \- Were there any items that everyone agreed would be important?
@@ -23,7 +25,7 @@ inputs:
 
 When thinking through what you would bring on a trip, there were probably some different approaches to how you answered this question. Some items you *need* and others you simply *want.* Either way, the things you pack help prepare you for the experience ahead.
 
-The word **"tool"** is often associated with hammers, screwdrivers, or other construction equipment, but tools are everywhere and help us in things far beyond just building. A fork is a tool for eating, a pencil is a tool for writing, and even a kind word can be a tool for encouragement. Some tools are physical objects, but others can help us develop qualities like patience, wisdom, or faith.
+The word **“tool”** is often associated with hammers, screwdrivers, or other construction equipment, but tools are everywhere and help us in things far beyond just building. A fork is a tool for eating, a pencil is a tool for writing, and even a kind word can be a tool for encouragement. Some tools are physical objects, but others can help us develop qualities like patience, wisdom, or faith.
 
 This summer, we will explore the tools that equip us to walk closer with Jesus. These tools will help us reflect his love, navigate life’s challenges, and grow in our faith. Just like a carpenter needs the right tools to build, we need spiritual tools to strengthen our relationship with Christ and serve others well.
 
