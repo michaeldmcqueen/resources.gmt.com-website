@@ -1,5 +1,5 @@
 ---
-title: Pre-trip Devotions
+title: Pre-trip Devotions 2023
 category: Workcamps
 subcategory: Program
 order: 3
