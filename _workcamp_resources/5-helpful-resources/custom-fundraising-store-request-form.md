@@ -2,8 +2,8 @@
 title: Custom Fundraising Store Request Form
 category: Workcamps
 subcategory: Helpful Resources
-order: 2
-order_number: -311
+order: 3
+order_number: 3
 inputs:
   unpublish: false
 ---
