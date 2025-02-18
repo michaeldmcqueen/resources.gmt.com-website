@@ -17,7 +17,7 @@ We’re excited to partner with our t-shirt vendor and create a personalized onl
 
 Here’s how it works:
 
-* Click the “SUBMIT REQUEST FORM &gt;” link and fill out some information about your group/church and we’ll start working on personalizing and setting up your store.
+* Click the “[SUBMIT REQUEST FORM &gt;](https://form.jotform.com/topshelfprinters2010/form "Custom Online Fundraising Store Request Form"){: target="_blank" rel="noreferrer nofollow noopener"}” link and fill out some information about your group/church and we’ll start working on personalizing and setting up your store.
 * Once your store is set up, you will receive an email containing a link to your fundraising store and login information to access the platform and start fundraising!
 * All purchases, payments, and shipping are taken care of, so you don’t need to do anything if you don’t want to; easy peasy. A default markup will be added per item, ensuring every sale contributes directly to your group.
 * Because you will have full access to manage the online platform, you can also update prices, change colors, or request custom designs!
