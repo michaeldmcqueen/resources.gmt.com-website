@@ -10,6 +10,8 @@ inputs:
 
 We’re excited to partner with our t-shirt vendor and create a personalized online store for your group with some default clothing items, accessories, and designs. You can then promote this store to your friends, family, and church for some cool purchasable merch they can wear to support your group. Everything is taken care of, and once we get your store up and running, you can start fundraising immediately.
 
+[**VIEW EXAMPLE ONLINE STORE&gt;**](https://fundraising-store-sample.checkoutstores.com/){: target="_blank" rel="noreferrer nofollow noopener"}
+
 [**SUBMIT REQUEST FORM &gt;**](https://form.jotform.com/topshelfprinters2010/form){: target="_blank" rel="noreferrer nofollow noopener"}
 
 Here’s how it works:
