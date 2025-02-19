@@ -7,7 +7,7 @@ order_number: 2
 inputs:
   unpublish: false
 ---
-[![Custom Online Fundraising Store](/uploads/resources-fundraisingheader-min-1.jpg "Image of store products"){: width="657" height="335"}](https://form.jotform.com/topshelfprinters2010/form "Image of store products"){: target="_blank" rel="noreferrer nofollow noopener"}
+[![Custom Online Fundraising Store](/uploads/resources-store-min.jpg "Image of store products"){: width="800" height="383"}](https://form.jotform.com/topshelfprinters2010/form "Image of store products"){: target="_blank" rel="noreferrer nofollow noopener"}
 
 We’re excited to partner with our t-shirt vendor and create a personalized online store for your group with some default clothing items, accessories, and designs. You can then promote this store to your friends, family, and church for some cool purchasable merch they can wear to support your group. Everything is taken care of, and once we get your store up and running, you can start fundraising immediately.
 
