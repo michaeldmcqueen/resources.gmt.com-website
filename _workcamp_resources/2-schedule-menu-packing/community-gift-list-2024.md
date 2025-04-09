@@ -29,7 +29,43 @@ inputs:
 
 · Formula (all sensitivities and brands)
 
-**Ashby, MN:** ***Coming soon...***
+**Ashby, MN:** ***backpacks and school supplies for K-12***
+
+· Backpacks (grades K-12)
+
+· Tissues (full boxes)
+
+· 1-gallon Ziplock bags
+
+· Noise cancelling earmuffs
+
+· Spiral notebooks (lined paper)
+
+· Graphing notebooks (grid paper)
+
+· 1-pocket folders
+
+· Dry-erase markers
+
+· 1 ½” 3-ring binders
+
+· Looseleaf paper
+
+· Pens (black, red, blue)
+
+· Pencils
+
+· Handheld pencil sharpener
+
+· Colored pencils
+
+· Black permanent markers
+
+· Glue sticks
+
+· Erasers
+
+· Highlighters
 
 **Hagerstown, MD:**
 
@@ -92,32 +128,6 @@ inputs:
 · Nonperishable food items
 
 · Infant and baby items
-
-**Bloomington, IL:**
-
-· Deodorant
-
-· Toothpaste/toothbrushes
-
-· Body wipes
-
-· Hand warmers
-
-· Blankets
-
-· Sleeping bags
-
-· Large garbage bags
-
-· Tissues
-
-· Body wash
-
-· Toilet paper
-
-· Paper towels
-
-· Household cleaning supplies
 
 **Pewaukee, WI:**
 
