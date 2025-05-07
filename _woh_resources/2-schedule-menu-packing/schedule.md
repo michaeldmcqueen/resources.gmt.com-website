@@ -61,7 +61,7 @@ inputs:
 | 7:00 p.m. | Worship team practice |
 | 8:00 p.m | Evening Program<br>Youth group devotions |
 | 9:30 p.m | Lip-Sync battle |
-| 11 p.m | Lights-out |
+| 12 a.m | Lights-out |
 
 **FRIDAY**&nbsp;
 
