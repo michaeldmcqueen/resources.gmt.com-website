@@ -11,280 +11,93 @@ inputs:
 
 ###### **DEVO 1**
 
-**SUPPLIES NEEDED:**
+**Icebreaker: Camp superlatives**
 
-o Chairs set up in a circle
+Welcome back! We’ve just come back from an amazing time at camp, where we learned how God equips us to face life’s big moments. To start off today, we are going to play Camp Superlatives.
 
-o SONG: “All You Need is Love” by the Beatles – ready to play on your phone, plus lyrics printed or to project
+Go around the circle and vote on who is the most likely to fit each of these superlatives the best (feel free to add any that would be unique to your group!):
 
-o New flavor of Pop Tarts, or Oreos, or M & M’s for snack
+* Most Care Cards Written
+* First One to be awake in the morning
+* Last One to be awake in the morning
+* Always helping someone else
+* Most likely to lose their mission handbook
+* Most likely to pray for a stranger
+* Most likely to win 9 square
+* Most coffee consumed
+* Always had the snacks
 
-**GAME/ICE BREAKER** CHANGE YOUR SEAT IF…
+&nbsp;
 
-**SAY**:
+That was a fun way to look back at some of the memorable moments from camp! Each of those superlatives reminds us of the unique ways we experienced camp and how we each played a part in making it meaningful. But camp wasn’t just about the fun moments, it was about serving others and growing closer to Jesus.
 
-Everybody needs to take a seat in the circle. Remove one chair and set it to the side (if you have 12 people in your group, the circle should have 11 chairs).
+As we step back into our daily routines, we don’t want to just leave camp behind as a fun memory. Instead, we want to take the lessons and tools we received and apply them to our lives.
 
-One volunteer will begin standing in the middle of the circle.
+Let’s review our themes scripture from camp:
 
-Who wants to be the first to stand in the middle? (wait for volunteer)
+&nbsp;
 
-This game is simple, and fun…and active. So be gentle with each other.
+**Scripture: 2 Corinthians 9:8** “And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.”
 
-The person in the middle will say a statement that begins, “Change your seat if…” and then complete the statement with something that may or may not be true for people in the circle. For example, “Change your seat if…you have at least one sibling” or “Change your seat if … you are wearing socks.”
+As we go about our lives or step into new opportunities, this scripture reminds us that God’s provision is perfectly timed and perfectly measured for what He calls us to do. The tools we learned at camp are not just for our *survival,* but so that we may *abound* in every good work.
 
-After the statement, you MUST get up and find a new seat if the statement is true for you. You cannot get up and return to your same seat. You MUST change to a new chair.
+&nbsp;
 
-The person in the middle will also try to get a seat as the big shuffle happens. After each round, one person will be without a seat, and they become the middle person who makes the next statement.
+**Scripture: Matthew 7: 24-25** “Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.”
 
-Play however long you want…there’s no real winner in the game. It’s just super fun.
+**Ask and discuss:**
 
-Ready to play? (after the game is over, bring the extra chair back in so that everyone can have the discussion in the circle together)
+* What does this passage tell us about God?
+* What does this scripture tell us about ourselves?
+* Which tool or tools do you find yourself using the most since camp has ended?
+* What are some things that might distract you from staying equipped? How can we keep a firm foundation in Jesus through the distractions?
 
-**TALK ABOUT THE GAME**:
+  &nbsp;
 
-**ASK**: What was your strategy during the game? Was it fun to be the person in the middle? Explain.
+**Closing thought:** Just like in sports or music, where practice prepares us for big moments, our time at camp was preparing us for how we can live out our faith every day. The steps we learned at camp, E.Q.U.I.P., are not just for a one-time experience, they are tools to help us grow and live out our faith every day.
 
-**SAY**: That game was all about making changes. In fact, the game is only fun when it is time to change.
-
-That’s what we’re going to talk about in this devotion time today: change. You probably changed in more than one way at workcamp. Maybe you got stronger physically. Or maybe you experienced something new and your world feels bigger than it did before. Maybe you learned new skills. There are so many ways we can change on a mission trip.
-
-**REFLECT**:
-
-**ASK:** Let’s go around the circle and each share one way we changed during our workcamp trip.
-
-**SCRIPTURE**:
-
-**SAY**: Let’s look at some Scripture. First, let’s look back at the theme verse from Workcamp 2024 –
-
-**<sup>2</sup>** Do not conform to the pattern of this world but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—God’s good, pleasing and perfect will. Romans 2:12
-
-**SAY**: We all get stuck in the ways we think and behave. We have our routines and without realizing it, those routines can limit us. That’s one of the great things about going to Workcamp. You spend a week in a new place with new people. Your days are filled with non-routine. That change of scenery can be enough to shake you out of your old ways. As the Scripture says, you can be “transformed by the renewing of your mind.”
-
-**ASK**: How was your mind renewed during our mission trip experience? It could have been at camp…or on the road trip. It could have been during an evening program, or at a gas station stop along the road. It could have been during a conversation, or during a prayer. It could have been a brand-new idea, or a new look at an old one. (Take time to share)
-
-**SAY**: Let’s take a new look at something you’ve probably heard before.
-
-1 John 4:8 says this:
-
-Whoever does not love does not know God, because God is love.
-
-God *is* love. Knowing God means knowing love … and knowing love is knowing God.
-
-Let’s think about that for a minute. We’re going to listen to the song “All You Need is Love” by the Beatles (hand out lyrics or project them if possible)
-
-ALL YOU NEED IS LOVE
-
-Love, love, love<br>Love, love, love<br>Love, love, love
-
-There’s nothing you can do that can’t be done (love)<br>Nothing you can sing that can’t be sung (love)<br>Nothing you can say, but you can learn how to play the game (love)<br>It’s easy
-
-Nothing you can make that can’t be made (love)<br>No one you can save that can’t be saved (love)<br>Nothing you can do, but you can learn how to be you in time (love)<br>It’s easy
-
-All you need is love<br>All you need is love<br>All you need is love, love<br>Love is all you need
-
-Now change it up – this time we will listen (and maybe sing along?) and substitute the word “God” for the word “love.” Maybe you will see the song in a whole new way. You may even see God in a new way.
-
-**FOOD FOR THOUGHT:**
-
-**SAY**: Change can be good…or not, right? Some snack foods keep coming up with new variations. Oreos keep reinventing themselves – mint, lemon, red velvet, peanut butter pie, golden, strawberry frosted donut, Lady Gaga flavor(?). It’s crazy! Have you shopped for Pop Tarts lately? Apple Jacks flavor, strawberry milkshake, s’mores, snickerdoodle, pumpkin pie.
-
-We’re going to embrace change today – even with our snack.
-
-So, I brought \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. As you explore this new taste sensation, I want to encourage you to think about a few things this week:
-
-· How much are you stuck in your ways of thinking and behaving?
-
-· Do you think that change is generally a good thing? Explain.
-
-· What is one new experience you could try this week?
-
-**PRAY:**
-
-**SAY**: Let’s close in prayer.
-
-Loving of renewal and change, thank you for giving us opportunities to learn and grow. Help us to break free of routines that prevent us from seeing all of the greatness of your creation. Give us hearts that love bigger as we know more about your people. Amen
+**Pray:** Dear God, Thank You for Your endless love. Help us step forward in faith, knowing that Your grace will always be enough. We come before you with open hearts to do Your will, seeking Your guidance, strength, and peace. Remind us that you have equipped us and teach us how to continually follow you better. Help us prioritize you and make you the center of our lives. Amen
 
 &nbsp;
 
 **DEVO 2**
 
-**SUPPLIES NEEDED:**
+**Ice Breaker: Story Builders**
 
-o Whiteboard and markers for Pictionary and prepared clues
+How to play:
 
-o Snack – Goldfish, the snack that smiles back
+* 1. Gather your group in a circle and pick someone to start.
+  2. Person 1 starts the story by saying a sentence to begin a narrative.
+  3. The next person in the circle adds the next sentence to the story.
+  4. Each person continues to add one sentence at a time until everyone has gone and you have a complete story.
 
-o Video – “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\_a](https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz_a)
+Ask and Discuss:
 
-o Scripture - Ephesians 4:32
+* How did it feel to contribute to the story? Was it hard to come up with a sentence or did it come naturally?
 
-**GAME/ICE BREAKER**: PICTIONARY
+Storytelling is an important way to share experiences and ideas with others! The cool thing about following Jesus is that we each have unique stories, but they all play into a greater narrative.
 
-**SAY**: We are going to play a round of Positive Pictionary. Who would like to draw first? (*play as many rounds as you wish – here are some clues to get you started – if you add more words, make sure they’re all positive)*
+At camp we learned that Paul had an incredible transformation after encountering Jesus in Acts 9. Now let’s read Acts 22:
 
-Friend, Happy, Workcamp, Love, Gift, Crew, Peace, Hug, Laugh, Care Cards, Family, Prayer, Breakmaker, Bible, Home, Build
+**Scripture: Read Acts 22: 1-21**
 
-**TALK ABOUT THE GAME**:
+**Ask and discuss:**
 
-**ASK**: Thanks for playing.
+* Thinking back to what we learned at camp, what do you notice about this story?
+* How is it similar to what we learned in Acts 9 at camp? Are there any ways that it is different?
 
-Our theme at camp was “Influencer.” We looked at how we can have a real impact on our world when we worry less about trying to fit some worldly image of what it means to be a success. When we put God first – when we put love and kindness first, *that is when we can transform our minds and in turn, transform our world.* Take a look at this video.
+Did you notice that Acts 9 and Acts 22 recount the same story? Acts 9 is a narrative written in third person and Acts 22 is Paul’s personal testimony of the same story. He tells the story of his transformation in his own words, emphasizing his mission to share the love and message of Jesus. We learned on our last day at camp that after we make a decision or improvement in our faith, that the next step is to proclaim. That is exactly what Paul is doing in Acts 22. He is telling his story. It’s a reminder that a transformative encounter with Jesus doesn’t just change our hearts, it sends us out with a new purpose. And not just the purpose we have for ourselves, but the purpose we have from God.
 
-**VIDEO**: Video “Are You Okay?” [https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz\_a](https://youtu.be/tJsGGsPNakw?si=XCp0oHJCuBLHtz_a)
+&nbsp;
 
-8:45
+**Ask and Discuss:**
 
-**REFLECT ON VIDEO**:
+* Since the last time we met, have you been intentional about implementing a tool that you weren’t already using? What differences have you noticed since?
+* What are some stories and experiences from camp that we can proclaim to others?
+* Has the acronym EQUIP helped you face any big events or decisions recently?
 
-SAY: What did you think about the video?
+  &nbsp;
 
-How do the two main characters experience a renewing of their minds?
+**Closing Thought:** Paul’s story is just one thread in the grand narrative of the Bible — a story of redemption, grace, and God’s relentless pursuit of us. His transformation reminds us that no encounter with Jesus is insignificant, and every testimony plays a role in God’s greater plan and greater story. As we step forward in faith, may we, like Paul, boldly proclaim the goodness of Christ and share our own stories to impact the people around us.
 
-What do you think is the message of the video?
-
-**SCRIPTURE**:
-
-SAY: Let’s look at our Bible passage. Who would like to read Ephesians 4:32
-
-**VOLUNTEER READS**:
-
-**<sup>32</sup>** Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you.
-
-**DISCUSS**:
-
-· How far are you willing to go in order to be kind – what’s your limit?
-
-· How are kindness and forgiveness the same, and how are they different?
-
-· Is there anything that is unforgiveable? Explain.
-
-**SAY:** Imagine that everybody in your school stopped being unkind. Imagine everybody in your life stopped being unkind. Always kind. To everybody. In all circumstances. How would that change our world?
-
-Do you believe that kindness can be contagious? Explain.
-
-**FOOD FOR THOUGHT**:
-
-SAY: Snack time! Inspired by our theme of kindness tonight – we’re having Goldfish crackers – the snack that smiles back!
-
-As you enjoy the adorable treats, I want to encourage you to think about a few things this week:
-
-· Kindness doesn’t always come easy, right? But it is a choice. Just like being *unkind* is a choice.
-
-· When somebody is unkind to you, it feels horrible. It hurts and can leave emotional scars. Choose <u>not</u> to be the person who leaves other people feeling hurt and horrible. That’s not God’s plan for your life.
-
-· Being kind is more important than being popular. Being kind is more important than being wealthy. Being kind is more important than being right. Discuss.
-
-**PRAY**:
-
-SAY: Let’s close in prayer
-
-God, fill us with kindness. Help us to see other people as your children, worthy of compassion. Even people who aren’t nice…who say mean things…who are not good people. Lord, you want us to choose kindness toward them? Help us, God. We need your peace. Help us to be faithful to the plan you have for our lives. Amen.**<br>**
-
-**DEVO 3**
-
-· **SUPPLIES NEEDED:**
-
-o Whiteboard and markers
-
-o Game – Would you rather
-
-o Craft supplies – paper, colored pencils/markers, magazines, pencils/pens, odds and ends … maybe hot glue guns? Get as crazy as you want to. The youth will be inspired by the materials you provide
-
-o Snack – something Sweet and Salty (granola bars, trail mix, kettle corn)
-
-o Video – Beyonce “I Was Here” United Nations Humanitarian Day video
-
-o Scripture - Micah 6:8
-
-“He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
-
-**GAME/ICE BREAKER:** WOULD YOU RATHER?
-
-We’re going to play a fun game of “Would You Rather?” I’ll read two options…you just pick which one you would “rather.”
-
-1\. Would you rather mow the grass or shovel snow?
-
-2\. Would you rather drink rotten meat or drink spoiled milk?
-
-3\. Would you rather win $5000 or donate $5000?
-
-4\. Would you rather lose all of your teeth or lose all of your hair?
-
-5\. Would you rather lie to escape a prison sentence or be convicted for telling the truth?
-
-6\. Would you rather have a job that pays a lot of money or have a job that solves worldwide poverty?
-
-7\. Would you rather be so famous you have no privacy or spend every day of your life completely alone?
-
-8\. Would you rather be hugely successful or incredibly humble?
-
-9\. Would you rather understand the entire Bible or win Fortnite?
-
-**TALK ABOUT THE GAME:**
-
-**ASK**:
-
-Which question was the hardest one for you to answer? The easiest?
-
-Just for fun, go back and talk about what Jesus would do for each question.
-
-**SAY:** Why is it difficult to do the “right thing” sometimes? We are good at finding loopholes – making excuses – explaining why the right thing isn’t necessary at times. Why do you think that we rationalize our selfish choices?
-
-**SCRIPTURE**:
-
-**SAY**: Let’s look for some guidance in Scripture. Who would like to read Micah 6:8?
-
-**VOLUNTEER READS**:
-
-“He has told you, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?”
-
-**SAY:**
-
-According to that verse, God requires three things:
-
-§ Do justice
-
-§ Love kindness
-
-§ Walk humbly with God
-
-What do each of those things look like? Let’s break into three groups and each will take 15 minutes to create a “snapshot” of their assigned idea. Group 1 – create a snapshot of “Doing justice”
-
-Group 2 – create a snapshot of “Loving kindness”
-
-Group 3 – create a snapshot of “Walking humbly with God”
-
-You can create your snapshot by drawing, by building a sculpture, by creating a collage, or any other creative way you can think of that will paint a meaningful look into your topic.
-
-Give groups 15 minutes to work, then reassemble the whole group and share what they made.
-
-**SAY:**
-
-Justice. Kindness. Humility. Those a big, important concepts. And they are really good goals for life. Imagine at the end of your life, people describing you as a person who spent their life doing justice, loving kindness and walking humbly with God. That sounds like a good life to me.
-
-**VIDEO:** Take a look at this video from Beyoncé
-
-Beyoncé “I Was Here” United Nations Humanitarian Day video
-
-[https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E](https://youtu.be/i41qWJ6QjPI?si=yHtfzoJo7zyFQ95E)
-
-**FOOD FOR THOUGHT**:
-
-**SAY:** In order to be a positive influence in our world, you don’t have to perfect. You don’t have to always do the right thing. Sometimes you need to be sweet. Sometimes you need to be salty. That’s why we’re having this sweet and salty snack today. As you enjoy your (trail mix/granola bars…kettle corn… whatever), think about these things-
-
-· Do justice – fight when you see something is unjust. Go to bat for a friend who is being mistreated.
-
-· Love kindness – remember that being kind is more important than being a winner
-
-· Walk humbly – give your time but don’t brag about it; give your help in small and humble ways
-
-· It’s never too early to think about what kind of life you really want to live, and what kind of legacy you want to leave on the world
-
-· Serving (like at workcamp) is good…*and* it feels good. What a great way to feel the power of knowing “You were there!”
-
-**PRAY:**
-
-SAY: Let’s close in prayer.
-
-God help us to live our days in ways that reflect justice, goodness, and humility. Give us the wisdom and strength so that we can choose according to your will, without making excuses or looking for loopholes. We want to be your people and create a better world. Amen
+**Pray:** God, Thank You for the incredible ways you transform lives. Thank you that you see us and that every testimony is a part of your greater plan. Give us the courage to boldly share our own stories and the good things you have done in our lives, even if it feels uncomfortable or challenging. Amen.
