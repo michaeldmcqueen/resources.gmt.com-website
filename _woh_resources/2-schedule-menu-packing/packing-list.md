@@ -40,7 +40,6 @@ inputs:
 * Alarm clock\* (battery-powered)
 * Spending money\*
 * Games for free time\*
-* Fun items for our theme dinners\*: Christmas Monday, Wacky Wednesday, Tropical Thursday
 * Pen/Pencil for program and devotions
 * Instruments for worship\*
 
