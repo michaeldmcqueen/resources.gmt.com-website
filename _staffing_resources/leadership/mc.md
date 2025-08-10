@@ -32,5 +32,6 @@ The MC leads all camp programs with excellence and enthusiasm and serves as the 
 ###### Compensation
 
 This is a paid position, offering compensation of $1,200 for each camp you are confirmed to MC. Travel expenses are also covered in accordance with our company travel guidelines.
-
+<!--
 ### [Apply Now](https://argentasoftware.com/interfaces/gmt/frmLoginStaffPortal.aspx){: target="_blank" rel="nofollow noopener"}
+-->
