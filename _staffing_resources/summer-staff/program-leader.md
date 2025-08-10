@@ -46,5 +46,6 @@ The program leader leads high-quality, interactive, and faith-building experienc
 ###### Interested in leading worship?&nbsp;
 
 * If you are musically gifted and you would like to lead worship during evening programs, please let us know in the interview process. If you are selected to lead worship, you will make an additional $500 for the summer. More information will be provided if this applies to you!
-
+<!--
 ### [Apply Now](https://argentasoftware.com/interfaces/gmt/portalStaff/frmSignUp.aspx)
+-->
