@@ -39,6 +39,3 @@ The office manager provides excellent customer service to all camp participants,
 ###### Compensation
 
 * Depending on the number of camps and weeks you work, you can make up to $4200 for the summer. If you are a returning summer staff member, you could make up to an additional $400 for the summer. If you are a trainer or a flex staff member, your pay rate will be increased. This does not include any hiring bonuses, alternate lodging bonuses, or referral bonuses. All lodging and transportation costs are also included for the whole summer (except for the costs of getting to and from Colorado at the beginning and end of summer), so you only have to worry about food while traveling between camps (while off-duty) and while at the camp location setting up.
-<!--
-### [Apply Now](https://argentasoftware.com/interfaces/gmt/portalStaff/frmSignUp.aspx)
--->
