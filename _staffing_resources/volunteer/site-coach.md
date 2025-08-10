@@ -25,6 +25,3 @@ The site coach provides encouragement and support to work crews at their sites a
 * Able to lift objects up to 50 pounds
 * Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
 * Prepared to work busy camp days with an average of 5-6 hours of sleep per night
-<!--
-### [Apply Now](https://argentasoftware.com/interfaces/gmt/frmLoginStaffPortal.aspx){: target="_blank" rel="nofollow noopener"}
--->
