@@ -20,6 +20,7 @@ The cafeteria host creates a welcoming and pleasant atmosphere around camp by he
 * Help participants clean out their coolers each afternoon
 * Attend daily cafeteria team meeting
 * Commit to developing relationships with participants, Red Shirts, lodging facility staff, cosponsors, and members of the community
+* Collect food surveys and meal data to improve the quality and options for each meal, as requested
 * Serve and support the crew manager and camp director
 * Attend nightly staff meetings
 
