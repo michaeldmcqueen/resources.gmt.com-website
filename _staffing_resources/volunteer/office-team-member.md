@@ -24,3 +24,5 @@ The office team member serves and supports the office manager by assisting with 
 * Able to lift objects up to 50 pounds
 * Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
 * Prepared to work busy camp days with an average of 5-6 hours of sleep per night
+
+## [Apply Now](https://argentasoftware.com/interfaces/gmt/portalStaff/frmSignUp.aspx "Apply Now"){: target="_blank" rel="nofollow noopener"}
