@@ -1,5 +1,5 @@
 ---
-title: Adult Guide
+title: Adult Guide 2026
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 3
