@@ -1,5 +1,5 @@
 ---
-title: Skills, Safety And Tools
+title: Skills, Safety And Tools (Workcamp Only)
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 5
@@ -131,15 +131,10 @@ SAFETY TIP: Keep small tools in a central location or on your tool belt. Return 
 * After everyone has gone through all the stations, gather back together. Have the trainers available after the meeting to answer any additional questions about the skills they learned.
 * Say something like: When on your work site, do not do anything if it feels unsafe. The work you’ll be doing is very important, and it’s an expression of our love for Jesus, but no task should be done in an unsafe manner.
 * Say: If you forget safety and get hurt, you won’t be able to keep serving people. So let’s say our favorite safety phrase all together one more time: “My safety is my number one job.” Good job!
-
 * Pass out the Tool List, if needed. Say something like: The tools we have been asked to bring will help us accomplish just about any task we’re asked to do this summer.
-
 * Review how your group is doing on assembling tools. If they haven’t already, ask participants to look for items in their garage or borrow them before purchasing something brand new. (Some places may be willing to donate tools, so don’t forget to ask!) Also, remind them to put their names on their tools so they get them back. Let them know where they need to bring their tools and when.
-
 * Pay special attention to the ladders listed. Ladders are often in short supply at the mission trip, so plan to bring plenty of step and extension ladders. Have the owners write their names clearly on their ladders, and put your church’s name on them as well. Ladders are checked into a tool room upon arrival at the lodging facility, and various crews throughout the week will use them. You will need to pick them up on the last night of the mission trip to take them home.
-
 * If you haven’t done so already, review the points of the “Just Painting” document.
-
 * Have everyone give the trainers a big round of applause, and close in prayer.
 
 \*\*BONUS PRACTICE: \*\*
