@@ -7,43 +7,76 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-> The purpose of this event is to introduce your group to the work crews they will experience while on a Group Mission Trip –and to give them a taste for serving others. You are invited to modify this experience to fit your setting–the sky (and your church budget and time constraints) is the limit!
-
-**BEFORE THE MEETING**
-
-* All adult leaders are needed for this meeting! (This experience will help them know how to lead while on your mission trip.)&nbsp;
-
-* Prepare crews: Divide your group into crews of six people, with at least one adult per crew. If your group size isn’t easily divisible by six, crews of five are fine, too. Assign each crew a number, starting at one and going up as high as needed. Post these crew lists on the door or walls when people arrive.&nbsp;
-
-* Plan for service: For best results, begin to plan weeks before this event. Find enough service projects within your church facility for each crew to have their own project to complete within 30 minutes or so. Any type of service will work: cleaning, painting, office work, sorting supplies, or straightening storage closets. OR serve outside your facility doing yard work for elderly members, small home repairs, volunteering at a local non-profit–the possibilities are endless!&nbsp;
-
-* Communicate projects: Write up and print a brief description of what each numbered crew will be doing, including the location and supplies needed as well.&nbsp;
-
-* Support the event: Invite extra adults to “float” from project to project to support and answer any questions. Let these coaches know that their job is NOT to do the work, but to be there to offer advice and encouragement.&nbsp;
-
-* Supplies! Have needed supplies in place at each location.&nbsp;
-
-* Print:
-
-  1. “Crew Roles” sheets (below) –one-sheet for each participant.
-
-  2. “Devotion Leader Questions” (below) –one per crew.&nbsp;
+The purpose of this event is to introduce your group to the work crews they will experience while on a Group Mission Trip –and to give them a taste for serving others. You are invited to modify this experience to fit your setting–the sky (and your church budget and time constraints) is the limit!
 
 ---
 
-**MEET YOUR CREW, CHOOSE YOUR ROLE, AND SERVE!**&nbsp;
+### **Before the Meeting**
 
-* As participants arrive, instruct them to find their name and crew on the lists that are posted on the door or wall and to sit down with their new “crew.”&nbsp;
-* Pass out the Crew Roles sheet.&nbsp;
-* Say something like: *Today we’re going to participate in serving others and we’ll learn how we’ll serve on our mission trip next summer along the way. You are sitting with your new small group – a work crew – and you’ll serve with your crew in a few moments. To start, introduce yourselves by giving your name, and give 3 personal highlights from the past year. Then take turns reading the Crew Roles sheet you’ve received and decide who will perform which role today. You have 10 minutes to do this and then I’ll give you more instructions. Go!*&nbsp;
-* Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1 minute left. Pass out the list of the assigned projects to each crew.&nbsp;
-* Say: *You have a role and you just received a project to work on. Each crew role has unique responsibilities for your serving today – and your crew will depend on you to do your role so the project can be completed. Take a few minutes to read about your project so you can serve well. If you have questions, please come see me. Come back to this room in 30 minutes (or whatever timeframe you set). If you finish before that time, come back here right away! Now… have a blast serving!*&nbsp;
+##### **Crew Prep**
 
-**UNPACKING SERVICE:**&nbsp;
+• Divide group into crews of five or six (at least one adult per crew).
 
-* Talk to and encourage each crew as they return. Give the creatively titled “Devotion Leader Questions” to the crew’s devotional leader and tell them they have about 15 minutes to lead a conversation with their crew using the questions.&nbsp;
-* Say something like: *I want you to know that the things you did today were very valuable and meaningful. But not to a “building” or “committee”; they were meaningful to people. The people of our church, and any people who might visit our church. Let’s remember that as we get ready to serve this summer. Jesus cared about people – doing right for them and walking humbly with God, and the passage we read during our discussion time pointed to that. We are going out this summer to love people and treat them with mercy. Sometimes we’ll love what we’re doing, but at other times our assignments might not be our favorite. Sometimes the people we serve will have obvious needs, and there might be times we may never know the true need of each person or the community we serve. Service isn’t about us – it’s about the people we’re serving. But we can always have a good time when we work together and remember that we’re doing everything because of our love for God. In the process of doing that, we will experience Jesus like never before.*&nbsp;
-* Ask devotion leaders to close in a brief prayer with their crews.&nbsp;
+• Assign each crew a number. Post lists on a wall or door.
+
+##### **Supplies & Serving Project Prep**
+
+Choose one or more of the following hands-on serving options:
+
+* **Blessing Bags for Homeless Outreach**
+* **Encouragement Kits for Hospital or Nursing Home Patients**
+* **Teacher Appreciation Bags for Local Schools**
+* **Care Packages for Church Members Going Through Hardship**
+* **Foster Care Welcome Bags**
+
+*Gather supplies so each crew has its own assembly station.*<br>Examples: snacks, hygiene products, cards, water bottles, socks, journals, Scripture cards, handwritten notes of encouragement.
+
+##### **Set Up Stations**
+
+For each crew:
+
+* Place supplies in bins or tables.
+* Include a Crew Project Card explaining who they are serving, why it matters, and steps to complete the task.
+* Include blank note cards for crew members to write personal prayers or encouragement messages.
+
+##### **Print**
+
+1. *Crew Roles Sheet* (one per participant)
+2. *Devotion Leader Guide & Questions* (one per crew)
+
+---
+
+### **Meet Your Crew, Choose Your Role, and Serve!**
+
+**Say**: “Today you are stepping into your mission trip experience! You are sitting with your mission trip crew—the people you will serve alongside this summer. Each crew will work together to complete a serving project that blesses someone in our community. This isn't just practice. This is real impact.”
+
+---
+
+### **Introduce & Assign Roles**
+
+* Have each person share their name + one thing they hope to get out of the mission trip. Then read through the Crew Roles sheet and decide roles.
+* Give 10 minutes to connect and prepare.
+* Keep track of time and keep the groups talking. Give a warning when there are 5, 3, and 1-minute left. Pass out the list of the assigned projects to each crew.
+
+---
+
+### **Serve At Your Project**
+
+· Hand each crew their *Crew Project Card.*
+
+**Say**: “You’re about to serve real people today. They may never meet you, but they will feel your love through what you prepare. Your crew roles matter—use them to accomplish your mission. You have 30 minutes to complete your project. If you finish early, return here for next steps.”
+
+**Encourage adults to float between crews to support and encourage, not do the work.**
+
+---
+
+### **Unpacking Service**
+
+* Talk to and encourage each crew as they return. Give the creatively titled “Devotion Leader Questions” to the crew’s devotional leader and tell them they have about 15 minutes to lead a conversation with their crew using the questions.
+
+**Say** something like: *Everything you just did has a purpose. Today we served people we may never see face-to-face, just as we’ll do on our mission trip. Serving isn’t about tasks—it’s about people and God’s heart for them.”*
+
+* Ask devotion leaders to close in a brief prayer with their crews.
 
 ---
 
@@ -58,31 +91,31 @@ inputs:
 * DEVOTION LEADER—Keeps the crew focused on connecting to Jesus by leading prepared daily devotions. Encourages the crew to share God Sightings in evening programs.
 * QUARTERMASTER—Is in charge of the tools and supplies your crew will need for your assigned project.
 
-FOR TODAY’S PROJECT: Here are the assignments for each crew role:
+**FOR TODAY’S PROJECT**: Here are the assignments for each crew role:
 
 * BREAK MAKER—At some point during your service, report to \[location of snacks\] to get a snack tray for your group. Have your group take a quick break and then get back to work.
 * PROGRESS REPORTER—Your job will be to let me know upon your return whether or not your crew got your job done, and, if not, what tasks still need to be finished.
 * WORK DIRECTOR—You’ll be responsible for leading and coaching your crew to get your job done today.
-* ORGANIZER—You’ll lead your crew from this room to your project location, and keep an eye out for any safety and any first-aid needs.
-* DEVOTION LEADER—You’ll lead a brief, three-question discussion after you return from serving. I’ll give you those questions when you get back.
+* ORGANIZER—You’ll lead your crew from this room to your project location (if changing rooms) and keep an eye out for any safety and any first-aid needs.
+* DEVOTION LEADER—You’ll lead a brief discussion after you return from serving. I’ll give you those questions when you get back.
 * QUARTERMASTER—You’ll be in charge of the supplies needed to complete your job. The supplies are all ready to go at your location, but you’ll be in charge of distributing them and making sure they are put back in an orderly fashion.
 
-\###
+---
 
-### **Devotion Leader Questions After the Service Project**&nbsp;
+### **Devotion Leader Questions After the Service Project**
 
-Describe what thought or feeling you had while serving today.&nbsp;
+· What emotions or thoughts did you experience while serving?
 
-During our mission trip, we’ll be serving for several days in a row. What is one thing you look forward to in the daily service? What is one thing that worries you about that?&nbsp;
+· Was there a moment your role either helped or challenged you? What did you learn from that?
 
-How did today's experience help (or not help) get you ready for our mission trip?&nbsp;
+· How does assembling items for people you may never meet teach us about serving with the heart of Jesus?
 
-Ask someone to read aloud this verse: “Don’t just pretend to love others. Really love them. Hate what is wrong. Hold tightly to what is good. Love each other with genuine affection, and take delight in honoring each other. Never be lazy, but work hard and serve the Lord enthusiastically. Rejoice in our confident hope. Be patient in trouble, and keep on praying. When God’s people are in need, be ready to help them. Always be eager to practice hospitality.” -**Romans 12:9-13**&nbsp;
+· Read Galatians 5:13. What does it mean to *serve humbly in love*? How is that different from just doing something “good”?
 
-What does it mean for us to “hold tightly to what is good?”&nbsp;
+· How might God use our simple acts of service to change lives—others’ and our own?
 
-Are there any parts of this verse that seem difficult or challenging to carry out consistently?&nbsp;
+---
 
-How are loving others and serving others similar?&nbsp;
+### **Closing Word**
 
-How does this connect to our love and service to God?&nbsp;
+**Say**: “Today you didn’t just practice serving—you actually served. The bags you put together are going to people who need hope, comfort, and reminders that they are not forgotten. This is what our mission trip is all about—loving people the way Jesus loves us. Today was just the beginning.”
