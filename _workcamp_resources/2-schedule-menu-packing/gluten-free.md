@@ -43,7 +43,7 @@ Picnic-style lunch options may include:
 
 Each evening includes a **salad bar** featuring:<br>Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, and dressing\* (Ranch or Italian).
 
-**Beverages:** Lemonade and iced tea
+**Beverages:** Lemonade and water
 
 **Sample Dinner Menu:**
 
