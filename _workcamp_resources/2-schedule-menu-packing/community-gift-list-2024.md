@@ -1,5 +1,5 @@
 ---
-title: Community Gift List 2025
+title: Community Gift List 2026
 category: Workcamps
 subcategory: Schedule, Menu, Packing
 order: 6
@@ -9,7 +9,7 @@ inputs:
 ---
 ### **Barnesville, MN:**
 
-###
+\###
 
 ### **Belle, WV:**
 
@@ -25,7 +25,7 @@ inputs:
 
 ### **Lincoln, IL:**
 
-###
+\###
 
 ### **Mescalero, NM:**
 
@@ -45,7 +45,7 @@ inputs:
 
 ### **Mount Gilead, OH:**
 
-· Shelf-stable packaged food items: cereal, spaghetti-O's, ravioli, canned chicken, canned tuna, spam
+· Shelf-stable packaged food items: cereal, spaghetti-O’s, ravioli, canned chicken, canned tuna, spam
 
 · Pull-ups (4t & 5t)
 
@@ -53,15 +53,15 @@ inputs:
 
 ### **Ordway, CO:**
 
-###
+\###
 
 ### **Parsons, KS:**
 
-###
+\###
 
 ### **Wallingford, CT:**
 
-###
+\###
 
 ### **Wausau, WI:**
 
