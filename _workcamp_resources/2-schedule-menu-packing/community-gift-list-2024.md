@@ -7,81 +7,27 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-**Imperial, PA:**
+### **Barnesville, MN:**
+
+###
+
+### **Belle, WV:**
 
 · Nonperishable food items
 
-**Mission, SD:**
+### **Grosse Pointe Woods, MI:**
+
+&nbsp;
+
+### **Hazlet, NJ:**
 
 · Nonperishable food items
 
-**Westfield, IN:**
+### **Lincoln, IL:**
 
-· Nonperishable food items
+###
 
-**Wrightsville, PA:**
-
-· School Supplies for students of all ages
-
-**Middletown, OH:**
-
-· Diapers (all sizes and brands)
-
-· Formula (all sensitivities and brands)
-
-**Ashby, MN:** ***backpacks and school supplies for K-12***
-
-· Backpacks (grades K-12)
-
-· Tissues (full boxes)
-
-· 1-gallon Ziplock bags
-
-· Noise cancelling earmuffs
-
-· Spiral notebooks (lined paper)
-
-· Graphing notebooks (grid paper)
-
-· 1-pocket folders
-
-· Dry-erase markers
-
-· 1 ½” 3-ring binders
-
-· Looseleaf paper
-
-· Pens (black, red, blue)
-
-· Pencils
-
-· Handheld pencil sharpener
-
-· Colored pencils
-
-· Black permanent markers
-
-· Glue sticks
-
-· Erasers
-
-· Highlighters
-
-**Hagerstown, MD:**
-
-· Nonperishable food items
-
-· Shelf-stable packaged food items
-
-· Diapers of all sizes
-
-· Pull-ups of all sizes and genders
-
-· Formula
-
-· Infant, baby, and toddler items
-
-**Mescalero, NM:**
+### **Mescalero, NM:**
 
 · Nonperishable food items
 
@@ -97,44 +43,34 @@ inputs:
 
 · NEW socks and underwear of all ages/genders/sizes
 
-· Boys and Girls Club community donations, little league items. Waiting for Emmett to provide a list
+### **Mount Gilead, OH:**
 
-**Elizabeth City, NC:**
+· Shelf-stable packaged food items: cereal, spaghetti-O's, ravioli, canned chicken, canned tuna, spam
 
-· Nonperishable food items
+· Pull-ups (4t & 5t)
 
-· Blankets (all sizes/genders/ages)
+· Formula
 
-· Soap, shampoo and conditioner
+### **Ordway, CO:**
 
-· NEW socks (all sizes/genders/ages)
+###
 
-· Twin-sized bed sheets
+### **Parsons, KS:**
 
-· Towels (bath, hand, or washcloth sized)
+###
 
-· Dental care items (floss, toothbrushes, toothpaste, etc.)
+### **Wallingford, CT:**
 
-· Feminine hygiene products
+###
 
-· Winter wear (hats, mittens, gloves, wool socks, etc.)
+### **Wausau, WI:**
 
-**East Bank, WV:**
+&nbsp;
 
-· Nonperishable food items
-
-**Red Lake, MN:**
+### **Winchester, KY:**
 
 · Nonperishable food items
 
-· Infant and baby items
+&nbsp;
 
-**Pewaukee, WI:**
-
-· Nonperishable food items
-
-**Scranton, PA:**
-
-· Nonperishable food items
-
-Toiletry items (soaps, deodorants, shampoo & conditioner, etc.)
+&nbsp;
