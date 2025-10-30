@@ -7,74 +7,84 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-**EACH YOUTH SHOULD BRING:**&nbsp;
+*The only tools at camp are the ones **you bring!** You may not use every tool you pack—but it’s better to have one you don’t need than to need one you don’t have.*
 
-* Safety goggles&nbsp;
-* Work gloves&nbsp;
-* N-95 disposable dust mask (used when scraping paint) (5 per person)
-* A tool pouch, bag, or bucket&nbsp;
-* Hammer (12 oz. or larger)
-* Tape measure (16’ or 25’)&nbsp;
+**Label all tools** with your name and church, since tools are often shared.
+
+---
+
+### **Each Youth Should Bring**
+
+* Safety goggles
+* Work gloves
+* N-95 disposable dust masks *(5 per person—for scraping paint)*
+* Tool pouch, bag, or bucket
+* Hammer *(12 oz. or larger)*
+* Tape measure *(16’ or 25’)*
 * Carpenter’s pencil
-* Paintbrushes: a variety of sizes&nbsp;
-* Paint roller handle&nbsp;
-* Paint roller cover(s) (3 per person)&nbsp;
-* Paint tray with liners&nbsp;
-* Paint scraper and/or wire brush&nbsp;
+* Paintbrushes *(variety of sizes)*
+* Paint roller handle
+* Paint roller covers *(3 per person)*
+* Paint tray with liners
+* Paint scraper and/or wire brush
 
-&nbsp;**EACH ADULT SHOULD BRING:**&nbsp;
+---
 
-* Safety goggles&nbsp;
-* Work gloves&nbsp;
-* A tool pouch, bag, or bucket&nbsp;
-* N-95 disposable dust mask (used when scraping paint) (5 per person)
-* Spray bottle&nbsp;
-* Paint roller extension handle&nbsp;
-* Utility knife and extra blades&nbsp;
-* Chalk line and chalk&nbsp;
-* Chisel&nbsp;
-* Caulking gun&nbsp;
-* Circular saw (extra blade)&nbsp;
-* Level (4’ length minimum)&nbsp;
-* Pry bar&nbsp;
-* Screwdriver(s) (Philips and Flathead)&nbsp;
-* Square (Speed square or 3’ square)&nbsp;
-* Extension cord (with GFCI protection) **or** ground fault interrupter splitter/adapter&nbsp;
-* Cordless drill 18 volt or better&nbsp;
-* Extra drill battery with a charger&nbsp;
-* Star Bits Type T-25 (Qty 4 minimum)
-* Drill bit kits (including small bits for drilling pilot holes and a 3/8” and 1/2’ diameter 6”-8” in length)&nbsp;
-* Lumber clamp/vise&nbsp;
-* Carpenter pencil&nbsp;
+### **Each Adult Should Bring**
 
-**AS A GROUP PLEASE BRING:**&nbsp;
+* Safety goggles
+* Work gloves
+* Tool pouch, bag, or bucket
+* N-95 disposable dust masks *(5 per person—for scraping paint)*
+* Spray bottle
+* Paint roller extension handle
+* Utility knife with extra blades
+* Chalk line and chalk
+* Chisel
+* Caulking gun
+* Circular saw *(with extra blade)*
+* Level *(minimum 4’ length)*
+* Pry bar
+* Screwdrivers *(Phillips and flathead)*
+* Square *(Speed square or 3’ square)*
+* Extension cord *(with GFCI protection or GFCI splitter/adapter)*
+* Cordless drill *(18-volt or better)*
+* Extra drill battery + charger
+* Star bits Type T-25 *(minimum of 4)*
+* Drill bit kits *(include small bits for pilot holes, plus 3/8” and 1/2” diameter bits, 6–8” long)*
+* Lumber clamp or vise
+* Carpenter’s pencil
 
-* One 5-gallon water jug (1 per 6 people)&nbsp;
-* Family-size cooler on wheels (1 per 6)&nbsp;
-* Spade shovel (2 per group)\*&nbsp;
-* One box of rags&nbsp;
-* Drop cloths (1 per 6 people)&nbsp;
-* At least one wrench or socket set&nbsp;
-* Small old containers for paint&nbsp;
-* Paint bucket hook (1 per 6 people)&nbsp;
-* 16-ft or longer extension ladder (1 per 6)&nbsp;
-  * *Extras are appreciated!*&nbsp;
-* 8-ft stepladder (1 per 6 people)&nbsp;
-  * *Extras are appreciated!*&nbsp;
-* Posthole digger (2 per group)\*&nbsp;
-* Heavy duty digging bar
-* Jigsaw and sharp blades (1 per group)\*&nbsp;
-* First-aid kit (1 for every vehicle)&nbsp;
-* A box of gallon-sized Ziploc bags (for paintbrush storage)&nbsp;
-* A box of large strong black trash bags&nbsp;
-* Nitrile gloves (3 pairs per person)
+---
 
-&nbsp;\*If your group is larger than 50 participants, please double these items.&nbsp;
+### **As a Group, Please Bring**
 
-> The only tools at camp are those that YOU bring! There’s a chance you may not use all the tools you bring, but it’s better to have a tool you don’t need than to need a tool you don’t have!&nbsp;
->
-> Tools are often shared so be sure to label all tools with your name and church.&nbsp;
->
-> Flying to camp? You’re still going to need tools! Plan to either ship ahead or purchase upon arrival. You can donate your tools to your resident or ship them back.&nbsp;
->
-> We don’t expect you to buy tools brand new–try to borrow or buy them used. If you do purchase tools, keep receipts in case something doesn’t get used.&nbsp;
+* 1 five-gallon water jug *(per 6 people)*
+* 1 family-size cooler (on wheels) *(per 6 people)*
+* 2 spade shovels *(per group)* \*
+* 1 box of rags
+* Drop cloths *(1 per 6 people)*
+* At least one wrench or socket set
+* Small old containers *(for paint)*
+* Paint bucket hooks *(1 per 6 people)*
+* 16-ft or longer extension ladder *(1 per 6 people – extras appreciated!)*
+* 8-ft stepladder *(1 per 6 people – extras appreciated!)*
+* 2 posthole diggers *(per group)* \*
+* 1 heavy-duty digging bar
+* 1 jigsaw with sharp blades *(per group)* \*
+* 1 first-aid kit *(per vehicle)*
+* 1 box of gallon-size Ziploc bags *(for paintbrush storage)*
+* 1 box of large, strong black trash bags
+* Nitrile gloves *(3 pairs per person)*
+
+\*If your group has **50+ participants**, please **double these items**.
+
+---
+
+### **Flying to Camp?**
+
+You’ll still need tools!<br>Plan ahead to either **ship tools before the trip** or **purchase them after you arrive.**<br>You can choose to **donate your tools to your resident** at the end of the week or ship them back home.
+
+*Tip: Borrow or buy used tools when possible. If you purchase new ones, keep your receipts in case something isn’t used.*
+
+&nbsp;
