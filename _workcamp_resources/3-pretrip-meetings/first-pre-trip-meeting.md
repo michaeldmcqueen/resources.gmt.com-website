@@ -19,7 +19,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 ### **Icebreaker Game: “Mission Match-Up!”**
 
-**Instructions:**
+##### **Instructions:**
 
 * Hand everyone a card as they walk in. **(All the cards are at the bottom of this meeting.)** Half the cards have a service-related situation (like “Painting a house in 95-degree weather”) and the other half have a matching positive outcome (like “The homeowner shares how this changes their life”).
 * When you say, “Go Serve!”, everyone walks around to find their matching partner.
