@@ -7,101 +7,92 @@ order_number: 2
 inputs:
   unpublish: false
 ---
-(All meals are subject to change at any time)&nbsp;
+(All meals are subject to change based on location and availability.)
 
-Food will be prepared by cafeteria staff at your lodging facility. It’s going to be great, but keep in mind, it’s cafeteria-style food. It’s not a fancy made-to-order restaurant.&nbsp;
-
-**BREAKFAST**&nbsp;
-
-Participants will have one or more of the following options:&nbsp;
-
-* Scrambled eggs, French toast, tater circles, sausage, pancakes, breakfast burritos, English muffins&nbsp;
-* Accompaniments (each day): Cereal, yogurt, wheat bread, juice, coffee, tea, variety of fruit&nbsp;
-
-**LUNCH**&nbsp;
-
-Lunches are picnic-style at the work sites. There will be a variety of lunchmeat sandwiches, chips, a fruit or vegetable, and a treat like a granola bar or cookie. Peanut butter and jelly will be available each day.&nbsp;
-
-Beverages on the work site:&nbsp;
-
-* Participants will need to fill their water bottles that they brought with them before they leave the lodging facility each day
-* Each crew will bring a full 5-gallon water container with them to the work site to refill their own bottles
-
-**DINNER**&nbsp;
-
-* Sunday: Hamburgers, hotdogs, baked beans, fries, and dessert OR a cosponsor provided meal&nbsp;
-* Monday: Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls, and dessert
-* Tuesday: Taco bar with flour tortillas, taco shells, ground beef, tortilla chips, black beans, rice, lettuce, tomato, cheese, onion, and dessert
-* Wednesday: DINNER ON YOUR OWN&nbsp;
-* Thursday: Chicken tenders, mac and cheese, side vegetable, and dessert
-* Friday: Baked ziti or similar dish (vegetarian option will be available), garlic bread, side vegetable, and dessert
-
-Salad bar (every evening): Featuring a variety of mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and choice of Ranch or Italian dressing&nbsp;
-
-Beverages: Lemonade and iced tea will be available&nbsp;
-
-Dessert items may include: Ice cream, brownies, pudding, strawberry shortcake, or cookies
+At Group Mission Trips, meals are prepared by the cafeteria staff at your lodging facility. It’s good, hearty food—served cafeteria-style! While it may not be restaurant dining, we promise it will keep your crew energized for a full day of serving.
 
 ---
 
-If you have a participant that has to eat gluten-free, please let us know. We can have a few gluten-free options at camp, but we need to know in advance.
+### Breakfast
 
-Please note that we do have peanut butter on our menu.&nbsp;
+Start the day with a satisfying breakfast! Participants will enjoy one or more of the following options:
 
----
+· Main Items: Scrambled eggs, French toast, tater circles, sausage, pancakes, breakfast tacos, English muffins
 
-Group Mission Trips understands there are many people with dietary restrictions and food allergies. We want our staff and participants to work together to provide a safe environment for anyone with food restrictions.&nbsp;
-
-**DIETARY RESTRICTIONS:**
-
-* If a participant has a food allergy or restriction, their trip leader should ensure they’ve seen Group Mission Trips’ Sample Menu. They can decide what supplement meals/snack items they’ll need to bring.
-* If a participant must eat gluten-free or has any other dietary restrictions, please let Group Mission Trips know either by calling or via the online Dashboard prior to camp since menu may be subject to minor changes per location.
-* If a participant needs to bring supplement meals or snacks to accompany the Group Mission Trips’ menu, there cannot be a reduction in registration fees since Group Mission Trips purchases food in bulk. Camp staff will assist by providing space for additional food in the kitchen or another designated storage area.
-* If the food allergy is severe, the trip leader should notify Group Mission Trips either by calling or by logging a note under Special Requests. Depending on the severity, the participant may need to be assigned to a crew with another person from their own group who understands their food restrictions. The participant should inform the rest of their crew about their food restrictions too, should an emergency arise.
-* Participants need to bring any medication they need (i.e. EpiPen).
-* Participants may want to bring their own small cooler to keep their lunch separate from the others on their crew.
-* Cafeteria staff will be able to provide ingredient information before each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please also see the next page for those.
-* If you have any questions, please feel free to call us at 844.258.9616.&nbsp;
+· Daily Accompaniments: Cereal, yogurt, bread, juice, coffee, tea, and a variety of fresh fruit
 
 ---
 
-### **Vegetarian**
+### Lunch
 
-We have listed here some possible options from our menu that may work for you. Anything marked (\*) may contain meat additives so please check with staff when you get to camp.&nbsp;
+Lunch is picnic-style at the work sites. Each day includes:
 
-**BREAKFAST**&nbsp;
+· A variety of lunchmeat sandwiches
 
-* French toast&nbsp;
-* Tater circles&nbsp;
-* Pancakes&nbsp;
-* English muffins&nbsp;
-* Wheat toast&nbsp;
-* Oatmeal&nbsp;
-* Yogurt&nbsp;
-* Fruit&nbsp;
-* Cereal&nbsp;
-* Cheese&nbsp;
-* Butter, jelly, peanut butter&nbsp;
-* Orange juice, coffee, tea&nbsp;
+· Chips
 
-**LUNCH**&nbsp;
+· Fruit or vegetable
 
-* Bread&nbsp;
-* Peanut butter and jelly&nbsp;
-* Cheese, tomatoes, lettuce, mayo, mustard&nbsp;
-* Chips&nbsp;
-* Fruit or veggie options&nbsp;
-* A variety of treats (like a granola bar or cookie)
+· A treat (like a granola bar or cookie)
 
-**DINNER**&nbsp;
+· Peanut butter and jelly available daily
 
-Salad bar each night: Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, dressing\* (Ranch or Italian)&nbsp;
+&nbsp;
 
-* Sunday: Baked beans\*, buns, fries, and dessert
-* Monday: Mashed potatoes, side vegetable, rolls, and dessert
-* Tuesday: Flour tortillas, taco shells, tortilla chips, salsa, diced tomatoes, onions, lettuce, sour cream, cheese, black beans\*, and dessert
-* Wednesday: Dinner on your own&nbsp;
-* Thursday: Mac and cheese, side vegetable, and dessert
-* Friday: Baked ziti, garlic bread, side vegetable, and dessert
+Work Site Beverages:
 
-Lemonade and iced tea&nbsp;
+· Each participant should fill their personal water bottle before leaving the facility.
+
+· Every crew will bring a 5-gallon water container to refill bottles on-site.
+
+&nbsp;
+
+---
+
+### Dinner
+
+Here’s a sample of what the week may look like:
+
+| Day | Menu |
+| Sunday | Hamburgers, hotdogs, baked beans, fries, and dessert—or a cosponsor-provided meal |
+| Monday | Chicken breast with gravy or BBQ sauce, mashed potatoes, side vegetable, rolls, and dessert |
+| Tuesday | Taco bar with tortillas, taco shells, ground beef, tortilla chips, black beans, rice, lettuce, tomato, cheese, onion, and dessert |
+| Wednesday | Dinner on your own |
+| Thursday | Chicken tenders, mac and cheese, side vegetable, and dessert |
+| Friday | Baked ziti (vegetarian option available), garlic bread, side vegetable, and dessert |
+
+&nbsp;
+
+Salad Bar (Available nightly): Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and choice of Ranch or Italian dressing.
+
+Beverages: Lemonade and water
+
+Desserts: Ice cream, brownies, pudding, strawberry shortcake, or cookies
+
+---
+
+### Dietary Restrictions & Food Allergies
+
+We know that every participant’s health matters. Our goal is to work together to keep everyone safe and well-fed.
+
+If a participant has a food allergy or restriction:
+
+· Trip leaders should review this Sample Menu with participants so they can plan supplemental meals or snacks.
+
+· Contact Group Mission Trips before camp for gluten-free or other dietary needs.
+
+· No registration discount applies for bringing personal food, but storage space will be provided.
+
+Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under Special Notes for special requests. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler.
+
+---
+
+### Vegetarian Options
+
+Items marked (\*) may contain meat additives. Please confirm with staff upon arrival.
+
+· Breakfast: French toast, tater circles, pancakes, English muffins, wheat toast, oatmeal, yogurt, fruit, cereal, cheese, butter, jelly, peanut butter, juice, coffee, tea.
+
+· Lunch: Bread, peanut butter & jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, fruit or veggies, and a variety of treats.
+
+· Dinner: Salad bar nightly with mixed greens, veggies, cheese, beans, and dressing. See full menu for additional vegetarian options.
