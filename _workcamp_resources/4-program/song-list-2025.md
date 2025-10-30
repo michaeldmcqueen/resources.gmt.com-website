@@ -5,7 +5,7 @@ subcategory: Program
 order: 4
 order_number: 4
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 * Not all of these songs will be performed during camp. The leader or group that is leading the music at each location will select an appropriate number of songs from this list. Songs in **bold** are new to 2025.
 * Listen to all of these songs now! Click here [Group Mission Trips Song List](https://open.spotify.com/user/groupmissiontrips?si=781c2e0d1b0f4476&amp;nd=1&amp;dlsi=e5cd1cfa4d3842d1){: target="_blank" rel="noopener"} to listen via Spotify. You’ll need a Spotify account, but it’s quick, easy and FREE to create one!
