@@ -38,10 +38,6 @@ The next time you’re faced with a giving opportunity—whether it’s for your
 
 **How you view giving will shape how you ask others to give.** When you understand the spiritual weight of generosity, fundraising stops feeling like asking for money and begins to feel like extending an invitation to be part of God’s work.
 
-<br>
-
-&nbsp;
-
 ### **Fundraising Is Not Just Financial—It’s Spiritual**
 
 Fundraising often gets reduced to dollars, goals, and deadlines—but at its core, fundraising is a spiritual practice. It invites people to participate in what God is doing. It shifts our focus from simply collecting money to cultivating faith, obedience, and partnership in God's mission.
