@@ -1,5 +1,5 @@
 ---
-title: Skills, Safety And Tools (Workcamp Only)
+title: Skills, Safety And Tools (Workcamp ONLY)
 category: Workcamps
 subcategory: Pretrip Meetings
 order: 5
