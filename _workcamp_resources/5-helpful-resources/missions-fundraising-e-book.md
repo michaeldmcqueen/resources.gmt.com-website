@@ -40,13 +40,13 @@ The next time you’re faced with a giving opportunity—whether it’s for your
 
 ### **Fundraising Is Not Just Financial—It’s Spiritual**
 
-Fundraising often gets reduced to dollars, goals, and deadlines—but at its core, fundraising is a spiritual practice. It invites people to participate in what God is doing. It shifts our focus from simply collecting money to cultivating faith, obedience, and partnership in God's mission.
+Fundraising often gets reduced to dollars, goals, and deadlines—but at its core, fundraising is a spiritual practice. It invites people to participate in what God is doing. It shifts our focus from simply collecting money to cultivating faith, obedience, and partnership in God’s mission.
 
 ##### **1\. Fundraising Aligns Our Hearts with God’s Mission**
 
 When we invite others to give, we are not asking them to fund *our* plans—we are inviting them to join *God’s* work. Fundraising requires us to seek God’s direction, to depend on His provision, and to stay rooted in the belief that he is the source—not our efforts or strategies.
 
-**Fundraising isn’t about making something happen—it's about watching what God will do through His people.**
+**Fundraising isn’t about making something happen—it’s about watching what God will do through His people.**
 
 ##### **2\. Fundraising Builds Trust Over Control**
 
@@ -62,11 +62,7 @@ People don’t just give to support you—they give as a response to what God is
 
 Jesus said, “Where your treasure is, there your heart will be also” (Matthew 6:21). Fundraising isn’t primarily concerned with wallets—it reveals where our hearts are anchored. It teaches us to release our grip, to surrender our preferences, and to experience the joy of partnering with God.
 
-&nbsp;
-
-#####
-
-##### **5\. Fundraising Becomes a Testimony of God’s Faithfulness**
+&nbsp;**5\. Fundraising Becomes a Testimony of God’s Faithfulness**
 
 Every dollar raised is a story—not of what *we* accomplished, but of how God moved through His people. Fundraising done prayerfully becomes a record of God showing up, often through completely unexpected people at just the right time.
 
@@ -89,8 +85,6 @@ Take a moment to ask yourself:
 * *How is God using fundraising to shape my heart, my faith, and my dependence on him?*
 
 *Fundraising is not something we do to “get money”—it’s something God uses to build his Kingdom and transform hearts, starting with our own.*
-
-<br>
 
 &nbsp;
 
@@ -155,8 +149,6 @@ After the trip, invite your donors to a celebration night or special service. Le
 
 This isn’t about asking for money—it’s about offering people the opportunity to invest in eternal impact. You’re not fundraising *from* them—you’re fundraising *for* them, by giving them the chance to engage in God’s mission in a meaningful way.
 
-<br>
-
 &nbsp;
 
 ## **Fundraising Ideas**
@@ -219,8 +211,6 @@ This isn’t about asking for money—it’s about offering people the opportuni
 *Use Etsy or your church website to sell downloads with no physical inventory required.*
 
 &nbsp;
-
----
 
 ##### **EVENT-BASED FUNDRAISERS**
 
