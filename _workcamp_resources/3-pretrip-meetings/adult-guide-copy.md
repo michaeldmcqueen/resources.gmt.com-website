@@ -7,8 +7,6 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-**Adult Guide**
-
 Welcome to the Adventure!
 
 First of all—thank you!<br>You’re giving your time, energy, and heart to help teenagers experience a life-changing week of faith and service. Because of you, they’ll grow closer to God, make lasting memories, and discover what it truly means to live out love in action.
@@ -17,7 +15,7 @@ So buckle up—this week is going to be unforgettable!
 
 ---
 
-**Our Statement of Faith**
+### **Our Statement of Faith**
 
 We believe the Bible is the inspired, authoritative Word of God. We believe there is one God, eternally existent in three persons: Father, Son, and Holy Spirit. We believe in the deity of Jesus Christ, in his virgin birth, in his sinless life, in his death on the cross, in his bodily resurrection, in his ascension to the right hand of the Father, and in his personal return. We believe people receive forgiveness of sins and eternal life through Jesus.
 
@@ -25,7 +23,7 @@ That’s the foundation for everything we do.
 
 ---
 
-**Our Story**
+### **Our Story**
 
 It all started in the early 1990s with a simple mission: *to serve communities and connect people with Jesus through hands-on service.*
 
@@ -39,19 +37,19 @@ That legacy continues with you.
 
 ---
 
-**Our Home Base**
+### **Our Home Base**
 
 We’re based in beautiful Fort Collins, Colorado, but our mission reaches far beyond state lines.
 
 ---
 
-**Our Mission**
+### **Our Mission**
 
 To serve others through home repair and community service experiences that transform communities and help participants, residents, and partners grow closer to Jesus.
 
 ---
 
-**Our Priorities**
+### **Our Priorities**
 
 Connecting people with Jesus is the number one goal of Group Mission Trips, and we also focus on the following priorities:
 
@@ -61,13 +59,13 @@ Connecting people with Jesus is the number one goal of Group Mission Trips, and 
 
 ---
 
-**FAQs (a.k.a. What You’re Probably Wondering)**
+### **FAQs (a.k.a. What You’re Probably Wondering)**
 
 Why Group Mission Trips?<br>Because everything—from housing to projects to worship—is already planned. That means you can focus on what really matters: walking alongside your students on their faith journey.
 
 ---
 
-**What’s My Role?**
+### **What’s My Role?**
 
 You’re more than a chaperone—you’re a mentor, encourager, and example of Christ’s love.
 
@@ -81,7 +79,7 @@ Here’s what that looks like:
 
 ---
 
-**What Kind of Work Will I Do?**
+### **What Kind of Work Will I Do?**
 
 Expect to roll up your sleeves! You might:
 
@@ -97,7 +95,7 @@ No construction experience? No problem! You’ll learn as you go.<br>Crew and pr
 
 ---
 
-**Who’s on My Crew?**
+### **Who’s on My Crew?**
 
 Each person is assigned to a six-person crew that usually includes one adult and five teens, all from different churches.<br>This mix helps build leadership, friendships, and a sense of wider community.
 
@@ -105,7 +103,7 @@ Each person is assigned to a six-person crew that usually includes one adult and
 
 ---
 
-**Where Will I Stay?**
+### **Where Will I Stay?**
 
 You’ll likely stay in a local school—simple but full of heart!
 
@@ -122,7 +120,7 @@ Expect:
 
 ---
 
-**What Should I Bring?**
+### **What Should I Bring?**
 
 Your trip leader will provide a full list, but highlights include:
 
@@ -133,7 +131,7 @@ Your trip leader will provide a full list, but highlights include:
 
 ---
 
-**Your Key Responsibilities**
+### **Your Key Responsibilities**
 
 * Know and follow the daily schedule
 * Be an encourager; your attitude sets the tone
@@ -147,7 +145,7 @@ Your trip leader will provide a full list, but highlights include:
 
 ---
 
-**Handling Discipline**
+### **Handling Discipline**
 
 Everyone agrees to the same Code of Conduct.
 
@@ -159,7 +157,7 @@ If an issue arises:
 
 ---
 
-**Your Role on the Work Crew**
+### **Your Role on the Work Crew**
 
 * Be part of the team, not the boss
 * Let students take the lead as Devotion Leader or Work Director
@@ -170,7 +168,7 @@ If an issue arises:
 
 ---
 
-**A Typical Day at Camp**
+### **A Typical Day at Camp**
 
 Your youth leader will have the full schedule, but here’s the overview:
 
@@ -183,7 +181,7 @@ Your youth leader will have the full schedule, but here’s the overview:
 
 ---
 
-**Other Important Details**
+### **Other Important Details**
 
 Adult Requirements
 
@@ -197,7 +195,7 @@ Adult Requirements
 
 ---
 
-**Phones & Internet**
+### **Phones & Internet**
 
 * Keep phones put away during work and program times (unless it’s part of the program experience)
 * Wi-Fi and cell service may be limited
@@ -207,19 +205,19 @@ Encourage students to **disconnect from screens and connect with people**—that
 
 ---
 
-**Valuables**
+### **Valuables**
 
 Please leave valuables at home or locked in your vehicle. Group Mission Trips is not responsible for lost or stolen items.
 
 ---
 
-**Extra Adults?**
+### **Extra Adults?**
 
 Extra adults interested in serving on staff can apply for one of Group Mission Trips’ many volunteer “Red Shirt” staff positions. Although these adults don’t count toward your group’s required 1 to 5 adult ratio, they do attend camp for free! For details or questions, call Group Mission Trips’ Staffing Team at 1.844.258.9616 or go to GroupMissionTrips.com and click on About Us and then Join Our Team.
 
 ---
 
-**Safety & Medical Emergencies**
+### **Safety & Medical Emergencies**
 
 If an emergency occurs:
 
@@ -237,7 +235,7 @@ For minor injuries:
 
 ---
 
-**And That’s It!**
+### **And That’s It!**
 
 You’re about to be part of something that changes lives—including yours.<br>Thank you for showing up, serving faithfully, and helping students experience the joy of living out their faith.
 
