@@ -7,38 +7,73 @@ order_number: 5
 inputs:
   unpublish: false
 ---
+> At Group Mission Trips, we’re passionate about creating **a safe and meaningful experience for every participant**. To maintain the highest level of care and protection, we require the following screening steps for all adult participants.
 
-> Group Mission Trips is driven by our commitment to provide the best possible experience for all participants in a safe and secure environment. We require the following:
+### **Who This Applies To**
 
-## Requirements:&nbsp;
+All participants **age 18 and older** who are registered for a Group Mission Trips event must:
 
-All participants that are age 18 or older, who are registered for a Group Mission Trip event, must submit to a national background check and have authorization from the pastor submitted to Group Mission Trips at least 30 days before the event starts.&nbsp;
+* Complete a **national background check**, and
+* Have **authorization from their pastor or ministry leader** submitted to Group Mission Trips **at least 30 days before** the event begins.
 
-Administration of the required background check is the sole responsibility of the participant or their church. The background check must be conducted by a qualified service provider and include the following minimum criteria:&nbsp;
+---
 
-* Multi-State Criminal Record/Sexual Offender&nbsp;
-* Search Social Security or Identity Verification&nbsp;
+### **Administering Background Checks**
 
-#### Retention Of Records:
+The background check process is managed by each **church or participant**. It must be completed by a **qualified background check provider** and include, at minimum:
 
-The church must keep a copy of the background check on file for six years from the date of the event. This requirement meets the statute of limitations in the State of Colorado for filing a civil claim of child sexual abuse. The documentation is to be available if any allegation or charge of misconduct is made against the participant while on the Group Mission Trip. This requirement is in place whether or not the participant or the church participates in a Group Mission Trip event again.&nbsp;
+* A **Multi-State Criminal Record/Sexual Offender Search**
+* A **Social Security or Identity Verification**
 
-#### Authorized Signature:
+*Tip:* Many churches already partner with a trusted provider for youth ministry volunteers—these services often meet or exceed our requirements.
 
-Group Mission Trips requires the lead pastor, or an authorized ministry leader of the church, to authorize that screening has been done for each adult. No one may complete an authorization for themselves. Every authorization must be done at least 30 days before the event starts.&nbsp;
+---
 
-#### Adult Leader Disqualification:
+### **Record Retention**
 
-For the sake of participating as an 18 or older participant at a Group Mission Trips event only, the following behaviors discovered in a background check will automatically disqualify a person without review or recourse:&nbsp;
+Your church must **retain a copy** of each completed background check for **six years** from the date of the event.<br>This timeline matches the **statute of limitations in Colorado** for civil claims of child sexual abuse.
 
-* Having any traits or tendencies that could pose any threat to children, youth, or others
-* Sexual misconduct including crimes resulting in conviction&nbsp;
-* Violence against another person resulting in a felony conviction within the last 10 years&nbsp;
-* Use/distribution of illicit drugs or controlled substances resulting in conviction in the last 10 years&nbsp;
-* Property crime resulting in conviction in the last 10 years&nbsp;
+If an allegation of misconduct is ever made, these records must be readily available for review.<br>This requirement applies **even if the participant or church does not attend future mission trips.**
 
-We cannot make exceptions to this requirement for any reason, including testimonies of miraculous rehabilitation. The church is not obligated to report specific findings to Group Mission Trips. Other infractions that may show up on a background check will not necessarily disqualify a person by our standards. Call GMT if there are any questions about the suitability of a participant to attend.&nbsp;
+---
 
-#### Age Of Documentation:
+### **Authorization Process**
 
-Group Mission Trips requires that multi-state background checks on file at the church be no older than two (2) years old (from the start of the mission trip) for active 18 and older participants. Participants with background checks on file that are older than two years must submit to a new check. The completion of the screening authorization from the lead pastor, or an authorized ministry leader of the church, includes an acknowledgment that, to the best of their knowledge, none of the infractions that would disqualify a participant (see above) have occurred since their last background check.
+Group Mission Trips requires that a **lead pastor or authorized ministry leader** confirm that screenings have been completed for every adult participant.
+
+* No individual may authorize their own screening.
+* All authorizations must be completed **no later than 30 days before** the event begins.
+
+---
+
+### **Adult Leader Disqualification**
+
+To ensure the safety of everyone involved, the following findings on a background check will result in **automatic disqualification** from participation (without exception or review):
+
+* Any behaviors, traits, or tendencies that could pose a threat to minors or others
+* Any form of **sexual misconduct** or conviction related to sexual crimes
+* **Felony convictions for violent acts** within the last 10 years
+* **Drug-related convictions** (use or distribution of controlled substances) within the last 10 years
+* **Property crime convictions** within the last 10 years
+
+*Important:*<br>We cannot make exceptions to these requirements—even in cases of claimed rehabilitation or personal transformation.
+
+However, churches **do not need to disclose specific details** of background check results to Group Mission Trips.<br>Other non-disqualifying offenses will not automatically prevent someone from attending.
+
+If you’re unsure about a participant’s eligibility, **contact Group Mission Trips** for guidance.
+
+---
+
+### **Age of Documentation**
+
+Background checks must be **no older than two (2) years** from the start of the mission trip.
+
+If an existing check is more than two years old, a **new background check** is required before participation.
+
+When a pastor or ministry leader completes the screening authorization, they affirm that, **to the best of their knowledge**, no disqualifying offenses have occurred since the last check.
+
+---
+
+### **Thank You for Protecting Our Community**
+
+Your diligence ensures that every mission trip remains a safe, Christ-centered experience.<br>By following these screening steps, you help create a trustworthy environment where students and adults can serve freely and confidently.
