@@ -5,10 +5,9 @@ subcategory: Getting Started
 order: 4
 order_number: 4
 ---
-
 Thank you for your participation in the ministry of Group Mission Trips, a nonprofit 501(c)(3) organization. You have the opportunity to discover the rewards of providing care through service and outreach to a community. Group Mission Trips (GMT) works with many vendors and subcontractors, such as schools, material suppliers, local community agencies, and churches.
 
-As a GMT participant, you may participate in activities such as carpentry, patching and installing drywall, roofing, digging, building steps and wheelchair ramps, insulating, painting, flooring, replacing windows and doors, and other miscellaneous types of home repair. Other projects could include yard work, cleaning, working with the elderly, children, and/or animals.
+As a GMT participant, you may participate in activities such as carpentry, patching and installing drywall, digging, building steps and wheelchair ramps, insulating, painting, flooring, replacing windows and doors, and other miscellaneous types of home repair. Other projects could include yard work, cleaning, working with the elderly, children, and/or animals.
 
 You may be using cleaning products and hand tools such as hoes, rakes, shovels, paint brushes, and rollers. You may be using a drill to drive screws and, if you’re over the age of 16, you may be using a drill for drilling holes. If you’re over the age of 18, you may be using power saws such as a circular saw. You may also be climbing up and down ladders with and without tools and materials, and working in high places such as on ladders or scaffolding. Please understand that you are not required to do any work that you consider to be unsafe.
 
@@ -16,7 +15,7 @@ By signing the participant info form, you acknowledge these activities have inhe
 
 By signing the participant info form, you acknowledge that you (and your child, if applicable) have read and agree to abide by our Code of Conduct. You further permit you/your child to be transported in vehicles for mission trip activities and to receive professional healthcare if necessary.
 
-By signing the participant info form, you also hereby authorize GMT to use or disclose you or your child's protected health information for the purposes of treatment, payment, health care operations, or any other disclosures as allowed by law in connection with an accident, medical incident, or claim made. (Please note: as a participant, you are responsible for your own health insurance needs and are advised to bring your personal health insurance information with you on your trip.)
+By signing the participant info form, you also hereby authorize GMT to use or disclose you or your child’s protected health information for the purposes of treatment, payment, health care operations, or any other disclosures as allowed by law in connection with an accident, medical incident, or claim made. (Please note: as a participant, you are responsible for your own health insurance needs and are advised to bring your personal health insurance information with you on your trip.)
 
 Photographs and/or video and sound recordings of yourself or your child may be made during the trip. You authorize the use of such material by GMT and our partner organizations for its purposes.
 
