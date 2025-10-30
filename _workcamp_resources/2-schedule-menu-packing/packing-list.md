@@ -7,68 +7,118 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-**PERSONAL ITEMS:**&nbsp;
+*Traveling light—but prepared—makes all the difference! Use this guide to help you pack smart so you can focus on what matters most: serving others and growing together.*
 
-* Air mattress, cot, or foam pad (twin-size)&nbsp;
-* Sleeping bag or sheets&nbsp;
-* Blanket and pillow&nbsp;
-* Towels and washcloths&nbsp;
-* Modest swimsuit and shower shoes&nbsp;
-* Toothpaste and toothbrush&nbsp;
-* Soap and shampoo&nbsp;
-* Any prescription medications&nbsp;
-* Laundry/plastic bags (for dirty clothing)&nbsp;
-* Long pants or jeans&nbsp;
-* Modest shorts&nbsp;
-* Work t-shirts&nbsp;
-* Pajamas, socks, and underwear&nbsp;
-* Work boots or sturdy shoes&nbsp;
-* Water bottle (refillable, to be used at your work site)&nbsp;
-* Personal health insurance card or copy&nbsp;
-* Bible&nbsp;(to be used during program)
-* Tools from the Tool List&nbsp;
-* Jacket&nbsp;
-* Sunglasses&nbsp;
-* Sunscreen&nbsp;
-* Bandanas, a hat, or visor&nbsp;
-* Insect repellent&nbsp;
-* Mirror\*&nbsp;
-* Camera\*&nbsp;
-* GPS\* (recommended for drivers)&nbsp;
-* Rain gear\*&nbsp;
-* Snacks\*&nbsp;
-* Musical instruments\*&nbsp;
-* Fans\* (most schools do not have AC)&nbsp;
-* Flashlight\*&nbsp;
-* Alarm clock\* (battery-powered)&nbsp;
-* Spending money\*&nbsp;
-* Games for free time\*&nbsp;
-* Pen/pencil for program and devotions
+---
 
-&nbsp;\*Optional Items&nbsp;
+### **Personal Items**
 
-**AS A GROUP:**&nbsp;
+**Sleeping & Comfort**
 
-* 1 first-aid kit for every vehicle&nbsp;
-* 1 5-gallon water jug for every 6 people&nbsp;
-* 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
+Bring what you need to stay comfortable during the week!
 
-COMMUNITY GIFT: We asked each camp location for a specific need in their community. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you!
+* Air mattress, cot, or foam pad (twin-size)
+* Sleeping bag or sheets
+* Blanket and pillow
+* Towels and washcloths
+* Modest swimsuit and shower shoes
 
-Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance!
+**Toiletries**
 
-* Involve your congregation, friends and even your local businesses in the effort.
-* Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
+Stay fresh and ready for every day of service.
 
-**WHAT NOT TO BRING:**&nbsp;
+* Toothpaste and toothbrush
+* Soap and shampoo
+* Any prescription medications
+* Laundry or plastic bags (for dirty clothes)
 
-* Alcohol, tobacco products, or illegal drugs&nbsp;
-* Expensive clothes or jewelry&nbsp;
-* Anything really valuable&nbsp;
-* Fireworks, weapons, or toy guns&nbsp;
-* Skimpy or revealing clothes&nbsp;
-  * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
+**Clothing**
 
-**CELL PHONES/IPODS/LAPTOPS/ETC.**&nbsp;
+Pack practical clothing for work, worship, and fun.
 
-For security reasons, it’s best to leave these items at home. However, we do understand that they are great for capturing moments, sharing life, and communicating back home. If you decide to bring any of these items, don’t let them distract from your experience. How can you be tethered to your devices and expect God to work in unexpected ways? If you decide to bring them, be sure to put them away during the programs and on your work sites.&nbsp;
+* Long pants or jeans
+* Modest shorts
+* Work t-shirts
+* Pajamas, socks, and underwear
+* Work boots or sturdy shoes
+* Jacket
+
+**Daily Essentials**
+
+Don’t leave these mission trip must-haves behind!
+
+* Water bottle (refillable—for your work site)
+* Personal health insurance card or copy
+* Bible (for program and devotions)
+* Tools (see Tool List)
+* Pen or pencil
+
+---
+
+### **Optional Items**
+
+*(These can make camp life easier—or just more fun!)*
+
+* Sunglasses
+* Sunscreen
+* Bandanas, hat, or visor
+* Insect repellent
+* Mirror
+* Camera
+* GPS (recommended for drivers)
+* Rain gear
+* Snacks
+* Musical instruments
+* Fans (most schools do not have AC)
+* Flashlight
+* Alarm clock (battery-powered)
+* Spending money
+* Games for free time
+
+---
+
+### **As a Group**
+
+Make sure your group has these shared items covered:
+
+* **1 first-aid kit** for every vehicle
+* **1 5-gallon water jug** for every 6 people
+* **1 large cooler** (on wheels preferred) for every 6 people
+
+---
+
+### **Community Gift**
+
+Each camp location has shared a *specific need* in their community.<br>Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
+
+Check your **customer account → Helpful Resources → “Schedule, Menu, and Packing”** to see your camp’s requested item.
+
+Your gift meets a *real need* right where you’ll serve—thank you in advance for your generosity!
+
+*Tip:* Involve your congregation, friends, and even local businesses in the effort.<br>*Transportation tight?* You can always purchase your community gifts once you arrive.
+
+---
+
+### **What Not to Bring**
+
+Let’s keep our focus clear and our environment safe. Please **leave these at home**:
+
+* Alcohol, tobacco, or illegal drugs
+* Expensive clothes or jewelry
+* Anything valuable
+* Fireworks, weapons, or toy guns
+* Skimpy or revealing clothes
+
+Please bring clothing that’s appropriate in all settings (longer shorts, t-shirts, modest swimsuits, etc.).
+
+---
+
+### **Cell Phones, iPods, Laptops, etc.**
+
+For security reasons, it’s best to leave these items at home.<br>We get it—they’re great for capturing memories and keeping in touch—but **don’t let them distract you** from the people and purpose around you.
+
+“How can you be tethered to your devices and expect God to work in unexpected ways?”
+
+If you do bring them, please keep them put away during programs (unless it’s part of the program experience) and on work sites.
+
+&nbsp;
