@@ -7,21 +7,17 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-## **Background Check Providers**
-
 To keep every Group Mission Trip safe and secure, all **participants age 18 and older** (including students) must have a **national background check** on file at their church before the trip.
 
 ### **Screening Requirements Overview**
 
 * Background checks must be **no older than two (2) years** from the start of your mission trip.
-
 * Each background check must show **no record of:**
   1. Traits or tendencies that could pose a threat to minors or others
   2. Any sexual misconduct or convictions involving sexual crimes
   3. Felony violence against another person within the last 10 years
   4. Use or distribution of illicit drugs or controlled substances within the last 10 years
   5. Property crime convictions within the last 10 years
-
 * These standards apply to all adult participants—both leaders and students 18+.
 
 ---
@@ -36,9 +32,9 @@ Once background checks are completed:
 
 3\. Enter each **adult participant’s** full name, background check organization, and the date the check was completed
 
-4\.  Enter your **pastor’s name and email address**, then click **“Send Authorization Message.”**
+4\. Enter your **pastor’s name and email address**, then click **“Send Authorization Message.”**
 
-5\.  Your pastor will receive an email to review and authorize the listed participants.
+5\. Your pastor will receive an email to review and authorize the listed participants.
 
 6\. You’ll receive a confirmation email once your pastor has completed the authorization.
 
