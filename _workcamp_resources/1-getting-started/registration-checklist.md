@@ -7,40 +7,57 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-> (Please ensure the following is complete at least 30 days before your trip.)
+*(Complete these items at least 30 days before your trip.)*
 
-## General
+---
 
-I, the trip leader, have the user name and password for my customer account. I have logged in and reviewed the information there and have shared the “Link to Participant Form” with all of my youth and adult participants.
+## **General**
 
-I have at least one adult (age 21 or older) registered for every five participants that are under 21 years.
+* I have my **customer account username and password** and have logged in to review all trip details.
+* I have shared the **“Link to Participant Form”** with every youth and adult participant.
+* I have **at least one adult (21+) for every five participants under 21**.
+* If my group includes **both male and female participants**, I have **at least one male and one female adult** registered.
 
-If I have both boys and girls in my group, I have at least one male adult and one female adult registered.
+---
 
-#### PARTICIPANT SIGN-UP
+### **Participant Sign-Up**
 
-Under Participant Info, the parent/guardian of all my participants that are 17 years or younger have filled out the information and digitally signed it.
+* Under **Participant Info**, every **participant age 17 or younger** has had a **parent/guardian** complete and digitally sign their form.
+* Under **Participant Info**, every **participant age 18 or older** has filled out and digitally signed their own form.
+* I have **verified each participant’s entry**—checking for:
+  * Duplicates (deleted any extras)
+  * Correct spelling
+  * Accurate age, gender, and skill levels (for Workcamps)
 
-Under Participant Info, every participant that is 18 or older has filled out their information and digitally signed it.
+---
 
-I have verified that every participant is on the list, only once, and that their information is correct. (I double-checked age, gender, spelling, skill levels if attending a Workcamp, and used the delete button to get rid of duplicates.)
+### **Screening & Verification**
 
-#### SCREENING AND VERIFICATION
+* Every **participant age 18 or older** (including students) has completed a **multi-state/national background check** within the last **2 years**.
+* All background checks have been **reviewed by the pastor** and are **securely on file**.
+* In my **customer account**, under *Screening Form*:
+  * I entered each 18+ participant and their background check details.
+  * I clicked **“Send Authorization Message”** so my pastor can **digitally authorize** each adult.
 
-Every participant that is 18 years or older (students too) has had a multi-state/national background check that is no older than 2 years from the start of the mission trip.
+---
 
-Background checks have been seen by the pastor and are safely on file.
+### **Vehicles & Drivers**
 
-In my customer account, under “Screening Form," I have entered all 18 and older participants and their background check information and I have sent my pastor an email using the “Send Authorization Message” button so that they can digitally authorize each adult participant.
+* I verified that all **vehicle, driver, and insurance information** is current and accurate.
+* Each vehicle can **transport at least 6 people**.
+* My vehicles and drivers are **available daily** to transport crews during camp.
 
-#### VEHICLES AND DRIVERS
+---
 
-I verified that all our vehicles, drivers, and insurance information is accurate.<br>I am bringing vehicles that each have a capacity for at least 6 people.<br>My vehicles and drivers are available daily to transport crews during the camp.
+### **Special Requests**
 
-#### SPECIAL REQUESTS
+* I entered any **special requests or unique situations** in the **“Special Requests”** section of my account, including food, lodging, and crew assignment accommodations.
+* I understand GMT will review, approve, or ask for clarification as needed—but **special accommodations are not guaranteed**.
 
-If I have any special requests or situations that I want GMT to know about, I have entered those into the “Special Requests” section on my account. GMT will be notified and will either approve or ask for clarification before making special accommodations. I understand that entering notes here is not a guarantee that GMT can accommodate them.
+---
 
-#### NEW GROUP ORIENTATION&nbsp;
+### **New Group Orientation**
 
-If you are new to Group Mission Trips or need a refresher, here is a [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/ESKBC9ihO4JMtJIkbowKP8oBdDY9OrIlNyhyLRCI_KhA5Q?e=DuzfnI){: target="_blank" rel="noopener nofollow"} from our President, Tim, and our Mission Trip Advisor, Bri. Enjoy!&nbsp;
+If you’re new to **Group Mission Trips** (or just want a refresher), watch this [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/ESKBC9ihO4JMtJIkbowKP8oBdDY9OrIlNyhyLRCI_KhA5Q?e=DuzfnI){: target="_blank" rel="nofollow noopener"} from **Tim, our President, and Bri, one of our Mission Trip Advisors.**
+
+&nbsp;
