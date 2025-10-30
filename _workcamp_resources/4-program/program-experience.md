@@ -7,5 +7,59 @@ order_number: 1
 inputs:
   unpublish: false
 ---
+##  **Our Programs Are:**
 
-<div><div><div><h3><strong>Our Programs Are: </strong></h3><ul><li><strong>Focused on Jesus. </strong>Our goal is to point people to Jesus. The programs highlight daily themes through Bible passages that connect us to Jesus in surprising and memorable ways.</li><li><strong>Relevant. </strong>We want to engage each participant in a way they can best understand. Because we want to engage each participant in a way they can understand, we use a diversity of methods &ndash; creative multimedia, thought-provoking sound and video, dramatic presentations, and moving contemporary worship.</li><li><strong>Fun</strong>. Expect to have a great time! You&rsquo;ll experience relationship-building activities, games, and casual conversations throughout each program day.</li><li><strong>Interactive</strong>. We all learn better by doing. Our programs provide opportunities for people to BE involved, not just sitting, watching, and listening. Every participant will have opportunities to be involved in sharing, conversations, singing, acting, reflecting, and more.</li></ul><h3><strong>Our Programs Are Not: </strong></h3><ul><li>Sacramental, Liturgical or... We will not be sharing sacraments or practicing traditional liturgy as denominations do in their unique ways. However, you are welcome to celebrate your faith traditions during your specific youth group devotion time.</li><li>Altar Calls. Every program offers opportunities to respond to God in different ways at different times... without pressure or manipulation. Your youth leader will help your students process their spiritual growth and faith journey.</li><li>Sermons. Sitting and watching doesn&rsquo;t result in maximum learning and life- change. We won&rsquo;t preach at your group!</li><li>Denominational. We come together from many different churches to grow closer to Jesus and serve people in need. Be prepared to share what we have in common and set differences aside.</li></ul><h3><strong>Our Statement of Faith: </strong></h3><ul><li>We believe the Bible is the inspired, authoritative Word of God.</li><li>We believe there is one God, eternally existent in three persons: Father, Son, and Holy Spirit.&nbsp;</li><li>We believe in the deity of Jesus Christ, in his virgin birth, his sinless life, his death on the cross, his bodily resurrection, his ascension to the right hand of the Father, and in his personal return.</li><li>We believe people receive forgiveness of sins and eternal life through Jesus. Group Mission Trips is not denominational, multi-denominational, or even non-denominational; rather, we are <strong>Christian, biblical, and focused on Jesus</strong>. Our small differences will unite as we focus on the God we love and serve. Youth leaders consistently tell us how much they appreciate the job we do as we help bring people together in our common faith in Christ. You will also have a daily opportunity to discuss specifics of your church&rsquo;s beliefs during evening youth group devotions. Again, our goal is to help you and your group have an authentic encounter with Jesus. We see this happen in many wonderful ways, year after year after year.</li></ul></div></div></div>
+##### **Focused on Jesus**<br>
+
+Our number one goal is to point people to Jesus. Each program highlights daily themes through Bible passages that connect us to him in surprising and memorable ways.
+
+##### **Relevant**<br>
+
+We engage participants in ways that make sense to them. Using creative multimedia, thought-provoking sound and video, dramatic presentations, and moving contemporary worship, every person has the chance to connect deeply with God’s Word.
+
+##### **Fun**<br>
+
+Get ready for an amazing time! You’ll experience games, laughter, relationship-building activities, and meaningful conversations woven throughout every program day.
+
+##### **Interactive**<br>
+
+We all learn best by doing. Our programs invite everyone to *participate*—not just sit and listen. Expect to share, sing, act, reflect, and take part in powerful moments that bring faith to life.
+
+---
+
+## **Our Programs Are** ***Not*****\:**
+
+##### **Sacramental or Liturgical**
+
+We won’t be sharing sacraments or practicing traditional liturgy as individual denominations do. However, you’re encouraged to celebrate your own faith traditions during your youth group devotion times.
+
+##### **Altar Calls**<br>
+
+Each program creates space to respond to God in genuine, personal ways—without pressure or manipulation. Youth leaders will help students process their faith journeys as they grow.
+
+##### **Sermons**<br>
+
+We won’t just preach at your group! Instead, our interactive approach helps participants engage, discuss, and experience God’s truth in ways that inspire real-life change.
+
+##### **Denominational**<br>
+
+We come together from many churches to serve others and grow closer to Jesus. Differences are set aside as we unite in the faith we share.
+
+---
+
+## **Our Statement of Faith**
+
+We believe:
+
+* The Bible is the inspired, authoritative Word of God.
+* There is one God, eternally existent in three persons: Father, Son, and Holy Spirit.
+* In the deity of Jesus Christ, in his virgin birth, in his sinless life, in his death on the cross, in his bodily resurrection, in his ascension to the right hand of the Father, and in his personal return.
+* People receive forgiveness of sins and eternal life through Jesus.
+
+Group Mission Trips isn’t denominational, multi-denominational, or even non-denominational—we’re **Christian, biblical, and focused on Jesus.** Our small differences unite as we serve one God together. Youth leaders often tell us how much they appreciate seeing their groups come together in common faith.
+
+Each evening, you’ll have a chance to discuss your church’s beliefs during youth group devotions. Our prayer is that your group experiences an **authentic encounter with Jesus**—something we see happen in incredible ways, year after year.
+
+&nbsp;
+
+&nbsp;
