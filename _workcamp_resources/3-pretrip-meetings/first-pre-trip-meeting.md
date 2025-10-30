@@ -7,49 +7,126 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-Have this meeting as soon as possible and invite all interested participants!
+**Say:** Welcome to our Mission Trip Meeting! We are heading to **(your mission trip location)** this summer during **(your dates)**. This experience is going to be life-changing—full of adventure, meaningful relationships, powerful moments with Jesus, and the opportunity to serve people in real need. You’re going to make memories that last a lifetime and friendships that go far beyond this trip!
 
-**BEFORE THE MEETING**
+Before we dive into details, let’s get a visual of what this trip is all about.
 
-Make sure all your participants meet the age requirements to attend!
+**(Play the Group Mission Trips promo video or the Youth Expectations video.)**
 
-* Jr High/Sr High camps: At least 11 years old or entering the 6th grade in the fall.
-* Senior High only camps: At least 14 years old or entering the 9th grade in the fall.
-* Important adult/youth ratio: You must bring 1 adult (21 or older) for every 5 youth (20 years or younger).
+**Optional**: Invite a couple of students or adults who have been on past mission trips to briefly share one highlight from their experience.
 
-Login to your customer account to help field any questions. Make note of what your camp location has requested for their community gift (under the Schedule, Menu, and Packing option in Helpful Resources). Print out any posters, parent letters, or fundraising ideas from the Helpful Resources tab.
+---
 
-Create a simple handout for participants, parents, and adults that provides the dates (including travel), location, and any other important details. Distribute these at your meeting and consider sending them by email as well!
+### **Icebreaker Game: “Mission Match-Up!”**
 
-Plan to show the [Group Workcamps Promo Video](https://youtu.be/CvrFylFlSqU){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300598078){: target="_blank" rel="noopener"}&nbsp; (both under Helpful Resources) from your customer account. Make sure everything is working well.
+**Instructions:**
 
-**MEETING CONTENT:**
+* Hand everyone a card as they walk in. **(All the cards are at the bottom of this meeting.)** Half the cards have a service-related situation (like “Painting a house in 95-degree weather”) and the other half have a matching positive outcome (like “The homeowner shares how this changes their life”).
+* When you say, “Go Serve!”, everyone walks around to find their matching partner.
+* Once matched, each pair introduces themselves and shares one reason they’re excited for the trip.
+* Have 2 or 3 pairs read their card combo to the group to highlight both the challenge *and* the reward of serving.
 
-Say: *Welcome to our Mission Trip meeting! We are heading to (your mission trip location) this summer during (your dates). This trip will create long-lasting memories –it’s an adventure there we’ll meet people who are in need and we’ll be able to make a real difference in their lives. On top of that, we’ll make friendship connections with people from all over the country, deepen our connection with Jesus, and have an awesome time together! It’s a big deal, so let’s watch this video to get a visual.* (Play the [Group Workcamps promo video](https://youtu.be/CvrFylFlSqU){: target="_blank" rel="noopener"} or the [Youth Expectation Video](https://vimeo.com/300598078)).
+**Say:** Just like in this game, this trip will bring challenges and incredible moments of impact. We’re going to experience both—and that’s what makes mission trips so powerful!
 
-(Another way to build excitement is to invite a couple of kids, or adults, who have been on a Group Mission Trip before to share about their experience.)
+---
 
-Say: *This mission trip is not only fun, it’s a way for you to get your friends involved in our group, and in service as well. Grab one of the fliers about our trip and personally invite them to join you!*
+### **Inviting Others**
 
-**Introductions and Itinerary**
+**Say:** This mission trip isn’t just for us—it’s an amazing opportunity to get your friends involved in something meaningful. Grab one of the flyers and think of one person you can personally invite. You never know whose life might change because you invited them to serve!
 
-Say: *We want to be sure that everyone knows what’s happening for our mission trip, so let’s go through some of the important details:*
+---
 
-* Dates: Go through the departure and arrival dates and times. Ask parents and teens alike to put those details into their calendars. (Project a calendar to give a visual of the timeframe if possible.)
-* Wednesday afternoon free time: Let everyone know there is free time during the middle of the week and, if possible, put together a team of volunteers who are willing to research some fun options to present to the group.
-* Lodging: Using the Lodging Info and the Packing List (under Helpful Resources and under Schedule, Menu, and Packing) in your customer account, talk about where you’ll be staying and what everyone will need to bring.
-* Code of Conduct: The Group Mission Trips Code of Conduct is extremely important! Please ensure that all youth and adult leaders read this carefully and completely understand what they are agreeing to when they sign their participant form.
-* Camp Attire: We don't have a dress code but we ask that everyone wear modest clothing.
-* Financial stuff: Talk about the total cost for each person to participate (include transportation, registration, and free time expenses). Discuss fundraising opportunities (if any) and establish a payment schedule. GMT payment due dates are March 15th and May 15th. (Be sure to set your payments dates earlier so that you can submit payments to GMT on time.)&nbsp;
-* Community gift: Share with everyone the donation items your camp location has requested (located under Helpful Resources and under Schedule, Menu, and Packing). Present (or develop together) a plan for how to collect these items and get them to camp with your group.&nbsp;
-* Background checks: You will need to run national criminal background checks for every participant that is 18 or older by the time of your camp (yes, even students!). (If a camper turns 18 within 2-3 weeks of the beginning of camp, you don’t need to run one on them). Make a list of who will need a background check and work on a plan to have those completed soon.&nbsp;
+### **Introductions & Trip Itinerary**
 
-Say: *That’s a lot of stuff! Make sure you have the important dates in your calendars – and get excited! One more thing – the daily programs are set up for you to participate in a lot of ways:*
+**Say:** Let’s walk through some important details to make sure everyone knows what to expect:
 
-* *Worship team–you are welcome to take your instruments along and play with the music team and singers are welcome too! The Song List for camp is in your customer account for those who want to participate* (under Helpful Resources and Program).&nbsp;
-* *Drama–you can volunteer for a drama and can read Scripture or pray during the evening programs.*&nbsp;
-* *Variety show–On Wednesday night, there is a variety show at camp!* If you want to try out for the show, talk to me about your act (you will need to approve their act before they try out for the variety show when at camp).&nbsp;
+* **Dates & Times:** Here are our departure and return dates. Please pull out your phones and get these on your calendars now.<br>*(Project a calendar on the screen for a visual.)*
+* **Wednesday Afternoon Free Time:** On Wednesday afternoon, we’ll have free time. We’ll be forming a small team of volunteers to research fun, safe options and bring suggestions to the group.
+* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List from our Group account, we’ll go over what you need to bring and what the sleeping arrangements look like.
+* **Code of Conduct:** This is extremely important. Every participant must read and understand the Group Mission Trips Code of Conduct before signing the participant form. This keeps everyone safe and focused on our mission.
+* **Camp Attire:** While there’s no strict dress code, we do ask everyone to wear modest and appropriate clothing throughout the week.
+* **Financial Info:** The total cost per participant includes transportation, registration, and free time expenses. Our payment schedule will need to be ahead of the GMT deadlines (March 1 and May 1). We will also discuss fundraising opportunities to help cover costs.
+* **Community Gift:** Our camp location has requested certain donation items. (Show list.) As a group, we will decide how to collect and bring these items with us.
+* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. We’ll make a list today of who that applies to and set a timeline to complete them.
 
-Say: *That’s all the information I have for you today! What questions do you have?* (Use the FAQs in your customer account to help you field any questions.)
+---
 
-Tell them when you’ll meet again as a team and close in prayer.&nbsp;
+### **<br>Ways You Can Participate in Programs**
+
+**Say:** One of the most exciting parts of this trip is the evening and worship programs. There are several opportunities for you to be involved:
+
+* **Worship Team:** If you play an instrument or sing, you can join the camp music team! The Song List is available in our account.
+* **Drama & Scripture:** You can be part of a drama, read Scripture, or lead prayer during evening programs.
+* **Variety Show:** Wednesday night is the camp variety show! If you want to audition, come see me so we can talk through your act and get you approved before camp.
+
+---
+
+### **Wrap-Up**
+
+**Say:** That’s all the information I have for today! Make sure those dates are saved and start spreading the word—this trip is going to be incredible. What questions do you have?
+
+*(Use FAQs from your customer account as needed.)*
+
+---
+
+### ***Instructions for Mission Match-up***
+
+You can use as many pairs as you need based on group size.<br>For small groups (5-10), use 4-5 pairs<br>Medium groups (15–30), use 8–12 pairs<br>Large groups (30–50+), use 15+ pairs
+
+---
+
+##### **Mission Match-Up Pairs**
+
+Service Situation Cards (Challenge)
+
+Match these with the corresponding *Impact Moment Card* below.
+
+1. You’re painting a home in 95-degree heat.
+2. Your group is running behind schedule and tired.
+3. A student is nervous about leading devotion.
+4. You meet a homeowner who won’t make eye contact.
+5. The shower water is freezing cold in the morning.
+6. You get blisters from raking yards all day.
+7. A crew member keeps making mistakes.
+8. You’re asked to pray out loud unexpectedly.
+9. You spill paint and feel embarrassed.
+10. The air mattress deflates in the middle of the night.
+11. A teen is homesick and quiet.
+12. You're picking up trash in a run-down neighborhood.
+13. Worksite tools are old and slow.
+14. You get sunburned on the first day.
+15. You don’t know anyone in your work crew.
+16. The homeowner’s dog keeps barking nonstop.
+17. You are asked to share your testimony.
+18. You're exhausted but the group wants to play games.
+19. The free time plans are cancelled due to weather.
+
+---
+
+##### **Impact Moment Cards (Blessing / Reward)**
+
+These are the powerful outcomes that match the situations above.
+
+A. The homeowner shares that they’ve been praying for help, and you are the answer.<br>B. The group rallies together and finishes stronger than ever with real teamwork.<br>C. The student leads devotion and moves the crew to tears.<br>D. The homeowner opens up and shares their life story by the end of the week.<br>E. Everyone laughs, bonds, and says it’s their favorite funny memory.<br>F. You see physical progress and realize you’re changing someone’s life.<br>G. The mistakes lead to mentoring moments that build confidence.<br>H. You feel the Holy Spirit speak through you as you pray.<br>I. The group cheers you on and reminds you it’s about progress, not perfection.<br>J. A student offers their air mattress, and you build a lasting friendship.<br>K. The student opens up about their faith and feels seen and loved.<br>L. A local resident thanks you for caring about their community.<br>M. A student learns patience and creativity while problem-solving.<br>N. The sunburn becomes a reminder of the joy of serving.<br>O. You make new friends and discover unexpected connections.<br>P. The homeowner says the dog hasn’t been that happy in months.<br>Q. Your story inspires a teenager to recommit their life to Christ.<br>R. The laughter during games becomes a bonding highlight.<br>S. The group creates new free-time traditions that are even better.<br>T. The teen begins to understand what real service looks like through your example.
+
+---
+
+##### **How to Play**
+
+1. Pass out ONE card to each person.
+2. Have everyone stand up and yell “GO SERVE!” to begin.
+3. Participants mix and mingle to find their matching pair (Challenge + Impact).
+4. Once matched, each pair introduces themselves and reads their card aloud, showing how **serving leads to impact**.
+
+For larger groups, you can have everyone stand in a circle and have pairs step forward one at a time to “tell the story” of their match.
+
+---
+
+##### **Bonus Twist (For Bigger Groups)**
+
+Add **“Wild Cards”** – reflection prompts anyone can pair with:
+
+* “Share a time when serving surprised you.”
+* “Describe a moment when you saw God move through someone else.”
+
+“Talk about what scares you most—and what you hope God will do.”
