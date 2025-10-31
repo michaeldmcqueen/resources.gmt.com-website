@@ -1,8 +1,8 @@
 ---
 title: Workcamp Benefits of a Jr/Sr High Camp
 category:
-subcategory:
-order: 1
+subcategory: Helpful Resources
+order: 5
 inputs:
   unpublish: false
 ---
