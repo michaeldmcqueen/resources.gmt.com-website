@@ -1,5 +1,5 @@
 ---
-title: Community Service Certificate 2026
+title: Community Service Certificate (Pre-Season)
 category: Workcamps
 subcategory: Post Camp Resources
 order: 2
