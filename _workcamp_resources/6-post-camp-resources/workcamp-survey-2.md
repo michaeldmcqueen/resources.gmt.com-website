@@ -4,7 +4,7 @@ category: Workcamps
 subcategory: Post Camp Resources
 order: '4'
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ## We value your feedback!
 
