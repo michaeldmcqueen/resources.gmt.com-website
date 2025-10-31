@@ -1,5 +1,5 @@
 ---
-title: Song List 2026
+title: Song List
 category: Workcamps
 subcategory: Program
 order: 4
