@@ -1,5 +1,5 @@
 ---
-title: Community Gift List 2026
+title: Community Gift List
 category: Workcamps
 subcategory: Schedule, Menu, Packing
 order: 6
