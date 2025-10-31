@@ -138,14 +138,14 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 15th, 2025: Half of what is remaining is due.
-* May 15th, 2025: The final balance is due. (All payments are non-refundable after this date.)
+* March 1st, 2026: Half of what is remaining is due.
+* May 1st, 2026: The final balance is due. (All payments are non-refundable after this date.)
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2025, you’ll just lose the $100 deposit. The entire fee is forfeited for cancellations made after May 15th, 2025.&nbsp;
+Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 1st, you’ll just lose the $100 deposit. The entire fee is forfeited for cancellations made after May 1st.&nbsp;
 
 ---
 
@@ -153,7 +153,7 @@ Call us! If there’s space available in your camp, we’ll ask for the necessar
 
 Cancellations have a huge impact on the people we serve–it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, work materials, and staffing–just for starters. Also, depending on the time of year, sometimes it’s simply impossible for us to re-fill canceled spaces.
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2025 to let us know. As long as you cancel by May 15th, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 1st to let us know. As long as you cancel by May 1st, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations **after** May 1st.
 
 ---
 
