@@ -7,37 +7,98 @@ order_number: 4
 inputs:
   unpublish: false
 ---
+*Why sending our youth to a Workcamp mission trip matters for the spiritual future of our church*
 
-Maybe you’ve heard this, maybe more than once. Maybe this question is what’s keeping you from going away for a mission trip. What do you say when the church leaders pop the ultimate deal-killer of a question…<br>&nbsp;
+Church leaders often ask a very reasonable question:
 
-“Why can’t we just do that here?”
+##### **“Why do we need to travel for a mission trip when there are needs right here in our own community?”**
 
-On the face of it, this seems an impossible question to answer. After all, almost any of the work you do on a mission trip could be done just as easily where you live…couldn’t it? Yes…if a mission trip is all about repairing homes or community service or teaching VBS or any of the other things you might do on a mission trip. But mission trips aren’t just about what you’re doing. They’re about the whole complex process of pushing teens out of their comfort zone for the sake of building relationships and creating space for them to experience God. Here’s how it works…
+This question matters—because your role is to wisely steward resources, ensure safety, and guide the spiritual direction of the church.
 
-**Isolation**
+**The answer is this:**<br>We absolutely *can* and *should* serve locally—but a mission trip is not simply about the work being done. It is about the *transformational environment* that cannot be replicated in a familiar setting. Workcamp-style mission trips uniquely shape faith, character, and leadership in ways that local service—though valuable—cannot fully accomplish.
 
-No, this doesn’t mean your trip is to a deserted island\! Isolation means getting away from a familiar environment where no one can escape. Let’s face it, when you try to do a project locally this is what you get…
+---
 
-* Sure I can be there…except Tuesday when my mom wants me to take my brother to swim lessons. Oh, and Wednesday coach wants us in the weight room by one so I’ll just be there in the morning.
-* My boss won’t let me off Thursday and Friday. My friends are taking off early to go to Tommy’s parent's lake house. But I can be there the rest of the week.
-* I’ll be there but I’m coming late every day ‘cause I promised my dad I’d clean out the garage.
+### **1\. Leaving Creates Spiritual Availability**
 
-Maybe you get the work done but you miss the real impact of going on a mission trip. When you go away from home you cut the connection. Being three hundred miles away eliminates all the excuses. You get work done but you get so much more including a stronger bond among your young people and the adults who go with them.
+When students remain at home, they are still connected to their routines, responsibilities, and distractions:
 
-**Concentration**
+* Summer jobs
+* Sports practices
+* Family obligations
+* Social activities
 
-If you’ve ever had a spoonful of frozen juice concentrate, you know what a powerful experience that can be. Once you add water, it’s just juice, but if you want something out of the ordinary, there’s nothing quite like juice concentrate. The same is true with mission experiences. Do one around the home and your young people might see it as just helping out around the home. Go to a community unlike yours, spend 24/7 with members of your group and get busy doing things you don’t normally do (like swing a hammer or teach a third grader about Jesus) and WHAM\! You’ve tasted concentrate.
+Local projects often result in inconsistent participation: strong starts with weak follow-through. Going away removes these barriers and creates **holy separation**—a dedicated time and space where every participant is fully present, spiritually attentive, and open to God’s work in their lives.
 
-You’ve been challenged and stretched in a way that just doesn’t happen at home. You’ve seen your friends in their extremes when pretend doesn’t hold up, and masks fall off. Now you’re getting down to what’s real. Top it off with the fact that you get to interpret this concentrated experience through the eyes of faith and nothing can match the power of going away for a mission trip.
+**Transformation often requires separation from what is ordinary.**
 
-**Inspiration**
+---
 
-Inspiration is a spiritual experience. Moving away from what you know, and spending time in a place that you might never otherwise experience, is inspirational. It touches your spirit. A mission trip isn’t a vacation. On a mission trip, you go where tourists are never allowed…into the lives of real people. You drive the side streets and back roads. You spend time in the homes and touch the hearts of people you might not otherwise ever meet. When those connections happen you can feel the Holy Spirit at work in your life and see him at work in the lives of others.
+### **2\. Immersion Leads to Deep Discipleship**
 
-And it’s Biblical. When Elijah was at his wit's end and needed renewal, God took him away from home. He showed his power but spoke in a still, small voice. There, in a strange place and away from the stuff of home, Elijah was inspired. He returned home renewed and changed by his encounter with God (1 Kings 19).
+Mission trips are ministry intensives. Participants live in Christian community 24/7—not for two hours after youth group, but for an entire week of worship, work, prayer, and reflection.
 
-**Combination**
+The environment is intentionally structured for discipleship:
 
-The power of a mission trip isn’t found in any one element. It’s not the work or the travel or the time or the distance. A mission trip becomes much more than the sum of its parts when all the parts are put together. So the next time a leader at your church asks…
+* Daily crew & youth group devotions
+* Prayer and spiritual conversation with homeowners
+* Powerful evening worship and program
+* God Sightings—daily testimonies of where participants saw God at work
 
-“Why can’t we just do that here?” …you can say, “If it was just about the work we could, but the most important parts of a mission trip just can’t happen at home.”
+This rhythm creates **spiritual momentum** that cannot be achieved in a local, part-time effort. Students don’t just learn *about* service—they learn to *live* the way of Jesus.
+
+---
+
+### **3\. Real People. Real Need. Real Ministry.**
+
+Workcamp mission trips connect youth with homeowners living in very real need—many who are elderly, disabled, or economically challenged. These are not symbolic service projects; they are life-changing acts of love.
+
+Students don’t serve *projects*—they serve *people*.<br>They hear stories, meet needs, form relationships, and pray with those they serve.
+
+This direct interaction is often the first time a young person truly sees the Church as a living mission—not just a Sunday gathering.
+
+When students see their hands being used to meet needs in Jesus’ name, faith becomes personal, not theoretical.
+
+---
+
+### **4\. Strategic Investment in the Future of the Church**
+
+National studies consistently show that one of the most effective tools for long-term spiritual engagement in young people is participation in mission trips. These experiences:
+
+* Increase post-high school church involvement
+* Inspire students to serve in ministry and leadership roles
+* Produce lifelong disciples, not cultural Christians
+
+In many churches, mission trips have been the catalyst for baptisms, callings into ministry, and renewed congregational passion for local outreach.
+
+Mission trips don’t pull students away from the church—they propel them into it.
+
+---
+
+### **5\. It’s Not About Distance—It’s About Impact**
+
+Yes, we can repair homes here. And yes, we should continue local outreach.
+
+**But local approaches cannot replicate the transformation that happens when students:**
+
+* Step away from comfort
+* Experience full-time Christian community
+* Serve people in unfamiliar contexts
+* Depend on God when their strength runs out
+* See the universal Church in action beyond their own walls
+
+This is not a trip *from* the church. It is a trip *for* the church.
+
+---
+
+### **Final Answer**
+
+**If it were only about fixing houses, we could stay home.<br>But the true power of a mission trip is not the projects—it is the spiritual formation that takes place in the hearts of our youth.**
+
+**Mission trips create disciples, not just volunteers.**
+
+They ignite callings, build leaders, and awaken the next generation to the mission of God.
+
+**That is why we go.**
+
+&nbsp;
