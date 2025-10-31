@@ -1,5 +1,5 @@
 ---
-title: Post-camp Devotion (Preseason)
+title: Post-camp Devotion (Pre-Season)
 category: Workcamps
 subcategory: Post Camp Resources
 order: 3
