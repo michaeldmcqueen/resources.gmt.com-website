@@ -51,7 +51,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 ---
 
-### **<br>Ways You Can Participate in Programs**
+### **Ways You Can Participate in Programs**
 
 **Say:** One of the most exciting parts of this trip is the evening and worship programs. There are several opportunities for you to be involved:
 
@@ -92,13 +92,13 @@ Match these with the corresponding *Impact Moment Card* below.
 9. You spill paint and feel embarrassed.
 10. The air mattress deflates in the middle of the night.
 11. A teen is homesick and quiet.
-12. You're picking up trash in a run-down neighborhood.
+12. You’re picking up trash in a run-down neighborhood.
 13. Worksite tools are old and slow.
 14. You get sunburned on the first day.
 15. You don’t know anyone in your work crew.
 16. The homeowner’s dog keeps barking nonstop.
 17. You are asked to share your testimony.
-18. You're exhausted but the group wants to play games.
+18. You’re exhausted but the group wants to play games.
 19. The free time plans are cancelled due to weather.
 
 ---

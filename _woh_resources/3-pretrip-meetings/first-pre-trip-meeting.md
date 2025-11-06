@@ -7,50 +7,60 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-Have this meeting as soon as possible and invite all interested participants!
+**Say:** Welcome to our Mission Trip Meeting! We are heading to **(your mission trip location)** this summer during **(your dates)**. This experience is going to be life-changing—full of adventure, meaningful relationships, powerful moments with Jesus, and the opportunity to serve people in real need. You’re going to make memories that last a lifetime and friendships that go far beyond this trip!
 
-**BEFORE THE MEETING**
+Before we dive into details, let’s get a visual of what this trip is all about.
 
-Make sure all your participants meet the age requirements to attend!
+**(Play** [**Group Week of Hope promo video**](https://youtu.be/Oi-FcAsrr8g){: target="_blank" rel="noopener"} **or the** [**Youth Expectations Video**](https://vimeo.com/300595208){: target="_blank" rel="noopener"} **(both under Helpful Resources)**
 
-* Jr High/Sr High camps: At least 11 years old or entering the 6th grade in the fall.
-* Senior High only camps: At least 14 years old or entering the 9th grade in the fall.
-* Important adult/youth ratio: You must bring 1 adult (21 or older) for every 5 youth (20 years of younger).
+**Optional**: Invite a couple of students or adults who have been on past mission trips to briefly share one highlight from their experience.
 
-Login to your customer account to help field any questions. Make note of what your camp location has requested for their community gift (under the Schedule, Menu and Packing option in Helpful Resources). Print out any posters, parent letters, or fundraising ideas from the Helpful Resources tab.
+### **Icebreaker Game: “Mission Match-Up!”**
 
-Create a simple handout for participants, parents, and adults that provides the dates (including travel), location, and any other important details. Distribute these at your meeting and consider sending them by email as well!
+##### **Instructions:**
 
-Plan to show the [Group Week of Hope promo video](https://youtu.be/Oi-FcAsrr8g){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300595208){: target="_blank" rel="noopener"}&nbsp;(both under Helpful Resources) from your customer account. Make sure everything is working well.&nbsp;
+* Hand everyone a card as they walk in. **(All the cards are at the bottom of this meeting.)** Half the cards have a service-related situation (like “Painting a house in 95-degree weather”) and the other half have a matching positive outcome (like “The homeowner shares how this changes their life”).
+* When you say, “Go Serve!”, everyone walks around to find their matching partner.
+* Once matched, each pair introduces themselves and shares one reason they’re excited for the trip.
+* Have 2 or 3 pairs read their card combo to the group to highlight both the challenge *and* the reward of serving.
 
-**MEETING CONTENT:**
+**Say:** Just like in this game, this trip will bring challenges and incredible moments of impact. We’re going to experience both—and that’s what makes mission trips so powerful!
 
-Say: *Welcome to our Mission Trip meeting! We are heading to (your mission trip location) this summer during (your dates). This trip will create long-lasting memories –it’s an adventure that will take us to meet people who are in need and we’ll make a real difference in their lives. On top of that, we’ll make friendship connections with people from all over the country, deepen our connection with Jesus, and have an awesome time together! It’s a big deal, so let’s watch this video to get a visual.* (Play the&nbsp;[Week of Hope promo video](https://youtu.be/Oi-FcAsrr8g){: target="_blank" rel="noopener"} or the [Youth Expectations Video](https://vimeo.com/300595208){: target="_blank" rel="noopener"}).
+---
 
-(Another way to build excitement is to invite a couple kids, or adults, who have been on a Group Mission Trip before to share about their experience.)
+### **Inviting Others**
 
-Say: *This mission trip is not only fun, it’s a way for you to get your friends involved in our group, and in service as well. Grab one of the fliers about our trip and personally invite them to join you!*&nbsp;
+**Say:** This mission trip isn’t just for us—it’s an amazing opportunity to get your friends involved in something meaningful. Grab one of the flyers and think of one person you can personally invite. You never know whose life might change because you invited them to serve!
 
-**Introductions and Itinerary**
+---
 
-Say: *We want to be sure that everyone knows what’s happening for our mission trip, so let’s go through some of the important details:*
+### **Introductions & Trip Itinerary**
 
-* Dates: Go through departure and arrival dates and times. Ask parents and teens alike to put those details into their calendars. (Project a calendar to give a visual of the timeframe if possible.)
-* Tuesday free time: Let everyone know there is free time during the middle of the week and, if possible, put together a team of volunteers who are willing to research some fun options to present to the group.
-* Lodging: Using the Lodging Info and the Packing List (under Helpful Resources and under Schedule, Menu, and Packing) in your customer account, talk about where you’ll be staying and what everyone will need to bring.
-* Code of Conduct: The Group Mission Trips Code of Conduct is extremely important! Please ensure that all youth and adult leaders read this carefully and completely understand what they are agreeing to when they sign their participant form.
-* Camp Attire: &nbsp;We don't have a dress code but many of our project sites do. We ask that everyone wear modest clothing so that we can serve those projects.
-* Financial stuff: Talk about the total cost for each person to participate (include transportation, registration, and free time expenses). Discuss fundraising opportunities (if any) and establish a schedule for payment. GMT payment due dates are March 15th and May 15th. (Be sure to set your payments dates earlier so that you can submit payments to GMT on time.)&nbsp;
-* Community gift: Share with everyone the donation items your camp location has requested (located under Helpful Resources and under Schedule, Menu and Packing). Present (or develop together) a plan for how to collect these items and get them to camp with your group.&nbsp;
-* Background checks: You will need to run national criminal background checks for every participant that is 18 or older by the time of your camp (yes, even students!). (If a camper turns 18 within 2-3 weeks of the beginning of camp, you don’t need a check for them). Make a list of who will need a background check and work on a plan to have those completed quickly.&nbsp;
+**Say:** Let’s walk through some important details to make sure everyone knows what to expect:
 
-Say: *That’s a lot of stuff! Make sure you have the important dates in your calendars – and get ready for a great trip! One more thing – the camp is set up for you to participate in a lot of ways:*&nbsp;
+* **Dates & Times:** Here are our departure and return dates. Please pull out your phones and get these on your calendars now.<br>*(Project a calendar on the screen for a visual.)*
+* **Tuesday Evening Free Time:** On Tuesday evening, we’ll have free time. We’ll be forming a small team of volunteers to research fun, safe options and bring suggestions to the group.
+* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List from our Group account, we’ll go over what you need to bring and what the sleeping arrangements look like.
+* **Code of Conduct:** This is extremely important. Every participant must read and understand the Group Mission Trips Code of Conduct before signing the participant form. This keeps everyone safe and focused on our mission.
+* **Camp Attire:** We don’t have a dress code but many of our project sites do. We ask that everyone wear modest clothing so that we can serve those projects.
+* **Financial Info:** The total cost per participant includes transportation, registration, and free time expenses. Our payment schedule will need to be ahead of the GMT deadlines (March 1 and May 1). We will also discuss fundraising opportunities to help cover costs.
+* **Community Gift:** Our camp location has requested certain donation items. (Show list.) As a group, we will decide how to collect and bring these items with us.
+* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. We’ll make a list today of who that applies to and set a timeline to complete them.
 
-* Drama–you can volunteer for a drama and can read Scripture or pray during the evening programs.&nbsp;
-* Lip-Sync Battle–On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. ( You will need to approve their act before they show it to staff at camp).&nbsp;
-* Theme **Dinners**! Bring fun stuff for the 3 theme **dinners** during the week! There will be Christmas Monday, Wacky Wednesday, and Tropical Thursday! Think Christmas sweaters, Santa hats, knee-high unicorn socks, crazy overalls, Hawaiian shirts, and flowered leis!&nbsp;
-* *Worship team–you are welcome to take your instruments along and play with the music team and singers are welcome too! The Song List for camp is in your customer account for those who want to participate*&nbsp;(under Helpful Resources and Program).&nbsp;
+### **Ways You Can Participate in Programs**
 
-Say: *That’s all the information I have for you today! What questions do you have?* (Use the FAQs in your customer account to help you field any questions.)
+**Say:** One of the most exciting parts of this trip is the evening and worship programs. There are several opportunities for you to be involved:
 
-Tell them when you’ll meet again as a team and close in prayer.&nbsp;
+* **Worship Team:** If you play an instrument or sing, you can join the camp music team! The Song List is available in our account.
+* **Drama & Scripture:** You can be part of a drama, read Scripture, or lead prayer during evening programs.
+* **Lip Sync Battle:** On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. ( You will need to approve their act before they show it to staff at camp).
+
+  ###
+
+  ### **Wrap-Up**
+
+  **Say:** That’s all the information I have for today! Make sure those dates are saved and start spreading the word—this trip is going to be incredible. What questions do you have?
+
+  *(Use FAQs from your customer account as needed.)*
+
+&nbsp;
