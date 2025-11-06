@@ -21,11 +21,35 @@ inputs:
 
 ### **Hazlet, NJ:**
 
-· Nonperishable food items
+·  Nonperishable food items, top 10 most needed items:
+
+o Cereal
+
+o Canned meats (Tuna, chicken, spam)
+
+o Rice
+
+o Peanut butter & Grape Jelly
+
+o Macaroni & Cheese
+
+o Tomato Sauce
+
+o Pasta
+
+o Canned Vegetables
+
+o Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
 
 ### **Lincoln, IL:**
 
-\###
+\-Diapers & wipes for Head Start (sizes 4-6 preferred)
+
+· Shelf stable food for homebound senior emergency bags
+
+· They have an Amazon wish list for these items as they have certain items they use due to dietary requirements. Wish list items get delivered directly to their office [https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz\_ls\_biz\_ex](https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz_ls_biz_ex)
+
+·Monetary donations that can support any one of these.
 
 ### **Mescalero, NM:**
 
@@ -57,7 +81,11 @@ inputs:
 
 ### **Parsons, KS:**
 
-\###
+· Nonperishable food items
+
+· Diapers
+
+· Formula
 
 ### **Wallingford, CT:**
 
