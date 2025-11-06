@@ -7,37 +7,44 @@ order_number: 7
 inputs:
   unpublish: false
 ---
-**Scripture Reading: Matthew 22:37-40**&nbsp;
+##### **Scripture Reading: John 1:1-18**
 
-**LEADER**: As you embark on this mission trip, these two commandments from Jesus come together as one. As you’re fully physically, spiritually, and mentally present with others, you express the love of God with your whole self. As you learn and grow from the experience, your neighbor’s life becomes intertwined with yours. The love of God will be experienced by both you and your neighbor.&nbsp;
+&nbsp;
 
-**TEAM MEMBERS:** We go to be present with one another and with those we will serve and serve with.&nbsp;
+**LEADER:** In the beginning was the Word, and the Word was the Light of all humanity. That Light shines in the darkness, and the darkness cannot extinguish it. As you go on this mission trip, you are not just doing work—you are carrying the Light of Christ into places in need of hope, healing, and truth.
 
-**CONGREGATION:** Love God. Love your neighbor.&nbsp;
+**TEAM MEMBERS:** We go to reflect the true Light of Christ so that others may see Him through our service, our presence, and our love.
 
-**TEAM MEMBERS:** We go to make a change for good in our own lives and in the lives of others.&nbsp;
+**CONGREGATION:** The Light has come. We send you to shine.
 
-**CONGREGATION:** Love God. Love your neighbor.&nbsp;
+**TEAM MEMBERS:** We go to be fully present with those we will serve—listening, learning, and loving as Christ first loved us.
 
-**TEAM MEMBERS:** We go to experience the love of God in new and powerful ways.&nbsp;
+**CONGREGATION:** The Light shines in the darkness. We send you to carry that Light.
 
-**CONGREGATION:** Love God. Love your neighbor.&nbsp;
+**TEAM MEMBERS:** We go not in our own strength, but as bearers of the Word made flesh—Jesus, who dwells among us full of grace and truth.
 
-**LEADER:** We as the congregation of \_\_\_\_\_\_\_\_, committed to God’s mission in our own community and throughout the world, commit ourselves to daily, specific prayer for each member of this team during their journey.&nbsp;
+**CONGREGATION:** We commit to pray that the Light of Christ will shine through you.
 
-**CONGREGATION:** As you go, we go with you. We will keep you present in our prayers as you live out the commandments of loving God and loving our neighbors.&nbsp;
+**LEADER:** As the body of Christ here at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, we dedicate ourselves to pray specifically and continually for each mission team member. We stand with you as you go to illuminate communities with the hope and presence of Jesus.
 
-**LEADER AND CONGREGATION:** May the grace, peace, and wisdom of the Lord Jesus Christ go with you as you serve.&nbsp;
+**CONGREGATION:** As you go, we go with you. We will lift you in prayer so that through you, God’s Light may be seen, known, and received.
 
-**TEAM MEMBERS:** We love you God. Use us for your service.&nbsp;
+**LEADER AND CONGREGATION:** May the grace, truth, and Light of our Lord Jesus Christ go before you, surround you, and work through you on this mission. May every encounter reflect the glory of the One who came to bring light to the world.
 
-**ALL:** Amen.&nbsp;
+**TEAM MEMBERS:** We love you, Lord. Let your Light shine through us.
 
-**Scripture Reading: Deuteronomy 6:4-5, Prayer of Dedication**&nbsp;
+**ALL:** Amen. Let there be light!
 
 ---
 
-OTHER EXAMPLES OF WAYS TO COMMISSION THE MISSION TEAM:
+### **Prayer of Dedication**
 
-* Produce a handout with the names of each member of the mission team to give to the congregation and invite them to pray for the team.
-* You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission trip participants will be studying each day as they serve.
+Lord Jesus, True Light who gives light to everyone, illuminate our hearts that we may carry Your presence. As we go, let Your Word dwell in us richly. May we be living reflections of Your grace and truth, so that all who encounter us may encounter You. Amen.
+
+### **Optional Enhancements for Commissioning**
+
+• Produce a handout with the names of each member of the mission team to give to the congregation and invite them to pray for the team.
+
+• You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission trip participants will be studying each day as they serve.
+
+&nbsp;
