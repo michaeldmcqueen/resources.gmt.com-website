@@ -7,26 +7,68 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-## Group Mission Trips’ Screening Requirements:&nbsp;
+To keep every Group Mission Trip safe and secure, **all participants age 18 and older** (including students) must have a **national background check** on file at their church before the trip.
 
-* Participants that are 18 years of age or older (even students) need to have a national background check on file at your church. These background checks cannot be any older than 2 years from the start of your Group Mission Trip event.
+### **Screening Requirements Overview**
 
-* The check must be clear of 1) Having any traits or tendencies that could pose any threat to children, youth, or others 2) Sexual misconduct including crimes resulting in conviction 3) Violence against another person resulting in a felony conviction within the last 10 years 4) Use/distribution of illicit drugs or controlled substances resulting in conviction in the last 10 years 5) Property crime resulting in conviction in the last 10 years
+* Background checks must be **no older than two (2) years** from the start of your mission trip.
+* Each background check must show **no record of:**
+  1. Traits or tendencies that could pose a threat to minors or others
+  2. Any sexual misconduct or convictions involving sexual crimes
+  3. Felony violence against another person within the last 10 years
+  4. Use or distribution of illicit drugs or controlled substances within the last 10 years
+  5. Property crime convictions within the last 10 years
+* These standards apply to all adult participants—both leaders and students 18+.
 
-* Pastor’s signature required: Once background checks are completed, log in to your customer account and click on Forms/Screening and Verification. Type in those participants' names, their background check organization, and date the check was run. Enter your pastor's name and email address on that screen and click the "Send Authorization Message" button. Your pastor will receive an email to authorize the adults that you listed. You will receive a confirmation email when you pastor has authorized those participants. This needs to be completed at least 30 days before your event starts.
+---
 
-### If your church is NEW to background checks, we recommend…&nbsp;
+**Submitting Authorization (Pastor’s Signature Required)**
 
-You may use *any* organization for background checks, just make sure they run national/multi state checks. If you need a recommendation, we like Clear Investigative Advantage!&nbsp;
+Once background checks are completed:
 
-They are super easy to work with and offer a great price. Call them to set up a church/organization account (they do not have a sign-up or annual fee) and tell them you are serving with Group Mission Trips! Their “Basic Starter” package offers a very affordable background check and meets our requirements.
+1\. Log in to your **Customer Account**
 
-It’s best to call them to set up your account, Clear Investigative Advantage can be reached at 888-242-2503, option 2.&nbsp;
+2\. Go to the **Forms** tab and select **Screening and Verification.**
 
-Plan ahead! Setting up an account with any background check organization takes time!&nbsp;
+3\. Enter each **adult participant’s** full name, background check organization, and the date the check was completed
 
-#### Another Background Check Option:
+4\. Enter your **pastor’s name and email address**, then click **“Send Authorization Message.”**
 
-**Not a church or organization?**&nbsp;
+5\. Your pastor will receive an email to review and authorize the listed participants.
 
-There is a provider online that appears reliable that individuals can use to run “instant” background checks: [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
+6\. You’ll receive a confirmation email once your pastor has completed the authorization.
+
+**Deadline:** All authorizations must be submitted **at least 30 days before your trip** begins.
+
+---
+
+**If Your Church Is New to Background Checks**
+
+You’re welcome to use **any qualified provider** that conducts a **national or multi-state background check**.<br>If you’d like a recommendation, we suggest working with:
+
+**Clear Investigative Advantage**
+
+* Great pricing and excellent customer service
+* No sign-up or annual fee
+* Meets Group Mission Trips’ requirements
+* “Basic Starter” package provides an affordable, compliant background check
+
+**To set up your church account:**<br>Call **888-242-2503 (option 2)**<br>
+
+*Plan ahead!* Setting up a new account with any background check provider can take time—start early to avoid delays.
+
+---
+
+**Not Part of a Church or Organization?**
+
+If you’re an **individual participant** (not registering through a church), you can run an instant background check through:
+
+**Criminal WatchDog**<br>This provider appears reliable and offers individual national background checks that meet Group Mission Trips’ basic screening criteria. [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
+
+---
+
+**Thank You!**
+
+By completing background checks on time, you’re helping create a safe, trustworthy environment where everyone—students and adults alike—can focus on serving others and growing in faith.
+
+&nbsp;
