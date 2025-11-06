@@ -1,5 +1,5 @@
 ---
-title: Pre-trip Devotions
+title: Pre-trip Devotions 2025
 category: Community Service
 subcategory: Program
 order: 3
@@ -21,7 +21,7 @@ Say: **Let’s see how we did!** (*Go down the line and have each student say th
 
 ###### Introduction
 
-Say: **Soon we'll be headed out for a week of serving in \_\_\_\_\_\_\_\_\_! Our theme this year is Forged! Before we begin our journey, we are going to explore a story where God helped forge one man’s faith, who would then impact the lives of many others**.
+Say: **Soon we’ll be headed out for a week of serving in \_\_\_\_\_\_\_\_\_! Our theme this year is Forged! Before we begin our journey, we are going to explore a story where God helped forge one man’s faith, who would then impact the lives of many others**.
 
 **God strengthened this man so that he would be ready to take on the great feat of helping many people escape from Egypt. I am referring to Moses. Let’s take a look at today’s scripture.**
 
