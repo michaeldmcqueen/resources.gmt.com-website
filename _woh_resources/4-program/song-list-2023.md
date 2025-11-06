@@ -1,10 +1,10 @@
 ---
-title: Song List 2025
+title: Song List
 category: Community Service
 subcategory: Program
 order: 4
 order_number: 4
 inputs:
-  unpublish: true
+  unpublish: false
 ---
-The updated 2025 Song List will be available early 2025…
+The updated 2026 Song List will be available early 2026…
