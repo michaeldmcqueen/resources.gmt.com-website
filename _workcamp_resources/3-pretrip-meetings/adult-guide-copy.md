@@ -176,7 +176,7 @@ Your youth leader will have the full schedule, but here’s the overview:
 * Each Day: Morning & evening programs + lunch crew devotions
 * Adult Meetings: Sunday and midweek check-ins with staff (mandatory)
 * Free Time: Most afternoons + a free Wednesday afternoon (Dinner is on your own)
-* Lights Out: 11:00 p.m. (midnight on the final night!)
+* Lights Out: 11:00 p.m. (midnight on the final night!)&nbsp;
 * Final Day: Clean up, load up, and say your goodbyes
 
 ---
