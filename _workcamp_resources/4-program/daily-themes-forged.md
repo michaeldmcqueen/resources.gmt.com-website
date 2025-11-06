@@ -1,5 +1,5 @@
 ---
-title: Daily Themes (Equipped)
+title: Daily Themes Illuminate
 category: Workcamps
 subcategory: Program
 order: 2
