@@ -31,7 +31,7 @@ Possible gluten-free options include:
 * Cheese, tomatoes, lettuce, mayo, and mustard&nbsp;
 * Fruit or veggie options&nbsp;
 
-**DINNER**
+### **Dinner**
 
 Each evening (except for Thursday) includes a **salad bar** featuring:
 
