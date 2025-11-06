@@ -7,66 +7,103 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-**PERSONAL ITEMS:**&nbsp;
+*Traveling light—but prepared—makes all the difference! Use this guide to help you pack smart so you can focus on what matters most: serving others and growing together.*
+
+### **Personal Items**
+
+**Sleeping & Comfort**
+
+Bring what you need to stay comfortable during the week!
 
 * Air mattress, cot, or foam pad (twin-size)
 * Sleeping bag or sheets
 * Blanket and pillow
 * Towels and washcloths
 * Modest swimsuit and shower shoes
+
+  &nbsp;
+
+**Toiletries**
+
+Stay fresh and ready for every day of service.
+
 * Toothpaste and toothbrush
 * Soap and shampoo
 * Any prescription medications
-* Laundry/plastic bags (for dirty clothing)
+* Laundry or plastic bags (for dirty clothes)
+
+**Clothing**
+
+Pack practical clothing for work, worship, and fun.
+
 * Long pants or jeans
-* Modest shorts and work t-shirts
+* Modest shorts
+* Work t-shirts
 * Pajamas, socks, and underwear
-* Closed toe sturdy shoes
-* Water bottle (refillable, to be used at your work site)&nbsp;
-* Personal health insurance card or copy
-* Bible
+* Work boots or sturdy shoes
 * Jacket
+
+**Daily Essentials**
+
+Don’t leave these mission trip must-haves behind!
+
+* Water bottle (refillable—for your work site)
+* Personal health insurance card or copy
+* Bible (for program and devotions)
+* Pen or pencil
+* Musical instruments for helping with worship (optional)
+
+### **Optional Items**
+
+*(These can make camp life easier—or just more fun!)*
+
 * Sunglasses
-* Sunscreen and insect repellent
-* Bandanas, a hat, or visor
-* Work gloves
-* Mirror\*
-* Camera\*
-* GPS\* (recommended for drivers)
-* Rain gear\*
-* Snacks\*
-* Fans\* (most churches do not have AC)
-* Flashlight\*
-* Alarm clock\* (battery-powered)
-* Spending money\*
-* Games for free time\*
-* Pen/Pencil for program and devotions
-* Instruments for worship\*
+* Sunscreen
+* Bandanas, hat, or visor
+* Insect repellent
+* Mirror
+* Camera
+* GPS (recommended for drivers)
+* Rain gear
+* Snacks
+* Fans (most lodging facilities do not have AC)
+* Flashlight
+* Alarm clock (battery-powered)
+* Spending money
+* Games for free time
 
-&nbsp;\*Optional Items&nbsp;
-
-**AS A GROUP:**&nbsp;
+### **As A Group**&nbsp;
 
 * 1 first-aid kit for every vehicle&nbsp;
 * 1 5-gallon water jug for every 6 people&nbsp;
 * 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
 
-COMMUNITY GIFT: The community you are serving has a specific need and is asking for donations. Your group’s mission: have FUN collecting as much of the needed item as you can and bring it to camp with you!
+### Community Gift
 
-Check on your customer account, under “Helpful Resources, and then Schedule, Menu and Packing”, to see your camp’s requested item. Your gift will be meeting a specific need in the community you are serving–thank you in advance!
+Each camp location has shared a *specific need* in their community.<br>Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
 
-* Involve your congregation, friends, and even your local businesses in the effort.
-* Is transportation a problem? Purchase your community gifts when you arrive.&nbsp;
+Check your **customer account → Helpful Resources → “Schedule, Menu, and Packing”** to see your camp’s requested item.
 
-**WHAT NOT TO BRING:**&nbsp;
+Your gift meets a *real need* right where you’ll serve—thank you in advance for your generosity!
 
-* Alcohol, tobacco products, or illegal drugs&nbsp;
-* Expensive clothes or jewelry&nbsp;
-* Anything really valuable&nbsp;
-* Fireworks, weapons, or toy guns&nbsp;
-* Skimpy or revealing clothes&nbsp;
-  * Please bring clothes that are appropriate in any situation. Longer shorts, t-shirts, modest swimsuits, etc.&nbsp;
+*Tip:* Involve your congregation, friends, and even local businesses in the effort.<br>*Transportation tight?* You can always purchase your community gifts once you arrive.
 
-**CELL PHONES/IPODS/LAPTOPS/ETC.**&nbsp;
+### **What Not to Bring**
 
-For security reasons, it’s best to leave these items at home. However, we do understand that they are great for capturing moments, sharing life, and communicating back home. If you decide to bring any of these items, don’t let them distract from your experience. How can you be tethered to your devices and expect God to work in unexpected ways? If you decide to bring them, be sure to put them away during the programs and on your project sites.
+Let’s keep our focus clear and our environment safe. Please **leave these at home**:
+
+* Alcohol, tobacco, or illegal drugs
+* Expensive clothes or jewelry
+* Anything valuable
+* Fireworks, weapons, or toy guns
+* Skimpy or revealing clothes
+
+  Please bring clothing that’s appropriate in all settings (longer shorts, t-shirts, modest swimsuits, etc.).
+
+### **Cell Phones, iPods, Laptops, etc.**
+
+For security reasons, it’s best to leave these items at home.<br>We get it—they’re great for capturing memories and keeping in touch—but **don’t let them distract you** from the people and purpose around you.
+
+“How can you be tethered to your devices and expect God to work in unexpected ways?”
+
+If you do bring them, please keep them put away during programs (unless it’s part of the program experience) and on project sites.
