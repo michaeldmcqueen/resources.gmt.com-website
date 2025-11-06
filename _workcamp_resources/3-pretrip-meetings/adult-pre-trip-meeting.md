@@ -57,7 +57,7 @@ This experience will be full of powerful moments, but it will also be full of ch
 
 ##### **<u>Illuminating Through Renewal</u>**
 
-**Say:** Just like a lamp needs to be plugged in to stay lit, we need to stay connected to our source—physically, emotionally, and spiritually. When we're tired or overwhelmed, our light can flicker, and the teens can sense that. That’s why recharging isn’t optional—it’s essential for us to shine.
+**Say:** Just like a lamp needs to be plugged in to stay lit, we need to stay connected to our source—physically, emotionally, and spiritually. When we’re tired or overwhelmed, our light can flicker, and the teens can sense that. That’s why recharging isn’t optional—it’s essential for us to shine.
 
 **Activity – “Light Source Ideas”:**<br>Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can “recharge your light” during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
 
@@ -67,7 +67,7 @@ This experience will be full of powerful moments, but it will also be full of ch
 
 **Say:** On this trip, we’ll be surrounded by teenagers—bright, passionate, energetic lights of their own. Some may shine boldly, while others feel hidden or unsure. Our role is to help their lights grow brighter—not by overpowering them, but by encouraging them to lead, to serve, and to discover the ways God has already placed light within them.
 
-**Activity – “Light Builders or Light Blockers?”**<br>In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager's light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
+**Activity – “Light Builders or Light Blockers?”**<br>In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager’s light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
 
 **Say:** Thank you for those insights. Remember, the trip is *not* about adults being in charge—it’s about students stepping into the light God has given them. Let them lead prayers, take responsibility at work sites, share reflections. You will still ensure safety and boundaries, but your guidance should illuminate their path—not overshadow it.
 
@@ -77,7 +77,7 @@ Also, let’s be mindful that how we interact matters. Any behavior or comment t
 
 **Say:** Finally, I want to remind you of this—light isn’t loud. It doesn’t demand attention. It simply shines. You were invited to serve on this trip because you already carry that light. You don’t have to be perfect. You just have to be present.
 
-These teenagers are some of the most hopeful, resilient people you’ll ever meet. They believe God can use them—and that kind of faith is contagious. As you shine your light, you'll help them see God’s love more clearly. And as they shine, they will illuminate the world around them in ways we may never fully see this side of heaven.
+These teenagers are some of the most hopeful, resilient people you’ll ever meet. They believe God can use them—and that kind of faith is contagious. As you shine your light, you’ll help them see God’s love more clearly. And as they shine, they will illuminate the world around them in ways we may never fully see this side of heaven.
 
 So, let’s stay connected to our source, protect our light, and be ready to illuminate every space we step into.”
 
@@ -85,9 +85,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 
 ### **Tips for Being a Great Adult**
 
-**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. <br><br>
-
-· How can we recharge or find mini moments of downtime?
+**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. <br><br>· How can we recharge or find mini moments of downtime?
 
 (Write ideas on the whiteboard. Examples: morning coffee chats, quick prayer walks, naps during free time, journaling) Discuss the importance of hydration, sleep, and staying healthy.
 
@@ -105,7 +103,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 
 · Encouraging and affirming teens without favoritism (Examples: ensure that you are not spending “extra” time with a youth that could be construed as inappropriate, affirm equally)
 
-**Say**: ** ** And finally—relax! You’ve got this. You’re about to spend a week with some of the most inspiring people on earth—teenagers! They’re full of energy, passion, and optimism. They truly believe they can change the world (and honestly, they can). Our job is to cheer them on, help them grow, and enjoy the ride.
+**Say**: And finally—relax! You’ve got this. You’re about to spend a week with some of the most inspiring people on earth—teenagers! They’re full of energy, passion, and optimism. They truly believe they can change the world (and honestly, they can). Our job is to cheer them on, help them grow, and enjoy the ride.
 
 &nbsp;
 
@@ -172,7 +170,7 @@ These behaviors can cause teens to feel overlooked, discouraged, or powerless.
 
 | **Adult Action** | **How It Dims a Teen’s Light** |
 | --- | --- |
-| An adult dismisses a teen's idea with “You don’t understand how the real world works.” | Shuts down their voice and confidence. |
+| An adult dismisses a teen’s idea with “You don’t understand how the real world works.” | Shuts down their voice and confidence. |
 | A parent only points out mistakes on homework or in sports without acknowledging progress. | Teens feel like they’re never good enough. |
 | A youth leader controls every activity, not allowing teens to make decisions or lead. | Prevents growth and responsibility. |
 | An adult uses sarcasm to “jokingly” point out flaws in front of others. | Creates embarrassment and insecurity. |
