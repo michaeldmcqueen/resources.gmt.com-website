@@ -63,4 +63,66 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
   *(Use FAQs from your customer account as needed.)*
 
-&nbsp;
+### &nbsp;
+
+### ***Instructions for Mission Match-up***
+
+You can use as many pairs as you need based on group size.<br>For small groups (5-10), use 4-5 pairs<br>Medium groups (15–30), use 8–12 pairs<br>Large groups (30–50+), use 15+ pairs
+
+---
+
+##### **Mission Match-Up Pairs**
+
+Service Situation Cards (Challenge)
+
+Match these with the corresponding *Impact Moment Card* below.
+
+1. You’re painting a home in 95-degree heat.
+2. Your group is running behind schedule and tired.
+3. A student is nervous about leading devotion.
+4. You meet a homeowner who won’t make eye contact.
+5. The shower water is freezing cold in the morning.
+6. You get blisters from raking yards all day.
+7. A crew member keeps making mistakes.
+8. You’re asked to pray out loud unexpectedly.
+9. You spill paint and feel embarrassed.
+10. The air mattress deflates in the middle of the night.
+11. A teen is homesick and quiet.
+12. You’re picking up trash in a run-down neighborhood.
+13. Worksite tools are old and slow.
+14. You get sunburned on the first day.
+15. You don’t know anyone in your work crew.
+16. The homeowner’s dog keeps barking nonstop.
+17. You are asked to share your testimony.
+18. You’re exhausted but the group wants to play games.
+19. The free time plans are cancelled due to weather.
+
+---
+
+##### **Impact Moment Cards (Blessing / Reward)**
+
+These are the powerful outcomes that match the situations above.
+
+A. The homeowner shares that they’ve been praying for help, and you are the answer.<br>B. The group rallies together and finishes stronger than ever with real teamwork.<br>C. The student leads devotion and moves the crew to tears.<br>D. The homeowner opens up and shares their life story by the end of the week.<br>E. Everyone laughs, bonds, and says it’s their favorite funny memory.<br>F. You see physical progress and realize you’re changing someone’s life.<br>G. The mistakes lead to mentoring moments that build confidence.<br>H. You feel the Holy Spirit speak through you as you pray.<br>I. The group cheers you on and reminds you it’s about progress, not perfection.<br>J. A student offers their air mattress, and you build a lasting friendship.<br>K. The student opens up about their faith and feels seen and loved.<br>L. A local resident thanks you for caring about their community.<br>M. A student learns patience and creativity while problem-solving.<br>N. The sunburn becomes a reminder of the joy of serving.<br>O. You make new friends and discover unexpected connections.<br>P. The homeowner says the dog hasn’t been that happy in months.<br>Q. Your story inspires a teenager to recommit their life to Christ.<br>R. The laughter during games becomes a bonding highlight.<br>S. The group creates new free-time traditions that are even better.<br>T. The teen begins to understand what real service looks like through your example.
+
+---
+
+##### **How to Play**
+
+1. Pass out ONE card to each person.
+2. Have everyone stand up and yell “GO SERVE!” to begin.
+3. Participants mix and mingle to find their matching pair (Challenge + Impact).
+4. Once matched, each pair introduces themselves and reads their card aloud, showing how **serving leads to impact**.
+
+For larger groups, you can have everyone stand in a circle and have pairs step forward one at a time to “tell the story” of their match.
+
+---
+
+##### **Bonus Twist (For Bigger Groups)**
+
+Add **“Wild Cards”** – reflection prompts anyone can pair with:
+
+* “Share a time when serving surprised you.”
+* “Describe a moment when you saw God move through someone else.”
+
+“Talk about what scares you most—and what you hope God will do.”
