@@ -55,11 +55,11 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 **Monday, Wednesday, and Thursday**&nbsp;
 
-6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks AND Drama team Practice<br>7:00 p.m.  Worship team practice (Not on Thursday)&nbsp;<br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional and not on Thursday)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks AND Drama team Practice<br>7:00 p.m.  Worship team practice <br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
 **Tuesday:**&nbsp;
 
-6:30 a.m. - 3:30 p.m. Same schedule as Monday&nbsp;<br>3:30 p.m. to 10:30 p.m. Youth group free time (dinner and devotions on your own)&nbsp;<br>8 p.m. Lodging facility is back open&nbsp;<br>8:30 p.m. Movie night (optional)&nbsp;<br>10:30 p.m. Bedtime stories (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+6:30 a.m. - 3:30 p.m. Same schedule as Monday&nbsp;<br>3:30 p.m. to 10:30 p.m. Youth group free time (dinner and devotions on your own)&nbsp;<br>8:30 p.m. Lodging facility is back open&nbsp;<br>8:30 p.m. Movie night (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
 
 **Friday:**&nbsp;
 
@@ -135,16 +135,16 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 ### When are the payment dates?
 
-After you register by paying $100 (non-refundable) per space, there are 2 payment dates for the remaining amount:&nbsp;
+After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 15th, 2025: Half of what is remaining is due.&nbsp;
-* May 15th, 2025: The final balance is due. (All payments are non-refundable after this date.)&nbsp;
+* March 1st, 2026: Half of what is remaining is due.
+* May 1st, 2026: The final balance is due. (All payments are non-refundable after this date.)
 
 ---
 
 ### What if I need to add or cancel a space?
 
-Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 15th, 2025, you’ll just lose the $100 deposit. The entire fee is forfeited for cancellations made after May 15th, 2025.&nbsp;&nbsp;
+Call us! If there’s space available in your camp, we’ll ask for the necessary payment. If you have a cancellation, and you’ve exhausted all efforts to re-fill spaces, call us to make cancellations. We’ll adjust your balance accordingly. If you cancel a space before May 1st, you’ll just lose the $100 deposit. The entire fee is forfeited for cancellations made after May 1st.&nbsp;&nbsp;
 
 ---
 
@@ -152,7 +152,7 @@ Call us! If there’s space available in your camp, we’ll ask for the necessar
 
 Cancellations have a huge impact on the people we serve- it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
 
-We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 15th, 2025 to let us know. As long as you cancel by May 15th, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations after May 15th.
+We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 1st to let us know. As long as you cancel by May 1st, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations **after** May 1st.
 
 ---
 
@@ -183,7 +183,7 @@ We request modest clothing choices in our Code of Conduct. While Group Mission T
 * Supplies and project materials for each project site.&nbsp;
 * Bible-based thematic, fun, faith-building programs.&nbsp;
 * Devotions to do before, during, and after camp.&nbsp;
-* 3 highly-trained staff plus 2 volunteer staff to handle all the details.&nbsp;
+* 3 highly-trained staff plus up to 2 volunteer staff to handle all the details.&nbsp;
 * An online customer account full of camp information and resources to help prepare you and your group for camp.&nbsp;
 * Unlimited customer support from professional and courteous staff.&nbsp;
 * T-shirt and Mission Handbook for each participant.&nbsp;
