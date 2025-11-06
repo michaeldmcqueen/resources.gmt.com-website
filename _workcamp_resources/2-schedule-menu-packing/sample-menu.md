@@ -83,7 +83,7 @@ If a participant has a food allergy or restriction:
 
 · No registration discount applies for bringing personal food, but storage space will be provided.
 
-Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under Special Notes for special requests. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler.
+Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under Special Notes for special requests. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler. Please note that we do have peanut butter at camp.
 
 ---
 
