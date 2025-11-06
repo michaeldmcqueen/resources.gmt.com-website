@@ -23,4 +23,4 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### Theme logo
 
-[![](/uploads/equipped-logo-3-1.png){: width="800" height="382"}](https://groupcares-my.sharepoint.com/:i:/g/personal/admin_groupcares_org/ERkZQbA4tWVCrRQ5zTEzXJgBWYBQXYiKmQ9bafvQv0akUQ?e=hJGLij){: target="_blank" rel="noreferrer nofollow noopener"}
+[![](/uploads/gmt-illuminate-logo-oragneshadow.png){: width="800" height="249"}](https://groupcares-my.sharepoint.com/:i:/g/personal/admin_groupcares_org/ERkZQbA4tWVCrRQ5zTEzXJgBWYBQXYiKmQ9bafvQv0akUQ?e=hJGLij){: target="_blank" rel="noreferrer nofollow noopener"}
