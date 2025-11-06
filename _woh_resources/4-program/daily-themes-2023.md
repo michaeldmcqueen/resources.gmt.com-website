@@ -5,11 +5,11 @@ subcategory: Program
 order: 2
 order_number: 2
 inputs:
-  unpublish: false
+  unpublish: true
 ---
 ### ​​​**Theme: Equipped**
 
-We will use the acronym EQUIP. This will be an acronym your students can take home with them to quickly remember what's in their toolbox whenever they are faced with a challenge.
+We will use the acronym EQUIP. This will be an acronym your students can take home with them to quickly remember what’s in their toolbox whenever they are faced with a challenge.
 
 **E – Evaluate**
 
