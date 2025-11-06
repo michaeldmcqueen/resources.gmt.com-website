@@ -7,77 +7,190 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-Adults are one of the most important ingredients in a successful mission trip, and this meeting is designed to train and equip your adults to be the amazing leaders that every teenager needs. During the meeting, you’ll help everyone feel prepared and communicate important details and principles that every adult needs to understand and commit to. Every adult participant should attend this meeting!
+Hey Team!
 
-**BEFORE THE MEETING**
+You’re one of the most important ingredients in making our mission trip amazing—and this meeting is all about helping you feel confident, equipped, and ready to lead our teens well.
 
-* Log-in to your customer account and have it up online to assist you.
-* Print copies of the Adult Guide to hand out&nbsp;
-* It’s up to you if you want to print out copies of other documents. You could print the Schedule, Packing List, &nbsp;or the Code of Conduct.
-* You can share the lodging facility details by showing them on the screen or copying it into a document to share.
-* Have a way to show the Adult Expectation Video [click here](https://vimeo.com/302123478/1ed84e15cc){: target="_blank" rel="noopener"}
-* A white board and marker would be handy if you have access to one.
+By the end, you’ll know exactly what to expect, what to pack, and how to relax and go with the flow. Every adult should plan to attend—this is your launchpad for an awesome week!
 
-**WELCOME**
+---
 
-Say: *I want to start by saying a big “Thank You!” for being a part of this summer’s mission trip. Our teenagers couldn’t experience a trip like this without you. I want you to know something-this is bigger than you, or me, or our church, or even the people that we’ll serve. When God brings together all the people, parts, and plans of our Group Mission Trip, our youth grow closer to Jesus, and lives are changed. That’s what it’s all about, and that’s what you’re a part of. So thanks again!*
+### **Before the Meeting**
 
-*Our time today will help prepare us to be the kind of leaders that can help our kids grow closer to Jesus. This year’s program theme is Equipped. In a world where both teens and adults grapple with anxiety, worry, and stress, we want to remind everyone that God has given us everything we need to live a fulfilling Christian life. This week, we will explore 2 Corinthians 9:8, learning how God equips us to live out our faith with confidence and purpose. We hope this week will give you opportunities with your youth to discuss how to fully embrace their faith, moving beyond simply going through the motions to living it out through love, kindness, and action. We’ll all be challenged to reflect on how God equips us to face life’s challenges, trusting that he provides the tools we need to walk faithfully. By the end of the week, we will all feel spiritually ready to return home, confident in our ability to live out God’s purpose for our lives and make a difference in the world around us.*
+Here’s what to have ready:
 
-*We’re going to go over three very important ideas that will help us have a great attitude and give the example of great behavior while on our mission trip.*
+* Log into your **Group Mission Trips customer account** and have it open during the meeting.
+* Print **Adult Guides** for everyone.
+* Optional: Print extra materials like the **Schedule, Packing List, or Code of Conduct**.
+* Have your lodging details handy (on-screen or printed).
+* Be ready to show the **Adult Expectations Video** (test the link ahead of time).
+* Posters with different parts of the trip prepared and hung in the room, with markers at each station.
+* Notecards with Light Builder or Light Blocker examples for small groups (examples listed at the end of this meeting)
+* Bring a whiteboard and markers for brainstorming.
+* Optional: Provide light snacks or coffee- it sets a welcoming tone and encourages conversation.
 
-*First, let’s watch this Adult Expectations video. (After watching the video, see if there are any questions/comments. Next review these few additional reminders to ensure the best experience for your adults.)*
+---
 
-1\. BREATHE<br><br>Say: *The first idea we’ll discuss is “Breathe.” The idea of breathing is to know your personal limits and find ways to recharge so we can all be great adults for our teens. It may sound weird to talk about this topic before the trip–before you’re tired, stressed, overwhelmed, stretched, etc.–but let’s take the time now to think about how to take care of ourselves during the trip.*&nbsp;
+### **Welcome and Theme Intro**
 
-*Let’s be honest, mission trips are tiring. We will be serving long days, working hard on our projects, dealing with youth and issues, other adults, and we’ll be getting less sleep than we are used to. It’s exhausting! We will need to think ahead and take advantage of every opportunity to take care of ourselves. Each of us will need to look for opportunities to grab downtime when we can. Let’s brainstorm ideas of how and when we can find downtime .* (Use board to gather ideas from everyone.)&nbsp;
+**Say** something like:
 
-Say: *We need to communicate! Be honest if you need a break or a nap or just a quick run to get coffee. Our teenagers– and the other youth on the mission trip–will know if we are worn out, tired, and grumpy. When you have a chance to get a break, take it.*&nbsp;
+“Hey everyone—first of all, thank you! Seriously. Our teens couldn’t experience this kind of life-changing trip without you. And here’s the thing—this trip is bigger than any one of us. It’s bigger than our church, our plans, or even the projects we’ll work on. God’s doing something amazing through Group Mission Trips—He’s shaping hearts and drawing people closer to Jesus. And YOU get to be part of that.”
 
-2\. UNDERSTAND
+This summer’s theme, *Illuminate*, invites us to see Jesus as the unstoppable Light that shines through every part of life—school, sports, friendships, and everything in between.
 
-* Say: *You are going to be surrounded by teenagers for this trip, so let’s talk about how to relate to them. Keep in mind that you’ll be interacting with both kids from our group and kids from all over the country! These kids will be from different churches and may have very different backgrounds than us. Here are a couple of ideas we need to keep in mind:*
+When we invite him into all of it, we discover that we’re right where he wants us to be—living out our purpose. In a world full of pressure, noise, and distraction, *Illuminate* helps students experience real faith, real connection, and real joy as they learn to carry his Light wherever they go. *(John 1:1–18)*
 
-DON’T BE “THE BOSS”
+You might add:
 
-* Activity: Divide the group of adults into smaller groups of three or four. Have each group brainstorm ways they could be controlling and acting like “The Boss” while on the mission trip. After several minutes of sharing, record ideas from each group on the whiteboard. Make sure you give every group a chance to share ideas. After gathering all the ideas, highlight the following:
-* Say something like: *Thank you for all those ideas. I want to make sure to mention a couple of ideas again (or “in addition to the great ideas you came up with,” if they didn’t get shared as part of the brainstorm). Let’s remember that the trip is about the teenagers–not us. Our role is to encourage and guide, not be a director or dictator.*
-* *One way we can fail is acting like “The Boss” on our project site. There will be crew roles for each person on your crew. Let the youth participants fill the work director and the devotion leader roles. This will allow the kids to lead; and we’ll be there to give guidance and encouragement.*
-* *Do take the lead in checking safety at your project sites and at our lodging facility. This includes not letting the kids leave the project or lodging facility without you or another adult. If you ever see something during the trip that looks unsafe or inappropriate or is just something you are uncomfortable with, let the camp staff know right away.*
+“Our goal as adults is to help students not just *hear* about Jesus, but *see* him in action—through us, through their teammates, and through the people we serve.”
 
-DON’T BE INAPPROPRIATE
+---
 
-* Say something like: *Being inappropriate is not something that any of us wants to be. We need to make sure that we’re not interpreted that way. It’s inappropriate to be the adult that is telling off-color jokes, making comments about teenagers of the opposite gender which could be construed as sexual, or making inappropriate physical contact. And yes, that could include a misinterpreted hug.*
-* *The key is “misinterpreted.” There are some adults out there who do creepy things to kids, and that is ugly, wrong, and sinful. It has no place in church ministry. Ever. Period. But there have been adults who have done things or said things unintentionally that still made a teenager feel uncomfortable.*
-* *Our advice to you is to always error on the side of being overly cautious. Don’t assume that the way you talk to or show affection for the kids in our own youth group is going to be acceptable to others. Nothing would ruin our trip faster than someone not understanding something any of us does or says and thinking that we are acting in a way that is inappropriate or unacceptable. Questions or thoughts on that?*
+### **Theme Activity:**
 
-3\. RELAX
+**Say:** As we prepare for this mission trip, I want us to lean more into our theme: *Illuminate***.** Light has purpose—it reveals, it guides, it brings warmth and clarity. Our role on this trip is not to be the brightest light in the room, but to be steady lights that help teenagers see Jesus more clearly through how we serve, lead, and care for them.
 
-* Say: *Relax! That’s our final point for the meeting. You’re going to do a great job serving on our mission trip. You are going to be with some of the best, most idealistic people–teenagers. They feel indestructible and invincible. They are willing to take on anything and believe they can accomplish these things. We need to be there to support and guide them.*
+This experience will be full of powerful moments, but it will also be full of challenges—long days, early mornings, minimal rest. Light can dim when it’s not cared for. So, before we even arrive, let’s talk about how we will keep our lights shining.
 
-**DETAILS**
+&nbsp;
 
-Pass out any copies you made:
+##### **<u>Illuminating Through Renewal</u>**
 
-* Schedule: Remind everyone about the exact dates of travel and have them put them on their calendar! Discuss who can drive, how many seats each vehicle has, and travel time. Discuss possible stops during travel and/or overnight stays and fun options for any free time.
-* Dress Code: Discuss modest dress and come to an agreement on specifically what that means for your participants. Let your adults know that Group Mission Trips’ staff will not be policing dress during the camp, they will be focusing on participant safety and spiritual growth–this means that you are responsible for your participant’s dress. Agree to encourage plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the work sites. Talk about how your leadership team will be handling the inappropriate dress of your youth during camp.
-* Community Gift: Explain that this is an additional, optional, way that your group can bless the community you’re serving. Every location has requested a specific need in their community- your location’s item is located under your customer account under Schedule, Menu, and Packing. Give an update on how your group is handling this.
-* Code of Conduct: Participants live by this code during camp, emphasize the importance of reading it and point out the section on there specific to adults. Every participant agrees to it when they sign their Participant Info Form online.
-* Theme and program info: It’s wise to set good expectations about our program. Make sure your adults understand these key elements of our program.
-  * *Focused on Jesus.*&nbsp;Our goal is to point people to Jesus. Programs focus on Bible passages and daily themes that challenge us to respond to Jesus in ways we will never forget.
-  * *Interactive.*&nbsp;People learn better by doing. Participants will be involved in sharing, speaking, singing, acting, reflecting…not just sitting and watching.
-  * *Relevant.*&nbsp;Through creative multimedia, thought provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
-  * *Fun.*&nbsp;Relationship-building activities, games, and having fun are part of every program. Expect to have a great time! .
-* Adult Guide: This is a great resource to prepare adult participants, be sure everyone gets one.
+**Say:** Just like a lamp needs to be plugged in to stay lit, we need to stay connected to our source—physically, emotionally, and spiritually. When we’re tired or overwhelmed, our light can flicker, and the teens can sense that. That’s why recharging isn’t optional—it’s essential for us to shine.
 
-**BACKGROUND CHECKS**
+**Activity – “Light Source Ideas”:**<br>Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can “recharge your light” during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
 
-Let everyone know how your group is handling background checks. Anyone that is 18 or older will need a national background check run on them–the check cannot be older than 2 years from the start of the trip.
+**Say:** When you need to step away to refuel, speak up. Protecting your light helps you illuminate others. A dim, exhausted leader can’t reflect the love of Christ the way a rested one can.
 
-**OPPORTUNITY FOR EXTRA ADULTS**
+##### **<u>Illuminating Through Connection</u>**
 
-If you have extra adults above the 1 to 5 adult ratio, they are welcome to serve as participants or apply to be on staff during the camp. Tell anyone interested to go to [GroupMissionTrips.com](https://GroupMissionTrips.com){: target="_blank" rel="noopener"} and click on About Us and then Join our Team for more information and to apply.
+**Say:** On this trip, we’ll be surrounded by teenagers—bright, passionate, energetic lights of their own. Some may shine boldly, while others feel hidden or unsure. Our role is to help their lights grow brighter—not by overpowering them, but by encouraging them to lead, to serve, and to discover the ways God has already placed light within them.
 
-**FIELD QUESTIONS AND CLOSING PRAYER**
+**Activity – “Light Builders or Light Blockers?”**<br>In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager’s light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
 
-Pray something like:&nbsp;*God, thank you for these adults who are committing their time to you and to the kids in our youth group. God bless each one of us as we strive to lead the youth of our church on our mission trip this summer. Give us the ability to Breathe, Understand and Relax this summer. Thank you for the opportunity to serve you on our mission trip. In Jesus’ name. Amen.*
+**Say:** Thank you for those insights. Remember, the trip is *not* about adults being in charge—it’s about students stepping into the light God has given them. Let them lead prayers, take responsibility at project sites, share reflections. You will still ensure safety and boundaries, but your guidance should illuminate their path—not overshadow it.
+
+Also, let’s be mindful that how we interact matters. Any behavior or comment that could be misinterpreted can dim trust quickly. Always choose clarity, care, and respect so your presence reflects the light of Christ without confusion.
+
+##### **<u>Illuminating Through Presence</u>**
+
+**Say:** Finally, I want to remind you of this—light isn’t loud. It doesn’t demand attention. It simply shines. You were invited to serve on this trip because you already carry that light. You don’t have to be perfect. You just have to be present.
+
+These teenagers are some of the most hopeful, resilient people you’ll ever meet. They believe God can use them—and that kind of faith is contagious. As you shine your light, you’ll help them see God’s love more clearly. And as they shine, they will illuminate the world around them in ways we may never fully see this side of heaven.
+
+So, let’s stay connected to our source, protect our light, and be ready to illuminate every space we step into.”
+
+---
+
+### **Tips for Being a Great Adult**
+
+**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. <br><br>· How can we recharge or find mini moments of downtime?
+
+(Write ideas on the whiteboard. Examples: morning coffee chats, quick prayer walks, naps during free time, journaling) Discuss the importance of hydration, sleep, and staying healthy.
+
+**Say**: You’ll be surrounded by teens—our own and others from all over the country! Different backgrounds, different personalities, same big hearts. Let’s remember- this trip is about the teens. Our role is not to control but to encourage and guide. Let them take the lead on projects and devotions. We are here to support, not direct.
+
+· How are some ways we can connect with the teens on our trip?
+
+(Write ideas on the whiteboard. Examples: ask open ended questions, listen more than you talk, join their activities like paint with them, laugh with them, encourage teamwork and celebrate small wins)
+
+**Say**: Now let’s talk about safety. This is a big one. We never want anything we do or say to make a teen feel uncomfortable. That means avoiding off-color jokes, physical contact that could be misinterpreted, or comments that could come across as inappropriate. When in doubt, error on the side of caution. Let’s chat about a few situations that could arise and how we would handle those situations.
+
+· Maintaining healthy boundaries (Examples: alone with a camper, sleeping arrangements, shower situations, physical touch that is appropriate vs. could be perceived as inappropriate)
+
+· Appropriate use of phones and social media on the trip (Examples: posting videos/photos of youth, and those not from your group, befriending/following minors)
+
+· Encouraging and affirming teens without favoritism (Examples: ensure that you are not spending “extra” time with a youth that could be construed as inappropriate, affirm equally)
+
+**Say**:  And finally—relax! You’ve got this. You’re about to spend a week with some of the most inspiring people on earth—teenagers! They’re full of energy, passion, and optimism. They truly believe they can change the world (and honestly, they can). Our job is to cheer them on, help them grow, and enjoy the ride.
+
+&nbsp;
+
+Add a few reminders:
+
+* Be flexible—plans *will* change.
+* Smile often; laughter builds connection faster than anything.
+* Keep the main thing the main thing: Jesus.
+
+---
+
+### **Trip Details & Logistics**
+
+Hand out your printed materials and cover these key points:
+
+* Schedule: Confirm travel dates, times, drivers, vehicle capacity, and any fun stops or free time.
+* Dress Code: Keep it simple and modest—plenty of T-shirts (with sleeves preferred), longer shorts or pants, and sturdy shoes. Adults set the example here!
+* Community Gift: Each site has a special request. Check your account under *Schedule &gt; Menu &gt; Packing* to see what your location needs.
+* Code of Conduct: Everyone signs this. Review the adult-specific sections together.
+* Theme & Program Info:
+  * *Focused on Jesus* — every day points to him.
+  * *Interactive* — there’s no sitting still for long!
+  * *Relevant* — creative worship and real conversations.
+  * *Fun* — expect laughter, games, and lifelong memories.
+
+Make sure everyone gets an Adult Guide—it’s full of practical info for the week.
+
+---
+
+### **Background Checks**
+
+Remind everyone: anyone 18+ needs a national background check completed within two years of the trip start date.
+
+---
+
+### **Extra Adults?**
+
+If you have more adults than your 1:5 ratio—awesome!<br>They can join as participants or even apply to serve on camp staff.
+
+Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https://groupmissiontrips.com) for details.
+
+---
+
+### **Wrap-Up & Prayer**
+
+**Say** something like:
+
+“Let’s close in prayer.”
+
+**Prayer:**<br>God, thank you for these incredible adults who are giving their time, energy, and hearts to serve you and our teens. As we prepare for this trip, help us to illuminate you through renewal, connection, presence—trusting that you’ve already equipped us for what’s ahead. Bless our mission trip, every person we’ll meet, and every moment of service we’ll share.<br>In Jesus’ name, amen.
+
+---
+
+### **You’re ready!**
+
+You’re part of something bigger than any single trip—God’s story of love in action.<br>Now take a deep breath, smile, and get excited… the adventure’s about to begin!
+
+&nbsp;
+
+##### **Adults Who Dim Youth (Light Blockers)**
+
+These behaviors can cause teens to feel overlooked, discouraged, or powerless.
+
+| **Adult Action** | **How It Dims a Teen’s Light** |
+| --- | --- |
+| An adult dismisses a teen’s idea with “You don’t understand how the real world works.” | Shuts down their voice and confidence. |
+| A parent only points out mistakes on homework or in sports without acknowledging progress. | Teens feel like they’re never good enough. |
+| A youth leader controls every activity, not allowing teens to make decisions or lead. | Prevents growth and responsibility. |
+| An adult uses sarcasm to “jokingly” point out flaws in front of others. | Creates embarrassment and insecurity. |
+| A teacher compares teens to their siblings or other students (“Why can’t you be more like…?”) | Builds shame instead of motivation. |
+| A coach benches a student without explaining why or helping them improve. | Leaves the teen feeling helpless and unvalued. |
+| A church leader guards leadership roles for adults only, never letting teens serve. | Blocks teens from using their God-given gifts. |
+
+---
+
+##### **Adults Who Build Youth (Light Builders)**
+
+These actions show belief in teenagers and help them step into their God-given purpose.
+
+| **Adult Action** | **How It Helps Their Light Shine** |
+| --- | --- |
+| A leader says, “Your voice matters here. What do you think we should do?” | Encourages leadership and confidence. |
+| A parent celebrates effort and character growth, not just the outcome. | Builds resilience and identity in Christ. |
+| A mentor gently guides a teen through failure and shows them how to grow from it. | Turns mistakes into learning opportunities. |
+| A teacher notices a teen’s gift and gives them a chance to use it publicly. | Affirms their purpose and encourages courage. |
+| A coach tells the student what they’re doing well *and* gives specific tools to improve. | Builds skill and self-esteem. |
+| A youth pastor invites teens to pray, lead worship, or plan service projects. | Empowers them to be active in their faith. |
+| An adult takes time to listen without judgment and responds with hope. | Makes the teen feel seen, safe, and valued. |
+
+&nbsp;
