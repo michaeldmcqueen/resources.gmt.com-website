@@ -33,7 +33,7 @@ Possible gluten-free options include:
 
 ### **Dinner**
 
-Each evening (except for Thursday) includes a **salad bar** featuring:
+Each evening (except for Wednesday) includes a **salad bar** featuring:
 
 Mixed greens, carrots, hard boiled eggs, black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
 
@@ -41,15 +41,15 @@ Peanut butter and jelly available each night&nbsp;
 
 **Sunday**:&nbsp; Gluten free pizza can be served
 
-**Monday**: Vegetables and ice cream cups&nbsp;
+**Monday**: Pulled Pork\*, Vegetables
 
 **Tuesday**: Dinner on your own&nbsp;
 
-**Wednesday**: Pulled Pork\*, Vegetables
+**Wednesday**: Taco shells, tortilla chips, ground beef\*, black beans,<br>salsa, diced tomatoes, cheese, onions
 
-**Thursday**: Taco shells, tortilla chips, ground beef\*, black beans,<br>salsa, diced tomatoes, cheese, onions
+**Thursday**: Vegetables and ice cream cups
 
-**Beverages**: Lemonade or fruit punch
+**Beverages**: Lemonade
 
 ### **Gluten-Free Items Available at Camp**
 
