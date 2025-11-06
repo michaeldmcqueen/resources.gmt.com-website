@@ -94,10 +94,8 @@ We encourage participants to bring additional gluten-free snacks and favorites, 
 
 We’re committed to partnering with trip leaders and participants to ensure everyone feels comfortable, safe, and nourished. **Please ensure that all dietary restrictions or severe allergies need to be put in the special requests section of customer accounts so we can let the staff at camp know ahead of time.**
 
-<br>If you have questions about gluten-free accommodations, please call us at **844\.258.9616**.
+If you have questions about gluten-free accommodations, please call us at **844\.258.9616**.
 
-&nbsp;
-
-*\*\*(Brands may differ per location.) \*\**
+&nbsp;*\*\*(Brands may differ per location.) \*\**
 
 ***![](/uploads/gluten-free.PNG){: width="655" height="641"}***
