@@ -37,9 +37,8 @@ inputs:
 
 | 6:30 a.m.–3 p.m&nbsp; | Same as Monday |
 | 3:30 p.m. | Check-in at lodging facility<br>Free time: dinner and devotions on your own |
-| 8:00 p.m&nbsp; | Lodging facility back open |
+| 8:30 p.m&nbsp; | Lodging facility back open |
 | 8:30 p.m&nbsp; | Movie night (optional) |
-| 10:30 p.m | Bedtime stories (optional) |
 | 11 p.m | Lights-out |
 
 **WEDNESDAY**&nbsp;
