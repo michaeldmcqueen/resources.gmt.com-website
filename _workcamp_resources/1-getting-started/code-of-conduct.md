@@ -24,7 +24,7 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 ### **Prohibited Behavior**
 
 * Endangering the health and safety of yourself, other participants, residents, partners, staff, or volunteers.
-* Entering areas of the lodging facility that are not assigned to you or leaving the lodging facility or worksite without permission.
+* Entering areas of the lodging facility that are not assigned to you or leaving the lodging facility or work site without permission.
 * Damaging of any property.
 * Using profanity, inappropriate language, or displaying clothing or other personal items with offensive content.
 * Inappropriate physical contact, comments, gestures, references, pictures, or videos.
