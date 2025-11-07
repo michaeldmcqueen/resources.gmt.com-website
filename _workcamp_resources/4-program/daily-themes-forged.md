@@ -23,7 +23,7 @@ Jesus is the Light that darkness can’t defeat. That’s the story we’ll live
 
 **“Jesus Illuminates our Fear to Reveal His Truth”**
 
-Matthew 12:22- 33
+Matthew 12:22-33
 
 Immediately, Jesus made the disciples get into the boat and go on ahead of him to the other side, while he dismissed the crowd. After he had dismissed them, he went up on the mountainside by himself to pray. Later that night, he was there alone, and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it. Shortly before dawn Jesus went out to them, walking on the lake. When the disciples saw him walking on the lake, they were terrified. “It’s a ghost,” they said, and cried out in fear.)
 
