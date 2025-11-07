@@ -1,11 +1,11 @@
 ---
-title: Week of Hope Survey (Preseason)
+title: Week of Hope Survey (Pre-Season)
 category: Community Service
 subcategory: Post Camp Resources
 order: '4'
 order_number: 4
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ## We value your feedback!
 
