@@ -143,7 +143,7 @@ Remind everyone: anyone 18+ needs a national background check completed within t
 
 If you have more adults than your 1:5 ratio—awesome!<br>They can join as participants or even apply to serve on camp staff.
 
-Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https://groupmissiontrips.com) for details.
+Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https://groupmissiontrips.com/about-us/join-our-team){: target="_blank" rel="noopener"} for details.
 
 ---
 
