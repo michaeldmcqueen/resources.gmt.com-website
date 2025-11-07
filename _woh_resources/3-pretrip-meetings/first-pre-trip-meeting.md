@@ -19,12 +19,14 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 ##### **Instructions:**
 
-* Hand everyone a card as they walk in. **(All the cards are at the bottom of this meeting.)** Half the cards have a service-related situation (like “Painting a house in 95-degree weather”) and the other half have a matching positive outcome (like “The homeowner shares how this changes their life”).
-* When you say, “Go Serve!”, everyone walks around to find their matching partner.
-* Once matched, each pair introduces themselves and shares one reason they’re excited for the trip.
-* Have 2 or 3 pairs read their card combo to the group to highlight both the challenge *and* the reward of serving.
+* **Hand everyone a card as they enter.**<br>Half the cards describe a **community-service situation** (like “Sorting food at the pantry for 2 hours”), and the other half describe the **matching positive impact** (like “A family receives groceries that same afternoon”).
+* When you say, **“Let’s Bring Hope!”**, everyone stands up and **walks around to find the card that matches theirs**.
+* Once matched, each pair **introduces themselves** and shares **one thing they’re excited about for Week of Hope**.
+* Choose **2–3 pairs** to read their card pairs out loud to show how **every act of service—big or small—creates real impact**.
 
-**Say:** Just like in this game, this trip will bring challenges and incredible moments of impact. We’re going to experience both—and that’s what makes mission trips so powerful!
+**Leader Line to Wrap It Up:**
+
+**Say:**<br>“Just like in this game, Week of Hope will bring real challenges—early mornings, long tasks, unexpected moments—and real rewards. We’ll meet incredible people, form new relationships, and make a real difference in the community. Both sides matter, and together, they make serving at Week of Hope so meaningful!”
 
 ---
 
@@ -55,7 +57,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 * **Drama & Scripture:** You can be part of a drama, read Scripture, or lead prayer during evening programs.
 * **Lip Sync Battle:** On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. ( You will need to approve their act before they show it to staff at camp).
 
-  ###
+  &nbsp;
 
   ### **Wrap-Up**
 
@@ -71,39 +73,39 @@ You can use as many pairs as you need based on group size.<br>For small groups (
 
 ---
 
-##### **Mission Match-Up Pairs**
+### **Mission Match-Up Pairs**
 
-Service Situation Cards (Challenge)
+**SERVICE SITUATIONS (Half of the Cards)**
 
-Match these with the corresponding *Impact Moment Card* below.
-
-1. You’re painting a home in 95-degree heat.
-2. Your group is running behind schedule and tired.
-3. A student is nervous about leading devotion.
-4. You meet a homeowner who won’t make eye contact.
-5. The shower water is freezing cold in the morning.
-6. You get blisters from raking yards all day.
-7. A crew member keeps making mistakes.
-8. You’re asked to pray out loud unexpectedly.
-9. You spill paint and feel embarrassed.
-10. The air mattress deflates in the middle of the night.
-11. A teen is homesick and quiet.
-12. You’re picking up trash in a run-down neighborhood.
-13. Worksite tools are old and slow.
-14. You get sunburned on the first day.
-15. You don’t know anyone in your work crew.
-16. The homeowner’s dog keeps barking nonstop.
-17. You are asked to share your testimony.
-18. You’re exhausted but the group wants to play games.
-19. The free time plans are cancelled due to weather.
+1. Organizing shelves at the food pantry for hours.
+2. Pulling weeds in the community garden under the hot sun.
+3. Playing games with kids who have endless energy.
+4. Sorting donations in a crowded thrift store.
+5. Serving meals during a busy lunch rush.
+6. Painting a long hallway at a community center.
+7. Delivering care packages around the neighborhood.
+8. Helping an elderly resident clean their living space.
+9. Learning a new task you’ve never done before.
+10. Spending time with someone who talks… a lot.
+11. Working on a project that feels slow or repetitive.
+12. Showing up tired but giving your best anyway.
 
 ---
 
-##### **Impact Moment Cards (Blessing / Reward)**
+##### **MATCHING POSITIVE OUTCOMES (Other Half of the Cards)**
 
-These are the powerful outcomes that match the situations above.
-
-A. The homeowner shares that they’ve been praying for help, and you are the answer.<br>B. The group rallies together and finishes stronger than ever with real teamwork.<br>C. The student leads devotion and moves the crew to tears.<br>D. The homeowner opens up and shares their life story by the end of the week.<br>E. Everyone laughs, bonds, and says it’s their favorite funny memory.<br>F. You see physical progress and realize you’re changing someone’s life.<br>G. The mistakes lead to mentoring moments that build confidence.<br>H. You feel the Holy Spirit speak through you as you pray.<br>I. The group cheers you on and reminds you it’s about progress, not perfection.<br>J. A student offers their air mattress, and you build a lasting friendship.<br>K. The student opens up about their faith and feels seen and loved.<br>L. A local resident thanks you for caring about their community.<br>M. A student learns patience and creativity while problem-solving.<br>N. The sunburn becomes a reminder of the joy of serving.<br>O. You make new friends and discover unexpected connections.<br>P. The homeowner says the dog hasn’t been that happy in months.<br>Q. Your story inspires a teenager to recommit their life to Christ.<br>R. The laughter during games becomes a bonding highlight.<br>S. The group creates new free-time traditions that are even better.<br>T. The teen begins to understand what real service looks like through your example.
+1. A family receives food that SAME day because of your organizing.
+2. Fresh produce grows, helping feed the neighborhood.
+3. Kids feel valued, seen, and loved through your presence.
+4. Shoppers find affordable clothing with dignity and joy.
+5. Dozens of people receive a warm meal without long waits.
+6. The center becomes more welcoming for everyone who walks in.
+7. A neighbor feels remembered, valued, and supported.
+8. A resident experiences dignity, safety, and relief.
+9. You discover new skills and confidence you never expected.
+10. Someone feels heard and cared for because you slowed down.
+11. A nonprofit staff member says, “This saves us HOURS of work.”
+12. Your willingness lifts the team and helps the project succeed.
 
 ---
 
@@ -111,7 +113,7 @@ A. The homeowner shares that they’ve been praying for help, and you are the an
 
 1. Pass out ONE card to each person.
 2. Have everyone stand up and yell “GO SERVE!” to begin.
-3. Participants mix and mingle to find their matching pair (Challenge + Impact).
+3. Participants mix and mingle to find their matching pair (Service+ Positive Outcomes).
 4. Once matched, each pair introduces themselves and reads their card aloud, showing how **serving leads to impact**.
 
 For larger groups, you can have everyone stand in a circle and have pairs step forward one at a time to “tell the story” of their match.
