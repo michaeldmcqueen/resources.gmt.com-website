@@ -9,7 +9,21 @@ inputs:
 ---
 ### **Barnesville, MN:**
 
-\###
+· Nonperishable food items. Most needed items:
+
+o Canned meat
+
+o Pasta
+
+o Pasta Sauce
+
+o Cereal
+
+o Canned Fruits
+
+o Canned Veggies
+
+· Checks can be made out to Churches United. 1901 1<sup>st</sup> Ave N, Moorhead, MN 56560
 
 ### **Belle, WV:**
 
@@ -17,7 +31,17 @@ inputs:
 
 ### **Grosse Pointe Woods, MI:**
 
-&nbsp;
+&nbsp;· Nonperishable food items such as:
+
+o Instant Oatmeal
+
+o Canned fruit
+
+o Pasta
+
+o Sauce
+
+o Canned meats
 
 ### **Hazlet, NJ:**
 
@@ -77,7 +101,7 @@ o Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
 
 ### **Ordway, CO:**
 
-\###
+Coming soon...
 
 ### **Parsons, KS:**
 
@@ -89,11 +113,11 @@ o Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
 
 ### **Wallingford, CT:**
 
-\###
+Coming soon...
 
 ### **Wausau, WI:**
 
-&nbsp;
+&nbsp;Coming soon...
 
 ### **Winchester, KY:**
 
