@@ -9,7 +9,7 @@ inputs:
 ---
 ### ​​​Theme: Illuminate
 
-### SUNDAY PROGRAM
+### SUNDAY KICKOFF PROGRAM
 
 ##### Illuminate
 
@@ -19,11 +19,11 @@ In everyday life, illuminate just means to light something up; like your phone s
 
 Jesus is the Light that darkness can’t defeat. That’s the story we’ll live out together this week and when you return home.
 
-### MONDAY PROGRAM
+### SUNDAY NIGHT PROGRAM
 
 **“Jesus Illuminates our Fear to Reveal His Truth”**
 
-Matthew 12:22- 33
+Matthew 12:22-33
 
 Immediately, Jesus made the disciples get into the boat and go on ahead of him to the other side, while he dismissed the crowd. After he had dismissed them, he went up on the mountainside by himself to pray. Later that night, he was there alone, and the boat was already a considerable distance from land, buffeted by the waves because the wind was against it. Shortly before dawn Jesus went out to them, walking on the lake. When the disciples saw him walking on the lake, they were terrified. “It’s a ghost,” they said, and cried out in fear.)
 
@@ -33,7 +33,7 @@ Immediately Jesus reached out his hand and caught him. “You of little faith,�
 
 Peter had courage to step out of the boat. For a moment, he walks on water! But when he sees the waves, fear takes over… and he starts to sink. Here’s what I love: Jesus doesn’t yell at him for doubting. Jesus didn’t scold him for being afraid; He illuminated Peter’s fear to show him truth: that faith shines brightest when we look to Jesus.
 
-### TUESDAY PROGRAM
+### MONDAY PROGRAM
 
 **“Jesus Illuminates our Sin to Reveal His Grace”**
 
@@ -47,7 +47,7 @@ That’s the heart of grace. Grace isn’t something we can earn or work our way
 
 It’s completely unfair in the most amazing way. We don’t deserve to be forgiven, yet God forgives us. We don’t deserve his love, yet he loves us. We don’t deserve light, yet he shines it into our darkness.
 
-### **WEDNESDAY PROGRAM**
+### **TUESDAY MORNING PROGRAM**
 
 **“Jesus Illuminates our Heart to Reveal His Holiness”**
 
@@ -67,7 +67,7 @@ If our hearts are unguarded, anything can influence us. Things like fear, compar
 
 And that’s what these verses are about, creating a pure heart. Jesus illuminates our hearts to reveal his holiness. When his light shines in us, he doesn’t just expose the mess, he transforms it.
 
-### THURSDAY PROGRAM
+### WEDNESDAY PROGRAM
 
 **“Jesus Illuminates our Life to Reveal His purpose.”**
 
@@ -79,7 +79,7 @@ This scripture reminds us that all things work together for good, not just the e
 
 Some of you might not see it yet, and that’s okay. Maybe right now, you’re in the middle of the chapter that doesn’t make sense. But one day, you’ll look back and say, ‘Oh… that’s what you were doing, God.’
 
-### FRIDAY PROGRAM
+### THURSDAY PROGRAM
 
 **“Jesus Illuminates our Service to reveal His Glory”**
 
