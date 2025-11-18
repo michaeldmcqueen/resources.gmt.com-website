@@ -9,95 +9,95 @@ inputs:
 ---
 ### **Barnesville, MN:**
 
-· Nonperishable food items. Most needed items:
+Nonperishable food items. Most needed items:
 
-o Canned meat
+\-Canned meat
 
-o Pasta
+\-Pasta
 
-o Pasta Sauce
+\-Pasta Sauce
 
-o Cereal
+\-Cereal
 
-o Canned Fruits
+\-Canned Fruits
 
-o Canned Veggies
+\-Canned Veggies
 
-· Checks can be made out to Churches United. 1901 1<sup>st</sup> Ave N, Moorhead, MN 56560
+\-Checks can be made out to Churches United. 1901 1<sup>st</sup> Ave N, Moorhead, MN 56560
 
 ### **Belle, WV:**
 
-· Nonperishable food items
+\-Nonperishable food items
 
 ### **Grosse Pointe Woods, MI:**
 
-&nbsp;· Nonperishable food items such as:
+&nbsp;Nonperishable food items such as:
 
-o Instant Oatmeal
+\-Instant Oatmeal
 
-o Canned fruit
+\-Canned fruit
 
-o Pasta
+\-Pasta
 
-o Sauce
+\-Sauce
 
-o Canned meats
+\-Canned meats
 
 ### **Hazlet, NJ:**
 
-·  Nonperishable food items, top 10 most needed items:
+Nonperishable food items, top 10 most needed items:
 
-o Cereal
+\-Cereal
 
-o Canned meats (Tuna, chicken, spam)
+\-Canned meats (Tuna, chicken, spam)
 
-o Rice
+\-Rice
 
-o Peanut butter & Grape Jelly
+\-Peanut butter & Grape Jelly
 
-o Macaroni & Cheese
+\-Macaroni & Cheese
 
-o Tomato Sauce
+\-Tomato Sauce
 
-o Pasta
+\-Pasta
 
-o Canned Vegetables
+\-Canned Vegetables
 
-o Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
+\-Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
 
 ### **Lincoln, IL:**
 
 \-Diapers & wipes for Head Start (sizes 4-6 preferred)
 
-· Shelf stable food for homebound senior emergency bags
+\-Shelf stable food for homebound senior emergency bags
 
-· They have an Amazon wish list for these items as they have certain items they use due to dietary requirements. Wish list items get delivered directly to their office [https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz\_ls\_biz\_ex](https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz_ls_biz_ex)
+\-They have an Amazon wish list for these items as they have certain items they use due to dietary requirements. Wish list items get delivered directly to their office [https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz\_ls\_biz\_ex](https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz_ls_biz_ex)
 
-·Monetary donations that can support any one of these.
+\-Monetary donations that can support any one of these.
 
 ### **Mescalero, NM:**
 
-· Nonperishable food items
+\-Nonperishable food items
 
-· Home care paper products (paper towels, toilet paper, facial tissue, etc.)
+\-Home care paper products (paper towels, toilet paper, facial tissue, etc.)
 
-· Dental hygiene items (floss, toothbrushes, toothpaste, etc.)
+\-Dental hygiene items (floss, toothbrushes, toothpaste, etc.)
 
-· Toiletries (soaps, deodorant, combs, etc.)
+\-Toiletries (soaps, deodorant, combs, etc.)
 
-· Infant and baby items (diapers of all sizes, wipes, formula, bottles/sippy cups, etc.)
+\-Infant and baby items (diapers of all sizes, wipes, formula, bottles/sippy cups, etc.)
 
-· Feminine hygiene products
+\-Feminine hygiene products
 
-· NEW socks and underwear of all ages/genders/sizes
+\-NEW socks and underwear of all ages/genders/sizes
 
 ### **Mount Gilead, OH:**
 
-· Shelf-stable packaged food items: cereal, spaghetti-O’s, ravioli, canned chicken, canned tuna, spam
+\-Shelf-stable packaged food items: cereal, spaghetti-O’s, ravioli, canned chicken, canned tuna, spam
 
-· Pull-ups (4t & 5t)
+\-Pull-ups (4t & 5t)
 
-· Formula
+\-Formula
 
 ### **Ordway, CO:**
 
@@ -105,11 +105,11 @@ Coming soon...
 
 ### **Parsons, KS:**
 
-· Nonperishable food items
+\-Nonperishable food items
 
-· Diapers
+\-Diapers
 
-· Formula
+\-Formula
 
 ### **Wallingford, CT:**
 
@@ -117,11 +117,29 @@ Coming soon...
 
 ### **Wausau, WI:**
 
-&nbsp;Coming soon...
+\-Household items not covered by SNAP benefits
+
+\-Kleenex (tissues)
+
+\-Paper towels
+
+\-Clorox wipes & spray
+
+\-Hand sanitizer
+
+\-Dish washer detergent or pods
+
+\-Dish soap (dawn)
+
+\-Kitchen towels
+
+\-Sponges
+
+\-General cleaning supplies
 
 ### **Winchester, KY:**
 
-· Nonperishable food items
+\-Nonperishable food items
 
 &nbsp;
 
