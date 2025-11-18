@@ -113,7 +113,11 @@ Coming soon...
 
 ### **Wallingford, CT:**
 
-Coming soon...
+\-Nonperishable food items: canned meats, canned fruits, pasta, sauce
+
+\-Paper products: tissues, toilet paper, paper towels
+
+\-Personal care items
 
 ### **Wausau, WI:**
 
