@@ -7,9 +7,9 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-**Charleston, SC**: Coming soon...<br>
+**Charleston, SC**: Nonperishable canned food items<br>
 
-**Cincinnati, OH:** Canned food items<br>
+**Cincinnati, OH:** Nonperishable canned food items<br>
 
 **Nashville, TN:** Lunch boxes and water bottles <br>
 
