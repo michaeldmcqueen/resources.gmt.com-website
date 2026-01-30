@@ -34,7 +34,6 @@ A few that worked well for some groups in the past:
    4. Consider a straightforward ask for a special offering from your congregation. There’s no overhead, you have no expenses, no shopping, no work to put in, and 100% of the offering go towards it
    5. Invite students to personally fundraise with support letters to family and friends.
 4. Find someone who is good with details to help plan if you are not! This will make the planning process much easier if you have someone who is able to keep up with money, find the best route to the location you are serving, etc.
-{: start="3"}
 
 **Activities**
 
@@ -63,7 +62,7 @@ A few that worked well for some groups in the past:
 
 **Before You Leave**
 
-1. Don't forget your coolers and water jugs. Veteran youth leaders love ones with wheels!
+1. Don’t forget your coolers and water jugs. Veteran youth leaders love coolers with wheels!
 2. Take advantage of the pre-trip devotions to get your group together 3-4 times. Use these opportunities to build community with your students prior to traveling. This is especially important if you have a large group.
 3. Bag Drop Off Day– If you’re planning to leave early in the morning, have a day 1-2 days before you leave where students drop off their luggage, sleeping bags, and air mattresses and they all get loaded into your travel trailer.
 4. Make a T-Shirt for your group and make it a good one! – Don’t make it Red (red is the staff color)
