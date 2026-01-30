@@ -75,8 +75,8 @@ Don’t leave these mission trip must-haves behind!
 ### **As A Group**&nbsp;
 
 * 1 first-aid kit for every vehicle&nbsp;
-* 1 5-gallon water jug for every 6 people&nbsp;
-* 1 large cooler (on wheels is preferred) for every 6 people&nbsp;
+* 1  five-gallon water jug for every 6 people&nbsp;
+* 1 large cooler (62 quarts or larger, on wheels preferred) for every 6 people
 
 ### Community Gift
 
