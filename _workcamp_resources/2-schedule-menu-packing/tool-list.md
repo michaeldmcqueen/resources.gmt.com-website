@@ -60,7 +60,7 @@ inputs:
 ### **As a Group, Please Bring**
 
 * 1 five-gallon water jug *(per 6 people)*
-* 1 family-size cooler (on wheels) *(per 6 people)*
+* 1 large cooler (62 quarts or larger, on wheels preferred) for every 6 people
 * 2 spade shovels *(per group)* \*
 * 1 box of rags
 * Drop cloths *(1 per 6 people)*
