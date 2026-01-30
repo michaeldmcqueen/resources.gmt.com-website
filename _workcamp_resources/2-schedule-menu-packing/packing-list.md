@@ -82,8 +82,8 @@ Don’t leave these mission trip must-haves behind!
 Make sure your group has these shared items covered:
 
 * **1 first-aid kit** for every vehicle
-* **1 5-gallon water jug** for every 6 people
-* **1 large cooler** (on wheels preferred) for every 6 people
+* **1 five-gallon water jug** for every 6 people
+* **1 large cooler** (62 quarts or larger, on wheels preferred) for every 6 people
 
 ---
 
