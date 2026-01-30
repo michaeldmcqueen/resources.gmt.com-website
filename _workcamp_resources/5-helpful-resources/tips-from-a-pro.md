@@ -34,7 +34,6 @@ A few that worked well for some groups in the past:
    4. Consider a straightforward ask for a special offering from your congregation. There’s no overhead, you have no expenses, no shopping, no work to put in, and 100% of the offering go towards it
    5. Invite students to personally fundraise with support letters to family and friends.
 4. Find someone who is good with details to help plan if you are not! This will make the planning process much easier if you have someone who is able to keep up with money, find the best route to the location you are serving, etc.
-{: start="3"}
 
 **Activities**
 
@@ -63,7 +62,7 @@ A few that worked well for some groups in the past:
 
 1. Buy & bring your supplies as a group, not as individuals (put this in your budget for the trip if you can). You can get more when purchasing in bulk, and once you have your supplies, you only need to resupply things that you use up or lose each year. Long term, it’s a budget saver.
 2. If you’re looking for bulk purchases, check out [www.mbsomaha.com](http://www.mbsomaha.com). They sell bulk tools and paint supplies at amazing prices. (If attending Workcamps)
-3. Don’t forget coolers and water jugs. Veteran youth leaders love ones with wheels!
+3. Don’t forget coolers and water jugs. Veteran youth leaders love coolers with wheels!
 
 **Before You Leave**
 
