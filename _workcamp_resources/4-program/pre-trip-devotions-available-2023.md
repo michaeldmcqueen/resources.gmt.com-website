@@ -11,27 +11,33 @@ inputs:
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
-**Ice Breaker** **Question**: If you were going on a big trip and could only take 3 items, would what they be and why?
+**Ice Breaker:** Follow the light
+
+**How to Play:**
+
+1\. Designate 1 person as the “Light Leader”. They will need a flashlight or their phone flashlight.
+
+2\. Shut off all of the lights and tell the rest of the students to disperse around the room.
+
+3\. The Light Leader will stand in 1 spot and slowly shine the light all across the room, moving it around slowly and steadily, pausing every once in a while.
+
+4\. The rest of the students must follow the light wherever it goes.
+
+5\. Do this for a couple of minutes. If desired, switch out the Light Leader to try it with a few different people.
 
 **Ask and Discuss:**
 
-\- Were there any items that everyone agreed would be important?
+\- What was easy about following the light?
 
-\- Were the items you chose mostly physical items, or were there any intangible items?
+\- What was hard about following the light?
 
-\- Were the items you listed ones you already owned, or would you have to acquire them?
+\- Did you ever hesitate to follow where the light was leading?
 
-\- Would anyone change their answer after hearing the group’s items?
+God invites us to step toward his light. We may not know everything that lays ahead, but we *can* trust who is leading. In the game, following the light wasn’t about speed or winning—it was about awareness. It required paying attention, letting go of control, and trusting that wherever the light moved was the path we were meant to follow. This is exactly how God asks us to approach him. His light isn’t something we create, it’s something we follow and step into. It is steady, faithful, and always pointing us in the right direction.
 
-When thinking through what you would bring on a trip, there were probably some different approaches to how you answered this question. Some items you *need* and others you simply *want.* Either way, the things you pack help prepare you for the experience ahead.
+Our week at camp will be a special opportunity to practice noticing his light, following it closely, and allowing him to reveal things we couldn’t see on our own. Some of the things God reveals might be exciting—new friendships, fun experiences, or ways he speaks to your heart. Other things might feel uncomfortable—moments where he challenges fears, exposes habits, or calls us to grow in ways we didn’t expect. But just as in the game, we don’t have to know the whole path ahead. We only need to keep our eyes on the Light, trust the One who holds it, and take the next step, even when it’s uncertain.
 
-The word **“tool”** is often associated with hammers, screwdrivers, or other construction equipment, but tools are everywhere and help us in things far beyond just building. A fork is a tool for eating, a pencil is a tool for writing, and even a kind word can be a tool for encouragement. Some tools are physical objects, but others can help us develop qualities like patience, wisdom, or faith.
-
-This summer, we will explore the tools that equip us to walk closer with Jesus. These tools will help us reflect his love, navigate life’s challenges, and grow in our faith. Just like a carpenter needs the right tools to build, we need spiritual tools to strengthen our relationship with Christ and serve others well.
-
-**Scripture: Hebrews 13:20-21**
-
-“Now may the God of peace, who through the blood of the eternal covenant brought back from the dead our Lord Jesus, that great Shepherd of the sheep, equip you with everything good for doing his will, and may he work in us what is pleasing to him, through Jesus Christ, to whom be glory for ever and ever. Amen.”
+**Scripture:** John 8:12 – Jesus says, *“I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”*
 
 **Ask and Discuss:**
 
@@ -39,67 +45,48 @@ This summer, we will explore the tools that equip us to walk closer with Jesus. 
 
 \- What does this scripture tell us about ourselves?
 
-\- What are some spiritual tools you think you already have and use in your daily life?
+\- Why is it sometimes hard to take a step towards God’s light if we don’t know what’s ahead?
 
-\- What tools do you want to develop to grow closer to Jesus?
+\- How can we encourage each other to take those next steps, even when it feels uncertain?
 
-**Closing thought:** God desires to equip us, not just for a mission trip this summer, but for life’s big and small moments. Not only does he call us to his will but gives us the strength and the means to fulfill it. He provides us with his Word, his Spirit, and a community of believers to help us along the way. Our ability to live for God comes not from our own efforts, but his power working within us through Christ.
+**Closing Thought:** Jesus is the true Light of the world. John 8:12 tells us that when we follow him, we will never walk in darkness, but will have the light of life. This means that no matter what fears, doubts, or confusion we face, his light is greater and cannot be overcome. Following Jesus doesn’t mean life will always be easy or that we will understand every step of the path, but it does mean that we have a guide we can trust. His light brings hope, direction, and clarity when everything around us feels uncertain.
 
-**Pray:** God of Peace, thank you for your faithful guidance and for equipping us with everything we need. Work in us what is pleasing to you, shaping our hearts and lives according to your purpose. May we walk in obedience and trust, knowing that it is your power within us that enables us to serve you. Amen.
+**Prayer:** God, Thank You for being the Light of the world. Thank You for guiding us, even when we don’t know the whole path ahead. Help us to notice Your light in our lives—to see where You are leading, even in the small or mundane moments. Teach us to trust You fully, letting go of our need to control and following You step by step. Give us courage to step into the unknown, knowing that Your light is steady, faithful, and always pointing us in the right direction. Thank You for never leaving us in darkness and for being our guide, our hope, and our Light. Amen.
 
 ### Pre-Trip Devotion \#2
 
-**Game: Cup Relay**
+**Ice Breaker:** Reveal the Picture
 
-Setup & Materials:
+**Materials Needed:** 3-5 photos printed out and then cut into pieces. You can choose the photos!
 
-* Plastic cups (one per team, filled with water)
-* A start and finish line (10–15 feet apart)
-* A piece of 1-foot-long string and 1 spatula per team
-* Tip: This game will likely do best outside, in case there is spilling of water.
+**How to Play:**
 
-How to Play:
+1\. Take 1 piece of the image and show it to your students.
 
-1. Divide into teams (or play every person for themselves if you have a small group). Each team gets a full cup of water at the starting line.
-2. Round 1 – No Tools Allowed
-   * The first player must move the cup **without using their hands or body**. (*See if anyone comes up with a way to move the cup (many might not know what to do).)*
-3. Round 2 – Partial Tools
-   * Give each team a piece of string
-   * Players must now work together to find a creative way to move the cup using the string
-4. Round 3 – Fully Equipped
-   * Give each team 1 spatula
-   * They can now strategize how to get the cup to the finish line efficiently.
-5. Each Round: Determining the winner
-   * Teams compete to get their cup of water across the finish line with the most water remaining.
-   * Do not refill cups with water between rounds. Whoever has the most water remaining after each round wins. Whoever has the most remaining after the final round is the overall winner. If a cup loses all water, that team is removed from the competition. (*The winner is determined by the level of water remaining. If there is a tie, the winner is determined by who finished the race first.)*
+2\. Ask students to guess what it is.
+
+3\. Gradually add more pieces to the picture until it becomes clearer.
 
 **Ask and Discuss:**
 
-\- How did it feel trying to move the cup of water when you didn’t have any tools to help?
+\- How confident were you in your guess at the beginning?
 
-\- What changed as you received different tools?
+\- What changed as more of the picture was revealed?
 
-We all face big challenges in life, and if you haven’t yet, you likely will. Maybe it was speaking in front of a group or stepping into a leadership role at school. Even going on this mission trip is a big event. It’s easy to feel unqualified or unsure of how God can use us. But like we talked about in our last devo, God never calls us to something without equipping us for it.
+God’s light works the same way as this puzzle. He doesn’t always show us everything at once, but when his light shines, our understanding changes. Light has a way of revealing things we may not be able to see or fully understand. The moment a light shines on a dark room, we can see suddenly see what was always there. Once the light is turned on, you might see the pair of shoes you’ve been looking for, or you might see that some things are slightly out of place. Shapes become clearer, obstacles are revealed, and paths we couldn’t see before come into focus. In the same way, God’s light reveals things about *us*. When God shines His light into our lives, He helps us see ourselves, the world, and our need for Him more clearly.
 
-Moses felt this way when God called him to lead the Israelites out of Egypt. He doubted his abilities and even questioned God’s choice. But God reassured him in **Exodus 4:12**, *“Now go; I will help you speak and will teach you what to say.”* Moses wasn’t equipped on his own, but God gave him what he needed.
+**Scripture:** 2 Corinthians 4:6 For God, who said, “*Let light shine out of darkness*,” made his light shine in our hearts to give us the light of the knowledge of God’s glory displayed in the face of Christ.
 
-As we prepare for our summer mission trip, you may feel both excited and nervous. That’s okay. It is normal for both feelings to exist at the same time. You might be eager for new experiences but uncertain about what’s ahead. Maybe you’re wondering: *Will I make friends? Can I really make a difference? Am I ready for this?*
+**Ask and Discuss:**
 
-In those moments of uncertainty, faith allows us to trust God even when we don’t fully understand his plan. It’s the confidence that he is with us, for us, and equipping us every step of the way.
+\- What does this scripture tell us about God?
 
-**Scripture: Ephesians 2:10**
+\- What does this scripture tell us about ourselves?
 
-“For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.”
+\- Does the thought of God “revealing” things in your life make you excited or anxious?
 
-Ask and Discuss:
+**Closing Thought:** The Bible tells us that God’s light shines in our hearts to help us know him better. This kind of light isn’t meant to shame us or overwhelm us. It’s meant to guide us, heal us, and lead us toward freedom. Sometimes God’s light reveals things we’re grateful for—strengths, growth, joy, or gratitude. Other times it reveals things that are harder to face—sin, fear, unhealthy patterns, or places we’ve been avoiding. But whatever God reveals, He does so with purpose and love. He only brings things into the light because He wants to transform them.
 
-* What does this scripture tell us about God?
-* What does this scripture tell us about ourselves?
-* What is one fear and one excitement you have about going on our mission trip?
-* Can you think of a time when God helped you through something you didn’t feel ready for?
-
-**Closing thought:** No matter how you are feeling, rest assured knowing that God is already preparing you for this experience. Trust him, lean into the tools he’s already given you, and know that he is walking with you through every challenge and joy that this experience will bring. God sees you, knows you, and will equip you for exactly what he has called you to do.
-
-**Pray:** God, thank you for going before us and preparing the way for this journey. In moments of excitement and uncertainty, help us to trust in your plan and lean on the gifts you’ve given us. Give us peace in knowing that you are walking with us every step of the way. Lord, remind us that we are seen, known, and equipped by you for exactly what you have called us to do. May we step forward in faith, ready to serve, love, and grow in your presence. Amen.
+**Prayer:** God, thank you for being our light in the darkness. Thank You for opening our eyes to see Your truth and Your love. Thank you for revealing things in our life so that we can know you better and know ourselves better. When we face darkness—fear, doubt, or confusion—remind us that Your light is stronger, and it will show us the way. May the light of Christ in us bring hope, joy, and life to everyone around us. Amen.
 
 &nbsp;
