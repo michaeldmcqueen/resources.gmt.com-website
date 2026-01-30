@@ -1,160 +1,92 @@
 ---
-title: Pre-trip Devotions 2025
+title: Pre-trip Devotions 2026
 category: Community Service
 subcategory: Program
 order: 3
 order_number: 3
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ### Pre-Trip Devotion \#1
 
 *(Note to youth leaders: These devotions are meant to be a starting-off place to help prepare your group for this year’s Group Mission Trip experience. Please feel free to adjust the material to fit your context.)*
 
-###### **Icebreaker**
+**Ice Breaker:** Follow the light
 
-Say: **We are going to test our ability to communicate without using any words. I am going to give you 2-5 minutes (depending on your group size) to get in order of your birthdays, but without talking. January will start here and we will wrap around until December. Be sure to get in order of birth month and date. Go!**
+**How to Play:**
 
-*(Allow time)*
+1\. Designate 1 person as the “Light Leader”. They will need a flashlight or their phone flashlight.
 
-Say: **Let’s see how we did!** (*Go down the line and have each student say their birthday out loud. Once you get through the line comment on their success or challenges and invite the group to take a seat.)*
+2\. Shut off all of the lights and tell the rest of the students to disperse around the room.
 
-###### Introduction
+3\. The Light Leader will stand in 1 spot and slowly shine the light all across the room, moving it around slowly and steadily, pausing every once in a while.
 
-Say: **Soon we’ll be headed out for a week of serving in \_\_\_\_\_\_\_\_\_! Our theme this year is Forged! Before we begin our journey, we are going to explore a story where God helped forge one man’s faith, who would then impact the lives of many others**.
+4\. The rest of the students must follow the light wherever it goes.
 
-**God strengthened this man so that he would be ready to take on the great feat of helping many people escape from Egypt. I am referring to Moses. Let’s take a look at today’s scripture.**
+5\. Do this for a couple of minutes. If desired, switch out the Light Leader to try it with a few different people.
 
-###### Scripture Reading
+**Ask and Discuss:**
 
-*3 Now Moses was tending the flock of Jethro his father-in-law, the priest of Midian, and he led the flock to the far side of the wilderness and came to Horeb, the mountain of God. 2 There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up. 3 So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”*
+\- What was easy about following the light?
 
-*4 When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!”*
+\- What was hard about following the light?
 
-*And Moses said, “Here I am.”*
+\- Did you ever hesitate to follow where the light was leading?
 
-*5 “Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.” 6 Then he said, “I am the God of your father,\[a\] the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God*.
+God invites us to step toward his light. We may not know everything that lays ahead, but we *can* trust who is leading. In the game, following the light wasn’t about speed or winning—it was about awareness. It required paying attention, letting go of control, and trusting that wherever the light moved was the path we were meant to follow. This is exactly how God asks us to approach him. His light isn’t something we create, it’s something we follow and step into. It is steady, faithful, and always pointing us in the right direction.
 
-Exodus 3: 1 - 6
+Our week at camp will be a special opportunity to practice noticing his light, following it closely, and allowing him to reveal things we couldn’t see on our own. Some of the things God reveals might be exciting—new friendships, fun experiences, or ways he speaks to your heart. Other things might feel uncomfortable—moments where he challenges fears, exposes habits, or calls us to grow in ways we didn’t expect. But just as in the game, we don’t have to know the whole path ahead. We only need to keep our eyes on the Light, trust the One who holds it, and take the next step, even when it’s uncertain.
 
-###### Discussion
+**Scripture:** John 8:12 – Jesus says, *“I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life.”*
 
-**Let’s take a few minutes to turn to the person next to you and answer the following questions.**
+**Ask and Discuss:**
 
-* **Why do you think Moses decided to approach the burning bush?**
-* **Would you have decided to investigate the burning bush if you were in his position?**
-* **Why do you think Moses was afraid to look at God?**
+\- What does this scripture tell us about God?
 
-*(Let the students discuss for a few minutes)*
+\- What does this scripture tell us about ourselves?
 
-Say: **At the time Moses saw the burning bush, he was just going about his normal activities. He was simply tending to the flock. This was an ordinary activity in his life. Then all of a sudden, things changed, and God showed up in an unexpected way.**
+\- Why is it sometimes hard to take a step towards God’s light if we don’t know what’s ahead?
 
-**God met Moses in an ordinary time, but an in extraordinary way and Moses was brave enough to respond. We know that Moses was intrigued by the burning bush, but he was also afraid when he learned that it was God calling to him.**
+\- How can we encourage each other to take those next steps, even when it feels uncertain?
 
-**In the same way, God can reach us in unexpected moments and unexpected ways. It is not uncommon for God to move in our lives when we are not expecting it. Sometimes it may be in an obvious way - like Moses experienced, but other times it may be a little more difficult to decipher - like trying to organize ourselves by birthday.**
+**Closing Thought:** Jesus is the true Light of the world. John 8:12 tells us that when we follow him, we will never walk in darkness, but will have the light of life. This means that no matter what fears, doubts, or confusion we face, his light is greater and cannot be overcome. Following Jesus doesn’t mean life will always be easy or that we will understand every step of the path, but it does mean that we have a guide we can trust. His light brings hope, direction, and clarity when everything around us feels uncertain.
 
-**Either way, we know that when this happens it is okay to be afraid or nervous. However, we are still called to respond and listen to God.**
-
-*(Leader - share a time God moved in your life when you least expected it)*
-
-**As we prepare to go to \_\_\_\_\_\_\_\_\_\_ you may begin to feel God moving in your life. My challenge for you this week is to be on the lookout for ways God may begin to forge your faith. Try to spend some time listening to what God may be trying to share with you.**
-
-**Let’s Pray.**
-
-*Wrap up in prayer*
+**Prayer:** God, Thank You for being the Light of the world. Thank You for guiding us, even when we don’t know the whole path ahead. Help us to notice Your light in our lives—to see where You are leading, even in the small or mundane moments. Teach us to trust You fully, letting go of our need to control and following You step by step. Give us courage to step into the unknown, knowing that Your light is steady, faithful, and always pointing us in the right direction. Thank You for never leaving us in darkness and for being our guide, our hope, and our Light. Amen.
 
 ### Pre-Trip Devotion \#2
 
-###### **Icebreaker**
+**Ice Breaker:** Reveal the Picture
 
-Say: **Let’s get into 1-2 circles (depending on group size) and face the center. On the count of three, no one is allowed to smile. If you do smile, take a seat. The last person standing wins! Feel free to make funny faces to encourage your friends to smile.**
+**Materials Needed:** 3-5 photos printed out and then cut into pieces. You can choose the photos!
 
-**Any questions?**
+**How to Play:**
 
-**1, 2, 3 No Smiling!**
+1\. Take 1 piece of the image and show it to your students.
 
-###### Introduction
+2\. Ask students to guess what it is.
 
-Say: **Last time we began to learn about Moses and the story of the burning bush. When we left off Moses had just learned that God was speaking to him through the bush and Moses became very afraid. Let’s continue this story.**
+3\. Gradually add more pieces to the picture until it becomes clearer.
 
-###### **Scripture**
+**Ask and Discuss:**
 
-*7 The Lord said, “I have indeed seen the misery of my people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering. 8 So I have come down to rescue them from the hand of the Egyptians and to bring them up out of that land into a good and spacious land, a land flowing with milk and honey—the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites. 9 And now the cry of the Israelites has reached me, and I have seen the way the Egyptians are oppressing them. 10 So now, go. I am sending you to Pharaoh to bring my people the Israelites out of Egypt.”*
+\- How confident were you in your guess at the beginning?
 
-*11 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”*
+\- What changed as more of the picture was revealed?
 
-Exodus 3: 7 - 11
+God’s light works the same way as this puzzle. He doesn’t always show us everything at once, but when his light shines, our understanding changes. Light has a way of revealing things we may not be able to see or fully understand. The moment a light shines on a dark room, we can see suddenly see what was always there. Once the light is turned on, you might see the pair of shoes you’ve been looking for, or you might see that some things are slightly out of place. Shapes become clearer, obstacles are revealed, and paths we couldn’t see before come into focus. In the same way, God’s light reveals things about *us*. When God shines His light into our lives, He helps us see ourselves, the world, and our need for Him more clearly.
 
-###### **Discussion**
+**Scripture:** 2 Corinthians 4:6 For God, who said, “*Let light shine out of darkness*,” made his light shine in our hearts to give us the light of the knowledge of God’s glory displayed in the face of Christ.
 
-Say: **In this piece of the story God tells Moses that he has seen the suffering of his people in Egypt and that he is concerned. God explains to Moses that he has a plan to rescue his people and bring them to “a land flowing with milk and honey.”**
+**Ask and Discuss:**
 
-**God was present in their sufferings and wanted more for them than their current reality. In the same way, God is present in our sufferings. He sees us when we are hurting, and he feels the same pain we do. But God promises to deliver us to “a land flowing with milk and honey.” That journey is not always smooth, it certainly wasn’t for the Israelites. However, God will never leave our side.**
+\- What does this scripture tell us about God?
 
-**In this section of the story, we also learn that God has planned to use Moses to rescue his people. This was a scary job to be given and Moses knew that. Moses knew that Pharaoh was not going to simply let the Israelites leave and Moses was afraid. But God has been forging Moses his whole life to be ready for this job. God knows that Moses is ready.**
+\- What does this scripture tell us about ourselves?
 
-**However, when God tells Moses to go and bring his people out of Egypt, Moses’ first response is to tell God that he is not capable of the task. Moses doesn’t believe that he is the right man for this job.**
+\- Does the thought of God “revealing” things in your life make you excited or anxious?
 
-**Take a moment to turn to your neighbor and share a time you were faced with a task you didn’t feel confident you could achieve. How did it turn out?**
+**Closing Thought:** The Bible tells us that God’s light shines in our hearts to help us know him better. This kind of light isn’t meant to shame us or overwhelm us. It’s meant to guide us, heal us, and lead us toward freedom. Sometimes God’s light reveals things we’re grateful for—strengths, growth, joy, or gratitude. Other times it reveals things that are harder to face—sin, fear, unhealthy patterns, or places we’ve been avoiding. But whatever God reveals, He does so with purpose and love. He only brings things into the light because He wants to transform them.
 
-(*Allow time for discussion and then call the group back together.* *See if anyone would like to share with the larger group)*
+**Prayer:** God, thank you for being our light in the darkness. Thank You for opening our eyes to see Your truth and Your love. Thank you for revealing things in our life so that we can know you better and know ourselves better. When we face darkness—fear, doubt, or confusion—remind us that Your light is stronger, and it will show us the way. May the light of Christ in us bring hope, joy, and life to everyone around us. Amen.
 
-Say: **Thank you for sharing. It can be very scary when we are not confident in our own abilities, but God calls us anyways. And God always calls the right person for the right job. This week, you may be faced with a challenge that you don’t feel up to. Remember that God is walking with you and that he will use each challenge you face to forge you into the best version of yourself.**
-
-**Let’s pray.**
-
-*Close in prayer*
-
-### Pre-Trip Devotion \#3
-
-###### Icebreaker
-
-Say: **Today I want you to find a partner that you do not know well. Someone you have not spent a lot of time with so far!**
-
-*(Allow time to find a partner)*
-
-**I am going to give you 2 minutes to come up with a not-so-secret handshake! Go!**
-
-(*Allow time)*
-
-Say: **So, remember I said these were not-so-secret handshakes? We are going to go around the room and demonstrate our new handshakes.**
-
-(*Allow time)*
-
-Say: **Nice work everyone! Now, as we head out to \_\_\_\_\_\_\_\_ I encourage you to continue to get to know your new friend and greet them with your not-so-secret handshake throughout the week!**
-
-###### **Introduction**
-
-Say: **Today we will finish hearing the story of Moses and the Burning Bush. We last left off with God telling Moses that he must go to Pharaoh and bring the Israelites out of Egypt. Moses was afraid and believed that God must have picked the wrong guy for the job. Let’s see what God has to say in return**.
-
-###### **Scripture**
-
-*12 And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you\[b\] will worship God on this mountain.”*
-
-*13 Moses said to God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is his name?’ Then what shall I tell them?”*
-
-*14 God said to Moses, “I am who I am.\[c\] This is what you are to say to the Israelites: ‘I AM has sent me to you.’”*
-
-Exodus 3: 12-14
-
-###### **Discussion**
-
-Say: **When Moses is doubting himself, God’s immediate response is to remind Moses that he is not going alone. “I will be with you.” God promises Moses that he will go with him and stay with him the entire time.**
-
-**God has made that same promise to us. God goes with us. He is with us in our greatest suffering, our happiest moments, our challenges, and our successes. He is always with us. Even when it may not feel obvious, God never leaves your side.**
-
-**Moses was afraid that even with God by his side, the Israelites would not believe that he was sent by God. God tells Moses to say to the Israelites that “I AM has sent me to you.” Now hearing that sentence can feel a little confusing to us, but Moses is supposed to tell the Israelites that God is all that he promises to be. “I am who I am.”**
-
-**God is showing Moses that he is a God who keeps his promises. Who cares for his people. Who loves his children. That he is who he has said that he is.**
-
-**And God continues to be all that he has promised to be. So not only is God always by your side, but he is always caring for you. He always loves you.**
-
-**As we will be heading out to \_\_\_\_\_\_\_ soon for a week of service, there may be several challenges along the way that could have you doubting yourself. Maybe you are nervous about your crew, or you get a project that you have never done before. Maybe you are afraid to be far from home, to meet new people, or to sleep on the ground. Maybe you just don’t know what to expect and that in itself is scary.**
-
-**Remember, as we go, God is going with us. He will walk alongside you the entire time. You can count on him. He has called you to be here and he already knows each of your crew members and your project. My challenge for you as we begin to serve is to be brave in these moments. Be brave enough to respond when God calls on you.**
-
-**By doing so, you may experience God in new ways as he continues to forge your faith.**
-
-**Let’s Pray.**
-
-*Close in prayer*
+&nbsp;
