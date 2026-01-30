@@ -11,93 +11,82 @@ inputs:
 
 ###### **DEVO 1**
 
-**Icebreaker: Camp superlatives**
+**Ice Breaker:** Pass the light
 
-Welcome back! We’ve just come back from an amazing time at camp, where we learned how God equips us to face life’s big moments. To start off today, we are going to play Camp Superlatives.
+**Materials Needed:** flashlight
 
-Go around the circle and vote on who is the most likely to fit each of these superlatives the best (feel free to add any that would be unique to your group!):
+**How to Play:**
 
-* Most Care Cards Written
-* First One to be awake in the morning
-* Last One to be awake in the morning
-* Always helping someone else
-* Most likely to lose their mission handbook
-* Most likely to pray for a stranger
-* Most likely to win 9 square
-* Most coffee consumed
-* Always had the snacks
+1\. Have students stand or sit in a circle and turn off or dim the lights.
 
-&nbsp;
+2\. Hand the flashlight to a student and start a timer or play music for 15 seconds.
 
-That was a fun way to look back at some of the memorable moments from camp! Each of those superlatives reminds us of the unique ways we experienced camp and how we each played a part in making it meaningful. But camp wasn’t just about the fun moments, it was about serving others and growing closer to Jesus.
+3\. Once the timer begins, the students will pass the flashlight in a circle.
 
-As we step back into our daily routines, we don’t want to just leave camp behind as a fun memory. Instead, we want to take the lessons and tools we received and apply them to our lives.
-
-Let’s review our themes scripture from camp:
-
-&nbsp;
-
-**Scripture: 2 Corinthians 9:8** “And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.”
-
-As we go about our lives or step into new opportunities, this scripture reminds us that God’s provision is perfectly timed and perfectly measured for what He calls us to do. The tools we learned at camp are not just for our *survival,* but so that we may *abound* in every good work.
-
-&nbsp;
-
-**Scripture: Matthew 7: 24-25** “Therefore everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock. The rain came down, the streams rose, and the winds blew and beat against that house; yet it did not fall, because it had its foundation on the rock.”
-
-**Ask and discuss:**
-
-* What does this passage tell us about God?
-* What does this scripture tell us about ourselves?
-* Which tool or tools do you find yourself using the most since camp has ended?
-* What are some things that might distract you from staying equipped? How can we keep a firm foundation in Jesus through the distractions?
-
-  &nbsp;
-
-**Closing thought:** Just like in sports or music, where practice prepares us for big moments, our time at camp was preparing us for how we can live out our faith every day. The steps we learned at camp, E.Q.U.I.P., are not just for a one-time experience, they are tools to help us grow and live out our faith every day.
-
-**Pray:** Dear God, Thank You for Your endless love. Help us step forward in faith, knowing that Your grace will always be enough. We come before you with open hearts to do Your will, seeking Your guidance, strength, and peace. Remind us that you have equipped us and teach us how to continually follow you better. Help us prioritize you and make you the center of our lives. Amen
-
-&nbsp;
-
-**DEVO 2**
-
-**Ice Breaker: Story Builders**
-
-How to play:
-
-* 1. Gather your group in a circle and pick someone to start.
-  2. Person 1 starts the story by saying a sentence to begin a narrative.
-  3. The next person in the circle adds the next sentence to the story.
-  4. Each person continues to add one sentence at a time until everyone has gone and you have a complete story.
-
-Ask and Discuss:
-
-* How did it feel to contribute to the story? Was it hard to come up with a sentence or did it come naturally?
-
-Storytelling is an important way to share experiences and ideas with others! The cool thing about following Jesus is that we each have unique stories, but they all play into a greater narrative.
-
-At camp we learned that Paul had an incredible transformation after encountering Jesus in Acts 9. Now let’s read Acts 22:
-
-**Scripture: Read Acts 22: 1-21**
-
-**Ask and discuss:**
-
-* Thinking back to what we learned at camp, what do you notice about this story?
-* How is it similar to what we learned in Acts 9 at camp? Are there any ways that it is different?
-
-Did you notice that Acts 9 and Acts 22 recount the same story? Acts 9 is a narrative written in third person and Acts 22 is Paul’s personal testimony of the same story. He tells the story of his transformation in his own words, emphasizing his mission to share the love and message of Jesus. We learned on our last day at camp that after we make a decision or improvement in our faith, that the next step is to proclaim. That is exactly what Paul is doing in Acts 22. He is telling his story. It’s a reminder that a transformative encounter with Jesus doesn’t just change our hearts, it sends us out with a new purpose. And not just the purpose we have for ourselves, but the purpose we have from God.
-
-&nbsp;
+4\. When the timer or music stops, the student holding the flashlight must share their favorite memory or moment from camp.
 
 **Ask and Discuss:**
 
-* Since the last time we met, have you been intentional about implementing a tool that you weren’t already using? What differences have you noticed since?
-* What are some stories and experiences from camp that we can proclaim to others?
-* Has the acronym EQUIP helped you face any big events or decisions recently?
+\- Was it stressful or exciting waiting for the light to land on you?
 
-  &nbsp;
+\- Did passing the light feel slower or faster than you expected?
 
-**Closing Thought:** Paul’s story is just one thread in the grand narrative of the Bible — a story of redemption, grace, and God’s relentless pursuit of us. His transformation reminds us that no encounter with Jesus is insignificant, and every testimony plays a role in God’s greater plan and greater story. As we step forward in faith, may we, like Paul, boldly proclaim the goodness of Christ and share our own stories to impact the people around us.
+\- Where was everyone’s attention when the light was being passed?
 
-**Pray:** God, Thank You for the incredible ways you transform lives. Thank you that you see us and that every testimony is a part of your greater plan. Give us the courage to boldly share our own stories and the good things you have done in our lives, even if it feels uncomfortable or challenging. Amen.
+In the game, the light didn’t stay still or stay hidden. It was always visible, moving from person to person, lighting up the circle even in our dark room. And when someone was holding the light, it naturally drew everyone’s attention. At camp, many of us experienced God’s light in powerful ways. For some, it brought clarity. For others, comfort. For some, conviction or a new sense of purpose. What we experienced at camp wasn’t just for that one week. It was preparation for what comes next. Jesus tells us that his light is meant to be carried into the world.
+
+Life doesn’t slow down. School resumes. Responsibilities return. Distractions get louder. It can be easy to think the light fades—but the truth is, the light doesn’t disappear. We’re called to keep shining it, even when our environment or circumstances change.
+
+**Scripture:** Matthew 5: 14-16 “You are the light of the world. A town built on a hill cannot be hidden. Neither do people light a lamp and put it under a bowl. Instead they put it on its stand, and it gives light to everyone in the house. In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.”
+
+**Ask and Discuss:**
+
+\- What does this scripture tell us about God?
+
+\- What does this scripture tell us about ourselves?
+
+\- What are some ways you might be tempted to dim the light?
+
+\- How can we keep God’s light shining bright?
+
+**Closing Thought:** Now that we are back from camp, it might feel easier to put the light away. To blend back in. To stay quiet about what God did. But Jesus says his light isn’t meant to be hidden. It is meant to shine where people can actually see it. That doesn’t mean being loud or perfect. It means living differently in small, intentional ways: choosing kindness, serving others, forgiving quickly, or standing firm in your faith when it’s uncomfortable. As we step back into everyday life, remember that the light you carried at camp is still with you. Keep passing it, keep shining it, and trust that God will use it exactly where you are.
+
+**Prayer:** God, thank you for shining your light on us. Help us not to hide our faith or dim the gifts You’ve given us, but to let Your love shine through everything we do. Teach us to live in a way that points others to You -- through our words, our actions, and the way we treat people. Give us courage to stand out and to reflect Your light in every situation. May our lives shine so brightly that others see Your goodness and give glory to You alone. Amen.
+
+<br>**DEVO 2**
+
+**Ice Breaker:** Noticing the Light
+
+**How to Play:**
+
+1\. Ask students to look around the room and start naming every source of light they can find. (Ex. Overhead lights, lamps, exit signs, windows, phone screens, etc.) They can name them out loud.
+
+2\. Keep naming light sources until the group has noticed them all.
+
+**Ask and Discuss:**
+
+\- What light source(s) was the most obvious? Least obvious?
+
+\- Did anyone notice a light that no one else saw?
+
+\- Did you notice all of the same lights before you were asked to look for them?
+
+Most of the light in this room was already on, you just didn’t notice it until you started looking for it. That’s often how God’s light works. It doesn’t disappear, we just stop looking for it. And when we stop noticing it, we often stop responding to it. If we aren’t paying attention, we can miss what he’s doing or calling us to do. We are called to walk in the light, but walking in the light requires staying aware of where God’s light is shining.
+
+At camp, it may have felt easier to walk in the light. Your faith may have felt stronger, community felt supportive, and distractions were fewer. In our day to day lives, walking in the light can feel harder because real life gets busy and messy. But God doesn’t stop inviting us to walk with him just because the setting changes. Walking in the light doesn’t mean living perfectly. It means choosing honesty instead of hiding, connection instead of isolation, and obedience instead of avoidance. When we walk in the light, we stay close to God and close to one another—and that’s where growth happens.
+
+**Scripture:** 1 John 1:7 -- But if we walk in the light, as he is in the light, we have fellowship with one another, and the blood of Jesus, his Son, purifies us from all sin.
+
+**Ask and Discuss:**
+
+\- What does this scripture tell us about God?
+
+\- What does this scripture tell us about ourselves?
+
+\- What does it mean to walk in the light compared to just noticing it?
+
+\- What is one small step you can take this week to notice God’s light?
+
+**Closing Thought:** Camp is over, but his light hasn’t faded. He is still present, still guiding, and still inviting us to walk with him. Walking in the light doesn’t mean having everything figured out. It means choosing, again and again, to notice where his light is shining and taking the next step toward him.
+
+**Prayer:** God, thank You for being the Light who never turns off. Thank You for meeting us at camp and for continuing to walk with us now that we’re home. Help us remember that Your light hasn’t disappeared—we just need to slow down and pay attention. Teach us how to walk in Your light each day, even when life feels busy, distracting, or uncertain. Give us eyes to notice where You are already at work and courage to take the next step You’re inviting us into. Amen
