@@ -6,7 +6,7 @@ order_number: 1
 inputs:
   unpublish: true
 ---
-**Location:** Fort Collins, CO (on-site)<br>**Hours:** 30–40 hours per week<br>**Dates:** February 9 – August 14, 2025<br>**Pay Rate:** $17.00/hour
+**Location:** Fort Collins, CO (on-site)<br>**Hours:** 30–40 hours per week<br>**Dates:** February 9 – August 14, 2026<br>**Pay Rate:** $17.00/hour
 
 As we prepare for the 2026 season and support Group Mission Trips’ summer experiences, this internship provides a hands-on opportunity to contribute to the success of *Workcamps* and *Week of Hope* programs. You’ll gain valuable experience in project coordination, logistics, communication, and ministry operations while working alongside a passionate team dedicated to serving others.
 
