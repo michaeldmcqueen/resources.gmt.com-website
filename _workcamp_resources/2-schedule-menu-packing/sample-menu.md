@@ -19,7 +19,7 @@ Start the day with a satisfying breakfast! Participants will enjoy one or more o
 
 · Main Items: Scrambled eggs, breakfast sandwiches, breakfast burritos, French toast, pancakes, sausage, bacon, and tater circles
 
-· Daily Accompaniments: A variety of cereals, yogurts, and fresh fruit, bread, peanut butter, juices, coffee, and hot teas
+· Daily Accompaniments: A variety of cereals, yogurts, and fresh fruit, bread, peanut butter, juices, and coffee
 
 ---
 
@@ -89,7 +89,7 @@ Severe allergies: Notify Group Mission Trips in advance. Make a note in your cus
 
 Items marked (\*) may contain meat additives. Please confirm with the staff upon arrival.
 
-· Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, oatmeal, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, coffee, and tea.
+· Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, oatmeal, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, and coffee.
 
 · Lunch: Bread, peanut butter & jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, apple, baby carrots, and desserts.
 
