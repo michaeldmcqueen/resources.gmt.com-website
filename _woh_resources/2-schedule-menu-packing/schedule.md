@@ -59,7 +59,7 @@ inputs:
 | 6:30 p.m | Drama team practice |
 | 7:00 p.m. | Worship team practice |
 | 8:00 p.m | Evening Program<br>Youth group devotions |
-| 9:30 p.m | Lip-Sync battle |
+| 9:45 p.m | Lip-Sync battle |
 | 12 a.m | Lights-out |
 
 **FRIDAY**&nbsp;
