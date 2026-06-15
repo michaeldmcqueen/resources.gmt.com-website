@@ -9,4 +9,4 @@ inputs:
 ---
 Click the image below for the Community Service Certificate to fill in your name and print it out. \*Note: The PDF is editable and allows you to input your name using a PDF reader before printing.
 
-​​​​​[![Image of Certificate](/uploads/community-service-award-2025-min.png "2025 Community Service Certificate"){: width="800" height="608"}](https://groupcares-my.sharepoint.com/:b:/g/personal/admin_groupcares_org/IQCvyb9mP_sgT6lh3dkGophbAaM0rAZzuOYK8v6AJvCxzkI?e=5kwgTE "2026 Community Service Certificate"){: target="_blank" rel="noreferrer nofollow noopener"}
+​​​​​[![Image of Certificate](/uploads/community-service-award-2026-1.png "2026 Community Service Certificate"){: width="800" height="609"}](https://groupcares-my.sharepoint.com/:b:/g/personal/admin_groupcares_org/IQCvyb9mP_sgT6lh3dkGophbAaM0rAZzuOYK8v6AJvCxzkI?e=5kwgTE "2026 Community Service Certificate"){: target="_blank" rel="noreferrer nofollow noopener"}
