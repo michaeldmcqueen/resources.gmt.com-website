@@ -5,7 +5,7 @@ subcategory: Post Camp Resources
 order: '4'
 order_number: 4
 inputs:
-  unpublish: true
+  unpublish: false
 ---
 ## We value your feedback!
 
