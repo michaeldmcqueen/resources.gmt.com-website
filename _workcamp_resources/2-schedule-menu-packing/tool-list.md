@@ -54,6 +54,7 @@ inputs:
 * Drill bit kits *(include small bits for pilot holes, plus 3/8” and 1/2” diameter bits, 6–8” long)*
 * Lumber clamp or vise
 * Carpenter’s pencil
+* 5/16 hex bit
 
 ---
 
@@ -83,7 +84,7 @@ inputs:
 
 ### **Flying to Camp?**
 
-You’ll still need tools!<br>Plan ahead to either **ship tools before the trip** or **purchase them after you arrive.**<br>You can choose to **donate your tools to your resident** at the end of the week or ship them back home.
+You’ll still need tools!<br />Plan ahead to either **ship tools before the trip** or **purchase them after you arrive.**<br />You can choose to **donate your tools to your resident** at the end of the week or ship them back home.
 
 *Tip: Borrow or buy used tools when possible. If you purchase new ones, keep your receipts in case something isn’t used.*
 
