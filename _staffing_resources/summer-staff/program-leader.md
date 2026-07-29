@@ -13,7 +13,7 @@ The program leader leads high-quality, interactive, and faith-building experienc
 * Attend summer staff training in Colorado (beginning late May)
 * Possess a current and valid US driver’s license
 * Work closely and effectively with the Red Shirt staff by supporting and encouraging them to ensure an excellent camp experience for each participant
-* Invest in youth leaders and youth.&nbsp;
+* Invest in youth leaders and youth
 * Build positive relationships with the local coordinator and the lodging facility, thanking them for partnering with us to serve the community
 * Ability to live and work well in community and team dynamic
 * Possess a strong and dependable work ethic, including being on time and responsible for all duties
@@ -46,5 +46,3 @@ The program leader leads high-quality, interactive, and faith-building experienc
 ###### Interested in leading worship?&nbsp;
 
 * If you are musically gifted and you would like to lead worship during evening programs, please let us know in the interview process. If you are selected to lead worship, you will make an additional $500 for the summer. More information will be provided if this applies to you!
-
-## [Apply Now](https://argentasoftware.com/interfaces/gmt/portalStaff/frmSignUp.aspx "Apply Now"){: target="_blank" rel="nofollow noopener"}
