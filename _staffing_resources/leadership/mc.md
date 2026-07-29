@@ -26,11 +26,9 @@ The MC leads all camp programs with excellence and enthusiasm and serves as the 
 ###### Physical Requirements
 
 * Able to lift objects up to 50 pounds
-* Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
+* Capable of working (walking, standing, sitting, etc) for 10-14 hours per day
 * Prepared to work busy camp days with an average of 5-6 hours of sleep per night&nbsp;
 
 ###### Compensation
 
 This is a paid position, offering compensation of $1,200 for each camp you are confirmed to MC. Travel expenses are also covered in accordance with our company travel guidelines.
-
-## [Apply Now](https://argentasoftware.com/interfaces/gmt/portalStaff/frmSignUp.aspx "Apply Now"){: target="_blank" rel="nofollow noopener"}
