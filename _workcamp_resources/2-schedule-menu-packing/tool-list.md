@@ -7,7 +7,7 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-*The only tools at camp are the ones **you bring!** You may not use every tool you pack—but it’s better to have one you don’t need than to need one you don’t have.*
+*The only tools at camp are the ones **you bring! Group Mission Trips will not provide the following tools.** You may not use every tool you pack—but it’s better to have one you don’t need than to need one you don’t have.*
 
 **Label all tools** with your name and church, since tools are often shared.
 
@@ -22,10 +22,11 @@ inputs:
 * Hammer *(12 oz. or larger)*
 * Tape measure *(16’ or 25’)*
 * Carpenter’s pencil
-* Paintbrushes *(variety of sizes)*
+* **Paintbrushes** ***(variety of sizes)** GMT will not be providing these so bring enough for the week, and tell your participants to reuse them day to day*
 * Paint roller handle
 * Paint roller covers *(3 per person)*
 * Paint tray with liners
+* Small old containers *(for paint)*
 * Paint scraper and/or wire brush
 
 ---
@@ -66,7 +67,6 @@ inputs:
 * 1 box of rags
 * Drop cloths *(1 per 6 people)*
 * At least one wrench or socket set
-* Small old containers *(for paint)*
 * Paint bucket hooks *(1 per 6 people)*
 * 16-ft or longer extension ladder *(1 per 6 people – extras appreciated!)*
 * 8-ft stepladder *(1 per 6 people – extras appreciated!)*
