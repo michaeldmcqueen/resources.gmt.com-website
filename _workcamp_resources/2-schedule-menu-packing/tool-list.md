@@ -74,7 +74,7 @@ inputs:
 * 1 heavy-duty digging bar
 * 1 jigsaw with sharp blades *(per group)* \*
 * 1 first-aid kit *(per vehicle)*
-* 1 box of gallon-size Ziploc bags *(for paintbrush storage)*
+* 1 box of gallon-size Ziploc bags ***(for paintbrush storage)***
 * 1 box of large, strong black trash bags
 * Nitrile gloves *(3 pairs per person)*
 
