@@ -9,63 +9,56 @@ inputs:
 ---
 **SUNDAY**&nbsp;
 
-| 3–4 p.m&nbsp; | Check-in&nbsp; |
-| 4:30 p.m | Adult meeting |
-| 5:30 p.m | Dinner gathering |
-| 6:30 p.m | Kick-off program<br>Meet your crew and get project assignments |
-| 8:00 p.m | Evening Program<br>Youth group devotions |
-| 11 p.m | Lights-out |
+| 3–4 pm&nbsp; | Check-in&nbsp; |
+| 4:30 pm | Adult meeting |
+| 5:30 pm | Dinner gathering |
+| 6:30 pm | Kick-off programMeet your crew and get project assignments |
+| 8:00 pm | Evening ProgramYouth group devotions |
+| 11:00 pm | Lights-out |
 
 **MONDAY**
 
-| 6:30 a.m | Breakfast crew begins |
-| 6:45 a.m | Wake-up call |
-| 7–7:45 a.m | Breakfast and pack lunches |
-| 8:00 a.m | Morning Program |
-| 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
-| 3:30 p.m | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Camp store is open&nbsp; |
-| 5 p.m | Dinner crew begins |
-| 5:30 p.m | Dinner gathering |
-| 6:30 p.m | Hospitality tasks |
-| 6:30 p.m | Program team practice |
-| 7:00 p.m. | Worship team practice |
-| 8:00 p.m | Evening Program<br>Youth group devotions |
-| 10:30 p.m | Bedtime stories (optional) |
-| 11 p.m | Lights-out |
+| 6:30 am | Breakfast crew begins |
+| 6:45 am | Wake-up call |
+| 7–7:45 am | Breakfast and pack lunches |
+| 8:00 am | Morning Program |
+| 9:00 am–3:00 pm | Serve at project sites<br />Lunch and crew devotions |
+| 3:30 pm | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Camp store is open) |
+| 5:00 pm | Dinner crew begins |
+| 5:30 pm | Dinner gathering |
+| 6:30 pm | Hospitality tasks |
+| 6:30 pm | Program team practice |
+| 7:00 pm | Worship team practice |
+| 8:00 pm | Evening Program<br />Youth group devotions |
+| 10:30 pm | Bedtime stories (optional) |
+| 11:00 pm | Lights-out |
 
 **TUESDAY**&nbsp;
 
-| 6:30 a.m.–3 p.m&nbsp; | Same as Monday |
-| 3:30 p.m. | Check-in at lodging facility<br>Free time: dinner and devotions on your own |
-| 8:30 p.m&nbsp; | Lodging facility back open |
-| 8:30 p.m&nbsp; | Movie night (optional) |
-| 11 p.m | Lights-out |
+| 6:30 am–3:00 pm&nbsp; | Same as Monday |
+| 3:30 pm | Check-in at lodging facility<br />Free time: dinner and devotions on your own |
+| 8:00 pm&nbsp; | Lodging facility back open |
+| 8:30 pm&nbsp; | Movie night (optional) |
+| 11:00 pm | Lights-out |
 
 **WEDNESDAY**&nbsp;
 
-| 6:30 a.m.–11 p.m | Same as Monday |
+| 6:30 am–11:00 pm | Same as Monday |
 
 **THURSDAY**
 
-| 6:30 a.m | Breakfast crew begins |
-| 6:45 a.m | Wake-up call |
-| 7–7:45 a.m | Breakfast and pack lunches |
-| 8:00 a.m | Morning Program |
-| 8:45–3 p.m | Serve at project sites<br>Lunch and crew devotions |
-| 3:30 p.m | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Camp store is open |
-| 5 p.m | Dinner crew begins |
-| 5:30 p.m | Dinner gathering |
-| 6:30 p.m | Hospitality tasks |
-| 6:30 p.m | Program team practice |
-| 7:00 p.m. | Worship team practice |
-| 8:00 p.m | Evening Program<br>Youth group devotions |
-| 9:45 p.m | Lip-Sync battle |
-| 12 a.m | Lights-out |
+| 6:30 am- 5:30 pm | Same as Monday |
+| 6:30 pm | Red Shirt interest meeting |
+| 6:30 pm | Hospitality tasks |
+| 7:00 pm | Worship team practice |
+| 8:00 pm | Evening Program<br />Youth group devotions |
+| 9:45 pm | Lip Sync battle |
+| Midnight | Lights-out |
 
 **FRIDAY**&nbsp;
 
-| 7–8 a.m&nbsp; | Breakfast&nbsp; |
-| 7–9 a.m.&nbsp; | Room check-out&nbsp;<br>Groups depart&nbsp; |
+| 7–8:00 am&nbsp; | Breakfast&nbsp; |
+| 7–9:00 am&nbsp; | Room check-out&nbsp;<br />Groups depart&nbsp; |
 
 * Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
 * Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.&nbsp;
