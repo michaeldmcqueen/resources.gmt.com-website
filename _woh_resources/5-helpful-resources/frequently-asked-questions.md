@@ -49,21 +49,61 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday**&nbsp;
+**SUNDAY**
 
-3-4 p.m. Check-in&nbsp;<br>4:30 p.m. Adult Meeting&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Kick-off program (Meet your crew and get your project assignments!)&nbsp;<br>8 p.m. Evening program followed by youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
+| 3–4 pm | Check-in |
+| 4:30 pm | Adult meeting |
+| 5:30 pm | Dinner gathering |
+| 6:30 pm | Kick-off programMeet your crew and get project assignments |
+| 8:00 pm | Evening ProgramYouth group devotions |
+| 11:00 pm | Lights-out |
 
-**Monday, Wednesday, and Thursday**&nbsp;
+**MONDAY**
 
-6:30 a.m. Breakfast crew begins&nbsp;<br>6:45 a.m. Wake-up call&nbsp;<br>7-7:45 a.m. Breakfast and pack lunches&nbsp;<br>8:00 a.m. Morning program&nbsp;<br>8:45-3:00 p.m. Serve at project sites and have on-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner crew begins&nbsp;<br>5:30 p.m. Dinner gathering&nbsp;<br>6:30 p.m. Hospitality tasks AND Drama team Practice<br>7:00 p.m.  Worship team practice <br>8:00 p.m. Evening program, followed by youth group devotions&nbsp;<br>10:30 p.m. Bedtime stories (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+| 6:30 am | Breakfast crew begins |
+| 6:45 am | Wake-up call |
+| 7–7:45 am | Breakfast and pack lunches |
+| 8:00 am | Morning Program |
+| 9:00 am–3:00 pm | Serve at project sitesLunch and crew devotions |
+| 3:30 pm | Return to lodging facility (Camp store is open) |
+| 5:00 pm | Dinner crew begins |
+| 5:30 pm | Dinner gathering |
+| 6:30 pm | Hospitality tasks |
+| 6:30 pm | Program team practice |
+| 7:00 pm | Worship team practice |
+| 8:00 pm | Evening ProgramYouth group devotions |
+| 10:30 pm | Bedtime stories (optional) |
+| 11:00 pm | Lights-out |
 
-**Tuesday:**&nbsp;
+**TUESDAY**
 
-6:30 a.m. - 3:30 p.m. Same schedule as Monday&nbsp;<br>3:30 p.m. to 10:30 p.m. Youth group free time (dinner and devotions on your own)&nbsp;<br>8:30 p.m. Lodging facility is back open&nbsp;<br>8:30 p.m. Movie night (optional)&nbsp;<br>11:00 p.m. Lights-out&nbsp;
+| 6:30 am–3:00 pm | Same as Monday |
+| 3:30 pm | Check-in at lodging facility<br />Free time: dinner and devotions on your own |
+| 8:00 pm | Lodging facility back open |
+| 8:30 pm | Movie night (optional) |
+| 11:00 pm | Lights-out |
 
-**Friday:**&nbsp;
+**WEDNESDAY**
 
-7-8 a.m. Breakfast&nbsp;<br>7-9 a.m. Check-out, hospitality tasks, and depart for home
+| 6:30 am–11:00 pm | Same as Monday |
+
+**THURSDAY**
+
+| 6:30 am- 5:30 pm | Same as Monday |
+| 6:30 pm | Red Shirt interest meeting |
+| 6:30 pm | Hospitality tasks |
+| 7:00 pm | Worship team practice |
+| 8:00 pm | Evening ProgramYouth group devotions |
+| 9:45 pm | Lip Sync battle |
+| Midnight | Lights-out |
+
+**FRIDAY**
+
+| 7–8:00 am | Breakfast |
+| 7–9:00 am | Room check-outGroups depart |
+
+* Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.
+* Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.
 
 ---
 
