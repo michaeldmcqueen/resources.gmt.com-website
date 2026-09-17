@@ -49,21 +49,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday:**&nbsp;
-
-12-2 p.m.: Check-in.&nbsp;<br>3 p.m. First program, followed by the Adult Meeting&nbsp;<br>5 p.m. Dinner&nbsp;<br>7 p.m. Evening program, everyone will get to meet their work crews!&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
-
-**Monday, Tuesday, Thursday, and Friday:**&nbsp;
-
-6:45 a.m. Rise and shine!&nbsp;<br>7 a.m. Breakfast, gather supplies and sack lunches&nbsp;<br>8 a.m. Morning program and then depart for work sites!&nbsp;<br>12 p.m. On-site lunch and devotions&nbsp;<br>3:30 p.m. Return to lodging for clean-up and free time&nbsp;<br>5 p.m. Dinner&nbsp;<br>7:30 p.m. Evening program&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
-
-**Wednesday:**&nbsp;
-
-The same schedule as the other days until 12:30 p.m.&nbsp;<br>12:30 p.m. to 7 p.m. Youth groups have free time (dinner is on their own)&nbsp;<br>7:30 p.m. The variety show and evening program start&nbsp;<br>8:30 p.m. Youth group devotions&nbsp;<br>11 p.m. Lights-out&nbsp;
-
-**Saturday:**&nbsp;
-
-7-9 a.m.: Check-out.&nbsp;
+**Sunday**<br />12-2 p.m. Check-in<br />3:00 p.m. Kick-off program<br />4 p.m. Adult meeting<br />5-6:30 p.m. Dinner<br />7:00 p.m. Evening program. Meet your crew. Project assignments.<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Monday, Tuesday, Thursday and Friday<br />**6:45 a.m. Wake-up call<br />7-7:45 a.m. Breakfast. Gather tools. Fill water jugs. Pack coolers with lunches<br />8 a.m. Morning program. Depart for sites. Work on project. Lunch and crew devotions<br />3:30 p.m. Return to the lodging facility. Camp store is open. Report progress. Recreation/free time<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team practice<br />6 p.m. Worship team practice<br />7:30 p.m. Evening program<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out (midnight Friday)<br /><br />**Wednesday**<br />6:45 a.m.-12 p.m. Same as Monday<br />12:30 p.m. Check-in at the lodging facility. Youth group free time. Dinner on your own<br />7:30 p.m. Program with variety show<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Saturday**<br />7-8 a.m. Breakfast<br />7-9 a.m. Room check-out. Groups depart<br /><br />**Special Meeting<br />**Tuesday 4:15 p.m. Adult meeting
 
 ---
 
@@ -83,9 +69,9 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 ### What tools and other items do we need to bring?
 
-**Tools:**&nbsp;<br>Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug is also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
+**Tools:**&nbsp;<br />Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug is also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
 
-**Personal Items:**<br>The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
+**Personal Items:**<br />The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
 
 ---
 
