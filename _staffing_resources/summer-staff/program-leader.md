@@ -30,6 +30,7 @@ The program leader leads high-quality, interactive, and faith-building experienc
 * Visit project sites to encourage crews
 * Organize and lead downtime fun activities with campers
 * Train, lead, and support volunteer(s) as they assist with program
+* Manage the camp office which includes handling any forms (some examples include participant forms, incident forms, accident/injury reports), running the camp store, and handling general office operations
 * Support fellow summer staff and assist in other areas of camp to deliver an unforgettable mission trip experience for all participants
 
 ###### Physical Requirements
