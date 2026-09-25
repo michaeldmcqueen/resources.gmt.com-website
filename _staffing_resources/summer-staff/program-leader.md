@@ -38,7 +38,7 @@ The program leader leads high-quality, interactive, and faith-building experienc
 * Able to lift objects up to 50 pounds
 * Capable of working (walking, standing, sitting, etc.) for 10-14 hours per day
 * Prepared to work busy camp days with an average of 5-6 hours of sleep per night
-* Comfortable with driving a minivan in unfamiliar areas of the country for 5+ hours per day and when not driving, sitting in a vehicle for up to 10 hours per day. This could include highway, city, rural, and night driving&nbsp;
+* Comfortable with driving a minivan in unfamiliar areas of the country for 5+ hours per day on travel days, and when not driving, sitting in a vehicle for up to 10 hours per day. This could include highway, city, rural, and night driving
 
 ###### Compensation
 
