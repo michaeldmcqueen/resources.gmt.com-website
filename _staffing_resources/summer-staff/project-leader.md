@@ -25,7 +25,7 @@ The project leader leads the service project experience for all participants by 
 
 * Schedule service projects for up to 100 participants per week in the local community and divide participants into service crews
 * Identify and screen new service projects in the local community, if needed
-* Visit project sites daily to check in with partner organization contacts and encourage crews. This requires confidence in driving a vehicle each day to various work sites
+* Visit project sites daily to check in with partner organization contacts and encourage crews. This requires confidence in driving a vehicle each day to various project sites
 * Take pictures of participants at project sites daily
 * Run media for morning and evening programs
 * Coordinates the morning lunch process and pickup
@@ -43,7 +43,7 @@ The project leader leads the service project experience for all participants by 
 
 ###### Compensation
 
-* Depending on the number of camps and weeks you work, you can make up to $5200 for the summer. If you are a returning summer staff member, you could make up to an additional $500 for the summer. If you are a trainer or a flex staff member, your pay rate will be increased. This does not include any hiring bonuses, alternate lodging bonuses, referral bonuses, or the worship leader bonus mentioned below. All lodging and transportation costs are also included for the whole summer (except for the costs of getting to and from Colorado at the beginning and end of summer), so you only have to worry about food while traveling to and from your camp location and down time between camp weeks (while off-duty).
+* Depending on the number of camps and weeks you work, you can make up to $6000 for the summer. If you are a returning summer staff member, you could make up to an additional $500 for the summer. If you are a trainer or a flex staff member, your pay rate will be increased. This does not include any hiring bonuses, alternate lodging bonuses, referral bonuses, or the worship leader bonus mentioned below. All lodging and transportation costs are also included for the whole summer (except for the costs of getting to and from Colorado at the beginning and end of summer), so you only have to worry about food while traveling to and from your camp location and down time between camp weeks (while off-duty).
 
 ###### Interested in leading worship?&nbsp;
 
