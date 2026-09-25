@@ -13,9 +13,8 @@ The site writer will partner with Group Mission Trips and the cosponsor team to 
 * Communicate clearly with all cosponsors and residents
 * Complete site visits quickly and effectively, while being respectful, responsible, and precise
 * Write accurate work descriptions, which include detailed notes of work to be completed, sketches and diagrams, accurate material lists, and other pertinent information
-* Enter all typed notes and work descriptions into our online info system
 * Take all necessary photos, including the front of home and work to be completed
-* Input all notes and work descriptions into online info system and upload supplemental materials to SharePoint within seven days of your return from the site writing event
+* Input all notes and work descriptions into online info system and upload supplemental materials to an online file sharing system within seven days of your return from the site writing event
 * Keep notes on each work description so clarifying questions can be answered
 
 ###### Physical Requirements
