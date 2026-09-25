@@ -6,9 +6,9 @@ order_number: 1
 inputs:
   unpublish: false
 ---
-30-40 hours/week locally in Fort Collins, CO<br>Assignment Dates: February 10-August 15, 2025<br>Pay Rate: $16.50/hour
+30-40 hours/week locally in Fort Collins, CO<br />Assignment Dates: February 15-August 13, 2027<br />Pay Rate: $18.00/hour
 
-As we launch the 2025 season and support all Group Mission Trips experiences, this<br>intern will work directly with our project manager and developer, helping manage the<br>logistics of Workcamps and Week of Hope. Specific duties include but are not<br>limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br>&nbsp;
+As we launch the 2027 season and support all Group Mission Trips experiences, this<br />intern will work directly with our project manager and developer, helping manage the<br />logistics of Workcamps and Week of Hope. Specific duties include but are not<br />limited to coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and e-mail, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br />&nbsp;
 
 **Project Management Intern Qualifications**
 
@@ -18,7 +18,7 @@ As we launch the 2025 season and support all Group Mission Trips experiences, th
 * Creative demeanor
 * Outgoing and customer-service-oriented
 
-**Education and Experience Requirements**<br>Minimum of 2 years (4 semesters) of college coursework and/or work experience in at<br>least one of the following areas:
+**Education and Experience Requirements**<br />Minimum of 2 years (4 semesters) of college coursework and/or work experience in at<br />least one of the following areas:
 
 * Christian ministry
 * Project management
