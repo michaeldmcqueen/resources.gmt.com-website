@@ -15,7 +15,7 @@ The materials team member serves and supports the materials manager by assisting
 * Keep notes on delivery and pickup needs
 * Assist in navigation and delivery routes
 * Assist in opening and running the tool room
-* Add a level of safety, to minimize the materials manager’s focus on all the above, while driving. Allows the materials manager more space to engage with participants at the work sites
+* Handle these tasks so the materials manager can keep their focus on driving safely, and have more time with participants at the work sites.
 * Act as a safety inspector. Make sure all sites are free from danger and participants are working safely
 * Serve and support the camp director, materials manager, and site coaches by helping in these areas: tool and material room(s), material requests during check-in, daily material pick-up and delivery, staging materials for the next day, and tracking ladders and tools. Work with the materials manager, crew manager, and cosponsor on a trash plan for any site that needs trash picked up
 * Commit to developing relationships with participants, Red Shirts, lodging facility staff, cosponsors, and members of the community
