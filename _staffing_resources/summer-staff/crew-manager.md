@@ -24,7 +24,7 @@ The crew manager oversees work crew logistics, supports the kitchen staff, and s
 ###### **Position Job Requirements**
 
 * Assign participants to work crews and oversee daily progress
-* Coordinates transportation to daily work sites
+* Coordinate transportation to daily work sites
 * Update work site descriptions using a custom database
 * Reassign crews as needed and post crew reassignments each morning
 * Lead daily cafeteria team meetings
