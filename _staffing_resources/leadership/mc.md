@@ -13,7 +13,7 @@ The MC leads all camp programs with excellence and enthusiasm and serves as the 
 * Learn all program scripts prior to attending Leadership Summit
 * Attend Leadership Summit in Colorado **(required to attend annually)**
 * Invest time and prayer to prepare prior to camp
-* Present all morning and evening programs at camp, following the provided script, with energy, excellence, and participants
+* Present all morning and evening programs at camp, following the provided script, with professionalism
 * Support other Red Shirt staff
 * Meet daily with program manager, program team member, and worship leader to prepare for upcoming program(s), checking all needed props and materials, media equipment, song selection, and lyrics
 * Run drama rehearsals and be available to help during music team rehearsals
