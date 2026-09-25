@@ -12,7 +12,7 @@ The program team member takes quality photos and encourages participants while v
 
 * Review all volunteer training resources provided prior to camp
 * Assist the program manager and MC with any program needs including preparing program materials, assisting with sound and lighting cues, and maintaining a quality program space
-* Encourage participants by taking excellent photos during Sunday check-in, around the lodging facility at work sites, and during programs – be friendly and enthusiastic
+* Encourage participants by taking excellent photos during Sunday check-in, around the lodging facility, at work sites, and during programs – be friendly and enthusiastic
 * Attend daily program team meetings with MC, program manager, and worship leader
 * Help maintain the lodging facility by monitoring trash and cleanliness of common areas and restroom areas, if needed
 * Commit to developing relationships with participants, Red Shirts, lodging facility staff, cosponsors, and members of the community
