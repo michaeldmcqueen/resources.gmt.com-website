@@ -29,4 +29,4 @@ The setup director works closely with the local cosponsor and materials vendors 
 
 ###### Compensation
 
-This is a paid position, offering compensation of $900 for each camp that your are confirmed to setup. Travel expenses are also covered in accordance with our company travel guidelines.
+This is a paid position, offering compensation of $900 for each camp that you are confirmed to setup. Travel expenses are also covered in accordance with our company travel guidelines.
