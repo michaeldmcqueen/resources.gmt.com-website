@@ -41,7 +41,7 @@ The hospitality leader leads the food and facility experience at Week of Hope. T
 
 ###### Compensation
 
-* Depending on the number of camps and weeks you work, you can make up to $5200 for the summer. If you are a returning summer staff member, you could make up to an additional $500 for the summer. If you are a trainer or a flex staff member, your pay rate will be increased. This does not include any hiring bonuses, alternate lodging bonuses, referral bonuses, or the worship leader bonus mentioned below. All lodging and transportation costs are also included for the whole summer (except for the costs of getting to and from Colorado at the beginning and end of summer), so you only have to worry about food while traveling to and from your camp location and down time between camp weeks (while off-duty).
+* Depending on the number of camps and weeks you work, you can make up to $6000 for the summer. If you are a returning summer staff member, you could make up to an additional $500 for the summer. If you are a trainer or a flex staff member, your pay rate will be increased. This does not include any hiring bonuses, alternate lodging bonuses, referral bonuses, or the worship leader bonus mentioned below. All lodging and transportation costs are also included for the whole summer (except for the costs of getting to and from Colorado at the beginning and end of summer), so you only have to worry about food while traveling to and from your camp location and down time between camp weeks (while off-duty).
 
 ###### Interested in leading worship?&nbsp;
 
