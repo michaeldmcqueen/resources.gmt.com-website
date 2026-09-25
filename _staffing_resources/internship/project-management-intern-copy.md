@@ -8,7 +8,7 @@ inputs:
 ---
 30-40 hours/week locally in Fort Collins, CO<br />Assignment Dates: February 15-August 13, 2027<br />Pay Rate: $18.00/hour
 
-As we launch the 2027 season and support all Group Mission Trips experiences, this<br />intern will work directly with our project manager and developer, helping manage the<br />logistics of Workcamps and Week of Hope. Specific duties include, but are not<br />limited to, coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and email, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.<br />&nbsp; ** **
+As we launch the 2027 season and support all Group Mission Trips experiences, this<br />intern will work directly with our project manager and developer, helping manage the<br />logistics of Workcamps and Week of Hope. Specific duties include, but are not<br />limited to, coordinating supplies and paperwork going to camp leaders, communicating with lodging facility contacts via phone and email, managing food purchase orders, and ensuring materials are ordered and delivered to project sites.
 
 **Qualifications**
 
