@@ -10,7 +10,7 @@ The director leads the Red Shirt team, oversees camp logistics, and builds great
 
 ###### Job Requirements
 
-* Attend training in June, which may be in-person in Northern Colorado or virtual, to be determined annually."
+* Attend training in June, which may be in-person in Northern Colorado or virtual, to be determined annually
 * Review the Director Guide and camp specifics several weeks before camp
 * Contact each staff member by phone at least two weeks before camp
 * Empower your team of Red Shirts to do their jobs with excellence, welcome them as soon as they arrive at camp, visit each area of camp daily, communicate expectations clearly, support and encourage each staff member
