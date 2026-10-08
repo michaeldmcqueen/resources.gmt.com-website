@@ -7,7 +7,7 @@ order_number: 4
 inputs:
   unpublish: false
 ---
-Thank you for your participation in the ministry of Group Mission Trips, a nonprofit 501(c)(3) organization. You have the opportunity to discover the rewards of providing care through service and outreach to a community. Group Mission Trips (GMT) works with many vendors and subcontractors, such as schools, material suppliers, local community agencies, and churches.
+Thank you for your participation in the ministry of Group Mission Trips, a nonprofit 501(c)(3) organization, and a ministry of Group Cares. You have the opportunity to discover the rewards of providing care through service and outreach to a community. Group Mission Trips (GMT) works with many vendors and subcontractors, such as schools, material suppliers, local community agencies, and churches.
 
 As a GMT participant, you may participate in activities such as carpentry, patching and installing drywall, digging, building steps and wheelchair ramps, insulating, painting, flooring, replacing windows and doors, and other miscellaneous types of home repair. Other projects could include yard work, cleaning, working with the elderly, children, and/or animals.
 
