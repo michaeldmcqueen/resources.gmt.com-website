@@ -33,7 +33,7 @@ Possible gluten-free options include:
 
 ### **Dinner**
 
-Each evening (except for Wednesday) includes a **salad bar** featuring:
+Each evening (except for Tuesday) includes a **salad bar** featuring:
 
 Mixed greens, carrots, hard boiled eggs, black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
 
