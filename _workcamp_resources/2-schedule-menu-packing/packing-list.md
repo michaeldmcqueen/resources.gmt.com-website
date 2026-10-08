@@ -89,13 +89,13 @@ Make sure your group has these shared items covered:
 
 ### **Community Gift**
 
-Each camp location has shared a *specific need* in their community.<br>Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
+Each camp location has shared a *specific need* in their community.<br />Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
 
 Check your **customer account → Helpful Resources → “Schedule, Menu, and Packing”** to see your camp’s requested item.
 
 Your gift meets a *real need* right where you’ll serve—thank you in advance for your generosity!
 
-*Tip:* Involve your congregation, friends, and even local businesses in the effort.<br>*Transportation tight?* You can always purchase your community gifts once you arrive.
+*Tip:* Involve your congregation, friends, and even local businesses in the effort.<br />*Transportation tight?* You can always purchase your community gifts once you arrive.
 
 ---
 
@@ -113,9 +113,9 @@ Please bring clothing that’s appropriate in all settings (longer shorts, t-shi
 
 ---
 
-### **Cell Phones, iPods, Laptops, etc.**
+### **Cell Phones, Tablets, Laptops, etc.**
 
-For security reasons, it’s best to leave these items at home.<br>We get it—they’re great for capturing memories and keeping in touch—but **don’t let them distract you** from the people and purpose around you.
+For security reasons, it’s best to leave these items at home.<br />We get it—they’re great for capturing memories and keeping in touch—but **don’t let them distract you** from the people and purpose around you.
 
 “How can you be tethered to your devices and expect God to work in unexpected ways?”
 
