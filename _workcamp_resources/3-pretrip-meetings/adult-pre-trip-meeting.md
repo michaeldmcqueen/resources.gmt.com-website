@@ -122,7 +122,7 @@ Hand out your printed materials and cover these key points:
 * Schedule: Confirm travel dates, times, drivers, vehicle capacity, and any fun stops or free time.
 * Dress Code: Keep it simple and modest—plenty of T-shirts (with sleeves preferred), longer shorts or pants, and sturdy shoes. Adults set the example here!
 * Tool List: Check what’s still needed and plan how to transport supplies.
-* Community Gift: Each site has a special request. Check your account under *Schedule &gt; Menu &gt; Packing* to see what your location needs.
+* Community Gift: Each site has a special request. Check *Helpful Resources → Schedule, Menu, Packing → Community Gift List* in your customer account
 * Code of Conduct: Everyone signs this. Review the adult-specific sections together.
 * Theme & Program Info:
   * *Focused on Jesus* — every day points to him.

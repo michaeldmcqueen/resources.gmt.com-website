@@ -9,7 +9,7 @@ inputs:
 ---
 Welcome to the Adventure!
 
-First of all—thank you!<br>You’re giving your time, energy, and heart to help teenagers experience a life-changing week of faith and service. Because of you, they’ll grow closer to God, make lasting memories, and discover what it truly means to live out love in action.
+First of all—thank you!<br />You’re giving your time, energy, and heart to help teenagers experience a life-changing week of faith and service. Because of you, they’ll grow closer to God, make lasting memories, and discover what it truly means to live out love in action.
 
 So buckle up—this week is going to be unforgettable!
 
@@ -25,13 +25,13 @@ That’s the foundation for everything we do.
 
 ### **Our Story**
 
-It all started in the early 1990s with a simple mission: *to serve communities and connect people with Jesus through hands-on service.*
+It all started in 1990 with a simple mission: *to serve communities and connect people with Jesus through hands-on service.*
 
-From those humble beginnings, Group Mission Trips—part of the non-profit ministry Group Cares—has grown into a movement. Together, volunteers like you have served millions of hours helping people across the U.S. and beyond.
+From those humble beginnings, Group Mission Trips—part of the non-profit ministry Group Cares—has grown into a movement. Together, volunteers like you have served millions of hours helping people across the US.
 
 Through it all, one thing has never changed:
 
-We believe the best way for teenagers to encounter Jesus is by serving others—across town or across the globe.
+We believe the best way for teenagers to encounter Jesus is by serving others, right here in America.
 
 That legacy continues with you.
 
@@ -61,7 +61,7 @@ Connecting people with Jesus is the number one goal of Group Mission Trips, and 
 
 ### **FAQs (a.k.a. What You’re Probably Wondering)**
 
-Why Group Mission Trips?<br>Because everything—from housing to projects to worship—is already planned. That means you can focus on what really matters: walking alongside your students on their faith journey.
+Why Group Mission Trips?<br />Because everything—from housing to projects to worship—is already planned. That means you can focus on what really matters: walking alongside your students on their faith journey.
 
 ---
 
@@ -89,7 +89,7 @@ Expect to roll up your sleeves! You might:
 * Install mobile home skirting
 * Do light construction or weatherization
 
-No construction experience? No problem! You’ll learn as you go.<br>Crew and project assignments are revealed the first night of camp, and you will receive printed guides to help you with your site. There will be construction savvy volunteers, called **site coaches**, that will come around to each site to help you.
+No construction experience? No problem! You’ll learn as you go.<br />Crew and project assignments are revealed the first night of camp, and you will receive printed guides to help you with your site. There will be construction savvy volunteers, called **site coaches**, that will come around to each site to help you.
 
 **Pro tip**: Bring work gloves, sunscreen, a hat, and a great attitude!
 
@@ -97,7 +97,7 @@ No construction experience? No problem! You’ll learn as you go.<br>Crew and pr
 
 ### **Who’s on My Crew?**
 
-Each person is assigned to a six-person crew that usually includes one adult and five teens, all from different churches.<br>This mix helps build leadership, friendships, and a sense of wider community.
+Each person is assigned typically to a crew of six people, usually one or two adults and four to five youth, all from different churches.<br />This mix helps build leadership, friendships, and a sense of wider community.
 
 (If you have questions about this process or have specific requests, please give us a call. If needed, we are happy to keep your group together, but still on work crews of 6 people.)
 
@@ -237,7 +237,7 @@ For minor injuries:
 
 ### **And That’s It!**
 
-You’re about to be part of something that changes lives—including yours.<br>Thank you for showing up, serving faithfully, and helping students experience the joy of living out their faith.
+You’re about to be part of something that changes lives—including yours.<br />Thank you for showing up, serving faithfully, and helping students experience the joy of living out their faith.
 
 “Whatever you do, work at it with all your heart, as working for the Lord.” — *Colossians 3:23*
 
