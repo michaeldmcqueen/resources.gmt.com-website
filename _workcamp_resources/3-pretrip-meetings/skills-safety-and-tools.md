@@ -41,9 +41,9 @@ It’s also an awesome way to involve adult volunteers in your youth ministry th
 
 At this station, participants will gain confidence and hands-on experience using ladders safely and effectively—an essential skill on any mission trip worksite. Trainers should demonstrate each concept, then allow participants time for practice with supervision and encouragement.
 
-Supplies Needed: Stepladders and extension ladders<br>Participants should learn:
+Supplies Needed: Stepladders and extension ladders<br />Participants should learn:
 
-• **Ladder Types & Uses:** How to identify the difference between a stepladder and an extension ladder, and when each should be used on a worksite.<br>• **Safe Setup Techniques:** How to properly raise, extend, and secure an extension ladder, and how to lock a stepladder in place before climbing.<br>• **Correct Ladder Angle:** The safe ladder angle rule—place the ladder **1 foot away from the base for every 4 feet of height** to ensure stability.<br>• **Roof Access Safety:** Any ladder used to access a roof **must extend at least 3 feet above the landing point** for safe entry and exit.<br>• **Proper Climbing Form:** Always face the ladder, maintain three points of contact (two feet and one hand or two hands and one foot), and climb slowly and intentionally.<br>• **Spotting and Team Support:** Why it’s critical to have another person hold and stabilize the ladder while someone is climbing—safety is a team effort!<br>• **Moving and Transporting Ladders:** How to safely carry and reposition ladders to avoid hitting people, property, or power lines.
+• **Ladder Types & Uses:** How to identify the difference between a stepladder and an extension ladder, and when each should be used on a worksite.<br />• **Safe Setup Techniques:** How to properly raise, extend, and secure an extension ladder, and how to lock a stepladder in place before climbing.<br />• **Correct Ladder Angle:** The safe ladder angle rule—place the ladder **1 foot away from the base for every 4 feet of height** to ensure stability.<br />• **Roof Access Safety:** Any ladder used to access a roof **must extend at least 3 feet above the landing point** for safe entry and exit.<br />• **Proper Climbing Form:** Always face the ladder, maintain three points of contact (two feet and one hand or two hands and one foot), and climb slowly and intentionally.<br />• **Spotting and Team Support:** Why it’s critical to have another person hold and stabilize the ladder while someone is climbing—safety is a team effort!<br />• **Moving and Transporting Ladders:** How to safely carry and reposition ladders to avoid hitting people, property, or power lines.
 
 SAFETY TIP: When you’re up on a ladder, look out for overhead power lines. They carry enough electricity to kill instantly. Never, under any circumstances, touch an overhead electric line or electrical service entrance. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
@@ -65,9 +65,7 @@ Participants should learn the safe and proper use of a:
 
 • **Nail Bar**: Understand different ends of the bar, how to position it under a nail head, and use leverage (not brute force) to remove nails without damaging surrounding materials.
 
-&nbsp;
-
-SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase altogether: My safety is my number one job!
+&nbsp;SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase altogether: My safety is my number one job!
 
 ### **STATION 3: CAULKING, UTILITY KNIFE**
 
@@ -77,7 +75,7 @@ Supplies Needed: caulking guns, tubes of caulk, scrap lumber to practice squeezi
 
 Participants should learn:
 
-• **What Caulk Is and Why It's Used**: Understand how caulk prevents air and moisture from entering a house. Participants will learn where caulk is commonly applied—around windows, doors, trim, and cracks in siding—to protect homes from the elements.
+• **What Caulk Is and Why It’s Used**: Understand how caulk prevents air and moisture from entering a house. Participants will learn where caulk is commonly applied—around windows, doors, trim, and cracks in siding—to protect homes from the elements.
 
 • **How to Load and Operate a Caulking Gun**: Step-by-step practice loading the tube, cutting the tip at a proper angle, puncturing the seal, and applying steady pressure to dispense caulk smoothly.
 
@@ -113,7 +111,7 @@ Participants should learn how to:
 
 • **Close a Paint Can for Future Use**: Learn how to wipe the rim clean and tap the lid securely without deforming the can, preserving paint for later.
 
-• **Clean Brushes, Rollers, and Trays**: Practice rinsing tools immediately, using proper technique to prevent paint from drying in bristles or roller covers, extending the life of the equipment.
+• **Clean Brushes, Rollers, and Trays**: Practice rinsing tools immediately, using proper technique to prevent paint from drying in bristles or roller covers, extending the life of the equipment. Paint brushes can also be put in a Ziploc bag to prevent drying out overnight, as you will need to reuse brushes day to day.
 
 SAFETY TIP: In any home repair scenario, assume the old paint on the house is lead-based, and wear dust masks when scraping. Inhaling paint dust is a serious health hazard. Let’s say our favorite safety phrase altogether: My safety is my number one job!
 
@@ -161,7 +159,7 @@ Power tools make projects faster and more efficient—but they also require focu
 
 Supplies Needed: power saw, power drill, spare blades, spare bits, screw tip bits, extension cord, power source, safety goggles, sawhorses, scrap lumber to practice cutting and drilling, screws for drilling.
 
-Note: Any participant may use a power drill/driver to insert screws into boards. However, participants under age 16 are **not permitted** to operate any power tools. Those under age 18 are **not allowed** to use a power saw at Group Mission Trips. These rules ensure safety and compliance with insurance and liability guidelines.
+Note: Anyone may use a drill to drive screws, but no one under 16 may use a power tool or drill holes, and no one under 18 may use a power saw. These rules ensure safety and compliance with insurance and liability guidelines.
 
 Participants should learn how to:
 

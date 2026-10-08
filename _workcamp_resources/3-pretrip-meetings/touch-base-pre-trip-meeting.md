@@ -9,7 +9,7 @@ inputs:
 ---
 This short, energizing check-in helps keep excitement high and everyone on track for your upcoming mission trip!
 
-Because it’s designed to be quick, you can easily combine it with a bigger event—like a fundraiser or the serving event that is part of “Pre-Trip Meeting \#2. (If you choose that, check the detailed guide—it takes a bit more prep but adds a powerful experience.)
+Because it’s designed to be quick, you can easily combine it with a bigger event—like a fundraiser or the serving event in the Pre-trip Meeting/Event guide. (If you choose that, check the detailed guide—it takes a bit more prep but adds a powerful experience.)
 
 ---
 
