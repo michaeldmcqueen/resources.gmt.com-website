@@ -40,14 +40,14 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 **Say:** Let’s walk through some important details to make sure everyone knows what to expect:
 
-* **Dates & Times:** Here are our departure and return dates. Please pull out your phones and get these on your calendars now.<br>*(Project a calendar on the screen for a visual.)*
+* **Dates & Times:** Here are our departure and return dates. Please pull out your phones and get these on your calendars now.<br />*(Project a calendar on the screen for a visual.)*
 * **Wednesday Afternoon Free Time:** On Wednesday afternoon, we’ll have free time. We’ll be forming a small team of volunteers to research fun, safe options and bring suggestions to the group.
-* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List from our Group account, we’ll go over what you need to bring and what the sleeping arrangements look like.
+* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List, we’ll go over what you need to bring and what the sleeping arrangements look like.
 * **Code of Conduct:** This is extremely important. Every participant must read and understand the Group Mission Trips Code of Conduct before signing the participant form. This keeps everyone safe and focused on our mission.
 * **Camp Attire:** While there’s no strict dress code, we do ask everyone to wear modest and appropriate clothing throughout the week.
 * **Financial Info:** The total cost per participant includes transportation, registration, and free time expenses. Our payment schedule will need to be ahead of the GMT deadlines (March 1 and May 1). We will also discuss fundraising opportunities to help cover costs.
 * **Community Gift:** Our camp location has requested certain donation items. (Show list.) As a group, we will decide how to collect and bring these items with us.
-* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. We’ll make a list today of who that applies to and set a timeline to complete them.
+* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. It must be no older than 2 years from our trip start date, and our pastor will sign off on each person in our customer account. We’ll make a list today of who that applies to and set a timeline to complete them.
 
 ---
 
@@ -71,7 +71,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 ### ***Instructions for Mission Match-up***
 
-You can use as many pairs as you need based on group size.<br>For small groups (5-10), use 4-5 pairs<br>Medium groups (15–30), use 8–12 pairs<br>Large groups (30–50+), use 15+ pairs
+You can use as many pairs as you need based on group size.<br />For small groups (5-10), use 4-5 pairs<br />Medium groups (15–30), use 8–12 pairs<br />Large groups (30–50+), use 15+ pairs
 
 ---
 
@@ -107,7 +107,7 @@ Match these with the corresponding *Impact Moment Card* below.
 
 These are the powerful outcomes that match the situations above.
 
-A. The homeowner shares that they’ve been praying for help, and you are the answer.<br>B. The group rallies together and finishes stronger than ever with real teamwork.<br>C. The student leads devotion and moves the crew to tears.<br>D. The homeowner opens up and shares their life story by the end of the week.<br>E. Everyone laughs, bonds, and says it’s their favorite funny memory.<br>F. You see physical progress and realize you’re changing someone’s life.<br>G. The mistakes lead to mentoring moments that build confidence.<br>H. You feel the Holy Spirit speak through you as you pray.<br>I. The group cheers you on and reminds you it’s about progress, not perfection.<br>J. A student offers their air mattress, and you build a lasting friendship.<br>K. The student opens up about their faith and feels seen and loved.<br>L. A local resident thanks you for caring about their community.<br>M. A student learns patience and creativity while problem-solving.<br>N. The sunburn becomes a reminder of the joy of serving.<br>O. You make new friends and discover unexpected connections.<br>P. The homeowner says the dog hasn’t been that happy in months.<br>Q. Your story inspires a teenager to recommit their life to Christ.<br>R. The laughter during games becomes a bonding highlight.<br>S. The group creates new free-time traditions that are even better.<br>T. The teen begins to understand what real service looks like through your example.
+A. The homeowner shares that they’ve been praying for help, and you are the answer.<br />B. The group rallies together and finishes stronger than ever with real teamwork.<br />C. The student leads devotion and moves the crew to tears.<br />D. The homeowner opens up and shares their life story by the end of the week.<br />E. Everyone laughs, bonds, and says it’s their favorite funny memory.<br />F. You see physical progress and realize you’re changing someone’s life.<br />G. The mistakes lead to mentoring moments that build confidence.<br />H. You feel the Holy Spirit speak through you as you pray.<br />I. The group cheers you on and reminds you it’s about progress, not perfection.<br />J. A student offers their air mattress, and you build a lasting friendship.<br />K. The student opens up about their faith and feels seen and loved.<br />L. A local resident thanks you for caring about their community.<br />M. A student learns patience and creativity while problem-solving.<br />N. The sunburn becomes a reminder of the joy of serving.<br />O. You make new friends and discover unexpected connections.<br />P. The homeowner says the dog hasn’t been that happy in months.<br />Q. Your story inspires a teenager to recommit their life to Christ.<br />R. The laughter during games becomes a bonding highlight.<br />S. The group creates new free-time traditions that are even better.<br />T. The teen begins to understand what real service looks like through your example.
 
 ---
 
