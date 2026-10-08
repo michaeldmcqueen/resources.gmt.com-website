@@ -13,7 +13,7 @@ inputs:
 | 4:30 pm | Adult meeting |
 | 5:30 pm | Dinner gathering |
 | 6:30 pm | Kick-off programMeet your crew and get project assignments |
-| 8:00 pm | Evening ProgramYouth group devotions |
+| 8:00 pm | Evening programYouth group devotions |
 | 11:00 pm | Lights-out |
 
 **MONDAY**
@@ -21,7 +21,7 @@ inputs:
 | 6:30 am | Breakfast crew begins |
 | 6:45 am | Wake-up call |
 | 7–7:45 am | Breakfast and pack lunches |
-| 8:00 am | Morning Program |
+| 8:00 am | Morning program |
 | 9:00 am–3:00 pm | Serve at project sites<br />Lunch and crew devotions |
 | 3:30 pm | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Camp store is open) |
 | 5:00 pm | Dinner crew begins |
@@ -29,8 +29,7 @@ inputs:
 | 6:30 pm | Hospitality tasks |
 | 6:30 pm | Program team practice |
 | 7:00 pm | Worship team practice |
-| 8:00 pm | Evening Program<br />Youth group devotions |
-| 10:30 pm | Bedtime stories (optional) |
+| 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
 
 **TUESDAY**&nbsp;
@@ -51,8 +50,8 @@ inputs:
 | 6:30 pm | Red Shirt interest meeting |
 | 6:30 pm | Hospitality tasks |
 | 7:00 pm | Worship team practice |
-| 8:00 pm | Evening Program<br />Youth group devotions |
-| 9:45 pm | Lip Sync battle |
+| 8:00 pm | Evening program<br />Youth group devotions |
+| 10:00 pm | Lip sync battle |
 | Midnight | Lights-out |
 
 **FRIDAY**&nbsp;
