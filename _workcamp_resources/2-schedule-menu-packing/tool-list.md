@@ -22,7 +22,7 @@ inputs:
 * Hammer *(12 oz. or larger)*
 * Tape measure *(16’ or 25’)*
 * Carpenter’s pencil
-* **Paintbrushes** ***(variety of sizes)** GMT will not be providing these so bring enough for the week, and tell your participants to reuse them day to day*
+* Paintbrushes *(variety of sizes) **GMT will not be providing these so bring enough for the week, and be prepared to reuse them day to day***
 * Paint roller handle
 * Paint roller covers *(3 per person)*
 * Paint tray with liners
