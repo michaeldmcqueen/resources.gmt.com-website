@@ -43,8 +43,6 @@ Some lunch items are already gluten-free. Additional items can be provided if re
 
 · Every crew will have a 5-gallon water jug to refill personal bottles at the work site throughout the day.
 
-&nbsp;
-
 ---
 
 ### Dinner
@@ -61,9 +59,9 @@ Here’s a sample of what the week may look like:
 
 &nbsp;
 
-Salad Bar (Available nightly): Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and Ranch and Italian dressing.
+Salad Bar (Available nightly): Mixed greens, ham. turkey, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and Ranch and Italian dressing
 
-Beverages: Tea, lemonade, and water
+Beverages: Lemonade, and water
 
 Desserts (changes nightly): Ice cream, brownies, pudding, strawberry shortcake, and cookies
 
