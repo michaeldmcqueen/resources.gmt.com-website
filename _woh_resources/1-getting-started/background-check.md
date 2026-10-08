@@ -28,15 +28,13 @@ Once background checks are completed:
 
 1\. Log in to your **Customer Account**
 
-2\. Go to the **Forms** tab and select **Screening and Verification.**
+2\. Click **Screening & Verification** in the menu.
 
-3\. Enter each **adult participant’s** full name, background check organization, and the date the check was completed
+3\. Click **Add New**, enter the name, background check organization and date, click **Add**, then enter your pastor's name and email, and click **Send Authorization Message**.
 
-4\. Enter your **pastor’s name and email address**, then click **“Send Authorization Message.”**
+4\. Your pastor will receive an email to review and authorize the listed participants.
 
-5\. Your pastor will receive an email to review and authorize the listed participants.
-
-6\. You’ll receive a confirmation email once your pastor has completed the authorization.
+5\. You’ll receive a confirmation email once your pastor has completed the authorization.
 
 **Deadline:** All authorizations must be submitted **at least 30 days before your trip** begins.
 
@@ -44,7 +42,7 @@ Once background checks are completed:
 
 **If Your Church Is New to Background Checks**
 
-You’re welcome to use **any qualified provider** that conducts a **national or multi-state background check**.<br>If you’d like a recommendation, we suggest working with:
+You’re welcome to use **any qualified provider** that conducts a **national or multi-state background check**.<br />If you’d like a recommendation, we suggest working with:
 
 **Clear Investigative Advantage**
 
@@ -53,7 +51,7 @@ You’re welcome to use **any qualified provider** that conducts a **national or
 * Meets Group Mission Trips’ requirements
 * “Basic Starter” package provides an affordable, compliant background check
 
-**To set up your church account:**<br>Call **888-242-2503 (option 2)**<br>
+**To set up your church account:**<br />Call **214-382-2727**<br />
 
 *Plan ahead!* Setting up a new account with any background check provider can take time—start early to avoid delays.
 
@@ -63,7 +61,7 @@ You’re welcome to use **any qualified provider** that conducts a **national or
 
 If you’re an **individual participant** (not registering through a church), you can run an instant background check through:
 
-**Criminal WatchDog**<br>This provider appears reliable and offers individual national background checks that meet Group Mission Trips’ basic screening criteria. [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
+**Criminal WatchDog**<br />Criminal WatchDog offers individual national background checks that meet our screening requirements. [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
 
 ---
 
