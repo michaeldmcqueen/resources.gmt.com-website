@@ -34,7 +34,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 * Background checks must be national and no older than two (2) years from the start of the mission trip. You may choose your background check organization vendor or we do have a recommendation.&nbsp;
 * 18-20 year-olds are not considered “adults” during camp, however, because of our commitment to safety, we still ask them to go through your church’s screening process and have background checks run.&nbsp;
 * GMT requires a digital pastor authorization for every participant 18 years old and older in order for them to attend the mission trip.
-* You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 1.888.242.2503.&nbsp;
+* You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 1.214.382.2727.
 
 ---
 
