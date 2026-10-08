@@ -59,7 +59,7 @@ This experience will be full of powerful moments, but it will also be full of ch
 
 **Say:** Just like a lamp needs to be plugged in to stay lit, we need to stay connected to our source—physically, emotionally, and spiritually. When we’re tired or overwhelmed, our light can flicker, and the teens can sense that. That’s why recharging isn’t optional—it’s essential for us to shine.
 
-**Activity – “Light Source Ideas”:**<br>Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can “recharge your light” during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
+**Activity – “Light Source Ideas”:**<br />Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can “recharge your light” during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
 
 **Say:** When you need to step away to refuel, speak up. Protecting your light helps you illuminate others. A dim, exhausted leader can’t reflect the love of Christ the way a rested one can.
 
@@ -67,7 +67,7 @@ This experience will be full of powerful moments, but it will also be full of ch
 
 **Say:** On this trip, we’ll be surrounded by teenagers—bright, passionate, energetic lights of their own. Some may shine boldly, while others feel hidden or unsure. Our role is to help their lights grow brighter—not by overpowering them, but by encouraging them to lead, to serve, and to discover the ways God has already placed light within them.
 
-**Activity – “Light Builders or Light Blockers?”**<br>In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager’s light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
+**Activity – “Light Builders or Light Blockers?”**<br />In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager’s light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
 
 **Say:** Thank you for those insights. Remember, the trip is *not* about adults being in charge—it’s about students stepping into the light God has given them. Let them lead prayers, take responsibility at work sites, share reflections. You will still ensure safety and boundaries, but your guidance should illuminate their path—not overshadow it.
 
@@ -85,7 +85,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 
 ### **Tips for Being a Great Adult**
 
-**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. <br><br>· How can we recharge or find mini moments of downtime?
+**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. <br /><br />· How can we recharge or find mini moments of downtime?
 
 (Write ideas on the whiteboard. Examples: morning coffee chats, quick prayer walks, naps during free time, journaling) Discuss the importance of hydration, sleep, and staying healthy.
 
@@ -95,7 +95,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 
 (Write ideas on the whiteboard. Examples: ask open ended questions, listen more than you talk, join their activities like paint with them, laugh with them, encourage teamwork and celebrate small wins)
 
-**Say**: Now let’s talk about safety. This is a big one. We never want anything we do or say to make a teen feel uncomfortable. That means avoiding off-color jokes, physical contact that could be misinterpreted, or comments that could come across as inappropriate. When in doubt, error on the side of caution. Let’s chat about a few situations that could arise and how we would handle those situations.
+**Say**: Now let’s talk about safety. This is a big one. We never want anything we do or say to make a teen feel uncomfortable. That means avoiding off-color jokes, physical contact that could be misinterpreted, or comments that could come across as inappropriate. When in doubt, err on the side of caution. Let’s chat about a few situations that could arise and how we would handle those situations.
 
 · Maintaining healthy boundaries (Examples: alone with a camper, sleeping arrangements, shower situations, physical touch that is appropriate vs. could be perceived as inappropriate)
 
@@ -142,7 +142,7 @@ Remind everyone: anyone 18+ needs a national background check completed within t
 
 ### **Extra Adults?**
 
-If you have more adults than your 1:5 ratio—awesome!<br>They can join as participants or even apply to serve on camp staff.
+If you have more adults than your 1:5 ratio—awesome!<br />They can join as participants or even apply to serve on camp staff.
 
 Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https://groupmissiontrips.com/about-us/join-our-team){: target="_blank" rel="noopener"} for details.
 
@@ -154,13 +154,13 @@ Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https:/
 
 “Let’s close in prayer.”
 
-**Prayer:**<br>God, thank you for these incredible adults who are giving their time, energy, and hearts to serve you and our teens. As we prepare for this trip, help us to illuminate you through renewal, connection, presence—trusting that you’ve already equipped us for what’s ahead. Bless our mission trip, every person we’ll meet, and every moment of service we’ll share.<br>In Jesus’ name, amen.
+**Prayer:**<br />God, thank you for these incredible adults who are giving their time, energy, and hearts to serve you and our teens. As we prepare for this trip, help us to illuminate you through renewal, connection, presence—trusting that you’ve already equipped us for what’s ahead. Bless our mission trip, every person we’ll meet, and every moment of service we’ll share.<br />In Jesus’ name, amen.
 
 ---
 
-### **You’re ready!**<br>
+### **You’re ready!**<br />
 
-You’re part of something bigger than any single trip—God’s story of love in action.<br>Now take a deep breath, smile, and get excited… the adventure’s about to begin!
+You’re part of something bigger than any single trip—God’s story of love in action.<br />Now take a deep breath, smile, and get excited… the adventure’s about to begin!
 
 &nbsp;
 
