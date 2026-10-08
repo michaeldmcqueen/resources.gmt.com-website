@@ -32,9 +32,9 @@ This meeting ensures your entire group is fully prepared, informed, and excited 
 
 ##### **Background Checks:**
 
-* All participants 18+ must have a national or multi-state background check completed within 2 years of your trip start date.
-* After background checks are done, go to the *Screening Form* tab and enter each name, the organization used, and the date of the background check. Be sure to save!
-* Enter your pastor’s name and email in the *Pastor Authorization* section to authorize adults. They will receive an email, please instruct them to click the link and sign for each adult.
+* All participants 18+ must have a national background check completed within 2 years of your trip start date.
+* Go to *Screening & Verification*, click Add New, enter each name, the organization used and the date, and click Add.
+* Enter your pastor’s name and email in the *Pastor Authorization* section to authorize every participant 18 or older (students too). They will receive an email, please instruct them to click the link and sign for each adult. <br />\*A pastor who is going on the trip can't sign for themselves.
 
 ##### **Print and Bring:**
 
@@ -82,7 +82,7 @@ This meeting ensures your entire group is fully prepared, informed, and excited 
 ### **What to Bring**
 
 * Hand out and review the Packing List in detail.
-  * Remind everyone that they will be sleeping on the floor and will need to bring a single-sized air mattress (unless otherwise noted on your Lodging Info).
+  * Remind everyone that they will be sleeping on the floor and will need to bring a twin-size air mattress (unless otherwise noted on your Lodging Info).
   * Sturdy shoes/Work boots
 * Give an update on the community gift donations you are bringing as a group. Do the parents need to help with this?
 * Review what NOT to bring.
