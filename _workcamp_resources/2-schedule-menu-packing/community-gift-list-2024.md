@@ -7,73 +7,25 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-### **Barnesville, MN:**
+### **Battle Lake, MN:**
 
-Nonperishable food items. Most needed items:
-
-\-Canned meat
-
-\-Pasta
-
-\-Pasta Sauce
-
-\-Cereal
-
-\-Canned Fruits
-
-\-Canned Veggies
-
-\-Checks can be made out to Churches United. 1901 1<sup>st</sup> Ave N, Moorhead, MN 56560
+&nbsp;
 
 ### **Belle, WV:**
 
-\-Nonperishable food items
+&nbsp;
 
-### **Grosse Pointe Woods, MI:**
+### **Dalton, GA:**
 
-&nbsp;Nonperishable food items such as:
+&nbsp;
 
-\-Instant Oatmeal
+### **Elizabeth City, NC:**
 
-\-Canned fruit
+&nbsp;
 
-\-Pasta
+### **Imperial, PA:**
 
-\-Sauce
-
-\-Canned meats
-
-### **Hazlet, NJ:**
-
-Nonperishable food items, top 10 most needed items:
-
-\-Cereal
-
-\-Canned meats (Tuna, chicken, spam)
-
-\-Rice
-
-\-Peanut butter & Grape Jelly
-
-\-Macaroni & Cheese
-
-\-Tomato Sauce
-
-\-Pasta
-
-\-Canned Vegetables
-
-\-Canned meals (Chey Boyardee, Spaghetti-o’s, Chili)
-
-### **Lincoln, IL:**
-
-\-Diapers & wipes for Head Start (sizes 4-6 preferred)
-
-\-Shelf stable food for homebound senior emergency bags
-
-\-They have an Amazon wish list for these items as they have certain items they use due to dietary requirements. Wish list items get delivered directly to their office [https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz\_ls\_biz\_ex](https://www.amazon.com/hz/wishlist/ls/63UGTPR2RYOA/ref=hz_ls_biz_ex)
-
-\-Monetary donations that can support any one of these.
+&nbsp;
 
 ### **Mescalero, NM:**
 
@@ -91,59 +43,33 @@ Nonperishable food items, top 10 most needed items:
 
 \-NEW socks and underwear of all ages/genders/sizes
 
-### **Mount Gilead, OH:**
+### **Mexico, MO:**
 
-\-Shelf-stable packaged food items: cereal, spaghetti-O’s, ravioli, canned chicken, canned tuna, spam
+&nbsp;
 
-\-Pull-ups (4t & 5t)
+### **Mifflinburg, PA:**
 
-\-Formula
+&nbsp;
 
-### **Ordway, CO:**
+### **Osceola, IA:**
 
-Coming soon...
+&nbsp;
 
-### **Parsons, KS:**
+### **Springfield, IL:**
 
-\-Nonperishable food items
+&nbsp;
 
-\-Diapers
+### **Westfield, IN:**
 
-\-Formula
-
-### **Wallingford, CT:**
-
-\-Nonperishable food items: canned meats, canned fruits, pasta, sauce
-
-\-Paper products: tissues, toilet paper, paper towels
-
-\-Personal care items
-
-### **Wausau, WI:**
-
-\-Household items not covered by SNAP benefits
-
-\-Kleenex (tissues)
-
-\-Paper towels
-
-\-Clorox wipes & spray
-
-\-Hand sanitizer
-
-\-Dish washer detergent or pods
-
-\-Dish soap (dawn)
-
-\-Kitchen towels
-
-\-Sponges
-
-\-General cleaning supplies
+&nbsp;
 
 ### **Winchester, KY:**
 
-\-Nonperishable food items
+&nbsp;
+
+### **Wrightsville, PA:**
+
+&nbsp;
 
 &nbsp;
 
