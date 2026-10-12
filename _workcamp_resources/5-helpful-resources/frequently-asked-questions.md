@@ -49,7 +49,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday**<br />12-2 p.m. Check-in<br />3:00 p.m. Kick-off program<br />4 p.m. Adult meeting<br />5-6:30 p.m. Dinner<br />7:00 p.m. Evening program. Meet your crew. Project assignments.<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Monday, Tuesday, Thursday and Friday<br />**6:45 a.m. Wake-up call<br />7-7:45 a.m. Breakfast. Gather tools. Fill water jugs. Pack coolers with lunches<br />8 a.m. Morning program. Depart for sites. Work on project. Lunch and crew devotions<br />3:30 p.m. Return to the lodging facility. Camp store is open. Report progress. Recreation/free time<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team practice<br />6 p.m. Worship team practice<br />7:30 p.m. Evening program<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out (midnight Friday)<br /><br />**Wednesday**<br />6:45 a.m.-12 p.m. Same as Monday<br />12:30 p.m. Check-in at the lodging facility. Youth group free time. Dinner on your own<br />7:30 p.m. Program with variety show<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Saturday**<br />7-8 a.m. Breakfast<br />7-9 a.m. Room check-out. Groups depart<br /><br />**Special Meeting<br />**Tuesday 4:15 p.m. Adult meeting
+**Sunday**<br />12-2 p.m. Check-in<br />3:00 p.m. Kick-off program<br />4 p.m. Adult meeting<br />5-6:30 p.m. Dinner                                                                                                                               5:30 p.m. Program and worship team meeting<br />7:00 p.m. Evening program. Meet your crew. Project assignments.<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Monday, Tuesday, Thursday and Friday<br />**6:45 a.m. Wake-up call<br />7-7:45 a.m. Breakfast. Gather tools. Fill water jugs. Pack coolers with lunches<br />8 a.m. Morning program. Depart for sites. Work on project. Lunch and crew devotions<br />3:30 p.m. Return to the lodging facility. Camp store is open. Report progress. Recreation/free time<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team practice<br />6 p.m. Worship team practice<br />7:30 p.m. Evening program<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out (midnight Friday)<br /><br />**Wednesday**<br />6:45 a.m.-12 p.m. Same as Monday<br />12:30 p.m. Check-in at the lodging facility. Youth group free time. Dinner on your own<br />7:30 p.m. Program with variety show<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Saturday**<br />7-8 a.m. Breakfast<br />7-9 a.m. Room check-out. Groups depart<br /><br />**Special Meeting<br />**Tuesday 4:15 p.m. Adult meeting
 
 ---
 
@@ -122,10 +122,11 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 ### When are the payment dates?
 
-After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
+After you register by paying $100 (non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 1st, 2026: Half of what is remaining is due.
-* May 1st, 2026: The final balance is due. (All payments are non-refundable after this date.)
+* March 1st, 2027: Half of what is remaining is due.
+* May 1st, 2027: The final balance is due. (All payments are non-refundable after this date.)
+* Payments can be made several ways: Online, by phone at 1-844-258-9616, or by mail.
 
 ---
 
