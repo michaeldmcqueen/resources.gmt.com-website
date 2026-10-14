@@ -79,7 +79,7 @@
 				{% for group in grouped %}
 				<li class="nav-item top-level {% if group.name == group.category %}current{% endif %}">
 					{% assign items = group.items | sort: 'order_number' %}
-					<a href="{{ site.baseurl }}{{ items.first.url }}">{{ group.name }}</a>
+					{{ group.name }}
 					<ul>
 						{% for item in items %}
 						{% if item.inputs.unpublish == false %}
