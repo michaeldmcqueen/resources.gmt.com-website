@@ -13,7 +13,7 @@ inputs:
 
 This meeting helps you build a solid leadership team for your mission trip—people who share your passion, balance your strengths, and make the trip experience stronger for everyone.
 
-Between you, your team, and our support, you’ll be ready to lead an incredible, well-organized, and joy-filled mission experience!
+With your team and our support, you’ll be ready to lead an incredible, well-organized, joy-filled mission trip!
 
 ---
 
@@ -30,7 +30,7 @@ Between you, your team, and our support, you’ll be ready to lead an incredible
 
 Welcome and Vision
 
-Share your excitement and vision for the trip. Explain that great mission experiences happen when leadership is shared, and everyone uses their unique gifts.
+Share your excitement and vision for the trip. Explain that great mission experiences happen when leadership is shared and everyone uses their unique gifts.
 
 **Say** something like:
 
@@ -40,7 +40,7 @@ Share your excitement and vision for the trip. Explain that great mission experi
 
 ### **Discuss Key Leadership Principles**
 
-Make it Personal<br>Invite people individually—it means more than a general announcement. Share how their strengths could make a difference.
+Make It Personal<br>Invite people individually—it means more than a general announcement. Share how their strengths could make a difference.
 
 Empower Your Leaders<br>Once someone says yes, let them *own* their area. Provide support, not micromanagement.
 
@@ -72,7 +72,7 @@ Qualities
 
 Possible Tasks
 
-* Serve as main contact with Group Mission Trips
+* Serve as the main contact with Group Mission Trips
 * Ensure all deadlines are met (payments, forms, etc.)
 * Lead monthly meetings
 * Assign tasks and timelines
@@ -107,7 +107,7 @@ Qualities
 Possible Tasks
 
 * Lead prayer and devotion times at meetings and during the trip
-* Plan team building and reflection activities
+* Plan team-building and reflection activities
 * Coordinate on-the-road devotions
 * Organize community donations or outreach projects
 
