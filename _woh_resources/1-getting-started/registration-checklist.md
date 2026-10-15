@@ -17,8 +17,8 @@ inputs:
 * I have shared the **“Link to Participant Form”** with every youth and adult participant.
 * I have **at least one adult (21+) for every five participants under 21**.
 * If my group includes **both male and female participants**, I have **at least one male and one female adult** registered.
-* Every participant is at least 11 or entering 6th grade (14+ or entering 9th grade for Senior High camps).
-* **Payments** are made on time (deposit, installment, and final balance; all payments are due and non-refundable on **May 1, 2027**).
+* Every participant is at least 11 years old or entering 6th grade in the fall (at least 14 or entering 9th grade for Senior High trips).
+* I have made all **payments** on time: the deposit, the March 1 installment, and the final balance. All payments are due and non-refundable on **May 1, 2027**.
 
 ---
 
@@ -29,7 +29,7 @@ inputs:
 * I have **verified each participant’s entry**—checking for:
   * Duplicates (deleted any extras)
   * Correct spelling
-  * Accurate age, gender, and skill levels (for Workcamps)
+  * Accurate age and gender
 
 ---
 
@@ -37,7 +37,7 @@ inputs:
 
 * Every **participant age 18 or older** (including students) has completed a **multi-state/national background check** within the last **2 years**.
 * All background checks have been **reviewed by the pastor** and are **securely on file**.
-* In my **customer account**, under *Screening & Verification:*
+* In my **customer account**, under **Screening & Verification**:
   * I entered each 18+ participant and their background check details.
   * I clicked **“Send Authorization Message”** so my pastor can **digitally authorize** each adult.
 
