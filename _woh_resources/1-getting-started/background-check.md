@@ -7,16 +7,16 @@ order_number: 6
 inputs:
   unpublish: false
 ---
-To keep every Group Mission Trip safe and secure, **all participants age 18 and older** (including students) must have a **national background check** on file at their church before the trip.
+To keep every mission trip safe and secure, **all participants age 18 and older** (including students) must have a **national background check** on file at their church before the trip.
 
 ### **Screening Requirements Overview**
 
-* Background checks must be **no older than two (2) years** from the start of your mission trip.
+* Background checks must be **no older than two years** from the start of your mission trip.
 * Each background check must show **no record of:**
-  1. Traits or tendencies that could pose a threat to minors or others
-  2. Any sexual misconduct or convictions involving sexual crimes
-  3. Felony violence against another person within the last 10 years
-  4. Use or distribution of illicit drugs or controlled substances within the last 10 years
+  1. Any behaviors, traits, or tendencies that could pose a threat to minors or others
+  2. Any form of sexual misconduct or conviction related to sexual crimes
+  3. Felony convictions for violent acts within the last 10 years
+  4. Drug-related convictions (use or distribution of controlled substances) within the last 10 years
   5. Property crime convictions within the last 10 years
 * These standards apply to all adult participants—both leaders and students 18+.
 
@@ -26,15 +26,19 @@ To keep every Group Mission Trip safe and secure, **all participants age 18 and 
 
 Once background checks are completed:
 
-1\. Log in to your **Customer Account**
+1\. Log in to your **Customer Account**.
 
 2\. Click **Screening & Verification** in the menu.
 
-3\. Click **Add New**, enter the name, background check organization and date, click **Add**, then enter your pastor's name and email, and click **Send Authorization Message**.
+3\. Click **Add New**. Enter the participant’s name, background check organization and date, then click **Add**.
 
-4\. Your pastor will receive an email to review and authorize the listed participants.
+4\. Do this for every adult participant (18+).
 
-5\. You’ll receive a confirmation email once your pastor has completed the authorization.
+5\. Enter your pastor’s name and email, then click **Send Authorization Message**.
+
+6\. Your pastor will receive an email to review and authorize the listed participants.
+
+7\. You’ll receive a confirmation email once your pastor has completed the authorization.
 
 **Deadline:** All authorizations must be submitted **at least 30 days before your trip** begins.
 
@@ -61,7 +65,7 @@ You’re welcome to use **any qualified provider** that conducts a **national or
 
 If you’re an **individual participant** (not registering through a church), you can run an instant background check through:
 
-**Criminal WatchDog**<br />Criminal WatchDog offers individual national background checks that meet our screening requirements. [Criminal Watch Dog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
+**Criminal WatchDog**<br />Criminal WatchDog offers individual national background checks that meet our screening requirements. [Criminal WatchDog](https://www.criminalwatchdog.com/){: target="_blank" rel="noopener"}
 
 ---
 
