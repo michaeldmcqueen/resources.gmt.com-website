@@ -30,7 +30,7 @@ Once background checks are completed:
 
 2\. Click **Screening & Verification** in the menu.
 
-3\. Click **Add New**, enter the name, background check organization and date, click **Add**, then enter your pastor's name and email, and click **Send Authorization Message**.
+3\. Click **Add New**, enter the name, background check organization and date, click **Add**, then enter your pastor’s name and email, and click **Send Authorization Message**.
 
 4\. Your pastor will receive an email to review and authorize the listed participants.
 
