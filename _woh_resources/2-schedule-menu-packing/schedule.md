@@ -12,8 +12,8 @@ inputs:
 | 3–4 pm&nbsp; | Check-in&nbsp; |
 | 4:30 pm | Adult meeting |
 | 5:30 pm | Dinner gathering |
-| 6:30 pm | Kick-off programMeet your crew and get project assignments |
-| 8:00 pm | Evening programYouth group devotions |
+| 6:30 pm | Kick-off program<br />Meet your crew and get project assignments |
+| 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
 
 **MONDAY**
@@ -23,7 +23,7 @@ inputs:
 | 7–7:45 am | Breakfast and pack lunches |
 | 8:00 am | Morning program |
 | 9:00 am–3:00 pm | Serve at project sites<br />Lunch and crew devotions |
-| 3:30 pm | Return to lodging facility&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Camp store is open) |
+| 3:30 pm | Return to lodging facility<br />Camp store is open |
 | 5:00 pm | Dinner crew begins |
 | 5:30 pm | Dinner gathering |
 | 6:30 pm | Hospitality tasks |
@@ -46,7 +46,7 @@ inputs:
 
 **THURSDAY**
 
-| 6:30 am- 5:30 pm | Same as Monday |
+| 6:30 am–5:30 pm | Same as Monday |
 | 6:30 pm | Red Shirt interest meeting |
 | 6:30 pm | Hospitality tasks |
 | 7:00 pm | Worship team practice |
@@ -56,8 +56,8 @@ inputs:
 
 **FRIDAY**&nbsp;
 
-| 7–8:00 am&nbsp; | Breakfast&nbsp; |
-| 7–9:00 am&nbsp; | Room check-out&nbsp;<br />Groups depart&nbsp; |
+| 7–8 am&nbsp; | Breakfast&nbsp; |
+| 7–9 am&nbsp; | Room check-out&nbsp;<br />Groups depart&nbsp; |
 
-* Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.&nbsp;
-* Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.&nbsp;
+* Shower locations and times will be communicated at camp. There will be separate shower times for those 17 and younger and those 18 and older.&nbsp;
+* Breakfast and dinner crews and hospitality tasks: Participants can serve other campers by helping prepare meals and clean the facility.&nbsp;
