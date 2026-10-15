@@ -7,9 +7,9 @@ order_number: 3
 inputs:
   unpublish: false
 ---
-## **To Provide the Best Experience, All Trip Participants Agree To The Following:**
+## **To Provide the Best Experience, All Trip Participants Agree to the Following:**
 
-Group Mission Trips looks forward to providing a safe, fun, and memorable mission trip experience. Each participant is responsible for acting in a way that is respectful to God, ourselves, and others and assures everyone has a positive experience. All participants are required to follow these behavioral guidelines.
+Group Mission Trips looks forward to providing a safe, fun, and memorable mission trip experience. Each participant is responsible for acting in a way that respects God, themselves, and others, and helps everyone have a positive experience. All participants are required to follow these behavioral guidelines.
 
 ### **Expected Behavior**
 
@@ -17,7 +17,8 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 * Be responsible for your words and actions.
 * Dress and behave modestly to show respect to God, other participants, the community, and its people.
 * Follow the designated shower times, scheduled lights out, room assignments, and quiet times.&nbsp;
-* Do not use cell phones, gaming devices, or anything else causing a distraction on work sites or during worship programs, and understand there is no security for valuables.
+* Put away cell phones, gaming devices, and other distractions on work sites and during worship programs.
+* Understand that there is no security for valuables.
 * Follow directions from adult leaders, other adult participants, Group Mission Trips staff, and lodging representatives.
 * Be alert to potential safety risks and take action to prevent injury to other participants and yourself.
 
@@ -25,25 +26,25 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 
 * Endangering the health and safety of yourself, other participants, residents, partners, staff, or volunteers.
 * Entering areas of the lodging facility that are not assigned to you or leaving the lodging facility or work site without permission.
-* Damaging of any property.
+* Damaging any property.
 * Using profanity, inappropriate language, or displaying clothing or other personal items with offensive content.
 * Inappropriate physical contact, comments, gestures, references, pictures, or videos.
-* Illegal activity, possession, or use of alcohol, illegal drugs, firearms, weapons, or any object that may cause harm to another or place another person in fear of their safety.
-* Use tobacco, e-cigarettes, or vape pens in vehicles, on school or church grounds, at the project site, at the lodging facility, or in neighboring residents’ yards.
+* Any illegal activity, or having or using alcohol, illegal drugs, firearms, weapons, or any object that may cause harm to another or place another person in fear of their safety.
+* Using tobacco, e-cigarettes, or vape pens in vehicles, on school or church grounds, at the project site, at the lodging facility, or in neighboring residents’ yards.
 * Bullying, violence, acts of aggression, discrimination, or language that is attacking or degrading toward any other person.
 
-### **How behavioral guideline violations will be handled:**
+### **How Violations Will Be Handled**
 
 #### **Camp leadership will:**
 
 * Gather information from any party involved regarding the specific violation in question.&nbsp;
 * Inform the group leader(s) of any participant(s) involved in the allegation of a violation.
-* Act as a mediator and advise group leaders of involved parties on any consulted solutions and potential communication process with participant(s) in question and any further communications necessary to other leaders and/or parents.
+* Work with the group leaders to agree on a solution, and on what to tell the participants involved, other leaders, and parents.
 
 > *Disciplinary decisions are at the camp director’s or camp leadership’s final discretion after consulting with the group leader.*
 >
-> *Failure to adhere to these behavioral guidelines may result in warning, correction, dismissal, or legal action as necessary. We reserve the right to dismiss a participant from camp whose conduct is severely disruptive or creates physical harm to self or others.*
+> *Failure to adhere to these behavioral guidelines may result in warning, correction, dismissal, or legal action as necessary. We reserve the right to dismiss from camp any participant whose conduct is severely disruptive or causes physical harm to themselves or others.*
 >
-> *In the event of a dismissal, there will be no reimbursement of registration fee, nor any travel expense required by a guardian to pick up the participant if required.*
+> *If a participant is dismissed, the registration fee will not be refunded, and GMT will not pay travel costs for a guardian to pick them up.*
 >
 > *Your signature verifies that you have read, understand, and agree to this Code of Conduct.*
