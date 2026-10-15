@@ -127,6 +127,8 @@ Possible Tasks
 * Ensure adult/youth ratios are met
 * Recruit participants as needed
 * Monitor deadlines and registration progress
+* Coordinate travel plans, vehicles, and drivers
+* Plan routes and confirm travel details
 
 ---
 
@@ -144,22 +146,6 @@ Possible Tasks
 * Write bulletin or newsletter announcements
 * Create social media and flyer content
 * Plan the commissioning service and post-trip celebration
-
----
-
-**QUARTERMASTER**
-
-Qualities
-
-* Organized and resourceful
-* Calm problem-solver
-* Good with logistics
-
-Possible Tasks
-
-* Coordinate travel plans, vehicles, and drivers
-* Plan routes and confirm travel details
-* Manage tools, ladders, and supplies (for Workcamps)
 
 ---
 
