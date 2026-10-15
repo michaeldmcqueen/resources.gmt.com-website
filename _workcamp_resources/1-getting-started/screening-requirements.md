@@ -46,7 +46,7 @@ Group Mission Trips requires that a **lead pastor or authorized ministry leader*
 
 ---
 
-### **Adult Leader Disqualification**
+### **Adult Participant Disqualification**
 
 To ensure the safety of everyone involved, the following findings on a background check will result in **automatic disqualification** from participation (without exception or review):
 
@@ -58,15 +58,15 @@ To ensure the safety of everyone involved, the following findings on a backgroun
 
 *Important:*<br>We cannot make exceptions to these requirements—even in cases of claimed rehabilitation or personal transformation.
 
-However, churches **do not need to disclose specific details** of background check results to Group Mission Trips.<br>Other non-disqualifying offenses will not automatically prevent someone from attending.
+Churches **do not need to share the details** of background check results with Group Mission Trips.<br>Other offenses do not automatically keep someone from attending.
 
 If you’re unsure about a participant’s eligibility, **contact Group Mission Trips** for guidance.
 
 ---
 
-### **Age of Documentation**
+### **How Recent a Background Check Must Be**
 
-Background checks must be **no older than two (2) years** from the start of the mission trip.
+Background checks must be **no older than two years** from the start of the mission trip.
 
 If an existing check is more than two years old, a **new background check** is required before participation.
 
