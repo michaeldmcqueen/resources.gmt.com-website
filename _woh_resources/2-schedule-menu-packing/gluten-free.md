@@ -9,7 +9,7 @@ inputs:
 ---
 Traveling with a special diet can feel challenging—but we’re here to help! At Group Mission Trips, we do our best to accommodate gluten-free needs within our resources and facility limits.
 
-*Please note:* We cannot guarantee that cooking surfaces or utensils have not come into contact with gluten. To stay safe, participants with celiac disease or severe gluten sensitivities should bring supplemental food items.
+*Please note:* We cannot guarantee that cooking surfaces or utensils have not come into contact with gluten. Participants with celiac disease or a severe gluten sensitivity should plan to bring their own food.
 
 Anything marked (\*) may contain gluten additives—please double-check with our camp staff before eating.
 
