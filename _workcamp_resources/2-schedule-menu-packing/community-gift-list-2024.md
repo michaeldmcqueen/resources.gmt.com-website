@@ -29,19 +29,13 @@ inputs:
 
 ### **Mescalero, NM:**
 
-\-Nonperishable food items
-
-\-Home care paper products (paper towels, toilet paper, facial tissue, etc.)
-
-\-Dental hygiene items (floss, toothbrushes, toothpaste, etc.)
-
-\-Toiletries (soaps, deodorant, combs, etc.)
-
-\-Infant and baby items (diapers of all sizes, wipes, formula, bottles/sippy cups, etc.)
-
-\-Feminine hygiene products
-
-\-NEW socks and underwear of all ages/genders/sizes
+* Nonperishable food items
+* Home care paper products (paper towels, toilet paper, facial tissue, etc.)
+* Dental hygiene items (floss, toothbrushes, toothpaste, etc.)
+* Toiletries (soaps, deodorant, combs, etc.)
+* Infant and baby items (diapers of all sizes, wipes, formula, bottles/sippy cups, etc.)
+* Feminine hygiene products
+* NEW socks and underwear of all ages/genders/sizes
 
 ### **Mexico, MO:**
 
@@ -68,9 +62,5 @@ inputs:
 &nbsp;
 
 ### **Wrightsville, PA:**
-
-&nbsp;
-
-&nbsp;
 
 &nbsp;
