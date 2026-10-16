@@ -41,7 +41,7 @@ Picnic-style lunch options may include:
 
 ### **Dinner**
 
-Each evening includes a **salad bar** featuring:<br />Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, and dressing\* (Ranch or Italian).
+Each evening (except Wednesday) includes a **salad bar** featuring:<br />Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, and dressing\* (Ranch or Italian).
 
 **Beverages:** Lemonade and water
 
@@ -70,7 +70,7 @@ To help our gluten-free participants, Group Mission Trips can provide limited qu
 * 1 bag gluten-free chicken nuggets
 * 1 box gluten-free mac and cheese
 * 1 box of Cheerios
-* Frito’s Original Corn Chips and/or Mission Corn Chips
+* Fritos Original Corn Chips and/or Mission Corn Chips
 
 *Brands may differ by location.*<br />*Please notify us before camp if you’ll need these items so we can plan ahead.*
 
@@ -90,7 +90,7 @@ We encourage participants to bring additional gluten-free snacks and favorites, 
 
 ### **Working Together for a Safe Experience**
 
-We’re committed to partnering with trip leaders and participants to ensure everyone feels comfortable, safe, and nourished. **Please ensure that all dietary restrictions or severe allergies need to be put in the special requests section of customer accounts so we can let the staff at camp know ahead of time.**
+We’re committed to partnering with trip leaders and participants to ensure everyone feels comfortable, safe, and nourished. **Please put all dietary restrictions and severe allergies in the Special Requests section of your customer account, so we can let the camp staff know ahead of time.**
 
 If you have questions about gluten-free accommodations, please call us at **844\.258.9616**.
 
