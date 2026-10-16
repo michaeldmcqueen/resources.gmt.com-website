@@ -15,7 +15,7 @@ At Group Mission Trips, meals are prepared by one of our summer staff members an
 
 Start the day with a satisfying breakfast! Participants will enjoy one or more of the following options:
 
-\- Main Items: French toast, sausage, English muffins, eggs, cheese, biscuits and gravy, or bacon
+\- Main items: French toast, sausage, English muffins, eggs, cheese, biscuits and gravy, or bacon
 
 \- Daily accompaniments: Cereal, yogurt, toast, peanut butter, fruit, oatmeal, milk, coffee, and juice
 
@@ -49,7 +49,7 @@ Here’s a sample of what the week may look like:
 
 **Monday**: Pulled pork, mac and cheese, vegetables, and dessert
 
-**Tuesday**: DINNER ON YOUR OWN&nbsp;
+**Tuesday**: Dinner on your own&nbsp;
 
 **Wednesday**: Taco bar with flour tortillas, taco shells, tortilla chips, ground beef, black beans, lettuce, tomato, cheese, onion, sour cream, salsa, and dessert
 
@@ -77,7 +77,7 @@ If a participant has a food allergy or restriction:
 
 Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under **Special Requests**. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler. Please note that we do have peanut butter at camp.
 
-GMT staff will be able to provide ingredient information before each meal at camp. There will be signs posted in the cafeteria each day at camp that list vegetarian options, please see the list below.
+GMT staff can give you ingredient information before each meal. Signs in the cafeteria will list the vegetarian options each day, and you can see them in the list below.
 
 ---
 
