@@ -15,9 +15,8 @@ The purpose of this event is to introduce your group to the work crews they will
 
 ##### **Crew Prep**
 
-• Divide group into crews of five or six (at least one adult per crew).
-
-• Assign each crew a number. Post lists on a wall or door.
+* Divide group into crews of five or six (at least one adult per crew).
+* Assign each crew a number. Post lists on a wall or door.
 
 ##### **Supplies & Serving Project Prep**
 
@@ -36,13 +35,14 @@ Choose one or more of the following hands-on serving options:
 For each crew:
 
 * Place supplies in bins or tables.
-* Include a Crew Project Card explaining who they are serving, why it matters, and steps to complete the task.
+* Include a Crew Project Card explaining who they are serving, why it matters, and steps to complete the task. A sample card is at the end of this page.
 * Include blank note cards for crew members to write personal prayers or encouragement messages.
 
 ##### **Print**
 
 1. *Crew Roles Sheet* (one per participant)
 2. *Devotion Leader Guide & Questions* (one per crew)
+3. *Crew Project Card* (one per crew)
 
 ---
 
@@ -62,7 +62,7 @@ For each crew:
 
 ### **Serve At Your Project**
 
-· Hand each crew their *Crew Project Card.*
+* Hand each crew their *Crew Project Card.*
 
 **Say**: “You’re about to serve real people today. They may never meet you, but they will feel your love through what you prepare. Your crew roles matter—use them to accomplish your mission. You have 30 minutes to complete your project. If you finish early, return here for next steps.”
 
@@ -72,9 +72,9 @@ For each crew:
 
 ### **Unpacking Service**
 
-* Talk to and encourage each crew as they return. Give the creatively titled “Devotion Leader Questions” to the crew’s devotional leader and tell them they have about 15 minutes to lead a conversation with their crew using the questions.
+* Talk to and encourage each crew as they return. Give the “Devotion Leader Questions” to the crew’s devotional leader and tell them they have about 15 minutes to lead a conversation with their crew using the questions.
 
-**Say** something like: *Everything you just did has a purpose. Today we served people we may never see face-to-face, just as we’ll do on our mission trip. Serving isn’t about tasks—it’s about people and God’s heart for them.”*
+**Say** something like: *“Everything you just did has a purpose. Today we served people we may never see face-to-face, just as we’ll do on our mission trip. Serving isn’t about tasks—it’s about people and God’s heart for them.”*
 
 * Ask devotion leaders to close in a brief prayer with their crews.
 
@@ -104,18 +104,48 @@ For each crew:
 
 ### **Devotion Leader Questions After the Service Project**
 
-· What emotions or thoughts did you experience while serving?
-
-· Was there a moment your role either helped or challenged you? What did you learn from that?
-
-· How does assembling items for people you may never meet teach us about serving with the heart of Jesus?
-
-· Read Galatians 5:13. What does it mean to *serve humbly in love*? How is that different from just doing something “good”?
-
-· How might God use our simple acts of service to change lives—others’ and our own?
+* What emotions or thoughts did you experience while serving?
+* Was there a moment your role either helped or challenged you? What did you learn from that?
+* How does assembling items for people you may never meet teach us about serving with the heart of Jesus?
+* Read Galatians 5:13. What does it mean to *serve humbly in love*? How is that different from just doing something “good”?
+* How might God use our simple acts of service to change lives—others’ and our own?
 
 ---
 
 ### **Closing Word**
 
 **Say**: “Today you didn’t just practice serving—you actually served. The bags you put together are going to people who need hope, comfort, and reminders that they are not forgotten. This is what our mission trip is all about—loving people the way Jesus loves us. Today was just the beginning.”
+
+---
+
+### **Crew Project Card (Sample)**
+
+*Print one for each crew and fill it in before the meeting.*
+
+**Crew #:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Our project:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Who we are serving:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Why it matters:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Steps to finish:**
+
+1. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+2. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+3. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+**Time:** 30 minutes. If you finish early, come back here for next steps.
+
+##### **Example: Blessing Bags for Homeless Outreach**
+
+**Who we are serving:** People without a home in our community, through \[name of local shelter\].
+
+**Why it matters:** A bag with food, water, and a kind note helps someone feel seen and cared for.
+
+**Steps to finish:**
+
+1. Put one of each item into a bag.
+2. Write a note of encouragement and add it to the bag.
+3. Close the bag and put it in the finished bin.
