@@ -17,6 +17,4 @@ inputs:
 
 **Springfield, VA:** Backpacks and school supplies for elementary and middle school students.
 
-**Wheaton, IL:** We will be sending community gifts to the People’s Resource Center. Items for their food pantry, clothing closet, computer skills, art classes, job skill classes, and new mom support can be found at this link: [https://www.peoplesrc.org/give-food-or-goods/#](https://www.peoplesrc.org/give-food-or-goods/)
-
-&nbsp;
+**Wheaton, IL:** We will be sending community gifts to the People’s Resource Center. Items for their food pantry, clothing closet, computer skills, art classes, job skill classes, and new mom support can be found at this link: [https://www.peoplesrc.org/give-food-or-goods/](https://www.peoplesrc.org/give-food-or-goods/)
