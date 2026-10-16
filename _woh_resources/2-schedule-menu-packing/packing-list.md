@@ -21,8 +21,6 @@ Bring what you need to stay comfortable during the week!
 * Towels and washcloths
 * Modest swimsuit and shower shoes
 
-  &nbsp;
-
 **Toiletries**
 
 Stay fresh and ready for every day of service.
@@ -73,7 +71,9 @@ Don’t leave these mission trip must-haves behind!
 * Spending money
 * Games for free time
 
-### **As A Group**&nbsp;
+### **As a Group**
+
+Make sure your group has these shared items covered:
 
 * 1 first-aid kit for every vehicle&nbsp;
 * 1  five-gallon water jug for every 6 people&nbsp;
@@ -83,7 +83,7 @@ Don’t leave these mission trip must-haves behind!
 
 Each camp location has shared a *specific need* in their community.<br />Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
 
-Check your **customer account → Helpful Resources → “Schedule, Menu, and Packing”** to see your camp’s requested item.
+Check your **customer account → Helpful Resources → “Schedule, Menu, Packing”** to see your camp’s requested item.
 
 Your gift meets a *real need* right where you’ll serve—thank you in advance for your generosity!
 
@@ -101,7 +101,7 @@ Let’s keep our focus clear and our environment safe. Please **leave these at h
 
   Please bring clothing that’s appropriate in all settings (longer shorts, t-shirts, modest swimsuits, etc.).
 
-### **Cell Phones, iPods, Laptops, etc.**
+### **Cell Phones, Tablets, Laptops, etc.**
 
 For security reasons, it’s best to leave these items at home.<br />We get it—they’re great for capturing memories and keeping in touch—but **don’t let them distract you** from the people and purpose around you.
 
