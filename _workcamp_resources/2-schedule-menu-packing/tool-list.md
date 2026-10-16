@@ -22,7 +22,7 @@ inputs:
 * Hammer *(12 oz. or larger)*
 * Tape measure *(16’ or 25’)*
 * Carpenter’s pencil
-* Paintbrushes *(variety of sizes) **GMT will not be providing these so bring enough for the week, and be prepared to reuse them day to day***
+* Paintbrushes *(variety of sizes)*. **Bring enough for the whole week. Rinse them out at the end of each day and use them again. GMT will not buy more brushes.**
 * Paint roller handle
 * Paint roller covers *(3 per person)*
 * Paint tray with liners
@@ -87,5 +87,3 @@ inputs:
 You’ll still need tools!<br />Plan ahead to either **ship tools before the trip** or **purchase them after you arrive.**<br />You can choose to **donate your tools to your resident** at the end of the week or ship them back home.
 
 *Tip: Borrow or buy used tools when possible. If you purchase new ones, keep your receipts in case something isn’t used.*
-
-&nbsp;
