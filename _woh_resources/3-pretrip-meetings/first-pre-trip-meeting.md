@@ -11,7 +11,7 @@ inputs:
 
 Before we dive into details, let’s get a visual of what this trip is all about.
 
-**(Play** [**Group Week of Hope promo video**](https://youtu.be/Oi-FcAsrr8g){: target="_blank" rel="noopener"} **or the** [**Youth Expectations Video**](https://vimeo.com/300595208){: target="_blank" rel="noopener"} **(both under Helpful Resources)**
+**(Play the Week of Hope Promo Video or the Week of Hope Expectations Video. Both are on the** [**Videos**](https://resources.groupmissiontrips.com/community-service/5-helpful-resources/videos/){: target="_blank" rel="noopener"} **page under Helpful Resources.)**
 
 **Optional**: Invite a couple of students or adults who have been on past mission trips to briefly share one highlight from their experience.
 
@@ -42,12 +42,12 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 * **Dates & Times:** Here are our departure and return dates. Please pull out your phones and get these on your calendars now.<br>*(Project a calendar on the screen for a visual.)*
 * **Tuesday Evening Free Time:** On Tuesday evening, we’ll have free time. We’ll be forming a small team of volunteers to research fun, safe options and bring suggestions to the group.
-* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List from our Group account, we’ll go over what you need to bring and what the sleeping arrangements look like.
+* **Lodging:** We’ll be staying at (location). Using the Lodging Information and Packing List from our customer account, we’ll go over what you need to bring and what the sleeping arrangements look like.
 * **Code of Conduct:** This is extremely important. Every participant must read and understand the Group Mission Trips Code of Conduct before signing the participant form. This keeps everyone safe and focused on our mission.
 * **Camp Attire:** We don’t have a dress code but many of our project sites do. We ask that everyone wear modest clothing so that we can serve those projects.
 * **Financial Info:** The total cost per participant includes transportation, registration, and free time expenses. Our payment schedule will need to be ahead of the GMT deadlines (March 1 and May 1). We will also discuss fundraising opportunities to help cover costs.
 * **Community Gift:** Our camp location has requested certain donation items. (Show list.) As a group, we will decide how to collect and bring these items with us.
-* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. We’ll make a list today of who that applies to and set a timeline to complete them.
+* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. It must be no older than 2 years from our trip start date, and our pastor will sign off on each person in our customer account. We’ll make a list today of who that applies to and set a timeline to complete them.
 
 ### **Ways You Can Participate in Programs**
 
@@ -55,17 +55,13 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 * **Worship Team:** If you play an instrument or sing, you can join the camp music team! The Song List is available in our account.
 * **Drama & Scripture:** You can be part of a drama, read Scripture, or lead prayer during evening programs.
-* **Lip Sync Battle:** On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. ( You will need to approve their act before they show it to staff at camp).
+* **Lip Sync Battle:** On Thursday night, there will be a lip-sync battle at camp! If you want to try out for the show, talk to me about your act. (You will need to approve their act before they show it to staff at camp).
 
-  &nbsp;
+### **Wrap-Up**
 
-  ### **Wrap-Up**
+**Say:** That’s all the information I have for today! Make sure those dates are saved and start spreading the word—this trip is going to be incredible. What questions do you have?
 
-  **Say:** That’s all the information I have for today! Make sure those dates are saved and start spreading the word—this trip is going to be incredible. What questions do you have?
-
-  *(Use FAQs from your customer account as needed.)*
-
-### &nbsp;
+*(Use FAQs from your customer account as needed.)*
 
 ### ***Instructions for Mission Match-up***
 
@@ -112,7 +108,7 @@ You can use as many pairs as you need based on group size.<br>For small groups (
 ##### **How to Play**
 
 1. Pass out ONE card to each person.
-2. Have everyone stand up and yell “GO SERVE!” to begin.
+2. Have everyone stand up and yell “Let’s Bring Hope!” to begin.
 3. Participants mix and mingle to find their matching pair (Service+ Positive Outcomes).
 4. Once matched, each pair introduces themselves and reads their card aloud, showing how **serving leads to impact**.
 
@@ -126,5 +122,4 @@ Add **“Wild Cards”** – reflection prompts anyone can pair with:
 
 * “Share a time when serving surprised you.”
 * “Describe a moment when you saw God move through someone else.”
-
-“Talk about what scares you most—and what you hope God will do.”
+* “Talk about what scares you most—and what you hope God will do.”
