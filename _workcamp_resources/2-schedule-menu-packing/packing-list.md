@@ -91,7 +91,7 @@ Make sure your group has these shared items covered:
 
 Each camp location has shared a *specific need* in their community.<br />Your group’s mission: **have fun collecting as much of that item as you can—and bring it to camp!**
 
-Check your **customer account → Helpful Resources → “Schedule, Menu, and Packing”** to see your camp’s requested item.
+Check your **customer account → Helpful Resources → “Schedule, Menu, Packing”** to see your camp’s requested item.
 
 Your gift meets a *real need* right where you’ll serve—thank you in advance for your generosity!
 
