@@ -17,9 +17,9 @@ At Group Mission Trips, meals are prepared by the cafeteria staff at your lodgin
 
 Start the day with a satisfying breakfast! Participants will enjoy one or more of the following options:
 
-· Main Items: Scrambled eggs, breakfast sandwiches, breakfast burritos, French toast, pancakes, sausage, bacon, and tater circles
+· Main items: Scrambled eggs, breakfast sandwiches, breakfast burritos, French toast, pancakes, sausage, bacon, and tater circles
 
-· Daily Accompaniments: A variety of cereals, yogurts, and fresh fruit, bread, peanut butter, juices, and coffee
+· Daily accompaniments: A variety of cereals and yogurts, fresh fruit, bread, peanut butter, juices, and coffee
 
 ---
 
@@ -27,7 +27,7 @@ Start the day with a satisfying breakfast! Participants will enjoy one or more o
 
 Lunch is picnic-style at the work sites. Each day includes:
 
-· A sandwich, your choice of turkey, ham, or peanut butter with an assortment of fixings (e.g., cheese, tomato, lettuce, mayo, mustard, jelly)
+· A sandwich: your choice of turkey, ham, or peanut butter, with fixings like cheese, tomato, lettuce, mayo, mustard, and jelly
 
 · Chips
 
@@ -59,9 +59,9 @@ Here’s a sample of what the week may look like:
 
 &nbsp;
 
-Salad Bar (Available nightly): Mixed greens, ham. turkey, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and Ranch and Italian dressing
+Salad Bar (Available nightly): Mixed greens, ham, turkey, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and Ranch and Italian dressing
 
-Beverages: Lemonade, and water
+Beverages: Lemonade and water
 
 Desserts (changes nightly): Ice cream, brownies, pudding, strawberry shortcake, and cookies
 
@@ -85,7 +85,7 @@ Severe allergies: Notify Group Mission Trips in advance. Make a note in your cus
 
 ### Vegetarian Options
 
-Items marked (\*) may contain meat additives. Please confirm with the staff upon arrival.
+Some items may contain meat additives. Please confirm with the staff when you arrive.
 
 · Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, oatmeal, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, and coffee.
 
