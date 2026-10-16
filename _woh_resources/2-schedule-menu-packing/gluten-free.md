@@ -22,7 +22,7 @@ Possible gluten-free options include:
 * Bacon\*
 * Yogurt
 * Fruit
-* Juice, milk, coffee, tea
+* Juice, milk, coffee, and tea
 
 ### **Lunch**
 
@@ -35,17 +35,17 @@ Possible gluten-free options include:
 
 Each evening (except for Tuesday) includes a **salad bar** featuring:
 
-Mixed greens, carrots, hard boiled eggs, black beans, sliced turkey or ham\*, Ranch and Italian dressing\*..&nbsp;
+Mixed greens, carrots, hard-boiled eggs, black beans, sliced turkey or ham\*, Ranch and Italian dressing\*
 
-Peanut butter and jelly available each night&nbsp;
+Peanut butter and jelly are available each night
 
-**Sunday**:&nbsp; Gluten free pizza can be served
+**Sunday**: Gluten-free pizza can be served
 
-**Monday**: Pulled Pork\*, Vegetables
+**Monday**: Pulled pork\*, vegetables
 
 **Tuesday**: Dinner on your own&nbsp;
 
-**Wednesday**: Taco shells, tortilla chips, ground beef\*, black beans,<br />salsa, diced tomatoes, cheese, onions
+**Wednesday**: Taco shells, tortilla chips, ground beef\*, black beans, salsa, diced tomatoes, cheese, onions
 
 **Thursday**: Vegetables and ice cream cups
 
@@ -53,32 +53,30 @@ Peanut butter and jelly available each night&nbsp;
 
 ### **Gluten-Free Items Available at Camp**
 
-* 1 loaf gluten free bread&nbsp;
+* 1 loaf gluten-free bread&nbsp;
 * 1 package gluten-free English muffins&nbsp;
 * 1 gluten-free pizza
 * 1 box of gluten-free pasta&nbsp;
 * 1 jar of gluten-free pasta sauce&nbsp;
 * 1&nbsp; box gluten-free mac and cheese
 * 1 box of Cheerios&nbsp;
-* Frito’s Original Corn Chips and/or Mission Corn Chips&nbsp;
+* Fritos Original Corn Chips and/or Mission Corn Chips
 
-  &nbsp;
-
-  *Brands may differ by location.*<br />*Please notify us before camp if you’ll need these items so we can plan ahead.*
+*Brands may differ by location.*<br />*Please notify us before camp if you’ll need these items so we can plan ahead.*
 
 ### **Recommended Items to Bring**
 
 We encourage participants to bring additional gluten-free snacks and favorites, such as:
 
 * Extra gluten-free bread
-* Fruit snacks/fruit leather&nbsp;
+* Fruit snacks or fruit leather&nbsp;
 * String cheese&nbsp;
 * Pepperoni&nbsp;
 * Favorite granola bars&nbsp;
 
 ### **Working Together for a Safe Experience**
 
-We’re committed to partnering with trip leaders and participants to ensure everyone feels comfortable, safe, and nourished. **Please ensure that all dietary restrictions or severe allergies need to be put in the special requests section of customer accounts so we can let the staff at camp know ahead of time.**
+We’re committed to partnering with trip leaders and participants to ensure everyone feels comfortable, safe, and nourished. **Please put all dietary restrictions and severe allergies in the Special Requests section of your customer account, so we can let the camp staff know ahead of time.**
 
 If you have questions about gluten-free accommodations, please call us at **844\.258.9616**.
 
