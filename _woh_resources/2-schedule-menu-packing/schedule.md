@@ -34,7 +34,7 @@ inputs:
 
 **TUESDAY**&nbsp;
 
-| 6:30 am–3:00 pm&nbsp; | Same as Monday |
+| 6:30 am–3:00 pm | Same as Monday<br />Adult meeting right after the morning program |
 | 3:30 pm | Check-in at lodging facility<br />Free time: dinner and devotions on your own |
 | 8:00 pm&nbsp; | Lodging facility back open |
 | 8:30 pm&nbsp; | Movie night (optional) |
