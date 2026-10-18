@@ -97,7 +97,7 @@ No construction experience? No problem! You’ll learn as you go.<br />Crew and 
 
 ### **Who’s on My Crew?**
 
-Each person is assigned typically to a crew of six people, usually one or two adults and four to five youth, all from different churches.<br />This mix helps build leadership, friendships, and a sense of wider community.
+Each person is typically assigned to a crew of six people, usually one or two adults and four or five youth, all from different churches.<br />This mix helps build leadership, friendships, and a sense of wider community.
 
 (If you have questions about this process or have specific requests, please give us a call. If needed, we are happy to keep your group together, but still on work crews of 6 people.)
 
@@ -114,7 +114,7 @@ Expect:
 * Limited A/C – many facilities simply don’t have it
 * Limited hot water. Local facilities do their best, but we have a lot of participants!
 * Showers in the school locker rooms or nearby facilities if needed. When necessary, refreshingly cool shower tents could be constructed outside
-* Be prepared for communal living…. there may not be a whole lot of privacy
+* Be prepared for communal living. There may not be a whole lot of privacy
 
 **Pro tip:** Earplugs, flip-flops for showers, and an extension cord make a big difference!
 
