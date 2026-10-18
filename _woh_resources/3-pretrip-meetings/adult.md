@@ -25,13 +25,13 @@ That’s the foundation for everything we do.
 
 ### **Our Story**
 
-It all started in the early 1990s with a simple mission: *to serve communities and connect people with Jesus through hands-on service.*
+It all started in 1990 with a simple mission: *to serve communities and connect people with Jesus through hands-on service.*
 
-From those humble beginnings, Group Mission Trips—part of the non-profit ministry Group Cares—has grown into a movement. Together, volunteers like you have served millions of hours helping people across the U.S. and beyond.
+From those humble beginnings, Group Mission Trips—part of the non-profit ministry Group Cares—has grown into a movement. Together, volunteers like you have served millions of hours helping people across the U.S.
 
 Through it all, one thing has never changed:
 
-We believe the best way for teenagers to encounter Jesus is by serving others—across town or across the globe.
+We believe the best way for teenagers to encounter Jesus is by serving others, right here in America.
 
 That legacy continues with you.
 
@@ -77,17 +77,17 @@ Here’s what that looks like:
 
 ### **What Kind of Work Will I Do?**
 
-Be ready to tackle any project and expect to interact each day with local partners from the community. Projects could include working with children at a day camp, serving at a food bank or homeless shelter, leading a Vacation Bible School, assisting the elderly, tutoring struggling kids, working with disabled children, facilitating a sports camp, and/or serving churches and other human service organizations. Typically a crew works at one, at the most two, project sites during the week
+Be ready to tackle any project and expect to interact each day with local partners from the community. Projects could include working with children at a day camp, serving at a food bank or homeless shelter, leading a Vacation Bible School, assisting the elderly, tutoring struggling kids, working with disabled children, facilitating a sports camp, and/or serving churches and other human service organizations. Typically a crew works at one, at the most two, project sites during the week.
 
 ### **Who’s on My Crew?**
 
-Each person is assigned to a six-person crew that usually includes one adult and five teens, all from different churches.<br>This mix helps build leadership, friendships, and a sense of wider community.
+Each person is assigned to a six-person crew that usually includes one or two adults and four or five youth, all from different churches.<br>This mix helps build leadership, friendships, and a sense of wider community.
 
 (If you have questions about this process or have specific requests, please give us a call. If needed, we are happy to keep your group together, but still on work crews of 6 people.)
 
 ### **Where Will I Stay?**
 
-You'll likely stay in a local church- simple but full of heart!
+You'll likely stay in a local church—simple but full of heart!
 
 Expect:
 
@@ -96,7 +96,7 @@ Expect:
 * Limited A/C – many facilities simply don’t have it
 * Limited hot water. Local facilities do their best, but we have a lot of participants!
 * Limited shower facilities. Most churches don’t have them, so we have to get creative. They may be down the street at a YMCA or we might have shower tents constructed outside the churches. They may or may not have hot water
-* Be prepared for communal living…. there may not be a whole lot of privacy
+* Be prepared for communal living. There may not be a whole lot of privacy
 
 **Pro tip:** Earplugs, flip-flops for showers, and an extension cord make a big difference!
 
@@ -190,18 +190,17 @@ For minor injuries:
 
 * Use the crew’s first-aid kit or the vehicle kit.
 * Review safety rules daily—never cut corners.
-* Youth under 16 may use power drills (for screws only) but not saws or hole-drilling. No one under the age of 18 can use a power saw.
 * Carry your insurance card (or a copy).
 * Local clinics and hospitals are already notified that we’re in town.
 
-  ---
+---
 
-  ### **And That’s It!**
+### **And That’s It!**
 
-  You’re about to be part of something that changes lives—including yours.<br>Thank you for showing up, serving faithfully, and helping students experience the joy of living out their faith.
+You’re about to be part of something that changes lives—including yours.<br>Thank you for showing up, serving faithfully, and helping students experience the joy of living out their faith.
 
-  &nbsp;
+&nbsp;
 
-  “Whatever you do, work at it with all your heart, as working for the Lord.” — *Colossians 3:23*
+“Whatever you do, work at it with all your heart, as working for the Lord.” — *Colossians 3:23*
 
-  &nbsp;
+&nbsp;
