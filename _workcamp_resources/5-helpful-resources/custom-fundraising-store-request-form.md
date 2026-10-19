@@ -21,6 +21,6 @@ Here’s how it works:
 * Once your store is set up, you will receive an email containing a link to your fundraising store and login information to access the platform and start fundraising!
 * All purchases, payments, and shipping are taken care of, so you don’t need to do anything if you don’t want to; easy peasy. A default markup will be added per item, ensuring every sale contributes directly to your group.
 * Because you will have full access to manage the online platform, you can also update prices, change colors, or request custom designs!
-* Once sales start rolling in, you’ll receive payments from your sales directly from our partner as orders are completed and fulfilled. More info about payout options and frequency is explained during the set up process.
+* Once sales start rolling in, you’ll receive payments from your sales directly from our partner as orders are completed and fulfilled. More info about payout options and frequency is explained during the setup process.
 
 [**SUBMIT REQUEST FORM &gt;**](https://form.jotform.com/topshelfprinters2010/form){: target="_blank" rel="noreferrer nofollow noopener"}
