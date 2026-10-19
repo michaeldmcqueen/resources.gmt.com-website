@@ -34,7 +34,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 * Background checks must be national and no older than two (2) years from the start of the mission trip. You choose your background check organization vendor or we do have a recommendation.&nbsp;
 * 18-20 year-olds are not considered “adults” during camp, however because of our commitment to safety, we still ask them to go through your church’s screening process and have background checks run.&nbsp;
 * GMT requires a digital pastor authorization for every participant 18 years old and older in order for them to attend the mission trip.
-* You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 1.888.242.2503.&nbsp;
+* You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 214-382-2727.&nbsp;
 
 ---
 
@@ -54,8 +54,8 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 | 3–4 pm | Check-in |
 | 4:30 pm | Adult meeting |
 | 5:30 pm | Dinner gathering |
-| 6:30 pm | Kick-off programMeet your crew and get project assignments |
-| 8:00 pm | Evening ProgramYouth group devotions |
+| 6:30 pm | Kick-off program<br />Meet your crew and get project assignments |
+| 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
 
 **MONDAY**
@@ -63,21 +63,20 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 | 6:30 am | Breakfast crew begins |
 | 6:45 am | Wake-up call |
 | 7–7:45 am | Breakfast and pack lunches |
-| 8:00 am | Morning Program |
-| 9:00 am–3:00 pm | Serve at project sitesLunch and crew devotions |
-| 3:30 pm | Return to lodging facility (Camp store is open) |
+| 8:00 am | Morning program |
+| 9:00 am–3:00 pm | Serve at project sites<br />Lunch and crew devotions |
+| 3:30 pm | Return to lodging facility<br />Camp store is open |
 | 5:00 pm | Dinner crew begins |
 | 5:30 pm | Dinner gathering |
 | 6:30 pm | Hospitality tasks |
 | 6:30 pm | Program team practice |
 | 7:00 pm | Worship team practice |
-| 8:00 pm | Evening ProgramYouth group devotions |
-| 10:30 pm | Bedtime stories (optional) |
+| 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
 
 **TUESDAY**
 
-| 6:30 am–3:00 pm | Same as Monday |
+| 6:30 am–3:00 pm | Same as Monday<br />Adult meeting right after the morning program |
 | 3:30 pm | Check-in at lodging facility<br />Free time: dinner and devotions on your own |
 | 8:00 pm | Lodging facility back open |
 | 8:30 pm | Movie night (optional) |
@@ -89,21 +88,21 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 **THURSDAY**
 
-| 6:30 am- 5:30 pm | Same as Monday |
+| 6:30 am–5:30 pm | Same as Monday |
 | 6:30 pm | Red Shirt interest meeting |
 | 6:30 pm | Hospitality tasks |
 | 7:00 pm | Worship team practice |
-| 8:00 pm | Evening ProgramYouth group devotions |
-| 9:45 pm | Lip Sync battle |
+| 8:00 pm | Evening program<br />Youth group devotions |
+| 10:00 pm | Lip sync battle |
 | Midnight | Lights-out |
 
 **FRIDAY**
 
-| 7–8:00 am | Breakfast |
-| 7–9:00 am | Room check-outGroups depart |
+| 7–8 am | Breakfast |
+| 7–9 am | Room check-out<br />Groups depart |
 
-* Shower locations and times will be communicated at camp. There will be separate shower times designated for those that are 17 and younger from those 18 and older.
-* Breakfast and dinner crews/hospitality tasks: Participants have the opportunity to serve other campers by helping prepare meals and clean the facility.
+* Shower locations and times will be communicated at camp. There will be separate shower times for those 17 and younger and those 18 and older.
+* Breakfast and dinner crews and hospitality tasks: Participants can serve other campers by helping prepare meals and clean the facility.
 
 ---
 
@@ -177,8 +176,9 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
-* March 1st, 2026: Half of what is remaining is due.
-* May 1st, 2026: The final balance is due. (All payments are non-refundable after this date.)
+* March 1st, 2027: Half of what is remaining is due.
+* May 1st, 2027: The final balance is due. (All payments are non-refundable after this date.)
+* Payments can be made several ways: Online, by phone at 1-844-258-9616, or by mail.
 
 ---
 
