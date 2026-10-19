@@ -44,13 +44,13 @@ Fundraising often gets reduced to dollars, goals, and deadlines—but at its cor
 
 ##### **1\. Fundraising Aligns Our Hearts with God’s Mission**
 
-When we invite others to give, we are not asking them to fund *our* plans—we are inviting them to join *God’s* work. Fundraising requires us to seek God’s direction, to depend on His provision, and to stay rooted in the belief that he is the source—not our efforts or strategies.
+When we invite others to give, we are not asking them to fund *our* plans—we are inviting them to join *God’s* work. Fundraising requires us to seek God’s direction, to depend on his provision, and to stay rooted in the belief that he is the source—not our efforts or strategies.
 
-**Fundraising isn’t about making something happen—it’s about watching what God will do through His people.**
+**Fundraising isn’t about making something happen—it’s about watching what God will do through his people.**
 
 ##### **2\. Fundraising Builds Trust Over Control**
 
-Asking for support requires humility. It places us in a posture of dependence rather than self-sufficiency. In Scripture, God repeatedly uses financial dependence to shape His people’s faith. Fundraising reminds us that *we are participants in God’s provision, not the providers ourselves.*
+Asking for support requires humility. It places us in a posture of dependence rather than self-sufficiency. In Scripture, God repeatedly uses financial dependence to shape his people’s faith. Fundraising reminds us that *we are participants in God’s provision, not the providers ourselves.*
 
 ##### **3\. Fundraising Invites Others into Spiritual Growth**
 
@@ -64,7 +64,7 @@ Jesus said, “Where your treasure is, there your heart will be also” (Matthew
 
 &nbsp;**5\. Fundraising Becomes a Testimony of God’s Faithfulness**
 
-Every dollar raised is a story—not of what *we* accomplished, but of how God moved through His people. Fundraising done prayerfully becomes a record of God showing up, often through completely unexpected people at just the right time.
+Every dollar raised is a story—not of what *we* accomplished, but of how God moved through his people. Fundraising done prayerfully becomes a record of God showing up, often through completely unexpected people at just the right time.
 
 ---
 
@@ -159,7 +159,7 @@ This isn’t about asking for money—it’s about offering people the opportuni
 2. **Prayer Partner Sponsorships** – Individuals sponsor a student financially and commit to praying for them daily.<br>*Youth can write to their prayer partners each week with updates, creating a meaningful spiritual connection beyond finances.*
 3. **Business Board Sponsorships** – Local businesses donate in exchange for their logo on your shirts, banner, or social media shout-outs.<br>*Create sponsorship levels (Gold, Silver, Bronze) and offer different promotional perks depending on the gift size.*
 4. **Seat at the Table Sponsorship** – Donors “purchase a seat” to symbolically support a student going on the trip.<br>*Set up a visual table display with empty chairs and fill each one with a donor’s name as they sponsor a spot.*
-5. **Tool/Resource Sponsor** – People sponsor specific trip items like paint, lumber, meals, gas, etc.<br>*Create a checklist or Amazon-style wish list with actual costs so donors can choose exactly what they want to cover.*
+5. **Tool/Resource Sponsor** – People sponsor specific trip items like gas, meals on the road, or travel snacks.<br>*Create a checklist or Amazon-style wish list with actual costs so donors can choose exactly what they want to cover.*
 6. **Adopt-a-Day** – Individuals donate a set amount to sponsor a day of ministry and receive a recap afterward.<br>*Post daily updates or send photos and prayer stories to each day’s sponsor, showing real-time impact.*
 7. **Monthly Giving Club** – Invite donors to pledge a recurring amount leading up to the trip.<br>*Use online giving platforms with auto-draft options and send monthly gratitude videos from youth participants.*
 8. **Corporate Matching Funds** – Youth ask parents’ employers if they match charitable donations.<br>*Provide a simple info sheet explaining the mission and 501(c)(3) status to make it easy to submit for matching.*
@@ -234,7 +234,7 @@ This isn’t about asking for money—it’s about offering people the opportuni
 
 *Track progress online and livestream portions to engage remote supporters.*
 
-26\.	**Parent’s Night Out** – Offer childcare for donations while parents enjoy a night off.
+26\.	**Parents’ Night Out** – Offer childcare for donations while parents enjoy a night off.
 
 *Provide games, crafts, and a mini devo to make it meaningful and fun for kids.*
 
@@ -246,7 +246,7 @@ This isn’t about asking for money—it’s about offering people the opportuni
 
 *Add audience voting where people donate to vote for their favorite acts.*
 
-29\.	**Car Wash with a Cause** – Add prayer booths or scripture cards for a spiritual touch.
+29\.	**Car Wash with a Cause** – Add prayer booths or Scripture cards for a spiritual touch.
 
 *Offer “pay what you want” donations and pray with each car owner if they choose.*
 
@@ -294,7 +294,7 @@ This isn’t about asking for money—it’s about offering people the opportuni
 
 *Include QR codes for digital giving and celebrate completed envelopes from stage.*
 
-40\.	**“Light the Map” LED Display** – Each gift lights another LED on a display, symbolizing the theme of illuminating the world.
+40\.	**“Light the Map” LED Display** – Each gift lights another LED on a display, symbolizing the light of the Gospel reaching the world.
 
 *As the map lights up, it visually represents the mission becoming fully funded and fully sent.*
 
