@@ -1,5 +1,5 @@
 ---
-title: Community Service Certificate (Pre-Season)
+title: Community Service Certificate (Coming Soon)
 category: Community Service
 subcategory: Post Camp Resources
 order: '2'
