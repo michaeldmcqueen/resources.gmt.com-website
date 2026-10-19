@@ -1,5 +1,5 @@
 ---
-title: Post-camp Devotion (Pre-Season)
+title: Post-camp Devotion (Coming Soon)
 category: Community Service
 subcategory: Post Camp Resources
 order: '3'
