@@ -35,7 +35,7 @@ It’s also an awesome way to involve adult volunteers in your youth ministry th
 
 * Open with prayer and then explain how the meeting will work.
 * Announce the six small groups that will rotate through the stations and introduce the adult trainers and assistant trainers.
-* Say something like*\: This meeting is all about home repair skills safety and training. After 15 minutes at your first station, I’ll call for you to rotate. Move quickly to the next station, and make sure everyone has a chance to practice the skills at that station. We have an hour and a half for this training. Before we get started, I’d like you to repeat after me a very important phrase: “My safety is my number one job.” (Have everyone repeat it.) We’ll repeat that phrase when we get to each new station. Go!*
+* Say something like*\: This meeting is all about home repair skills, safety, and training. After 15 minutes at your first station, I’ll call for you to rotate. Move quickly to the next station, and make sure everyone has a chance to practice the skills at that station. We have an hour and a half for this training. Before we get started, I’d like you to repeat after me a very important phrase: “My safety is my number one job.” (Have everyone repeat it.) We’ll repeat that phrase when we get to each new station. Go!*
 
 ### **STATION 1: LADDERS**
 
@@ -43,7 +43,13 @@ At this station, participants will gain confidence and hands-on experience using
 
 Supplies Needed: Stepladders and extension ladders<br />Participants should learn:
 
-• **Ladder Types & Uses:** How to identify the difference between a stepladder and an extension ladder, and when each should be used on a worksite.<br />• **Safe Setup Techniques:** How to properly raise, extend, and secure an extension ladder, and how to lock a stepladder in place before climbing.<br />• **Correct Ladder Angle:** The safe ladder angle rule—place the ladder **1 foot away from the base for every 4 feet of height** to ensure stability.<br />• **Roof Access Safety:** Any ladder used to access a roof **must extend at least 3 feet above the landing point** for safe entry and exit.<br />• **Proper Climbing Form:** Always face the ladder, maintain three points of contact (two feet and one hand or two hands and one foot), and climb slowly and intentionally.<br />• **Spotting and Team Support:** Why it’s critical to have another person hold and stabilize the ladder while someone is climbing—safety is a team effort!<br />• **Moving and Transporting Ladders:** How to safely carry and reposition ladders to avoid hitting people, property, or power lines.
+* **Ladder Types & Uses:** How to identify the difference between a stepladder and an extension ladder, and when each should be used on a worksite.
+* **Safe Setup Techniques:** How to properly raise, extend, and secure an extension ladder, and how to lock a stepladder in place before climbing.
+* **Correct Ladder Angle:** The safe ladder angle rule—place the ladder **1 foot away from the base for every 4 feet of height** to ensure stability.
+* **Roof Access Safety:** Any ladder used to access a roof **must extend at least 3 feet above the landing point** for safe entry and exit.
+* **Proper Climbing Form:** Always face the ladder, maintain three points of contact (two feet and one hand or two hands and one foot), and climb slowly and intentionally.
+* **Spotting and Team Support:** Why it’s critical to have another person hold and stabilize the ladder while someone is climbing—safety is a team effort!
+* **Moving and Transporting Ladders:** How to safely carry and reposition ladders to avoid hitting people, property, or power lines.
 
 SAFETY TIP: When you’re up on a ladder, look out for overhead power lines. They carry enough electricity to kill instantly. Never, under any circumstances, touch an overhead electric line or electrical service entrance. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
@@ -55,17 +61,13 @@ Supplies Needed: Phillips screwdrivers, slotted screwdrivers, chisels, hammers, 
 
 Participants should learn the safe and proper use of a:
 
-• **Phillips Screwdriver**: Identify the cross-shaped tip, align it correctly in the screw head, apply firm pressure, and turn with control to avoid stripping the screw or slipping.
+* **Phillips Screwdriver**: Identify the cross-shaped tip, align it correctly in the screw head, apply firm pressure, and turn with control to avoid stripping the screw or slipping.
+* **Slotted (Flathead) Screwdriver**: Understand its single flat blade, proper alignment, and technique to prevent the tool from slipping out and causing injury.
+* **Chisel**: Learn how to hold and guide the chisel at the correct angle, and how to safely strike it with a hammer when shaping or removing wood. Discuss when to use a chisel versus another tool.
+* **Hammer**: Practice gripping the hammer correctly near the end of the handle for leverage, swinging with control (not force), and driving nails smoothly. Learn how to remove nails safely using the hammer’s claw.
+* **Nail Bar**: Understand different ends of the bar, how to position it under a nail head, and use leverage (not brute force) to remove nails without damaging surrounding materials.
 
-• **Slotted (Flathead) Screwdriver**: Understand its single flat blade, proper alignment, and technique to prevent the tool from slipping out and causing injury.
-
-• **Chisel**: Learn how to hold and guide the chisel at the correct angle, and how to safely strike it with a hammer when shaping or removing wood. Discuss when to use a chisel versus another tool.
-
-• **Hammer**: Practice gripping the hammer correctly near the end of the handle for leverage, swinging with control (not force), and driving nails smoothly. Learn how to remove nails safely using the hammer’s claw.
-
-• **Nail Bar**: Understand different ends of the bar, how to position it under a nail head, and use leverage (not brute force) to remove nails without damaging surrounding materials.
-
-&nbsp;SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase altogether: My safety is my number one job!
+&nbsp;SAFETY TIP: Don’t use a tool for a task for which it was not intended. Generally speaking, if you’re forcing the tool, you’re probably not using it correctly, and you’re more likely to get hurt. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
 ### **STATION 3: CAULKING, UTILITY KNIFE**
 
@@ -75,19 +77,14 @@ Supplies Needed: caulking guns, tubes of caulk, scrap lumber to practice squeezi
 
 Participants should learn:
 
-• **What Caulk Is and Why It’s Used**: Understand how caulk prevents air and moisture from entering a house. Participants will learn where caulk is commonly applied—around windows, doors, trim, and cracks in siding—to protect homes from the elements.
+* **What Caulk Is and Why It’s Used**: Understand how caulk prevents air and moisture from entering a house. Participants will learn where caulk is commonly applied—around windows, doors, trim, and cracks in siding—to protect homes from the elements.
+* **How to Load and Operate a Caulking Gun**: Step-by-step practice loading the tube, cutting the tip at a proper angle, puncturing the seal, and applying steady pressure to dispense caulk smoothly.
+* **How to Open and Prepare a Tube of Caulk**: Learn how to correctly cut the nozzle and pierce the inner seal using the tool on the caulk gun or a nail—without damaging the tube or causing excess caulk to spill.
+* **How to Apply and Smooth Caulk**: Practice creating a consistent bead of caulk and smoothing it with a finger (or a caulking tool) to seal the gap completely. Emphasize using light pressure and wiping excess to maintain a clean finish.
+* **How to Remove and Store Caulk Properly**: Learn how to unload the caulk tube, seal it with a nail or tape to prevent drying out and store it upright for future use.
+* **Utility Knife Safety and Operation**: Understand how to grip and cut safely, change blades when dull, and always cut away from your body. Participants will practice scoring or trimming materials with control and precision.
 
-• **How to Load and Operate a Caulking Gun**: Step-by-step practice loading the tube, cutting the tip at a proper angle, puncturing the seal, and applying steady pressure to dispense caulk smoothly.
-
-• **How to Open and Prepare a Tube of Caulk**: Learn how to correctly cut the nozzle and pierce the inner seal using the tool on the caulk gun or a nail—without damaging the tube or causing excess caulk to spill.
-
-• **How to Apply and Smooth Caulk**: Practice creating a consistent bead of caulk and smoothing it with a finger (or a caulking tool) to seal the gap completely. Emphasize using light pressure and wiping excess to maintain a clean finish.
-
-• **How to Remove and Store Caulk Properly**: Learn how to unload the caulk tube, seal it with a nail or tape to prevent drying out and store it upright for future use.
-
-• **Utility Knife Safety and Operation**: Understand how to grip and cut safely, change blades when dull, and always cut away from your body. Participants will practice scoring or trimming materials with control and precision.
-
-SAFETY TIP: Immediately retract the blade of a utility knife after each use—even if you’re just setting it down for a minute. Let’s say our favorite safety phrase altogether: My safety is my number one job!
+SAFETY TIP: Immediately retract the blade of a utility knife after each use—even if you’re just setting it down for a minute. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
 ### **STATION 4: PAINTING**
 
@@ -97,23 +94,16 @@ Supplies Needed: cans of house paint, wooden stirrers, various paintbrushes, pai
 
 Participants should learn how to:
 
-• **Open and Stir Paint Properly**: Learn how to remove a paint lid safely and use a stir stick to mix paint thoroughly, ensuring color consistency and an even finish.
+* **Open and Stir Paint Properly**: Learn how to remove a paint lid safely and use a stir stick to mix paint thoroughly, ensuring color consistency and an even finish.
+* **Use a Paintbrush Effectively**: Understand how to dip a brush properly, remove excess paint, apply smooth strokes, and cut in around edges, windows, and trim.
+* **Pour Paint into a Tray Without Spilling**: Practice controlled pouring techniques and learn how much paint is needed in the tray for rolling.
+* **Connect a Roller Cover to a Paint Roller**: Participants will learn how to securely attach the roller cover and check that it spins smoothly to ensure even application.
+* **Use a Paint Roller**: Learn how to load a roller with paint, apply using the “W” or “M” technique for even coverage, and avoid dripping or over-rolling.
+* **Prepare Surfaces for Painting (Including Scraping)**: Understand the importance of removing loose paint, sanding rough edges, and cleaning surfaces before painting to ensure better adhesion. Demonstrate scraping techniques using safety goggles and dust masks.
+* **Close a Paint Can for Future Use**: Learn how to wipe the rim clean and tap the lid securely without deforming the can, preserving paint for later.
+* **Clean Brushes, Rollers, and Trays**: Practice rinsing tools immediately, using proper technique to prevent paint from drying in bristles or roller covers, extending the life of the equipment. Paint brushes can also be put in a Ziploc bag to prevent drying out overnight, as you will need to reuse brushes day to day.
 
-• **Use a Paintbrush Effectively**: Understand how to dip a brush properly, remove excess paint, apply smooth strokes, and cut in around edges, windows, and trim.
-
-• **Pour Paint into a Tray Without Spilling**: Practice controlled pouring techniques and learn how much paint is needed in the tray for rolling.
-
-• **Connect a Roller Cover to a Paint Roller**: Participants will learn how to securely attach the roller cover and check that it spins smoothly to ensure even application.
-
-• **Use a Paint Roller**: Learn how to load a roller with paint, apply using the “W” or “M” technique for even coverage, and avoid dripping or over-rolling.
-
-• **Prepare Surfaces for Painting (Including Scraping)**: Understand the importance of removing loose paint, sanding rough edges, and cleaning surfaces before painting to ensure better adhesion. Demonstrate scraping techniques using safety goggles and dust masks.
-
-• **Close a Paint Can for Future Use**: Learn how to wipe the rim clean and tap the lid securely without deforming the can, preserving paint for later.
-
-• **Clean Brushes, Rollers, and Trays**: Practice rinsing tools immediately, using proper technique to prevent paint from drying in bristles or roller covers, extending the life of the equipment. Paint brushes can also be put in a Ziploc bag to prevent drying out overnight, as you will need to reuse brushes day to day.
-
-SAFETY TIP: In any home repair scenario, assume the old paint on the house is lead-based, and wear dust masks when scraping. Inhaling paint dust is a serious health hazard. Let’s say our favorite safety phrase altogether: My safety is my number one job!
+SAFETY TIP: In any home repair scenario, assume the old paint on the house is lead-based, and wear dust masks when scraping. Inhaling paint dust is a serious health hazard. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
 ##### **Youth Leaders, please share! “JUST PAINTING” – The Power of a Paintbrush**
 
@@ -163,15 +153,12 @@ Note: Anyone may use a drill to drive screws, but no one under 16 may use a powe
 
 Participants should learn how to:
 
-· **Safely and properly use a power saw and drill:** Learn how to handle power tools with control and precision, including how to start, operate, and shut them down properly. They will practice cutting and drilling using scrap lumber to gain confidence under supervision.
+* **Safely and properly use a power saw and drill:** Learn how to handle power tools with control and precision, including how to start, operate, and shut them down properly. They will practice cutting and drilling using scrap lumber to gain confidence under supervision.
+* **Use eye protection:** Eye protection is mandatory at all times when operating or standing near active power tools to protect from dust, debris, or accidental material kickback.
+* **Change blades and bits and know when those changes are necessary:** Learn how to identify dull or damaged blades and bits, understand how they affect performance, and practice how to safely change them using the proper tools and procedures.
+* **Properly use extension cords:** Instruction will include selecting the appropriate gauge cord, inspecting cords for damage, keeping them away from cutting paths, and ensuring cords are fully plugged into a grounded power source.
 
-· **Use eye protection:** Eye protection is mandatory at all times when operating or standing near active power tools to protect from dust, debris, or accidental material kickback.
-
-· **Change blades and bits and know when those changes are necessary:** Learn how to identify dull or damaged blades and bits, understand how they affect performance, and practice how to safely change them using the proper tools and procedures.
-
-· **Properly use extension cords:** Instruction will include selecting the appropriate gauge cord, inspecting cords for damage, keeping them away from cutting paths, and ensuring cords are fully plugged into a grounded power source.
-
-SAFETY TIP: Be careful not to use power tools in wet conditions. Always unplug power tools immediately after each use. Also, power tools must be used under the supervision of an adult at all times during the mission trip. Let’s say our favorite safety phrase altogether: My safety is my number one job!
+SAFETY TIP: Be careful not to use power tools in wet conditions. Always unplug power tools immediately after each use. Also, power tools must be used under the supervision of an adult at all times during the mission trip. Let’s say our favorite safety phrase all together: My safety is my number one job!
 
 ### **STATION 6: TAPE MEASURES/CHALK LINES/LEVELS**
 
@@ -181,21 +168,15 @@ Supplies Needed: tape measures, chalk lines, levels, various objects to measure 
 
 Participants should learn how to:
 
-· **Read a tape measure**: Practice identifying whole inches, half inches, quarter inches, and smaller fractions to accurately measure materials needed for construction.
+* **Read a tape measure**: Practice identifying whole inches, half inches, quarter inches, and smaller fractions to accurately measure materials needed for construction.
+* **Mark a board for cutting**: Learn to transfer measurements onto materials and make clear, precise marks to ensure accurate cuts.
+* **Lock the tape measure**: Instruction will cover how to lock the tape measure in place to prevent slipping and ensure exact measurements.
+* **Identify the various fractions of an inch on a tape measure**: Learn how to read detailed increments, a crucial skill for fitting materials properly.
+* **Purposefully and properly use a chalk line**: Learn how to snap a straight line over a long distance to guide cuts or positioning on work surfaces.
+* **Use a level both vertically and horizontally**: Practice placing a level to check if surfaces are perfectly straight, flat, plumb, or square to ensure structures are safe and accurate.
+* **Advanced Skill (Optional): Use a speed square and T-square**: Students ready for advanced instruction can be introduced to these tools to quickly mark angles, create square cuts, and ensure accuracy in layout work.
 
-· **Mark a board for cutting**: Learn to transfer measurements onto materials and make clear, precise marks to ensure accurate cuts.
-
-· **Lock the tape measure**: Instruction will cover how to lock the tape measure in place to prevent slipping and ensure exact measurements.
-
-· **Identify the various fractions of an inch on a tape measure**: Learn how to read detailed increments, a crucial skill for fitting materials properly.
-
-· **Purposefully and properly use a chalk line**: Learn how to snap a straight line over a long distance to guide cuts or positioning on work surfaces.
-
-· **Use a level both vertically and horizontally**: Practice placing a level to check if surfaces are perfectly straight, flat, plumb, or square to ensure structures are safe and accurate.
-
-· **Advanced Skill (Optional): Use a speed square and T-square**: Students ready for advanced instruction can be introduced to these tools to quickly mark angles, create square cuts, and ensure accuracy in layout work.
-
-SAFETY TIP: Keep small tools in a central location or on your tool belt. Return them after each use. If you spend less time searching for tools, you’ll have less opportunity to get hurt! Let’s say our favorite safety phrase altogether: My safety is my number one job!
+SAFETY TIP: Keep small tools in a central location or on your tool belt. Return them after each use. If you spend less time searching for tools, you’ll have less opportunity to get hurt! Let’s say our favorite safety phrase all together: My safety is my number one job!
 
 ### **WRAP UP & TOOLS:**
 
@@ -210,7 +191,7 @@ SAFETY TIP: Keep small tools in a central location or on your tool belt. Return 
 
 ### **BONUS PRACTICE:**
 
-For real, hands-on practice–coordinate a real construction project. Perhaps someone in your church or community needs a new coat of paint or a wheelchair ramp on their home, consider providing this for them. Or perhaps use it as a fundraiser for the trip.
+For real, hands-on practice, coordinate a real construction project. Perhaps someone in your church or community needs a new coat of paint or a wheelchair ramp. Consider providing it for them, or use it as a fundraiser for the trip.
 
 ---
 
