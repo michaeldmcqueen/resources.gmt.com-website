@@ -56,7 +56,7 @@ We believe:
 * In the deity of Jesus Christ, in his virgin birth, in his sinless life, in his death on the cross, in his bodily resurrection, in his ascension to the right hand of the Father, and in his personal return.
 * People receive forgiveness of sins and eternal life through Jesus.
 
-Group Mission Trips isn’t denominational, multi-denominational, or even non-denominational—we’re **Christian, biblical, and focused on Jesus.** Our small differences unite as we serve one God together. Youth leaders often tell us how much they appreciate seeing their groups come together in common faith.
+Group Mission Trips isn’t denominational, multi-denominational, or even non-denominational—we’re **Christian, biblical, and focused on Jesus.** We set our small differences aside and unite as we serve one God together. Youth leaders often tell us how much they appreciate seeing their groups come together in common faith.
 
 Each evening, you’ll have a chance to discuss your church’s beliefs during youth group devotions. Our prayer is that your group experiences an **authentic encounter with Jesus**—something we see happen in incredible ways, year after year.
 
