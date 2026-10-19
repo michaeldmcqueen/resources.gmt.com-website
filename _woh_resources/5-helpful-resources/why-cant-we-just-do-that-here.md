@@ -9,7 +9,9 @@ inputs:
 ---
 **Why sending our youth to a Week of Hope mission experience matters for the spiritual future of our church**
 
-Church leaders often ask a very reasonable question:<br>**“Why do we need to travel for a mission trip when there are needs right here in our own community?”**
+Church leaders often ask a very reasonable question:
+
+##### **“Why do we need to travel for a mission trip when there are needs right here in our own community?”**
 
 This question matters—because your role is to wisely steward resources, ensure safety, and guide the spiritual direction of the church.
 
