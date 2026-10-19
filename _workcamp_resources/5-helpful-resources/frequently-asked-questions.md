@@ -157,6 +157,7 @@ We recognize that unexpected events happen that can pull participants away from 
 * An online customer account full of camp information and resources to help prepare you and your group for camp.&nbsp;
 * Unlimited customer support from professional and courteous staff.&nbsp;
 * T-shirt and Mission Handbook for each participant.&nbsp;
+* Community Service certificate.
 
 ---
 
