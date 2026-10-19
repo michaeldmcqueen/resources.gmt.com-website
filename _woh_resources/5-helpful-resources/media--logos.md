@@ -20,7 +20,3 @@ We love that our mission trip participants enjoy promoting their trip to their c
 ### Week of Hope logos
 
 ### [![](/uploads/gmt-week-of-hope-colorbadge.jpg){: width="800" height="204"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/El7C5LZrzm5AiVUyCwGTNXsBDGJXDr9gx1Q8fscHU_P0Mw?e=hXd3mT){: target="_blank" rel="noreferrer nofollow noopener"}
-
-### Theme logo
-
-[![](/uploads/gmt-illuminate-logo-oragneshadow.png){: width="800" height="249"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/ErZrxHQH92hEl2H8QCKeR6UB8TPKWdCJgp6bwP2_SLHXwQ?e=iOyFVM){: target="_blank" rel="noreferrer nofollow noopener"}
