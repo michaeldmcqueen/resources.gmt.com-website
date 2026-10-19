@@ -1,5 +1,5 @@
 ---
-title: Pre-trip Devotions 2027
+title: Pre-trip Devotions
 category: Community Service
 subcategory: Program
 order: 3
