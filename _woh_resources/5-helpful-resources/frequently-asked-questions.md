@@ -43,7 +43,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 * Groups must provide transportation to and from the mission trip, as well as daily to and from the sites.&nbsp;
 * All vehicles must be available for transportation to and from the sites. (Mileage or fuel costs are not reimbursed for any transportation costs.)&nbsp;
 * Vehicles with a minimum capacity of six passengers are requested, with seat belts. While adults will be driving their vehicles, they typically will not be transporting a crew that includes their own youth members. Typically, the youth from your group will be traveling in other vehicles with their crews.&nbsp;
-* Due to rough terrain and narrow roads,&nbsp; some locations are labeled “Not Bus Accessible”. If you are serving at one of these, you’ll need to plan on bringing smaller vehicles.&nbsp;
+* Due to tight and narrow roads, some locations are labeled “Not Bus Accessible”. If you are serving at one of these, you’ll need to plan on bringing smaller vehicles.&nbsp;
 
 ---
 
@@ -227,6 +227,7 @@ We request modest clothing choices in our Code of Conduct. While Group Mission T
 * An online customer account full of camp information and resources to help prepare you and your group for camp.&nbsp;
 * Unlimited customer support from professional and courteous staff.&nbsp;
 * T-shirt and Mission Handbook for each participant.&nbsp;
+* Community Service certificate.
 
 ---
 
@@ -248,6 +249,7 @@ Yes! There are many ways participants can be more involved in the camp:&nbsp;
 
 * There may be a couple skits during the programs for any participants that enjoy acting.&nbsp;
 * There will be a lip-sync battle during the week! If any participants, or your entire group, want to prepare a little something for this, the camp staff will just need to approve your song (at camp) beforehand.&nbsp;
+* Participants who would like to be more involved in the program can volunteer to read Scripture for everyone throughout the week.
 
 ---
 
