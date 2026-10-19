@@ -17,7 +17,7 @@ Because it’s designed to be quick, you can easily combine it with a bigger eve
 
 * Have your Group Mission Trips customer account open to help answer any questions.
 * If you’re going to organize a serving event, be ready to share the date, time, and location.
-* Consider playing the Youth Expectations Video to help your group refocus on what the trip experience will be like this summer.
+* Consider playing the [Workcamps Expectations Video](/workcamps/5-helpful-resources/videos/) to help your group refocus on what the trip experience will be like this summer.
 
 ---
 
