@@ -1,5 +1,5 @@
 ---
-title: Song List 2027
+title: Song List
 category: Workcamps
 subcategory: Program
 order: 4
