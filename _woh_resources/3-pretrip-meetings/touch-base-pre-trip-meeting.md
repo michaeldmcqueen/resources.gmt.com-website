@@ -9,7 +9,7 @@ inputs:
 ---
 This short, energizing check-in helps keep excitement high and everyone on track for your upcoming mission trip!
 
-Because it’s designed to be quick, you can easily combine it with a bigger event—like a fundraiser or the serving event that is part of “Pre-Trip Meeting \#2. (If you choose that, check the detailed guide—it takes a bit more prep but adds a powerful experience.)
+Because it’s designed to be quick, you can easily combine it with a bigger event—like a fundraiser or the serving event in the Pre-trip Meeting/Event guide. (If you choose that, check the detailed guide—it takes a bit more prep but adds a powerful experience.)
 
 ---
 
@@ -17,7 +17,7 @@ Because it’s designed to be quick, you can easily combine it with a bigger eve
 
 * Have your Group Mission Trips customer account open to help answer any questions.
 * If you’re going to organize a serving event, be ready to share the date, time, and location.
-* Consider playing the Youth Expectations Video to help your group refocus on what the trip experience will be like this summer.
+* Consider playing the [Week of Hope Expectations Video](/community-service/5-helpful-resources/videos/) to help your group refocus on what the trip experience will be like this summer.
 
 ---
 
