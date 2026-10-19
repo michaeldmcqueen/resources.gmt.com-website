@@ -1,5 +1,5 @@
 ---
-title: Week of Hope Survey (Pre-Season)
+title: Week of Hope Survey (Coming Soon)
 category: Community Service
 subcategory: Post Camp Resources
 order: '4'
