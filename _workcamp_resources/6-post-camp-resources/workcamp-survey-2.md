@@ -2,7 +2,8 @@
 title: Workcamp Survey (Coming Soon)
 category: Workcamps
 subcategory: Post Camp Resources
-order: '4'
+order: 4
+order_number: 4
 inputs:
   unpublish: false
 ---
