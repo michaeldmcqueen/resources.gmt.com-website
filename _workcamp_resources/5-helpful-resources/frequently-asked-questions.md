@@ -49,7 +49,7 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 
 ### What’s the schedule?
 
-**Sunday**<br />12-2 p.m. Check-in<br />3:00 p.m. Kick-off program<br />4 p.m. Adult meeting<br />5-6:30 p.m. Dinner                                                                                                                               5:30 p.m. Program and worship team meeting<br />7:00 p.m. Evening program. Meet your crew. Project assignments.<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Monday, Tuesday, Thursday and Friday<br />**6:45 a.m. Wake-up call<br />7-7:45 a.m. Breakfast. Gather tools. Fill water jugs. Pack coolers with lunches<br />8 a.m. Morning program. Depart for sites. Work on project. Lunch and crew devotions<br />3:30 p.m. Return to the lodging facility. Camp store is open. Report progress. Recreation/free time<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team practice<br />6 p.m. Worship team practice<br />7:30 p.m. Evening program<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out (midnight Friday)<br /><br />**Wednesday**<br />6:45 a.m.-12 p.m. Same as Monday<br />12:30 p.m. Check-in at the lodging facility. Youth group free time. Dinner on your own<br />7:30 p.m. Program with variety show<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Saturday**<br />7-8 a.m. Breakfast<br />7-9 a.m. Room check-out. Groups depart<br /><br />**Special Meeting<br />**Tuesday 4:15 p.m. Adult meeting
+**Sunday**<br />12-2 p.m. Check-in<br />3:00 p.m. Kick-off program<br />4 p.m. Adult meeting<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team and worship team meeting<br />7:00 p.m. Evening program. Meet your crew. Project assignments.<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Monday, Tuesday, Thursday and Friday<br />**6:45 a.m. Wake-up call<br />7-7:45 a.m. Breakfast. Gather tools. Fill water jugs. Pack coolers with lunches<br />8 a.m. Morning program. Depart for sites. Work on project. Lunch and crew devotions<br />3:30 p.m. Return to the lodging facility. Camp store is open. Report progress. Recreation/free time<br />5-6:30 p.m. Dinner<br />5:30 p.m. Program team practice<br />6 p.m. Worship team practice<br />7:30 p.m. Evening program<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out (midnight Friday)<br /><br />**Wednesday**<br />6:45 a.m.-12 p.m. Same as Monday<br />12:30 p.m. Check-in at the lodging facility. Youth group free time. Dinner on your own<br />7:30 p.m. Program with variety show<br />8:30 p.m. Youth group devotions<br />11 p.m. Lights-out<br /><br />**Saturday**<br />7-8 a.m. Breakfast<br />7-9 a.m. Room check-out. Groups depart<br /><br />**Special Meeting<br />**Tuesday 4:15 p.m. Adult meeting
 
 ---
 
@@ -69,7 +69,7 @@ Our work crews are made up of six people with one adult and five youth–typical
 
 ### What tools and other items do we need to bring?
 
-**Tools:**&nbsp;<br />Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug is also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
+**Tools:**&nbsp;<br />Each group is asked to bring painting and construction tools including rollers, gloves, hammers, circular saws, post hole diggers, electric drills, ladders, etc. A cooler and water jug are also needed for every 6 people–these keep lunch and water cold for participants on their work site. The full tool list is available for the registered youth leader under their customer account.
 
 **Personal Items:**<br />The full packing list is also located under the registered youth leader’s customer account but it’s pretty much what you’d expect. A twin-size air mattress and bedding for sleeping, water jugs and coolers for lunches, work gloves, and modest swimsuits and clothing appropriate for a Christian mission trip.
 
@@ -83,7 +83,7 @@ Safety is our top priority!
 * We require participants that are 18 and older to be screened and nationally background-checked by their church every 2 years. Their pastor signs off that they meet Group Mission Trips’ requirements and are approved to attend.
 * Every staff member has been screened, background-checked, and reference checked by GMT.
 * For overall protection, we have separate shower times designated for participants that are 17 and younger from those that are 18 and older.
-* We review safety procedures at camp—appropriate close-toes shoes/boots, gloves, and goggles are recommended.
+* We review safety procedures at camp—appropriate closed-toe shoes/boots, gloves, and goggles are recommended.
 * Participants are not required to do any work that they consider unsafe. Participants may be using a drill for screws, but no one under the age of 16 can use a power tool or drill for drilling holes. No one under the age of 18 can use a power saw.
 * Our staff visits each work site at least twice by the time of camp and the first thing a crew will do when they arrive at their work site is check for potential safety issues.
 * Although we do serve in needy areas, we require work crews to stay together at all times. No one should ever be left alone and all participants are back at the lodging facility by their designated check-in time.
@@ -95,7 +95,7 @@ Safety is our top priority!
 
 ### Where do we stay?
 
-A Workcamp can hold up to 400 participants and we house them all typically at a middle or high school. GMT staff transforms the facility into a home away from home–there will be a separate boy’s hall and girl’s hall, a cafeteria for meals, adequate bathrooms and showers, and either a gym or auditorium for programs.
+A Workcamp can hold up to 400 participants and we house them all typically at a middle or high school. GMT staff transforms the facility into a home away from home–there will be a separate boys’ hall and girls’ hall, a cafeteria for meals, adequate bathrooms and showers, and either a gym or auditorium for programs.
 
 Participants need to bring twin-size air mattresses, pillows, sleeping bags, or other bedding to sleep on classroom floors. Youth groups are assigned to sleeping rooms together, gender-separate. Sleeping rooms may be shared with other youth groups, depending on the size of the groups and the size of the room.
 
@@ -105,7 +105,7 @@ Registered groups will have access to more information about their lodging facil
 
 ### What is the menu? What if there are special dietary needs?
 
-Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals will be prepared for participants by kitchen staff. Picnic-style lunches will be assembled in the mornings and brought to work sites. The first provided meal is dinner on Sunday and the last meal is breakfast on Saturday. IMPORTANT NOTE: Dinner is NOT provided on Wednesday, youth groups have free time this day, and dinner is on their own.
+Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals will be prepared for participants by kitchen staff. Picnic-style lunches will be assembled in the mornings and brought to work sites. The first provided meal is dinner on Sunday and the last meal is breakfast on Saturday. IMPORTANT NOTE: Dinner is NOT provided on Wednesday. Youth groups have free time this day, and dinner is on their own.
 
 For registered groups: If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten-free options at camp but need to have an accurate number to plan for. The sample menu is available to youth leaders under their customer account and under Helpful Resources. Share this with your participants so they can start planning. Participants with special diets or allergies are welcome to bring their own food items to fill in as needed during the week. Please know that we do have peanut butter on the menu. GMT is unable to guarantee there will not be any cross-contamination during meal preparation by kitchen staff. There will be a staff member available at camp who will be able to answer any questions about food.
 
