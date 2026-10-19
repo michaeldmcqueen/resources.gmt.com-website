@@ -43,8 +43,7 @@ Lord Jesus, True Light who gives light to everyone, illuminate our hearts that w
 
 ### **Optional Enhancements for Commissioning**
 
-• Produce a handout with the names of each member of the mission team to give to the congregation and invite them to pray for the team.
-
-• You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission trip participants will be studying each day as they serve.
+* Produce a handout with the names of each member of the mission team to give to the congregation and invite them to pray for the team.
+* You could also include the daily themes (in your customer account) and scriptures so the congregation will know what the mission trip participants will be studying each day as they serve.
 
 &nbsp;
