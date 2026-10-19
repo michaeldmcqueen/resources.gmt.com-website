@@ -46,7 +46,7 @@ Give a brief update on your group’s financial progress:
 Remind everyone of helpful online resources:
 
 * Personal “Unfiltered” Devotions – Available this spring! These are great for preparing hearts for service and reflection before the trip.
-* Song List – Share it now so your group can start listening and learning the songs that will set the tone for worship at camp.
+* Song List – Coming next spring! Once it’s posted, share it so your group can start learning the songs that will set the tone for worship at camp.
 
 ---
 
