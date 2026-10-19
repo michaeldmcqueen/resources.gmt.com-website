@@ -1,5 +1,5 @@
 ---
-title: Camp Photos (Pre-Season)
+title: Camp Photos (Coming Soon)
 category: Community Service
 subcategory: Post Camp Resources
 order: 1
