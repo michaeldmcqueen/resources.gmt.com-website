@@ -65,7 +65,7 @@ When students see their hands being used to meet needs in Jesus’ name, faith b
 
 National studies consistently show that one of the most effective tools for long-term spiritual engagement in young people is participation in mission trips. These experiences:
 
-* Increase post-high school church involvement
+* Increase post-high-school church involvement
 * Inspire students to serve in ministry and leadership roles
 * Produce lifelong disciples, not cultural Christians
 
