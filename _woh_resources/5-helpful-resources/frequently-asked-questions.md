@@ -31,8 +31,8 @@ Yes, you must have 1 adult (21 years of age or older) for every 5 youth (20 year
 ### Are background checks required?
 
 * Yes, Group Mission Trips requires that all participants 18 years of age or older be screened and background checked by your church prior to attending.&nbsp;
-* Background checks must be national and no older than two (2) years from the start of the mission trip. You choose your background check organization vendor or we do have a recommendation.&nbsp;
-* 18-20 year-olds are not considered “adults” during camp, however because of our commitment to safety, we still ask them to go through your church’s screening process and have background checks run.&nbsp;
+* Background checks must be national and no older than two (2) years from the start of the mission trip. You may choose your background check organization vendor or we do have a recommendation.&nbsp;
+* 18-20 year-olds are not considered “adults” during camp, however, because of our commitment to safety, we still ask them to go through your church’s screening process and have background checks run.&nbsp;
 * GMT requires a digital pastor authorization for every participant 18 years old and older in order for them to attend the mission trip.
 * You may use any organization to run your background checks, but if you are looking for a reliable one, we recommend Clear Investigative Advantage.&nbsp; They can be reached at 214-382-2727.&nbsp;
 
@@ -140,14 +140,14 @@ Safety is our top priority!
 * Participants are not required to do any work that they consider unsafe.&nbsp;
 * Although we do serve in needy areas, we require work crews to stay together at all times. No one should ever be left alone and all participants are back at the lodging facility by their designated check-in time.&nbsp;
 * GMT staff visit crews so they are aware of where a crew is working and any issues in the area.&nbsp;
-* Every crew has the direct phone number to the GMT office and directions to the closest hospital. If an injury occurs on the project site, and is not serious, GMT staff will contact the youth leader and coordinate any transportation needed. If the injury is serious, the adult on site will call 911 and GMT staff will offer support and ensure needed medical forms are delivered to hospital.&nbsp;
+* Every crew has the direct phone number to the GMT office and directions to the closest hospital. If an injury occurs on the project site, and is not serious, GMT staff will contact the youth leader and coordinate any transportation needed. If the injury is serious, the adult on site will call 911 and GMT staff will offer support and ensure needed medical forms are delivered to the hospital.&nbsp;
 * Each crew will have a small first aid kit and a bigger one in each vehicle.&nbsp;
 
 ---
 
 ### Where do we stay?
 
-A Week of Hope can hold up to 100 participants and we house them all typically at a local church. Our staff transforms the facility into a home away from home–there will be a separate boy’s hall and girl’s hall, a space for meals, adequate bathrooms and showers, and a space for the programs.&nbsp;
+A Week of Hope can hold up to 100 participants and we house them all typically at a local church. Our staff transforms the facility into a home away from home–there will be a separate boys’ hall and girls’ hall, a space for meals, adequate bathrooms and showers, and a space for the programs.&nbsp;
 
 Participants need to bring twin-size air mattresses, pillows, sleeping bags, or other bedding to sleep on floors. Youth groups are assigned to sleeping rooms together, gender-separate. Sleeping rooms may be shared with other youth groups, depending on the size of the groups and the size of the room.&nbsp;
 
@@ -157,7 +157,7 @@ Registered groups will have access to more information about their lodging facil
 
 ### What is the menu? What if there are special dietary needs?
 
-Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals are prepared by participants on a rotating basis supervised by staff. Picnic-style lunches will be assembled in the mornings and brought to project sites. The first provided meal is dinner on Sunday and the last meal will be cold breakfast on Friday morning. IMPORTANT NOTE: Dinner is NOT provided on Tuesday, youth groups have free time this day and dinner is on their own.&nbsp;
+Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals are prepared by participants on a rotating basis supervised by staff. Picnic-style lunches will be assembled in the mornings and brought to project sites. The first provided meal is dinner on Sunday and the last meal will be cold breakfast on Friday morning. IMPORTANT NOTE: Dinner is NOT provided on Tuesday. Youth groups have free time this day, and dinner is on their own.&nbsp;
 
 For registered groups: If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten-free options at camp but need to have an accurate number to plan for. The sample menu is available to youth leaders under their customer account and under Helpful Resources. Share this with your participants so they can start planning. Participants with special diets or allergies are welcome to bring their own food items to fill in as needed during the week. Please know that we do have peanut butter on the menu. GMT is unable to guarantee there will not be any cross-contamination during meal preparation by staff. There will be a staff member available at camp who will be able to answer any questions about food.&nbsp;
 
@@ -174,7 +174,7 @@ For registered groups: If you have a participant that has to eat gluten-free–p
 
 ### When are the payment dates?
 
-After you register by paying $100(non-refundable) per space, there are 2 payment dates for the remaining amount due:
+After you register by paying $100 (non-refundable) per space, there are 2 payment dates for the remaining amount due:
 
 * March 1st, 2027: Half of what is remaining is due.
 * May 1st, 2027: The final balance is due. (All payments are non-refundable after this date.)
@@ -190,7 +190,7 @@ Call us! If there’s space available in your camp, we’ll ask for the necessar
 
 ### What if I need to cancel my entire group?
 
-Cancellations have a huge impact on the people we serve- it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
+Cancellations have a huge impact on the people we serve–it is devastating news to them when we have to cancel. Based on the number of registered participants, we plan for lodging, food orders, supplies and staffing–just for starters. Also, depending on the time of year, sometimes it is simply impossible for us to re-fill canceled spaces.&nbsp;
 
 We recognize that unexpected events happen that can pull participants away from their original commitment. Give us a call, we are happy to talk through ideas to recruit other participants and keep your group intact. If there is no other option but to cancel your group, call us by May 1st to let us know. As long as you cancel by May 1st, you’ll only lose $100 per spot. All mission trip fees will be forfeited for any cancellations **after** May 1st.
 
@@ -200,7 +200,7 @@ We recognize that unexpected events happen that can pull participants away from 
 
 We request modest clothing choices in our Code of Conduct. While Group Mission Trips doesn’t have a formal dress code, we serve local organizations that do have specific requirements for volunteers. Don’t be turned away from your assigned project due to inappropriate dress!&nbsp;
 
-* Pack plenty of t-shirts, longer shorts, capris or pants, and close-toe shoes.&nbsp;
+* Pack plenty of t-shirts, longer shorts, capris or pants, and closed-toe shoes.&nbsp;
 * Please have your females bring a one-piece swimsuit in case they are **assigned to a project site teaching a resident how to swim.**&nbsp;
 * Many of our **partner organizations** don’t allow volunteers to wear spaghetti straps, shirts that reveal the midriff, short shorts, or flip flops. And, of course, no clothing with offensive language or images.&nbsp;
 
@@ -232,7 +232,7 @@ We request modest clothing choices in our Code of Conduct. While Group Mission T
 
 ### What if someone in our group has to leave early or arrive late?
 
-We ask that all participants arrive on time and stay for entire time. Every part of the program is valuable and helps guarantee a life-changing experience. We really try not to make too many exceptions to this because it does impact other participants, partners, and work projects–so please check the schedule and make travel arrangements accordingly. Contact us if a situation arises.&nbsp;
+We ask that all participants arrive on time and stay for the entire time. Every part of the program is valuable and helps guarantee a life-changing experience. We really try not to make too many exceptions to this because it does impact other participants, partners, and work projects–so please check the schedule and make travel arrangements accordingly. Contact us if a situation arises.&nbsp;
 
 ---
 
