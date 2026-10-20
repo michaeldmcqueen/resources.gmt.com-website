@@ -118,6 +118,8 @@ If a participant has a food allergy or special diet, put it in the Special Reque
 * Relevant. Through creative multimedia, thought-provoking sound and video, and moving contemporary worship, programs are designed to reach everyone.
 * Fun. Relationship-building activities, games, and having fun are part of every program. Expect to have a great time!
 
+Learn more on the [Program Experience](/workcamps/4-program/program-experience/) page.
+
 ---
 
 ### When are the payment dates?
