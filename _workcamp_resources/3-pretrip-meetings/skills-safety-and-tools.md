@@ -149,7 +149,7 @@ Power tools make projects faster and more efficient—but they also require focu
 
 Supplies Needed: power saw, power drill, spare blades, spare bits, screw tip bits, extension cord, power source, safety goggles, sawhorses, scrap lumber to practice cutting and drilling, screws for drilling.
 
-Note: Anyone may use a drill to drive screws, but no one under 16 may use a power tool or drill holes, and no one under 18 may use a power saw. These rules ensure safety and compliance with insurance and liability guidelines.
+Note: Anyone may use a drill to drive screws. You must be 16 or older to drill holes, and 18 or older to use a power saw. These rules ensure safety and compliance with insurance and liability guidelines.
 
 Participants should learn how to:
 
