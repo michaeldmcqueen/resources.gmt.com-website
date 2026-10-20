@@ -49,7 +49,7 @@ inputs:
 
 ### **Screening & Verification**
 
-* Every **participant age 18 or older** (including students) has completed a **multi-state/national background check** within the last **2 years**.
+* Every **participant age 18 or older** (including students) has completed a **multi-state/national background check** within the last **2 years**. See [Screening Requirements](/community-service/1-getting-started/screening-requirements/) for the full rules.
 * All background checks have been **reviewed by the pastor** and are **securely on file**.
 * In my **customer account**, under **Screening & Verification**:
   * I entered each 18+ participant and their background check details.
