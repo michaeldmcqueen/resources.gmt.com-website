@@ -69,17 +69,7 @@ Desserts (changes nightly): Ice cream, brownies, pudding, strawberry shortcake, 
 
 ### Dietary Restrictions & Food Allergies
 
-We know that every participant’s health matters. Our goal is to work together to keep everyone safe and well-fed.
-
-If a participant has a food allergy or restriction:
-
-· Trip leaders should review this Sample Menu with participants so they can plan supplemental meals or snacks.
-
-· Contact Group Mission Trips before camp for gluten-free or other dietary needs.
-
-· No registration discount applies for bringing personal food, but storage space will be provided.
-
-Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under **Special Requests**. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler. Please note that we do have peanut butter at camp.
+Have a food allergy or special diet? Put it in the Special Requests section of your customer account before camp. See [Dietary Restriction Accommodations](/workcamps/2-schedule-menu-packing/dietary-restriction-accommodations/) for what we can and can’t accommodate.
 
 ---
 
