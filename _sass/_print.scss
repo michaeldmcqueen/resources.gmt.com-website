@@ -45,3 +45,33 @@
   }
 
 }
+
+// Print layout: drop the 300px menu column and its background, use the full page width,
+// and keep table rows and headings from splitting across pages.
+@media print {
+  body {
+    padding: 0 !important;
+    height: auto !important;
+    max-height: none !important;
+  }
+  body:before {
+    left: 0 !important;
+  }
+  body:after {
+    display: none !important;
+  }
+  .page-header,
+  .content {
+    max-width: none !important;
+  }
+  tr,
+  img {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  h1, h2, h3, h4, h5, h6,
+  p:has(> strong:only-child) {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+}
