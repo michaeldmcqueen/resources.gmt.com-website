@@ -65,19 +65,9 @@ Dessert items may include: Ice cream cups, ice cream sandwiches, popsicles, or s
 
 ### Dietary Restrictions & Food Allergies
 
-We know that every participant’s health matters. Our goal is to work together to keep everyone safe and well-fed.
+Have a food allergy or special diet? Put it in the Special Requests section of your customer account before camp. See [Dietary Restriction Accommodations](/community-service/2-schedule-menu-packing/dietary-restriction-accommodations/) for what we can and can’t accommodate.
 
-If a participant has a food allergy or restriction:
-
-· Trip leaders should review this Sample Menu with participants so they can plan supplemental meals or snacks.
-
-· Contact Group Mission Trips before camp for gluten-free or other dietary needs.
-
-· No registration discount applies for bringing personal food, but storage space will be provided.
-
-Severe allergies: Notify Group Mission Trips in advance. Make a note in your customer account under **Special Requests**. Participants may be paired with someone from their group who understands their needs. Bring necessary medication (like an EpiPen) and consider a small personal cooler. Please note that we do have peanut butter at camp.
-
-GMT staff can give you ingredient information before each meal. Signs in the cafeteria will list the vegetarian options each day, and you can see them in the list below.
+Signs in the cafeteria will list the vegetarian options each day, and you can see them in the list below.
 
 ---
 
