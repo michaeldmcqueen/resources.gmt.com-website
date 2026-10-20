@@ -233,6 +233,11 @@ For minor injuries:
 * Carry your insurance card (or a copy).
 * Local clinics and hospitals are already notified that we’re in town.
 
+Medications:
+
+* Youth leaders keep and give out their own students’ medications during the week.
+* GMT staff do not hold or give medications.
+
 ---
 
 ### **And That’s It!**
