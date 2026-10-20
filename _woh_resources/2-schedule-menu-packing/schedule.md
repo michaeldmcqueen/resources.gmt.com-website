@@ -15,6 +15,7 @@ inputs:
 | 6:30 pm | Kick-off program<br />Meet your crew and get project assignments |
 | 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
+{: .schedule-table}
 
 **MONDAY**
 
@@ -31,6 +32,7 @@ inputs:
 | 7:00 pm | Worship team practice |
 | 8:00 pm | Evening program<br />Youth group devotions |
 | 11:00 pm | Lights-out |
+{: .schedule-table}
 
 **TUESDAY**&nbsp;
 
@@ -39,10 +41,12 @@ inputs:
 | 8:00 pm&nbsp; | Lodging facility back open |
 | 8:30 pm&nbsp; | Movie night (optional) |
 | 11:00 pm | Lights-out |
+{: .schedule-table}
 
 **WEDNESDAY**&nbsp;
 
 | 6:30 am–11:00 pm | Same as Monday |
+{: .schedule-table}
 
 **THURSDAY**
 
@@ -53,11 +57,13 @@ inputs:
 | 8:00 pm | Evening program<br />Youth group devotions |
 | 10:00 pm | Lip sync battle |
 | Midnight | Lights-out |
+{: .schedule-table}
 
 **FRIDAY**&nbsp;
 
 | 7–8 am&nbsp; | Breakfast&nbsp; |
 | 7–9 am&nbsp; | Room check-out&nbsp;<br />Groups depart&nbsp; |
+{: .schedule-table}
 
 * Shower locations and times will be communicated at camp. There will be separate shower times for those 17 and younger and those 18 and older.&nbsp;
 * Breakfast and dinner crews and hospitality tasks: Participants can serve other campers by helping prepare meals and clean the facility.&nbsp;
