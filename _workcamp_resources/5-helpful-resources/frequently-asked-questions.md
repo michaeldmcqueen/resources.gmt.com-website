@@ -144,6 +144,15 @@ We recognize that unexpected events happen that can pull participants away from 
 
 ---
 
+### Is there a dress code?
+
+We request modest clothing choices in our [Code of Conduct](/workcamps/1-getting-started/code-of-conduct/). While Group Mission Trips doesn’t have a formal dress code, everyone should dress in a way that’s respectful to the residents we serve.
+
+* Pack plenty of t-shirts, longer shorts or pants, and sturdy closed-toe shoes or work boots.
+* No clothing with offensive language or images.
+
+---
+
 ### What’s included in the registration fee?
 
 * Lodging during the camp.&nbsp;
