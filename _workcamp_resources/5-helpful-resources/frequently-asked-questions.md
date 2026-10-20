@@ -84,7 +84,7 @@ Safety is our top priority!
 * Every staff member has been screened, background-checked, and reference checked by GMT.
 * For overall protection, we have separate shower times designated for participants that are 17 and younger from those that are 18 and older.
 * We review safety procedures at camp—appropriate closed-toe shoes/boots, gloves, and goggles are recommended.
-* Participants are not required to do any work that they consider unsafe. Participants may be using a drill for screws, but no one under the age of 16 can use a power tool or drill for drilling holes. No one under the age of 18 can use a power saw.
+* Participants are not required to do any work that they consider unsafe. Anyone may use a drill to drive screws. You must be 16 or older to drill holes, and 18 or older to use a power saw.
 * Our staff visits each work site at least twice by the time of camp and the first thing a crew will do when they arrive at their work site is check for potential safety issues.
 * Although we do serve in needy areas, we require work crews to stay together at all times. No one should ever be left alone and all participants are back at the lodging facility by their designated check-in time.
 * Site coaches and other GMT staff visit work sites daily so they are aware of where a crew is working and any issues in the area.
