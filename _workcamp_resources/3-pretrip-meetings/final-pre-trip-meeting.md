@@ -30,7 +30,7 @@ This meeting ensures your entire group is fully prepared, informed, and excited 
 
 ##### **Background Checks:**
 
-* All participants 18+ must have a national background check completed within 2 years of your trip start date.
+* All participants 18+ must have a national background check completed within 2 years of your trip start date. See [Screening Requirements](/workcamps/1-getting-started/screening-requirements/) for the full rules.
 * Go to *Screening & Verification*, click Add New, enter each name, the organization used and the date, and click Add.
 * Enter your pastor’s name and email in the *Pastor Authorization* section to authorize every participant 18 or older (students too). They will receive an email. Please ask them to click the link and sign for each adult. <br />\*A pastor who is going on the trip can't sign for themselves.
 
