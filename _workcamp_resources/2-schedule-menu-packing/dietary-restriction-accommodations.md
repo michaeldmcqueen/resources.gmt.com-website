@@ -41,4 +41,11 @@ Participants with these dietary restrictions need to bring their own food and at
 
 Group Mission Trips cannot discount participant fees when someone needs to bring their own food.
 
+### Good to Know
+
+* Bring any needed medication, like an EpiPen.
+* Storage space is provided for personal food. A small personal cooler can help.
+* Participants with severe allergies may be paired with someone from their group who understands their needs.
+* A staff member at camp can answer questions about ingredients.
+
 **Please put all dietary restrictions and severe allergies in the Special Requests section of your customer account, so we can let the camp staff know ahead of time.**
