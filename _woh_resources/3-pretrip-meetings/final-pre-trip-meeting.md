@@ -76,7 +76,7 @@ This meeting ensures your entire group is fully prepared, informed, and excited 
   * Sturdy shoes
 * Give an update on the community gift donations you are bringing as a group. Do the parents need to help with this?
 * Review what NOT to bring.
-  * Group Mission Trips staff will not be policing dress during the camp. They will be focusing on participant safety and spiritual growth. GMT recommends all participants wear modest clothes that are appropriate in every situation and will not embarrass anyone.
+  * Group Mission Trips staff will not be policing dress during the camp. They will be focusing on participant safety and spiritual growth. GMT recommends all participants wear modest clothes that are appropriate in every situation and will not embarrass anyone. See [“Is there a dress code?”](/community-service/5-helpful-resources/frequently-asked-questions/#is-there-a-dress-code) in the FAQ for details.
   * **Say**: Our goal is to put our faith in action by serving this community and showing them Jesus’ love. The community will expect our dress and behavior to be different as Christians and they will take notice. Let’s not let how we are dressed distract us from our goal! Please pack plenty of t-shirts, longer shorts or pants, modest swimsuits, and sturdy shoes or work boots for the project sites.
   * Thank parents for their support in this.
 
