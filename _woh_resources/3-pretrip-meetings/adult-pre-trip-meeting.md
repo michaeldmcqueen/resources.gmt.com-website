@@ -137,7 +137,7 @@ Make sure everyone gets an Adult Guide—it’s full of practical info for the w
 
 ### **Background Checks**
 
-Remind everyone: anyone 18+ needs a national background check completed within two years of the trip start date.
+Remind everyone: anyone 18+ needs a national background check completed within two years of the trip start date. See [Screening Requirements](/community-service/1-getting-started/screening-requirements/) for the full rules.
 
 ---
 
