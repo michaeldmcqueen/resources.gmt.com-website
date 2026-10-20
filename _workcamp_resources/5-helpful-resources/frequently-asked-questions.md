@@ -107,7 +107,7 @@ Registered groups will have access to more information about their lodging facil
 
 Meals will consist of hot breakfasts, picnic-style lunches, and hot dinners. All meals will be prepared for participants by kitchen staff. Picnic-style lunches will be assembled in the mornings and brought to work sites. The first provided meal is dinner on Sunday and the last meal is breakfast on Saturday. IMPORTANT NOTE: Dinner is NOT provided on Wednesday. Youth groups have free time this day, and dinner is on their own.
 
-For registered groups: If you have a participant that has to eat gluten-free–please let us know. We can have a few gluten-free options at camp but need to have an accurate number to plan for. The sample menu is available to youth leaders under their customer account and under Helpful Resources. Share this with your participants so they can start planning. Participants with special diets or allergies are welcome to bring their own food items to fill in as needed during the week. Please know that we do have peanut butter on the menu. GMT is unable to guarantee there will not be any cross-contamination during meal preparation by kitchen staff. There will be a staff member available at camp who will be able to answer any questions about food.
+If a participant has a food allergy or special diet, put it in the Special Requests section of your customer account before camp. See [Dietary Restriction Accommodations](/workcamps/2-schedule-menu-packing/dietary-restriction-accommodations/) for what we can and can’t accommodate, the [Gluten Free Menu](/workcamps/2-schedule-menu-packing/gluten-free/) for gluten-free options, and the [Sample Menu](/workcamps/2-schedule-menu-packing/sample-menu/) to plan ahead.
 
 ---
 
