@@ -154,7 +154,7 @@ Your youth leader will have the full schedule, but here’s the overview:
 
 Adult Requirements
 
-* National background check (within two years of trip start)
+* National background check (within two years of trip start; see [Screening Requirements](/community-service/1-getting-started/screening-requirements/))
 * Comfortable with communal living and youth supervision
 * Respect separate shower times for minors and adults
 * Always supervise—project contacts do *not* count as adults
