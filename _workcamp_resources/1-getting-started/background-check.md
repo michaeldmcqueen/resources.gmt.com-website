@@ -11,14 +11,7 @@ To keep every mission trip safe and secure, **all participants age 18 and older*
 
 ### **Screening Requirements Overview**
 
-* Background checks must be **no older than two years** from the start of your mission trip.
-* Each background check must show **no record of:**
-  1. Any behaviors, traits, or tendencies that could pose a threat to minors or others
-  2. Any form of sexual misconduct or conviction related to sexual crimes
-  3. Felony convictions for violent acts within the last 10 years
-  4. Drug-related convictions (use or distribution of controlled substances) within the last 10 years
-  5. Property crime convictions within the last 10 years
-* These standards apply to all adult participants—both leaders and students 18+.
+Background checks must be **no older than two years** from the start of your mission trip. See [Screening Requirements](/workcamps/1-getting-started/screening-requirements/) for the full rules, including what keeps someone from attending.
 
 ---
 
