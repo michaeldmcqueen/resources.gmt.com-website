@@ -23,7 +23,7 @@ If you brought ladders, those can be taken to the tool room as those may be shar
 
 Right before this meeting, pass out the Mission Handbooks and have everyone write their names in them. This will be needed for every program and for crew and youth group devotions. Remind them to bring these, a pen/pencil, and their Bible to every program. This program will be a fun welcome to camp and get everyone ready for the week. You will watch the Typical Day video so that everyone can see what most days will look like. The camp Code of Conduct will be reviewed at this program to ensure everyone knows what is expected for the week. At the end of that program, each participant will pick up their camp T-shirt outside the program space.
 
-If anyone is interested in being part of the program and the drama team, let them know that they will meet each evening at 5:30. If you have anyone interested in helping lead worship, be in the program space at 6:00.
+If anyone is interested in being part of the program and drama team, or in helping lead worship, both teams meet together tonight at 5:30. After Sunday, program team practice is at 5:30 each evening, and worship team practice is at 6:00.
 
 **<u>Adult Meeting: 4:00 PM</u>**
 
