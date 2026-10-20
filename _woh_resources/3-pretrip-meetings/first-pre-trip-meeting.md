@@ -32,7 +32,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 
 ### **Inviting Others**
 
-**Say:** This mission trip isn’t just for us—it’s an amazing opportunity to get your friends involved in something meaningful. Grab one of the flyers and think of one person you can personally invite. You never know whose life might change because you invited them to serve!
+**Say:** This mission trip isn’t just for us—it’s an amazing opportunity to get your friends involved in something meaningful. Think of one person you can personally invite. You never know whose life might change because you invited them to serve!
 
 ---
 
