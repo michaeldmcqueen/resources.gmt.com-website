@@ -64,7 +64,7 @@ This meeting ensures your entire group is fully prepared, informed, and excited 
 ### **Lodging**
 
 * Give each family the lodging address and instructions on how they can send mail to participants during camp.
-* Explain that closer to the trip, contact information for camp staff will be available if there’s an emergency.
+* Explain that closer to the trip, contact information for camp staff will be in your customer account, under the lodging information, in case there’s an emergency.
 * Remind everyone: *“This is a mission experience—not a vacation.”* Mention AC, sleeping arrangements, and showers with the mindset of service and sacrifice.
 
 ---
