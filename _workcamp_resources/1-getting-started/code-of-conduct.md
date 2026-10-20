@@ -41,7 +41,7 @@ Group Mission Trips looks forward to providing a safe, fun, and memorable missio
 * Inform the group leader(s) of any participant(s) involved in the allegation of a violation.
 * Work with the group leaders to agree on a solution, and on what to tell the participants involved, other leaders, and parents.
 
-> *Disciplinary decisions are at the camp director’s or camp leadership’s final discretion after consulting with the group leader.*
+> *For a first minor offense, the group leader decides what to do and lets GMT staff know. For repeated or serious offenses, the camp director or camp leadership makes the final decision after talking with the group leader.*
 >
 > *Failure to adhere to these behavioral guidelines may result in warning, correction, dismissal, or legal action as necessary. We reserve the right to dismiss from camp any participant whose conduct is severely disruptive or causes physical harm to themselves or others.*
 >
