@@ -63,7 +63,7 @@ Most projects are designed to be completed during the trip, allowing your group 
 
 ### Will our group be working together?
 
-Our work crews are made up of six people with one adult and five youth–typically each person from a different church. We are happy to keep your group together if needed, just let us know. If the goal of your ministry is to have your youth meet new friends and develop social skills outside of your youth group, then there is no need to contact us–we’ll mix your participants up to make crews.
+Our work crews are made up of six people with one or two adults and four or five youth–typically each person from a different church. We are happy to keep your group together if needed, just let us know. If the goal of your ministry is to have your youth meet new friends and develop social skills outside of your youth group, then there is no need to contact us–we’ll mix your participants up to make crews.
 
 ---
 
