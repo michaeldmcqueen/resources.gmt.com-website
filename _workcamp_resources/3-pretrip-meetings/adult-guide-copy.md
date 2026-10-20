@@ -229,7 +229,7 @@ For minor injuries:
 
 * Use the crew’s first-aid kit or the vehicle kit.
 * Review safety rules daily—never cut corners.
-* Youth under 16 may use power drills (for screws only) but not saws or hole-drilling. No one under the age of 18 can use a power saw.
+* Anyone may use a drill to drive screws. You must be 16 or older to drill holes, and 18 or older to use a power saw.
 * Carry your insurance card (or a copy).
 * Local clinics and hospitals are already notified that we’re in town.
 
