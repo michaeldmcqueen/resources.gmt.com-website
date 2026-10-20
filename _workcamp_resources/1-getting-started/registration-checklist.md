@@ -7,6 +7,20 @@ order_number: 1
 inputs:
   unpublish: false
 ---
+## **Planning Timeline**
+
+* **When you register:** pay your deposit (by October 31 if you registered June through October).
+* **Fall to winter:** [recruit your team](/workcamps/1-getting-started/recruit-your-team/) and hold the [First Pre-trip Meeting](/workcamps/3-pretrip-meetings/first-pre-trip-meeting/).
+* **March 1:** half of your remaining balance is due.
+* **Early spring:** hold the [Pre-trip Meeting/Event](/workcamps/3-pretrip-meetings/pre-trip-meetingevent/) (crew practice), [Skills, Safety and Tools](/workcamps/3-pretrip-meetings/skills-safety-and-tools/), and the [Adult Pre-trip Meeting](/workcamps/3-pretrip-meetings/adult-pre-trip-meeting/).
+* **Mid-spring:** hold the [Touch Base Pre-trip Meeting](/workcamps/3-pretrip-meetings/touch-base-pre-trip-meeting/).
+* **May 1:** your final balance is due.
+* **About 6 weeks before your trip:** hold the [Final Pre-trip Meeting](/workcamps/3-pretrip-meetings/final-pre-trip-meeting/).
+* **30 days before your trip:** finish the checklist below.
+* **The Sunday before you leave:** hold the [Commissioning Service](/workcamps/3-pretrip-meetings/commissioning-service/).
+
+---
+
 *(Complete these items at least 30 days before your trip.)*
 
 ---
