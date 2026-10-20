@@ -47,7 +47,7 @@ Before we dive into details, let’s get a visual of what this trip is all about
 * **Camp Attire:** We don’t have a dress code but many of our project sites do. We ask that everyone wear modest clothing so that we can serve those projects.
 * **Financial Info:** The total cost per participant includes transportation, registration, and free time expenses. Our payment schedule will need to be ahead of the GMT deadlines (March 1 and May 1). We will also discuss fundraising opportunities to help cover costs.
 * **Community Gift:** Our camp location has requested certain donation items. (Show list.) As a group, we will decide how to collect and bring these items with us.
-* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. It must be no older than 2 years from our trip start date, and our pastor will sign off on each person in our customer account. We’ll make a list today of who that applies to and set a timeline to complete them.
+* **Background Checks:** Every participant 18 or older by the start of camp (including students) must complete a national criminal background check. It must be no older than 2 years from our trip start date, and our pastor will sign off on each person in our customer account. We’ll make a list today of who that applies to and set a timeline to complete them. See [Screening Requirements](/community-service/1-getting-started/screening-requirements/) for the full rules.
 
 ### **Ways You Can Participate in Programs**
 
