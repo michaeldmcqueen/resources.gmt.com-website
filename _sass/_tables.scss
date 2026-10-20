@@ -21,3 +21,13 @@ td, th {
 th {
 	padding-bottom: 4px;
 }
+
+// Schedule page: each day is its own table, so give every one the same column widths and they line up.
+// The Schedule page marks its tables with {: .schedule-table}.
+table.schedule-table {
+	table-layout: fixed;
+}
+
+table.schedule-table td:first-child {
+	width: 10.5em;
+}
