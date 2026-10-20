@@ -40,7 +40,7 @@ Parents want to know their child will be safe, cared for, and growing in their f
 **Say:** Safety is Group Mission Trips' top priority. Here's how our group and GMT take care of your child:
 
 * There is 1 adult (21 or older) for every 5 youth. If both boys and girls are going, at least one male adult and one female adult go too.
-* Every participant 18 or older has a national background check, no older than two years, and our pastor signs off on each one.
+* Every participant 18 or older has a national background check, no older than two years, and our pastor signs off on each one. See [Screening Requirements](/workcamps/1-getting-started/screening-requirements/) for the full rules.
 * Every GMT staff member has been screened, background-checked, and reference checked.
 * Crews stay together at all times. No one is ever left alone.
 * Showers have separate times for those 17 and younger and those 18 and older.
