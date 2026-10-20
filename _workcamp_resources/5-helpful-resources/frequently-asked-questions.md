@@ -126,7 +126,7 @@ After you register by paying $100 (non-refundable) per space, there are 2 paymen
 
 * March 1st, 2027: Half of what is remaining is due.
 * May 1st, 2027: The final balance is due. (All payments are non-refundable after this date.)
-* Payments can be made several ways: Online, by phone at 1-844-258-9616, or by mail.
+* Payments can be made several ways: online at [Make a Payment](https://argentasoftware.com/interfaces/49807/payment), by phone at 1-844-258-9616, or by mail. To pay by mail, make your check out to Group Mission Trips and send it to 760 Whalers Way, Suite C200, Fort Collins, CO 80525.
 
 ---
 
