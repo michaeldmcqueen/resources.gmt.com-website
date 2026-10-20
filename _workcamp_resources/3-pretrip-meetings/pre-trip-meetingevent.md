@@ -2,8 +2,8 @@
 title: Pre-trip Meeting/Event
 category: Workcamps
 subcategory: Pretrip Meetings
-order: 1
-order_number: 1
+order: 1.7
+order_number: 1.7
 inputs:
   unpublish: false
 ---
