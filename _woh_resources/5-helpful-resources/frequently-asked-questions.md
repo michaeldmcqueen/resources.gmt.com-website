@@ -147,7 +147,7 @@ Safety is our top priority!
 
 ### Where do we stay?
 
-A Week of Hope can hold up to 100 participants and we house them all typically at a local church. Our staff transforms the facility into a home away from home–there will be a separate boys’ hall and girls’ hall, a space for meals, adequate bathrooms and showers, and a space for the programs.&nbsp;
+A Week of Hope can hold up to 100 participants and we house them all typically at a local church. Our staff transforms the facility into a home away from home–there will be a separate boys’ hall and girls’ hall, a space for meals, bathrooms, showers (sometimes at a nearby YMCA or in shower tents we set up), and a space for the programs.&nbsp;
 
 Participants need to bring twin-size air mattresses, pillows, sleeping bags, or other bedding to sleep on floors. Youth groups are assigned to sleeping rooms together, gender-separate. Sleeping rooms may be shared with other youth groups, depending on the size of the groups and the size of the room.&nbsp;
 
