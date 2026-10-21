@@ -69,11 +69,3 @@ inputs:
 
 * I entered any **special requests or unique situations** in the **“Special Requests”** section of my account, including food, lodging, and crew assignment accommodations.
 * I understand GMT will review, approve, or ask for clarification as needed—but **special accommodations are not guaranteed**.
-
----
-
-### **New Group Orientation**
-
-If you’re new to **Group Mission Trips** (or just want a refresher), watch this [great video](https://groupcares-my.sharepoint.com/:v:/g/personal/admin_groupcares_org/ESKBC9ihO4JMtJIkbowKP8oBdDY9OrIlNyhyLRCI_KhA5Q?e=DuzfnI){: target="_blank" rel="nofollow noopener"} from **Tim, the President of Group Cares, and Bri, one of our Customer Care Advisors.**
-
-&nbsp;
