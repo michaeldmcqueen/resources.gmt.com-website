@@ -85,7 +85,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 
 ### **Tips for Being a Great Adult**
 
-**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights. 
+**Say:** OK, now let’s chat about what this week is going to be like and how we can be the best adult leader possible. Mission trips are awesome but let’s be real, they can be exhausting. Long days, big emotions, early morning, late nights.
 
 * How can we recharge or find mini moments of downtime?
 
@@ -100,9 +100,7 @@ So, let’s stay connected to our source, protect our light, and be ready to ill
 **Say**: Now let’s talk about safety. This is a big one. We never want anything we do or say to make a teen feel uncomfortable. That means avoiding off-color jokes, physical contact that could be misinterpreted, or comments that could come across as inappropriate. When in doubt, err on the side of caution. Let’s chat about a few situations that could arise and how we would handle those situations.
 
 * Maintaining healthy boundaries (Examples: alone with a camper, sleeping arrangements, shower situations, physical touch that is appropriate vs. could be perceived as inappropriate)
-
 * Appropriate use of phones and social media on the trip (Examples: posting videos/photos of youth, and those not from your group, befriending/following minors)
-
 * Encouraging and affirming teens without favoritism (Examples: ensure that you are not spending “extra” time with a youth that could be construed as inappropriate, affirm equally)
 
 **Say**: And finally—relax! You’ve got this. You’re about to spend a week with some of the most inspiring people on earth—teenagers! They’re full of energy, passion, and optimism. They truly believe they can change the world (and honestly, they can). Our job is to cheer them on, help them grow, and enjoy the ride.
