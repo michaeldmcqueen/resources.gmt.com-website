@@ -7,39 +7,39 @@ order_number: 7
 inputs:
   unpublish: false
 ---
-##### **Scripture Reading: John 1:1-18**
+##### **Scripture Reading: Psalm 139**
 
 &nbsp;
 
-**LEADER:** In the beginning was the Word, and the Word was the Light of all humanity. That Light shines in the darkness, and the darkness cannot extinguish it. As you go on this mission trip, you are not just doing work—you are carrying the Light of Christ into places in need of hope, healing, and truth.
+**LEADER:** “You have searched me, Lord, and you know me.” God knows each of us completely, and he loves the real us. As you go on this mission trip, you don’t have to wear a filter or pretend. You go as you really are, to serve people God knows and loves just as much.
 
-**TEAM MEMBERS:** We go to reflect the true Light of Christ so that others may see Him through our service, our presence, and our love.
+**TEAM MEMBERS:** We go as we really are, trusting that Jesus knows us and loves us.
 
-**CONGREGATION:** The Light has come. We send you to shine.
+**CONGREGATION:** God has searched you and known you. We send you to serve.
 
-**TEAM MEMBERS:** We go to be fully present with those we will serve—listening, learning, and loving as Christ first loved us.
+**TEAM MEMBERS:** We go to see the people we serve the way God sees them, and to listen, learn, and love as Christ first loved us.
 
-**CONGREGATION:** The Light shines in the darkness. We send you to carry that Light.
+**CONGREGATION:** God sees you and loves you. We send you to share that love.
 
-**TEAM MEMBERS:** We go not in our own strength, but as bearers of the Word made flesh—Jesus, who dwells among us full of grace and truth.
+**TEAM MEMBERS:** We go not in our own strength, but trusting Jesus to lead us one step at a time.
 
-**CONGREGATION:** We commit to pray that the Light of Christ will shine through you.
+**CONGREGATION:** We commit to pray that Jesus will lead you in the way everlasting.
 
-**LEADER:** As the body of Christ here at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, we dedicate ourselves to pray specifically and continually for each mission team member. We stand with you as you go to illuminate communities with the hope and presence of Jesus.
+**LEADER:** As the body of Christ here at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, we dedicate ourselves to pray specifically and continually for each mission team member. We stand with you as you go to share the grace and hope of Jesus with the communities you serve.
 
-**CONGREGATION:** As you go, we go with you. We will lift you in prayer so that through you, God’s Light may be seen, known, and received.
+**CONGREGATION:** As you go, we go with you. We will lift you in prayer, so that through you, others may know they are seen and loved by God.
 
-**LEADER AND CONGREGATION:** May the grace, truth, and Light of our Lord Jesus Christ go before you, surround you, and work through you on this mission. May every encounter reflect the glory of the One who came to bring light to the world.
+**LEADER AND CONGREGATION:** May the Lord who searches you and knows you go before you, surround you, and work through you on this mission. “If I rise on the wings of the dawn, if I settle on the far side of the sea, even there your hand will guide me.” (Psalm 139:9–10)
 
-**TEAM MEMBERS:** We love you, Lord. Let your Light shine through us.
+**TEAM MEMBERS:** Search us, God, and know our hearts. Lead us in the way everlasting.
 
-**ALL:** Amen. Let there be light!
+**ALL:** Amen.
 
 ---
 
 ### **Prayer of Dedication**
 
-Lord Jesus, True Light who gives light to everyone, illuminate our hearts that we may carry Your presence. As we go, let Your Word dwell in us richly. May we be living reflections of Your grace and truth, so that all who encounter us may encounter You. Amen.
+Lord Jesus, you know us completely and you love us anyway. Search our hearts, and take away anything that keeps us from following you. As we go, help us see the people we serve the way you see them. Lead us one step at a time, so that everyone who meets us may meet you. Amen.
 
 ### **Optional Enhancements for Commissioning**
 
