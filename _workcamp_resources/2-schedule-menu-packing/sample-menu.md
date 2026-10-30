@@ -17,9 +17,11 @@ At Group Mission Trips, meals are prepared by the cafeteria staff at your lodgin
 
 Start the day with a satisfying breakfast! Participants will enjoy one or more of the following options:
 
-· Main items: Scrambled eggs, breakfast sandwiches, breakfast burritos, French toast, pancakes, sausage, bacon, and tater circles
+· Main items: Eggs (scrambled, omelet), breakfast sandwiches, breakfast burritos, French toast, pancakes, cinnamon roll, sausage, bacon, and tater circles
 
-· Daily accompaniments: A variety of cereals and yogurts, fresh fruit, bread, peanut butter, juices, and coffee
+· Daily accompaniments: Cereals, yogurt, fruit (fresh and semi-frozen), bread, peanut butter, and jelly
+
+· Daily beverages: Juices and coffee (regular and instant decaf)
 
 ---
 
@@ -27,15 +29,13 @@ Start the day with a satisfying breakfast! Participants will enjoy one or more o
 
 Lunch is picnic-style at the work sites. Each day includes:
 
-· A sandwich: your choice of turkey, ham, or peanut butter, with fixings like cheese, tomato, lettuce, mayo, mustard, and jelly
+· Sandwich: Bread, turkey, ham, and peanut butter with fixings of cheese, tomato, lettuce, mayo, mustard, and jelly
 
-· Chips
+· Chips (like Doritos or potato chips)
 
-· An apple or baby carrots
+· Fresh produce (like apples and carrots)
 
-· A treat (like cookies or Rice Krispies bars)
-
-Some lunch items are already gluten-free. Additional items can be provided if requested in advance.
+· Treat (like cookies or Rice Krispies bars)
 
 &nbsp;Work Site Beverages:
 
@@ -50,20 +50,20 @@ Some lunch items are already gluten-free. Additional items can be provided if re
 Here’s a sample of what the week may look like:
 
 | Day | Menu |
-| Sunday | Hamburgers, hot dogs, fries, baked beans, and dessert—or a cosponsor-provided meal |
-| Monday | Chicken breast with gravy or BBQ sauce on the side, mashed potatoes, hot side vegetable, rolls, and dessert |
-| Tuesday | Taco bar with tortillas, taco shells, tortilla chips, ground beef, black beans, rice, lettuce, tomato, cheese, onion, and dessert |
+| Sunday | Chicken tenders, fries, hot vegetables, and dessert—or a cosponsor-provided meal |
+| Monday | Pulled chicken with BBQ, mac & cheese, hot vegetables, dinner roll, and dessert |
+| Tuesday | Taco bar with flour tortillas, tortilla chips, ground beef, beans, toppings (like cheese, lettuce, onions, tomatoes, salsa, and sour cream), hot vegetables, and dessert |
 | Wednesday | Dinner on your own |
-| Thursday | Chicken tenders, mac and cheese, hot side vegetable, and dessert |
-| Friday | Baked ziti (vegetarian option available), garlic bread, hot side vegetable, and dessert |
+| Thursday | Pasta bar with pasta, marinara sauce, and meatballs, garlic bread, hot vegetables, and dessert |
+| Friday | Summer favs (like hamburgers, hot dogs, chicken sandwiches, fries, beans, coleslaw, and watermelon)—varies based on location |
 
 &nbsp;
 
-Salad Bar (Available nightly): Mixed greens, ham, turkey, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, croutons, and Ranch and Italian dressing
+Daily salad bar: Mixed greens, a variety of veggies, shredded cheese, cottage cheese, black beans, turkey, ham, croutons, and dressings
 
-Beverages: Lemonade and water
+Desserts (change nightly): Ice cream, brownies, pudding, and strawberry shortcake
 
-Desserts (changes nightly): Ice cream, brownies, pudding, strawberry shortcake, and cookies
+Daily beverages: Lemonade, iced tea, and water
 
 ---
 
@@ -71,13 +71,15 @@ Desserts (changes nightly): Ice cream, brownies, pudding, strawberry shortcake, 
 
 Have a food allergy or special diet? Put it in the Special Requests section of your customer account before camp. See [Dietary Restriction Accommodations](/workcamps/2-schedule-menu-packing/dietary-restriction-accommodations/) for what we can and can’t accommodate.
 
+Some food items are already gluten-free. Additional items can be provided if requested in advance.
+
 ---
 
 ### Vegetarian Options
 
 Some items may contain meat additives. Please confirm with the staff when you arrive.
 
-· Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, oatmeal, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, and coffee.
+· Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, bread, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, and coffee.
 
 · Lunch: Bread, peanut butter & jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, apple, baby carrots, and desserts.
 
