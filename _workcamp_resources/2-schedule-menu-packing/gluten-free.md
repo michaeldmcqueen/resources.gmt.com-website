@@ -49,11 +49,11 @@ Each evening (except Wednesday) includes a **salad bar** featuring:<br />Mixed g
 
 | **Day** | **Menu** |
 | --- | --- |
-| **Sunday** | Fries\*, hot vegetables\* |
+| **Sunday** | Gluten-free chicken strips, fries\*, hot vegetables\* |
 | **Monday** | Pulled chicken with BBQ\*, hot vegetables\* |
 | **Tuesday** | Tortilla chips\*, ground beef\*, beans, cheese, lettuce, onions, tomatoes, salsa, sour cream, hot vegetables\* |
 | **Wednesday** | Dinner on your own |
-| **Thursday** | Marinara sauce\*, hot vegetables\* |
+| **Thursday** | Gluten-free pasta, marinara sauce\*, hot vegetables\* |
 | **Friday** | Hamburgers and hot dogs (no bun)\*, fries\*, beans\*, coleslaw\*, watermelon |
 
 ---
