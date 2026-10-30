@@ -19,12 +19,12 @@ Anything marked (\*) may contain gluten additives—please double-check with our
 
 Possible gluten-free options include:
 
-* Scrambled eggs\*
+* Eggs (scrambled, omelet)\*
 * Tater circles\*
 * Sausage\*
 * Yogurt
-* Fruit
-* Orange juice, milk, coffee, and tea
+* Fruit (fresh and semi-frozen)
+* Juices and coffee
 
 ---
 
@@ -32,29 +32,29 @@ Possible gluten-free options include:
 
 Picnic-style lunch options may include:
 
-* Lunchmeat\*
+* Turkey and ham\*
 * Peanut butter and jelly
 * Cheese, tomatoes, lettuce, mayo, and mustard
-* Fruit or veggie options
+* Fresh produce
 
 ---
 
 ### **Dinner**
 
-Each evening (except Wednesday) includes a **salad bar** featuring:<br />Mixed greens, diced tomatoes, carrots, cucumbers, cottage cheese, beans, cheddar cheese, and dressing\* (Ranch or Italian).
+Each evening (except Wednesday) includes a **salad bar** featuring:<br />Mixed greens, veggies, shredded cheese, cottage cheese, black beans, turkey\*, ham\*, and dressing\*.
 
-**Beverages:** Lemonade and water
+**Beverages:** Lemonade, iced tea, and water
 
 **Sample Dinner Menu:**
 
 | **Day** | **Menu** |
 | --- | --- |
-| **Sunday** | Hamburger, hot dog, baked beans, fries\*, ice cream bars |
-| **Monday** | Chicken breast (no sauce), mashed potatoes\*, side vegetable\* |
-| **Tuesday** | Taco shells, tortilla chips, ground beef\*, black beans, rice\*, salsa, tomatoes, cheese, onions |
+| **Sunday** | Fries\*, hot vegetables\* |
+| **Monday** | Pulled chicken with BBQ\*, hot vegetables\* |
+| **Tuesday** | Tortilla chips\*, ground beef\*, beans, cheese, lettuce, onions, tomatoes, salsa, sour cream, hot vegetables\* |
 | **Wednesday** | Dinner on your own |
-| **Thursday** | Salad bar and side vegetable |
-| **Friday** | Side vegetable and ice cream |
+| **Thursday** | Marinara sauce\*, hot vegetables\* |
+| **Friday** | Hamburgers and hot dogs (no bun)\*, fries\*, beans\*, coleslaw\*, watermelon |
 
 ---
 
