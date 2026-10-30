@@ -79,8 +79,8 @@ Some food items are already gluten-free. Additional items can be provided if req
 
 Some items may contain meat additives. Please confirm with the staff when you arrive.
 
-· Breakfast: French toast, pancakes, tater circles, English muffins, wheat toast, bread, fruit, cereal, yogurt, cheese, butter, jelly, peanut butter, juice, and coffee.
+· Breakfast: Eggs (scrambled, omelet), French toast, pancakes, cinnamon roll, tater circles, bread, fruit, cereal, yogurt, cheese, butter, peanut butter, jelly, juice, and coffee.
 
-· Lunch: Bread, peanut butter & jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, apple, baby carrots, and desserts.
+· Lunch: Bread, peanut butter, jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, fresh produce, and treats.
 
-· Dinner: Salad bar with mixed greens, veggies, cheese, black beans, and dressing. See the full menu for additional vegetarian options.
+· Dinner: Salad bar with mixed greens, veggies, cheese, cottage cheese, black beans, and dressing. See the full menu for additional vegetarian options.
