@@ -13,7 +13,11 @@ inputs:
 
 ### **Belle, WV:**
 
-&nbsp;
+We will be sending community gifts to the Southern Appalachian Labor School food pantries.
+
+* Nonperishable food items
+* Healthy shelf-stable snacks
+* Packaged goods
 
 ### **Dalton, GA:**
 
