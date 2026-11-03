@@ -7,7 +7,7 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-**Charleston, SC**: Nonperishable canned food items<br />
+**Charleston, SC**: Nonperishable canned food items. These supplies will be donated to Community Impact!<br />
 
 **Cincinnati, OH:** Nonperishable canned food items<br />
 
