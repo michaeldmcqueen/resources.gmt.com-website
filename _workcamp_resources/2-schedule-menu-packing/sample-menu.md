@@ -55,7 +55,7 @@ Here’s a sample of what the week may look like:
 | Tuesday | Taco bar with flour tortillas, tortilla chips, ground beef, beans, toppings (like cheese, lettuce, onions, tomatoes, salsa, and sour cream), hot vegetables, and dessert |
 | Wednesday | Dinner on your own |
 | Thursday | Pasta bar with pasta, marinara sauce, and meatballs, garlic bread, hot vegetables, and dessert |
-| Friday | Summer favs (like hamburgers, hot dogs, chicken sandwiches, fries, beans, coleslaw, and watermelon)—varies based on location |
+| Friday | Summer favs (like pulled pork and buns, chicken sandwiches, fries, beans, coleslaw, and watermelon)—varies based on location |
 
 &nbsp;
 
@@ -84,3 +84,5 @@ Some items may contain meat additives. Please confirm with the staff when you ar
 · Lunch: Bread, peanut butter, jelly, cheese, tomatoes, lettuce, mayo, mustard, chips, fresh produce, and treats.
 
 · Dinner: Salad bar with mixed greens, veggies, cheese, cottage cheese, black beans, and dressing. See the full menu for additional vegetarian options.
+
+· Friday dinner: Fries, coleslaw, watermelon, and beans\*. (\*Please ask the staff whether the beans contain meat.)
