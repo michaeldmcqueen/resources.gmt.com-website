@@ -54,7 +54,7 @@ Each evening (except Wednesday) includes a **salad bar** featuring:<br />Mixed g
 | **Tuesday** | Tortilla chips\*, ground beef\*, beans, cheese, lettuce, onions, tomatoes, salsa, sour cream, hot vegetables\* |
 | **Wednesday** | Dinner on your own |
 | **Thursday** | Gluten-free pasta, marinara sauce\*, hot vegetables\* |
-| **Friday** | Hamburgers and hot dogs (no bun)\*, fries\*, beans\*, coleslaw\*, watermelon |
+| **Friday** | Pulled pork (no bun)\*, fries\*, beans\*, coleslaw\*, watermelon |
 
 ---
 
