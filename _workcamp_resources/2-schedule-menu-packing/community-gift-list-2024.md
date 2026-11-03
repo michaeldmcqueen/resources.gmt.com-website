@@ -83,7 +83,9 @@ We will be sending community gifts to the Clarke Schools Food Pantry.
 
 ### **Winchester, KY:**
 
-&nbsp;
+We will be sending community gifts to Clark County Community Services.
+
+* Nonperishable food items
 
 ### **Wrightsville, PA:**
 
