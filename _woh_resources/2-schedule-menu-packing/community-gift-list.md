@@ -11,7 +11,11 @@ inputs:
 
 **Cincinnati, OH:** Nonperishable canned food items<br />
 
-**Loveland, CO**: Paper Supplies (paper towels, toilet paper, paper plates, napkins, white printer paper, construction paper), Art Supplies (paint brushes, acrylic paint, washable paint), and Office Supplies (dry erase markers, binder clips, BLACK pens, sticky notes, manila file folder, RED plastic folder)
+**Loveland, CO**: These supplies will be donated to HighPointe to support their adult day center services for those with disabilities.
+
+* Paper products: paper towels, toilet paper, paper cups, tissues, paper plates, and napkins
+* Personal care supplies: disposable underpads (Chux pads) and wet wipes
+* Art supplies: washable paint and paintbrushes
 
 **Nashville, TN:** Lunch boxes and water bottles <br />
 
