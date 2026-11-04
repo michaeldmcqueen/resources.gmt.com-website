@@ -7,17 +7,23 @@ order_number: 5
 inputs:
   unpublish: false
 ---
-**Charleston, SC**:  These supplies will be donated to Community Impact.<br />Nonperishable canned food items.<br />
+**Charleston, SC:** These supplies will be donated to Community Impact.
 
-**Cincinnati, OH:** <br />Nonperishable canned food items<br />
+* Nonperishable canned food items
 
-**Loveland, CO**: These supplies will be donated to HighPointe to support their adult day center services for those with disabilities.
+**Cincinnati, OH:**
+
+* Nonperishable canned food items
+
+**Loveland, CO:** These supplies will be donated to HighPointe to support their adult day center services for those with disabilities.
 
 * Paper products: paper towels, toilet paper, paper cups, tissues, paper plates, and napkins
 * Personal care supplies: disposable underpads (Chux pads) and wet wipes
 * Art supplies: washable paint and paintbrushes
 
-**Nashville, TN:**  These gifts will be going to Wrap Around Ministries.<br />Lunch boxes and water bottles.<br />
+**Nashville, TN:** These gifts will be going to Wrap Around Ministries.
+
+* Lunch boxes and water bottles
 
 **Springfield, VA:** Coming soon!
 
