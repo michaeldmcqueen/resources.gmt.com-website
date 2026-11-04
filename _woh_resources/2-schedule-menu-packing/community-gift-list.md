@@ -17,7 +17,7 @@ inputs:
 * Personal care supplies: disposable underpads (Chux pads) and wet wipes
 * Art supplies: washable paint and paintbrushes
 
-**Nashville, TN:** Lunch boxes and water bottles <br />
+**Nashville, TN:** Lunch boxes and water bottles. These gifts will be going to Wrap Around Ministries!<br />
 
 **Springfield, VA:** Backpacks and school supplies for elementary and middle school students.
 
