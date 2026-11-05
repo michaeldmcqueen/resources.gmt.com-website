@@ -9,7 +9,7 @@ inputs:
 ---
 ### **Battle Lake, MN:**
 
-&nbsp;
+Coming soon!
 
 ### **Belle, WV:**
 
@@ -21,15 +21,15 @@ We will be sending community gifts to the Southern Appalachian Labor School food
 
 ### **Dalton, GA:**
 
-&nbsp;
+Coming soon!
 
 ### **Elizabeth City, NC:**
 
-&nbsp;
+Coming soon!
 
 ### **Imperial, PA:**
 
-&nbsp;
+Coming soon!
 
 ### **Mescalero, NM:**
 
@@ -79,11 +79,11 @@ We will be sending community gifts to the Clarke Schools Food Pantry.
 
 ### **Springfield, IL:**
 
-&nbsp;
+Coming soon!
 
 ### **Westfield, IN:**
 
-&nbsp;
+Coming soon!
 
 ### **Winchester, KY:**
 
@@ -93,4 +93,4 @@ We will be sending community gifts to Clark County Community Services.
 
 ### **Wrightsville, PA:**
 
-&nbsp;
+Coming soon!
