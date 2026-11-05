@@ -37,9 +37,9 @@ Here’s what to have ready:
 
 “Hey everyone—first of all, thank you! Seriously. Our teens couldn’t experience this kind of life-changing trip without you. And here’s the thing—this trip is bigger than any one of us. It’s bigger than our church, our plans, or even the projects we’ll work on. God’s doing something amazing through Group Mission Trips—He’s shaping hearts and drawing people closer to Jesus. And YOU get to be part of that.”
 
-This summer’s theme, *Illuminate*, invites us to see Jesus as the unstoppable Light that shines through every part of life—school, sports, friendships, and everything in between.
+This summer’s theme, *Unfiltered*, comes from Psalm 139:23–24: “Search me, God, and know my heart.” So many of us wear filters—at school, online, with friends, even at church. *Unfiltered* invites students to discover that Jesus already knows them, sees them, and loves the real them.
 
-When we invite him into all of it, we discover that we’re right where he wants us to be—living out our purpose. In a world full of pressure, noise, and distraction, *Illuminate* helps students experience real faith, real connection, and real joy as they learn to carry his Light wherever they go. *(John 1:1–18)*
+When they stop hiding and let him in, they find real faith, real connection, and real joy, and they learn to trust Jesus to lead them one step at a time. *(Psalm 139)*
 
 You might add:
 
@@ -49,37 +49,37 @@ You might add:
 
 ### **Theme Activity:**
 
-**Say:** As we prepare for this mission trip, I want us to lean more into our theme: *Illuminate***.** Light has purpose—it reveals, it guides, it brings warmth and clarity. Our role on this trip is not to be the brightest light in the room, but to be steady lights that help teenagers see Jesus more clearly through how we serve, lead, and care for them.
+**Say:** As we prepare for this mission trip, I want us to lean more into our theme: *Unfiltered*. Psalm 139 says God has searched us and knows us. He sees the real us, and he loves us anyway. Our role on this trip is not to have it all together. It’s to be real—with God, with each other, and with the teenagers we serve—so they can see Jesus more clearly through how we serve, lead, and care for them.
 
-This experience will be full of powerful moments, but it will also be full of challenges—long days, early mornings, minimal rest. Light can dim when it’s not cared for. So, before we even arrive, let’s talk about how we will keep our lights shining.
+This experience will be full of powerful moments, but it will also be full of challenges—long days, early mornings, minimal rest. When we’re worn out, it’s easy to put on a filter and pretend we’re fine. So, before we even arrive, let’s talk about how we can stay real.
 
 &nbsp;
 
-##### **<u>Illuminating Through Renewal</u>**
+##### **<u>Unfiltered Renewal</u>**
 
-**Say:** Just like a lamp needs to be plugged in to stay lit, we need to stay connected to our source—physically, emotionally, and spiritually. When we’re tired or overwhelmed, our light can flicker, and the teens can sense that. That’s why recharging isn’t optional—it’s essential for us to shine.
+**Say:** None of us can pour out what we don’t have. We need to stay connected to Jesus—physically, emotionally, and spiritually. When we’re tired or overwhelmed, it’s easy to hide it behind a smile, and the teens can sense that. That’s why recharging isn’t optional—it’s essential.
 
-**Activity – “Light Source Ideas”:**<br />Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can “recharge your light” during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
+**Activity – “Recharge Ideas”:**<br />Around the room are posters labeled with different parts of the trip: morning, work site, mealtimes, free time, evenings. Write down simple ways you can recharge during those times—whether it’s taking a quiet moment to pray, stepping outside to breathe, grabbing a cup of coffee alone, or journaling. Post your ideas and we’ll look at them together.
 
-**Say:** When you need to step away to refuel, speak up. Protecting your light helps you illuminate others. A dim, exhausted leader can’t reflect the love of Christ the way a rested one can.
+**Say:** When you need to step away to refuel, speak up. Being honest about what you need is part of being unfiltered. A worn-out leader can’t reflect the love of Christ the way a rested one can.
 
-##### **<u>Illuminating Through Connection</u>**
+##### **<u>Unfiltered Connection</u>**
 
-**Say:** On this trip, we’ll be surrounded by teenagers—bright, passionate, energetic lights of their own. Some may shine boldly, while others feel hidden or unsure. Our role is to help their lights grow brighter—not by overpowering them, but by encouraging them to lead, to serve, and to discover the ways God has already placed light within them.
+**Say:** On this trip, we’ll be surrounded by teenagers—passionate, energetic, and each one made by God. Some will be bold, while others will feel hidden or unsure, maybe hiding behind a filter of their own. Our role is to see them the way God sees them—not by overpowering them, but by encouraging them to lead, to serve, and to discover the gifts God has already placed in them.
 
-**Activity – “Light Builders or Light Blockers?”**<br />In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that dim a teenager’s light through control or criticism. Others show ways to help their light shine through encouragement and guidance. Discuss the differences and share what it looks like to be a light-builder rather than a light-blocker.
+**Activity – “Builders or Blockers?”**<br />In small groups, you’ll be given cards with real-life scenarios (see the end of this meeting for some examples). Some reflect actions that shut a teenager down through control or criticism. Others show ways to build them up through encouragement and guidance. Discuss the differences and share what it looks like to be a builder rather than a blocker.
 
-**Say:** Thank you for those insights. Remember, the trip is *not* about adults being in charge—it’s about students stepping into the light God has given them. Let them lead prayers, take responsibility at work sites, share reflections. You will still ensure safety and boundaries, but your guidance should illuminate their path—not overshadow it.
+**Say:** Thank you for those insights. Remember, the trip is *not* about adults being in charge—it’s about students stepping into who God made them to be. Let them lead prayers, take responsibility at work sites, share reflections. You will still ensure safety and boundaries, but your guidance should open the way for them—not overshadow them.
 
-Also, let’s be mindful that how we interact matters. Any behavior or comment that could be misinterpreted can dim trust quickly. Always choose clarity, care, and respect so your presence reflects the light of Christ without confusion.
+Also, let’s be mindful that how we interact matters. Any behavior or comment that could be misinterpreted can break trust quickly. Always choose clarity, care, and respect so your presence reflects the love of Christ without confusion.
 
-##### **<u>Illuminating Through Presence</u>**
+##### **<u>Unfiltered Presence</u>**
 
-**Say:** Finally, I want to remind you of this—light isn’t loud. It doesn’t demand attention. It simply shines. You were invited to serve on this trip because you already carry that light. You don’t have to be perfect. You just have to be present.
+**Say:** Finally, I want to remind you of this—you don’t have to be perfect. God already knows you completely, and he loves the real you. You were invited to serve on this trip because of who you already are. You don’t have to have all the answers. You just have to be present.
 
-These teenagers are some of the most hopeful, resilient people you’ll ever meet. They believe God can use them—and that kind of faith is contagious. As you shine your light, you’ll help them see God’s love more clearly. And as they shine, they will illuminate the world around them in ways we may never fully see this side of heaven.
+These teenagers are some of the most hopeful, resilient people you’ll ever meet. They believe God can use them—and that kind of faith is contagious. When you’re real with them, you help them believe that God loves the real them, too. And as they let Jesus lead them, they will change the world around them in ways we may never fully see this side of heaven.
 
-So, let’s stay connected to our source, protect our light, and be ready to illuminate every space we step into.”
+So, let’s stay connected to Jesus, be honest about what we need, and let him lead us one step at a time.
 
 ---
 
@@ -154,7 +154,7 @@ Interested? Visit [GroupMissionTrips.com → About Us → Join Our Team](https:/
 
 “Let’s close in prayer.”
 
-**Prayer:**<br />God, thank you for these incredible adults who are giving their time, energy, and hearts to serve you and our teens. As we prepare for this trip, help us to illuminate you through renewal, connection, presence—trusting that you’ve already equipped us for what’s ahead. Bless our mission trip, every person we’ll meet, and every moment of service we’ll share.<br />In Jesus’ name, amen.
+**Prayer:**<br />God, thank you for these incredible adults who are giving their time, energy, and hearts to serve you and our teens. As we prepare for this trip, search our hearts and help us be real through renewal, connection, and presence—trusting that you know us, love us, and will lead us in what’s ahead. Bless our mission trip, every person we’ll meet, and every moment of service we’ll share.<br />In Jesus’ name, amen.
 
 ---
 
