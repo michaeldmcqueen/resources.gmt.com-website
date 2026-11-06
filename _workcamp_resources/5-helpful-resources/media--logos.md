@@ -23,5 +23,7 @@ We love that our mission trip participants enjoy promoting their trip to their c
 
 ### Theme logos
 
-### [![](/uploads/Unfiltered-Verse-Color.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noreferrer nofollow noopener"}
-### [![](/uploads/Unfiltered-GMT-Color.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-Verse-Color.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-Verse-Color.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-GMT-Color.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-GMT-Color.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-Verse.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-Verse.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-GMT.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-GMT.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
