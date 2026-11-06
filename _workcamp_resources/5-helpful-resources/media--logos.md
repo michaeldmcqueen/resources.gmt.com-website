@@ -20,3 +20,8 @@ We love that our mission trip participants enjoy promoting their trip to their c
 ### Workcamps logos
 
 ### [![](/uploads/gmt-workcamps-colorbadge.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noreferrer nofollow noopener"}
+
+### Theme logos
+
+### [![](/uploads/Unfiltered-Verse-Color.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-GMT-Color.jpg){: width="800" height="230"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/Ev-ZdC78ImNLgZ04ZTRFIr0B0_nsUjAc0HWNLdWii4q_2A){: target="_blank" rel="noreferrer nofollow noopener"}
