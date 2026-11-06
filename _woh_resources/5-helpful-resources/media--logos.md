@@ -20,3 +20,11 @@ We love that our mission trip participants enjoy promoting their trip to their c
 ### Week of Hope logos
 
 ### [![](/uploads/gmt-week-of-hope-colorbadge.jpg){: width="800" height="204"}](https://groupcares-my.sharepoint.com/:f:/g/personal/admin_groupcares_org/El7C5LZrzm5AiVUyCwGTNXsBDGJXDr9gx1Q8fscHU_P0Mw?e=hXd3mT){: target="_blank" rel="noreferrer nofollow noopener"}
+
+
+### Theme logos
+
+### [![](/uploads/Unfiltered-Verse-Color.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-Verse-Color.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-GMT-Color.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-GMT-Color.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-Verse.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-Verse.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
+### [![](/uploads/Unfiltered-GMT.jpg){: width="800" height="230"}](https://resources.groupmissiontrips.com/uploads/Unfiltered-GMT.jpg){: target="_blank" rel="noreferrer nofollow noopener"}
