@@ -93,4 +93,10 @@ We will be sending community gifts to Clark County Community Services.
 
 ### **Wrightsville, PA:**
 
-Coming soon!
+We will be sending community gifts to River's Edge Community Services (RECS).
+
+* Toilet paper
+* Paper towels
+* Kids' cereal
+* Juice boxes
+* Laundry detergent
