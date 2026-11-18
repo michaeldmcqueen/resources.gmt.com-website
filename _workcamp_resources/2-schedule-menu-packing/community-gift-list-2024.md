@@ -29,7 +29,11 @@ Coming soon!
 
 ### **Imperial, PA:**
 
-Coming soon!
+We will be sending community gifts to the West Allegheny Food Pantry.
+
+* Nonperishable food items
+
+Groups who would like to give money instead can make a check out to Heroes Supporting Heroes, marked "Workcamp Food Drive." Heroes Supporting Heroes will send one check to the food pantry.
 
 ### **Mescalero, NM:**
 
